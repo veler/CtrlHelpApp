@@ -16,9 +16,9 @@ To get started with CtrlHelp, simply download the application from the [Microsof
 
 We welcome contributions from the community! Whether you have a feature request, want to suggest an enhancement, or have found a bug, your input is valuable to us. Please use the issue templates provided in this repository to submit your contributions:
 
-- [Feature Request](.github/ISSUE_TEMPLATE/feature_request.yml): Suggest a new feature or a new app's keyboard shortcut.
-- [Enhancement Request](.github/ISSUE_TEMPLATE/enhancement_request.yml): Propose improvements to existing features.
-- [Bug Report](.github/ISSUE_TEMPLATE/bug_report.yml): Report any bugs or issues you encounter while using CtrlHelp.
+- [Feature Request](https://github.com/veler/CtrlHelpApp/issues/new/choose): Suggest a new feature or a new app's keyboard shortcut.
+- [Enhancement Request](https://github.com/veler/CtrlHelpApp/issues/new/choose): Propose improvements to existing features.
+- [Bug Report](https://github.com/veler/CtrlHelpApp/issues/new/choose): Report any bugs or issues you encounter while using CtrlHelp.
 
 For general questions about CtrlHelp, please visit our [GitHub discussions](https://github.com/veler/CtrlHelp/discussions).
 
