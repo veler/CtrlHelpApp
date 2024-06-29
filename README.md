@@ -2,12 +2,6 @@
 
 Welcome to the official repository of CtrlHelp, an application designed to enhance your productivity by providing an extensive list of keyboard shortcuts for various applications. Developed by Etienne Baudoux, CtrlHelp aims to streamline your workflow by making it easier to access and remember shortcuts for your favorite apps.
 
-## Features
-
-- **Comprehensive Shortcut Listings:** Access a wide array of keyboard shortcuts for different applications, all in one place.
-- **User-Friendly Interface:** Easily navigate through the application to find the shortcuts you need.
-- **Customizable Shortcuts:** Submit your suggestions for new shortcuts or enhancements to existing ones.
-
 ## Getting Started
 
 To get started with CtrlHelp, simply download the application from the [Microsoft Store website](https://github.com/veler/CtrlHelpApp) and install it on your Windows 10 or Windows 11 device.
