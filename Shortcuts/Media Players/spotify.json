@@ -1,0 +1,348 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Create new playlist",
+        "displayNames": {
+          "en-us": "Create new playlist"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut",
+        "displayNames": {
+          "en-us": "Cut"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy",
+        "displayNames": {
+          "en-us": "Copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy (alternative link)",
+        "displayNames": {
+          "en-us": "Copy (alternative link)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste",
+        "displayNames": {
+          "en-us": "Paste"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete",
+        "displayNames": {
+          "en-us": "Delete"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select all",
+        "displayNames": {
+          "en-us": "Select all"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo deleted song or playlist",
+        "displayNames": {
+          "en-us": "Undo deleted song or playlist"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Z"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Play Controls",
+    "shortcuts": [
+      {
+        "internalName": "Play/pause",
+        "displayNames": {
+          "en-us": "Play/pause"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Repeat",
+        "displayNames": {
+          "en-us": "Repeat"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Shuffle",
+        "displayNames": {
+          "en-us": "Shuffle"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next track",
+        "displayNames": {
+          "en-us": "Next track"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous track",
+        "displayNames": {
+          "en-us": "Previous track"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Volume",
+    "shortcuts": [
+      {
+        "internalName": "Volume up",
+        "displayNames": {
+          "en-us": "Volume up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Volume down",
+        "displayNames": {
+          "en-us": "Volume down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mute",
+        "displayNames": {
+          "en-us": "Mute"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Max volume",
+        "displayNames": {
+          "en-us": "Max volume"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show help",
+        "displayNames": {
+          "en-us": "Show help"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Additional features",
+    "shortcuts": [
+      {
+        "internalName": "Filter (in Songs and Playlists)",
+        "displayNames": {
+          "en-us": "Filter (in Songs and Playlists)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Give focus to search field",
+        "displayNames": {
+          "en-us": "Give focus to search field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go back",
+        "displayNames": {
+          "en-us": "Go back"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go forward",
+        "displayNames": {
+          "en-us": "Go forward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Play selected row",
+        "displayNames": {
+          "en-us": "Play selected row"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Preferences",
+        "displayNames": {
+          "en-us": "Preferences"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Logout active user",
+        "displayNames": {
+          "en-us": "Logout active user"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "W"
+          ]
+        ]
+      }
+    ]
+  }
+]

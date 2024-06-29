@@ -1,0 +1,221 @@
+[
+  {
+    "groupInternalName": "Main",
+    "shortcuts": [
+      {
+        "internalName": "Copy items/tracks/envelope points",
+        "displayNames": {
+          "en-us": "Copy items/tracks/envelope points"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll view down",
+        "displayNames": {
+          "en-us": "Scroll view down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll view left",
+        "displayNames": {
+          "en-us": "Scroll view left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll view up",
+        "displayNames": {
+          "en-us": "Scroll view up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "MIDI Editor",
+    "shortcuts": [
+      {
+        "internalName": "Move notes up one octave",
+        "displayNames": {
+          "en-us": "Move notes up one octave"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "NumberPad8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll view down",
+        "displayNames": {
+          "en-us": "Scroll view down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll view left",
+        "displayNames": {
+          "en-us": "Scroll view left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll view up",
+        "displayNames": {
+          "en-us": "Scroll view up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "MIDI Event List Editor",
+    "shortcuts": [
+      {
+        "internalName": "Move notes up one octave",
+        "displayNames": {
+          "en-us": "Move notes up one octave"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "NumberPad8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Z"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "MIDI Inline Editor",
+    "shortcuts": [
+      {
+        "internalName": "Move notes up one octave",
+        "displayNames": {
+          "en-us": "Move notes up one octave"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "NumberPad8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll view down",
+        "displayNames": {
+          "en-us": "Scroll view down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll view up",
+        "displayNames": {
+          "en-us": "Scroll view up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ]
+      }
+    ]
+  }
+]

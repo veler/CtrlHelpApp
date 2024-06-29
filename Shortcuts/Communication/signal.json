@@ -1,0 +1,467 @@
+[
+  {
+    "groupInternalName": "Navigation",
+    "shortcuts": [
+      {
+        "internalName": "Navigate by section",
+        "displayNames": {
+          "en-us": "Navigate by section"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous conversation",
+        "displayNames": {
+          "en-us": "Previous conversation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next conversation",
+        "displayNames": {
+          "en-us": "Next conversation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous unread conversation",
+        "displayNames": {
+          "en-us": "Previous unread conversation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next unread conversation",
+        "displayNames": {
+          "en-us": "Next unread conversation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Preferences",
+        "displayNames": {
+          "en-us": "Preferences"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open conversation menu",
+        "displayNames": {
+          "en-us": "Open conversation menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search",
+        "displayNames": {
+          "en-us": "Search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search in conversation",
+        "displayNames": {
+          "en-us": "Search in conversation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Focus composer",
+        "displayNames": {
+          "en-us": "Focus composer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open All Media view",
+        "displayNames": {
+          "en-us": "Open All Media view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open emoji chooser",
+        "displayNames": {
+          "en-us": "Open emoji chooser"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open sticker chooser",
+        "displayNames": {
+          "en-us": "Open sticker chooser"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Begin recording voice note",
+        "displayNames": {
+          "en-us": "Begin recording voice note"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Archive conversation",
+        "displayNames": {
+          "en-us": "Archive conversation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Unarchive conversation",
+        "displayNames": {
+          "en-us": "Unarchive conversation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll to top of list",
+        "displayNames": {
+          "en-us": "Scroll to top of list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll to bottom of list",
+        "displayNames": {
+          "en-us": "Scroll to bottom of list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close current conversation",
+        "displayNames": {
+          "en-us": "Close current conversation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Messages",
+    "shortcuts": [
+      {
+        "internalName": "Default action for selected message",
+        "displayNames": {
+          "en-us": "Default action for selected message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "View selected message details",
+        "displayNames": {
+          "en-us": "View selected message details"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle reply to selected message",
+        "displayNames": {
+          "en-us": "Toggle reply to selected message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle emoji-reaction picker",
+        "displayNames": {
+          "en-us": "Toggle emoji-reaction picker"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save selected message's attachment",
+        "displayNames": {
+          "en-us": "Save selected message's attachment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete selected message",
+        "displayNames": {
+          "en-us": "Delete selected message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "D"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Composer",
+    "shortcuts": [
+      {
+        "internalName": "Add newline to message",
+        "displayNames": {
+          "en-us": "Add newline to message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand composer",
+        "displayNames": {
+          "en-us": "Expand composer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Send (in expanded composer)",
+        "displayNames": {
+          "en-us": "Send (in expanded composer)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Attach file",
+        "displayNames": {
+          "en-us": "Attach file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove draft link preview",
+        "displayNames": {
+          "en-us": "Remove draft link preview"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove all draft attachments",
+        "displayNames": {
+          "en-us": "Remove all draft attachments"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "P"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Calling",
+    "shortcuts": [
+      {
+        "internalName": "Toggle mute on and off",
+        "displayNames": {
+          "en-us": "Toggle mute on and off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle video on and off",
+        "displayNames": {
+          "en-us": "Toggle video on and off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "V"
+          ]
+        ]
+      }
+    ]
+  }
+]

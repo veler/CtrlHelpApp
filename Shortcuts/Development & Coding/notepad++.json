@@ -1,0 +1,1538 @@
+[
+  {
+    "groupInternalName": "File",
+    "shortcuts": [
+      {
+        "internalName": "New",
+        "displayNames": {
+          "en-us": "New"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open...",
+        "displayNames": {
+          "en-us": "Open..."
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reload from Disk",
+        "displayNames": {
+          "en-us": "Reload from Disk"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save",
+        "displayNames": {
+          "en-us": "Save"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save As...",
+        "displayNames": {
+          "en-us": "Save As..."
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save All",
+        "displayNames": {
+          "en-us": "Save All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close",
+        "displayNames": {
+          "en-us": "Close"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close All",
+        "displayNames": {
+          "en-us": "Close All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print...",
+        "displayNames": {
+          "en-us": "Print..."
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Restore Recent Closed File",
+        "displayNames": {
+          "en-us": "Restore Recent Closed File"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Edit",
+    "shortcuts": [
+      {
+        "internalName": "UPPERCASE",
+        "displayNames": {
+          "en-us": "UPPERCASE"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "lowercase",
+        "displayNames": {
+          "en-us": "lowercase"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Proper Case",
+        "displayNames": {
+          "en-us": "Proper Case"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Proper Case (blend)",
+        "displayNames": {
+          "en-us": "Proper Case (blend)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Sentence case",
+        "displayNames": {
+          "en-us": "Sentence case"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Sentence case (blend)",
+        "displayNames": {
+          "en-us": "Sentence case (blend)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Split Lines",
+        "displayNames": {
+          "en-us": "Split Lines"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Join Lines",
+        "displayNames": {
+          "en-us": "Join Lines"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move Up Current Line",
+        "displayNames": {
+          "en-us": "Move Up Current Line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move Down Current Line",
+        "displayNames": {
+          "en-us": "Move Down Current Line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert Blank Line Above Current",
+        "displayNames": {
+          "en-us": "Insert Blank Line Above Current"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert Blank Line Below Current",
+        "displayNames": {
+          "en-us": "Insert Blank Line Below Current"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Single Line Comment",
+        "displayNames": {
+          "en-us": "Toggle Single Line Comment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Single Line Comment",
+        "displayNames": {
+          "en-us": "Single Line Comment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Single Line Uncomment",
+        "displayNames": {
+          "en-us": "Single Line Uncomment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Block Comment",
+        "displayNames": {
+          "en-us": "Block Comment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Function Completion",
+        "displayNames": {
+          "en-us": "Function Completion"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Path Completion",
+        "displayNames": {
+          "en-us": "Path Completion"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Word Completion",
+        "displayNames": {
+          "en-us": "Word Completion"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Function Parameters Hint",
+        "displayNames": {
+          "en-us": "Function Parameters Hint"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Column Editor...",
+        "displayNames": {
+          "en-us": "Column Editor..."
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Text Direction RTL",
+        "displayNames": {
+          "en-us": "Text Direction RTL"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Text Direction LTR",
+        "displayNames": {
+          "en-us": "Text Direction LTR"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle macro record",
+        "displayNames": {
+          "en-us": "Toggle macro record"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Playback",
+        "displayNames": {
+          "en-us": "Playback"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Trim Trailing and save",
+        "displayNames": {
+          "en-us": "Trim Trailing and save"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "S"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Search",
+    "shortcuts": [
+      {
+        "internalName": "Find...",
+        "displayNames": {
+          "en-us": "Find..."
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find in Files...",
+        "displayNames": {
+          "en-us": "Find in Files..."
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find Next",
+        "displayNames": {
+          "en-us": "Find Next"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find Previous",
+        "displayNames": {
+          "en-us": "Find Previous"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select and Find Next",
+        "displayNames": {
+          "en-us": "Select and Find Next"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select and Find Previous",
+        "displayNames": {
+          "en-us": "Select and Find Previous"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find (Volatile) Next",
+        "displayNames": {
+          "en-us": "Find (Volatile) Next"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find (Volatile) Previous",
+        "displayNames": {
+          "en-us": "Find (Volatile) Previous"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Replace...",
+        "displayNames": {
+          "en-us": "Replace..."
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Incremental Search",
+        "displayNames": {
+          "en-us": "Incremental Search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search Results Window",
+        "displayNames": {
+          "en-us": "Search Results Window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Search Result",
+        "displayNames": {
+          "en-us": "Previous Search Result"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next Search Result",
+        "displayNames": {
+          "en-us": "Next Search Result"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to...",
+        "displayNames": {
+          "en-us": "Go to..."
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Matching Brace",
+        "displayNames": {
+          "en-us": "Go to Matching Brace"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select All Between Matching Braces",
+        "displayNames": {
+          "en-us": "Select All Between Matching Braces"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark...",
+        "displayNames": {
+          "en-us": "Mark..."
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous mark using 1st Style",
+        "displayNames": {
+          "en-us": "Previous mark using 1st Style"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous mark using 2nd Style",
+        "displayNames": {
+          "en-us": "Previous mark using 2nd Style"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous mark using 3rd Style",
+        "displayNames": {
+          "en-us": "Previous mark using 3rd Style"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Cancel"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous mark using 4th Style",
+        "displayNames": {
+          "en-us": "Previous mark using 4th Style"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous mark using 5th Style",
+        "displayNames": {
+          "en-us": "Previous mark using 5th Style"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous mark created with Mark",
+        "displayNames": {
+          "en-us": "Previous mark created with Mark"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next mark using 1st Style",
+        "displayNames": {
+          "en-us": "Next mark using 1st Style"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next mark using 2nd Style",
+        "displayNames": {
+          "en-us": "Next mark using 2nd Style"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next mark using 3rd Style",
+        "displayNames": {
+          "en-us": "Next mark using 3rd Style"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Cancel"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next mark using 4th Style",
+        "displayNames": {
+          "en-us": "Next mark using 4th Style"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next mark using 5th Style",
+        "displayNames": {
+          "en-us": "Next mark using 5th Style"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next mark created with Mark",
+        "displayNames": {
+          "en-us": "Next mark created with Mark"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Bookmark",
+        "displayNames": {
+          "en-us": "Toggle Bookmark"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next Bookmark",
+        "displayNames": {
+          "en-us": "Next Bookmark"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Bookmark",
+        "displayNames": {
+          "en-us": "Previous Bookmark"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F2"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "View",
+    "shortcuts": [
+      {
+        "internalName": "Toggle Full Screen Mode",
+        "displayNames": {
+          "en-us": "Toggle Full Screen Mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Post-It",
+        "displayNames": {
+          "en-us": "Post-It"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F12"
+          ]
+        ]
+      },
+      {
+        "internalName": "1st Tab",
+        "displayNames": {
+          "en-us": "1st Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "NumberPad1"
+          ]
+        ]
+      },
+      {
+        "internalName": "2nd Tab",
+        "displayNames": {
+          "en-us": "2nd Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "NumberPad2"
+          ]
+        ]
+      },
+      {
+        "internalName": "3rd Tab",
+        "displayNames": {
+          "en-us": "3rd Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "NumberPad3"
+          ]
+        ]
+      },
+      {
+        "internalName": "4th Tab",
+        "displayNames": {
+          "en-us": "4th Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "NumberPad4"
+          ]
+        ]
+      },
+      {
+        "internalName": "5th Tab",
+        "displayNames": {
+          "en-us": "5th Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "NumberPad5"
+          ]
+        ]
+      },
+      {
+        "internalName": "6th Tab",
+        "displayNames": {
+          "en-us": "6th Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "NumberPad6"
+          ]
+        ]
+      },
+      {
+        "internalName": "7th Tab",
+        "displayNames": {
+          "en-us": "7th Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "NumberPad7"
+          ]
+        ]
+      },
+      {
+        "internalName": "8th Tab",
+        "displayNames": {
+          "en-us": "8th Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "NumberPad8"
+          ]
+        ]
+      },
+      {
+        "internalName": "9th Tab",
+        "displayNames": {
+          "en-us": "9th Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "NumberPad9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next Tab",
+        "displayNames": {
+          "en-us": "Next Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Tab",
+        "displayNames": {
+          "en-us": "Previous Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move Tab Forward",
+        "displayNames": {
+          "en-us": "Move Tab Forward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move Tab Backward",
+        "displayNames": {
+          "en-us": "Move Tab Backward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to previous document",
+        "displayNames": {
+          "en-us": "Switch to previous document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to next document",
+        "displayNames": {
+          "en-us": "Switch to next document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hide Lines",
+        "displayNames": {
+          "en-us": "Hide Lines"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Focus on Another View",
+        "displayNames": {
+          "en-us": "Focus on Another View"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fold All",
+        "displayNames": {
+          "en-us": "Fold All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Unfold All",
+        "displayNames": {
+          "en-us": "Unfold All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse Current Level",
+        "displayNames": {
+          "en-us": "Collapse Current Level"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Uncollapse Current Level",
+        "displayNames": {
+          "en-us": "Uncollapse Current Level"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse Level 1",
+        "displayNames": {
+          "en-us": "Collapse Level 1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse Level 2",
+        "displayNames": {
+          "en-us": "Collapse Level 2"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse Level 3",
+        "displayNames": {
+          "en-us": "Collapse Level 3"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Cancel"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse Level 4",
+        "displayNames": {
+          "en-us": "Collapse Level 4"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse Level 5",
+        "displayNames": {
+          "en-us": "Collapse Level 5"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse Level 6",
+        "displayNames": {
+          "en-us": "Collapse Level 6"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse Level 7",
+        "displayNames": {
+          "en-us": "Collapse Level 7"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse Level 8",
+        "displayNames": {
+          "en-us": "Collapse Level 8"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Uncollapse Level 1",
+        "displayNames": {
+          "en-us": "Uncollapse Level 1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Uncollapse Level 2",
+        "displayNames": {
+          "en-us": "Uncollapse Level 2"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Uncollapse Level 3",
+        "displayNames": {
+          "en-us": "Uncollapse Level 3"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Cancel"
+          ]
+        ]
+      },
+      {
+        "internalName": "Uncollapse Level 4",
+        "displayNames": {
+          "en-us": "Uncollapse Level 4"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Uncollapse Level 5",
+        "displayNames": {
+          "en-us": "Uncollapse Level 5"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Uncollapse Level 6",
+        "displayNames": {
+          "en-us": "Uncollapse Level 6"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Uncollapse Level 7",
+        "displayNames": {
+          "en-us": "Uncollapse Level 7"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Uncollapse Level 8",
+        "displayNames": {
+          "en-us": "Uncollapse Level 8"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "About Notepad++",
+        "displayNames": {
+          "en-us": "About Notepad++"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Run",
+    "shortcuts": [
+      {
+        "internalName": "Run...",
+        "displayNames": {
+          "en-us": "Run..."
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Get PHP help",
+        "displayNames": {
+          "en-us": "Get PHP help"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Google Search",
+        "displayNames": {
+          "en-us": "Google Search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Wikipedia Search",
+        "displayNames": {
+          "en-us": "Wikipedia Search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open file in another instance",
+        "displayNames": {
+          "en-us": "Open file in another instance"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F6"
+          ]
+        ]
+      }
+    ]
+  }
+]

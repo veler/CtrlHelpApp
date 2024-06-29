@@ -1,0 +1,467 @@
+[
+  {
+    "groupInternalName": "File",
+    "shortcuts": [
+      {
+        "internalName": "Open File",
+        "displayNames": {
+          "en-us": "Open File"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close File",
+        "displayNames": {
+          "en-us": "Close File"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save As",
+        "displayNames": {
+          "en-us": "Save As"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close All",
+        "displayNames": {
+          "en-us": "Close All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print Document",
+        "displayNames": {
+          "en-us": "Print Document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Exit Foxit Reader",
+        "displayNames": {
+          "en-us": "Exit Foxit Reader"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Q"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "View",
+    "shortcuts": [
+      {
+        "internalName": "Bookmark",
+        "displayNames": {
+          "en-us": "Bookmark"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Full Screen",
+        "displayNames": {
+          "en-us": "Full Screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom To",
+        "displayNames": {
+          "en-us": "Zoom To"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Actual Size",
+        "displayNames": {
+          "en-us": "Actual Size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fit to Page",
+        "displayNames": {
+          "en-us": "Fit to Page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fit Width",
+        "displayNames": {
+          "en-us": "Fit Width"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate Clockwise",
+        "displayNames": {
+          "en-us": "Rotate Clockwise"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate CounterClockwise",
+        "displayNames": {
+          "en-us": "Rotate CounterClockwise"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reset Toolbars",
+        "displayNames": {
+          "en-us": "Reset Toolbars"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hide Toolbars",
+        "displayNames": {
+          "en-us": "Hide Toolbars"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F8"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Edit",
+    "shortcuts": [
+      {
+        "internalName": "Copy",
+        "displayNames": {
+          "en-us": "Copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find Text",
+        "displayNames": {
+          "en-us": "Find Text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find Next",
+        "displayNames": {
+          "en-us": "Find Next"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Preferences",
+        "displayNames": {
+          "en-us": "Preferences"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Tool",
+    "shortcuts": [
+      {
+        "internalName": "Hand Tool",
+        "displayNames": {
+          "en-us": "Hand Tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom Out Tool",
+        "displayNames": {
+          "en-us": "Zoom Out Tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom In Tool",
+        "displayNames": {
+          "en-us": "Zoom In Tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select Text",
+        "displayNames": {
+          "en-us": "Select Text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Snapshot",
+        "displayNames": {
+          "en-us": "Snapshot"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Typewriter",
+        "displayNames": {
+          "en-us": "Typewriter"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Back"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Document",
+    "shortcuts": [
+      {
+        "internalName": "First Page",
+        "displayNames": {
+          "en-us": "First Page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Page",
+        "displayNames": {
+          "en-us": "Previous Page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next Page",
+        "displayNames": {
+          "en-us": "Next Page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Last Page",
+        "displayNames": {
+          "en-us": "Last Page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Page",
+        "displayNames": {
+          "en-us": "Go to Page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select All",
+        "displayNames": {
+          "en-us": "Select All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Page Down",
+        "displayNames": {
+          "en-us": "Page Down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Page Up",
+        "displayNames": {
+          "en-us": "Page Up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Space"
+          ]
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Copy Source",
+        "displayNames": {
+          "en-us": "Copy Source"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste Source",
+        "displayNames": {
+          "en-us": "Paste Source"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove Source",
+        "displayNames": {
+          "en-us": "Remove Source"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Order",
+    "shortcuts": [
+      {
+        "internalName": "Move source up in sources list",
+        "displayNames": {
+          "en-us": "Move source up in sources list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move source down in sources list",
+        "displayNames": {
+          "en-us": "Move source down in sources list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move source to top of sources list",
+        "displayNames": {
+          "en-us": "Move source to top of sources list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move source to bottom of sources list",
+        "displayNames": {
+          "en-us": "Move source to bottom of sources list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "End"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Transform",
+    "shortcuts": [
+      {
+        "internalName": "Edit transform",
+        "displayNames": {
+          "en-us": "Edit transform"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reset transform",
+        "displayNames": {
+          "en-us": "Reset transform"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fit to screen",
+        "displayNames": {
+          "en-us": "Fit to screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Stretch to screen",
+        "displayNames": {
+          "en-us": "Stretch to screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Center to screen",
+        "displayNames": {
+          "en-us": "Center to screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Preview Window",
+    "shortcuts": [
+      {
+        "internalName": "Nudge source up",
+        "displayNames": {
+          "en-us": "Nudge source up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Nudge source down",
+        "displayNames": {
+          "en-us": "Nudge source down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Nudge source left",
+        "displayNames": {
+          "en-us": "Nudge source left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Nudge source right",
+        "displayNames": {
+          "en-us": "Nudge source right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      }
+    ]
+  }
+]

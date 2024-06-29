@@ -1,0 +1,1141 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Next Window",
+        "displayNames": {
+          "en-us": "Next Window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Window",
+        "displayNames": {
+          "en-us": "Previous Window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Font Properties Dialog",
+        "displayNames": {
+          "en-us": "Show Font Properties Dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Help",
+        "displayNames": {
+          "en-us": "Help"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide User notes Toolbar",
+        "displayNames": {
+          "en-us": "Show/Hide User notes Toolbar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide Palette Toolbar",
+        "displayNames": {
+          "en-us": "Show/Hide Palette Toolbar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find Next",
+        "displayNames": {
+          "en-us": "Find Next"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find Previous",
+        "displayNames": {
+          "en-us": "Find Previous"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide Glyph Properties Toolbar",
+        "displayNames": {
+          "en-us": "Show/Hide Glyph Properties Toolbar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide Anchors Toolbar",
+        "displayNames": {
+          "en-us": "Show/Hide Anchors Toolbar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close Window",
+        "displayNames": {
+          "en-us": "Close Window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Test Font as TTF/OTF",
+        "displayNames": {
+          "en-us": "Test Font as TTF/OTF"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Test Font as WOFF",
+        "displayNames": {
+          "en-us": "Test Font as WOFF"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide Transform Toolbar",
+        "displayNames": {
+          "en-us": "Show/Hide Transform Toolbar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next Window",
+        "displayNames": {
+          "en-us": "Next Window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide Glyph Validation Toolbar *",
+        "displayNames": {
+          "en-us": "Show/Hide Glyph Validation Toolbar *"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide Status bar",
+        "displayNames": {
+          "en-us": "Show/Hide Status bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide Preview Toolbar",
+        "displayNames": {
+          "en-us": "Show/Hide Preview Toolbar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Color Glyph Member Tools",
+        "displayNames": {
+          "en-us": "Toggle Color Glyph Member Tools"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show OpenType Designer",
+        "displayNames": {
+          "en-us": "Show OpenType Designer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Edit Lookup in Code Editor",
+        "displayNames": {
+          "en-us": "Edit Lookup in Code Editor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Background Image Toolbar",
+        "displayNames": {
+          "en-us": "Toggle Background Image Toolbar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activates the Main Menu",
+        "displayNames": {
+          "en-us": "Activates the Main Menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Shows the context menu",
+        "displayNames": {
+          "en-us": "Shows the context menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Launch MainType",
+        "displayNames": {
+          "en-us": "Launch MainType"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide Comparison Toolbar",
+        "displayNames": {
+          "en-us": "Show/Hide Comparison Toolbar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Launch Windows Font Folder",
+        "displayNames": {
+          "en-us": "Launch Windows Font Folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide Samples Toolbar",
+        "displayNames": {
+          "en-us": "Show/Hide Samples Toolbar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F12"
+          ]
+        ]
+      },
+      {
+        "internalName": "Launch Windows Character Map",
+        "displayNames": {
+          "en-us": "Launch Windows Character Map"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F12"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete selection",
+        "displayNames": {
+          "en-us": "Delete selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select All",
+        "displayNames": {
+          "en-us": "Select All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy",
+        "displayNames": {
+          "en-us": "Copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste Special",
+        "displayNames": {
+          "en-us": "Paste Special"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Displays the Find dialog box",
+        "displayNames": {
+          "en-us": "Displays the Find dialog box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Fill Outlines",
+        "displayNames": {
+          "en-us": "Toggle Fill Outlines"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Installed Fonts",
+        "displayNames": {
+          "en-us": "Open Installed Fonts"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display values as Hexadecimal",
+        "displayNames": {
+          "en-us": "Display values as Hexadecimal"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display values as Decimal",
+        "displayNames": {
+          "en-us": "Display values as Decimal"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "New Project",
+        "displayNames": {
+          "en-us": "New Project"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Opens Font or Font Project",
+        "displayNames": {
+          "en-us": "Opens Font or Font Project"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print Glyph, Font, or Font Properties",
+        "displayNames": {
+          "en-us": "Print Glyph, Font, or Font Properties"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Repeat last action (if supported)",
+        "displayNames": {
+          "en-us": "Repeat last action (if supported)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save Project",
+        "displayNames": {
+          "en-us": "Save Project"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Invert Selection",
+        "displayNames": {
+          "en-us": "Invert Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear Selection",
+        "displayNames": {
+          "en-us": "Clear Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste",
+        "displayNames": {
+          "en-us": "Paste"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut",
+        "displayNames": {
+          "en-us": "Cut"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close current window",
+        "displayNames": {
+          "en-us": "Close current window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo",
+        "displayNames": {
+          "en-us": "Undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Export as TrueType/OpenType",
+        "displayNames": {
+          "en-us": "Export as TrueType/OpenType"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Export as Web Open Format (WOFF)",
+        "displayNames": {
+          "en-us": "Export as Web Open Format (WOFF)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Export in all formats",
+        "displayNames": {
+          "en-us": "Export in all formats"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Font Overview Window",
+    "shortcuts": [
+      {
+        "internalName": "Open Glyph Edit window",
+        "displayNames": {
+          "en-us": "Open Glyph Edit window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear selected glyphs",
+        "displayNames": {
+          "en-us": "Clear selected glyphs"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "First 255 glyph maps to Preview bar",
+        "displayNames": {
+          "en-us": "First 255 glyph maps to Preview bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Append glyphs to Preview bar",
+        "displayNames": {
+          "en-us": "Append glyphs to Preview bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase the cell size",
+        "displayNames": {
+          "en-us": "Increase the cell size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease the cell size",
+        "displayNames": {
+          "en-us": "Decrease the cell size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase character size",
+        "displayNames": {
+          "en-us": "Increase character size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease character size",
+        "displayNames": {
+          "en-us": "Decrease character size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reset char and cell size to defaults",
+        "displayNames": {
+          "en-us": "Reset char and cell size to defaults"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle category panel",
+        "displayNames": {
+          "en-us": "Toggle category panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste Special",
+        "displayNames": {
+          "en-us": "Paste Special"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "V"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Glyph Edit Window",
+    "shortcuts": [
+      {
+        "internalName": "Increase the zoom factor",
+        "displayNames": {
+          "en-us": "Increase the zoom factor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease the zoom factor",
+        "displayNames": {
+          "en-us": "Decrease the zoom factor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reset zoom factor to default",
+        "displayNames": {
+          "en-us": "Reset zoom factor to default"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to previous glyph",
+        "displayNames": {
+          "en-us": "Go to previous glyph"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to next glyph",
+        "displayNames": {
+          "en-us": "Go to next glyph"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete selection",
+        "displayNames": {
+          "en-us": "Delete selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete selected on-curve point",
+        "displayNames": {
+          "en-us": "Delete selected on-curve point"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Change selected points to on-curve",
+        "displayNames": {
+          "en-us": "Change selected points to on-curve"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Change selected points to off-curve",
+        "displayNames": {
+          "en-us": "Change selected points to off-curve"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add guideline to selected nodes",
+        "displayNames": {
+          "en-us": "Add guideline to selected nodes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add points after selected points",
+        "displayNames": {
+          "en-us": "Add points after selected points"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hold to hide all except the glyph",
+        "displayNames": {
+          "en-us": "Hold to hide all except the glyph"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select prev contour/point",
+        "displayNames": {
+          "en-us": "Select prev contour/point"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add prev contour/point to selection",
+        "displayNames": {
+          "en-us": "Add prev contour/point to selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select next contour/point",
+        "displayNames": {
+          "en-us": "Select next contour/point"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add next contour/point to selection",
+        "displayNames": {
+          "en-us": "Add next contour/point to selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle point/contour mode",
+        "displayNames": {
+          "en-us": "Toggle point/contour mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle standard/color mode",
+        "displayNames": {
+          "en-us": "Toggle standard/color mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Knife (not in color mode)",
+        "displayNames": {
+          "en-us": "Knife (not in color mode)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Measure",
+        "displayNames": {
+          "en-us": "Measure"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paint bucket (only in color mode)",
+        "displayNames": {
+          "en-us": "Paint bucket (only in color mode)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fit to Window",
+        "displayNames": {
+          "en-us": "Fit to Window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Divide"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "OpenType Designer Window",
+    "shortcuts": [
+      {
+        "internalName": "Toggle OpenType script panel",
+        "displayNames": {
+          "en-us": "Toggle OpenType script panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,468 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Find",
+        "displayNames": {
+          "en-us": "Find"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the dropdown",
+        "displayNames": {
+          "en-us": "Open the dropdown"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open settings files",
+        "displayNames": {
+          "en-us": "Open settings files"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle full screen",
+        "displayNames": {
+          "en-us": "Toggle full screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Enter"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Tab management",
+    "shortcuts": [
+      {
+        "internalName": "Duplicate tab",
+        "displayNames": {
+          "en-us": "Duplicate tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "New tab",
+        "displayNames": {
+          "en-us": "New tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open next tab",
+        "displayNames": {
+          "en-us": "Open next tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open previous tab",
+        "displayNames": {
+          "en-us": "Open previous tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Tab"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Pane management",
+    "shortcuts": [
+      {
+        "internalName": "Close pane",
+        "displayNames": {
+          "en-us": "Close pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move pane focus down",
+        "displayNames": {
+          "en-us": "Move pane focus down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move pane focus left",
+        "displayNames": {
+          "en-us": "Move pane focus left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move pane focus right",
+        "displayNames": {
+          "en-us": "Move pane focus right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move pane focus up",
+        "displayNames": {
+          "en-us": "Move pane focus up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move pane focus previous",
+        "displayNames": {
+          "en-us": "Move pane focus previous"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Resize a pane down",
+        "displayNames": {
+          "en-us": "Resize a pane down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Resize a pane left",
+        "displayNames": {
+          "en-us": "Resize a pane left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Resize a pane right",
+        "displayNames": {
+          "en-us": "Resize a pane right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Resize a pane up",
+        "displayNames": {
+          "en-us": "Resize a pane up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Split a pane",
+        "displayNames": {
+          "en-us": "Split a pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Split a pane horizontal",
+        "displayNames": {
+          "en-us": "Split a pane horizontal"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Split a pane vertical",
+        "displayNames": {
+          "en-us": "Split a pane vertical"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Add"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Clipboard integration",
+    "shortcuts": [
+      {
+        "internalName": "Copy",
+        "displayNames": {
+          "en-us": "Copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste",
+        "displayNames": {
+          "en-us": "Paste"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Scrollback",
+    "shortcuts": [
+      {
+        "internalName": "Scroll up",
+        "displayNames": {
+          "en-us": "Scroll up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll down",
+        "displayNames": {
+          "en-us": "Scroll down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll up a whole page",
+        "displayNames": {
+          "en-us": "Scroll up a whole page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll down a whole page",
+        "displayNames": {
+          "en-us": "Scroll down a whole page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll to the earliest history",
+        "displayNames": {
+          "en-us": "Scroll to the earliest history"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll to the latest history",
+        "displayNames": {
+          "en-us": "Scroll to the latest history"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "End"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Visual adjustment",
+    "shortcuts": [
+      {
+        "internalName": "Increase font size",
+        "displayNames": {
+          "en-us": "Increase font size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease font size",
+        "displayNames": {
+          "en-us": "Decrease font size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reset font size",
+        "displayNames": {
+          "en-us": "Reset font size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      }
+    ]
+  }
+]

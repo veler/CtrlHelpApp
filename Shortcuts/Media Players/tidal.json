@@ -1,0 +1,166 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Settings",
+        "displayNames": {
+          "en-us": "Settings"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Log out",
+        "displayNames": {
+          "en-us": "Log out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Home",
+        "displayNames": {
+          "en-us": "Home"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Back",
+        "displayNames": {
+          "en-us": "Back"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Forward",
+        "displayNames": {
+          "en-us": "Forward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search",
+        "displayNames": {
+          "en-us": "Search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Check for updates",
+        "displayNames": {
+          "en-us": "Check for updates"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Playback",
+    "shortcuts": [
+      {
+        "internalName": "Play / Pause",
+        "displayNames": {
+          "en-us": "Play / Pause"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous track",
+        "displayNames": {
+          "en-us": "Previous track"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next track",
+        "displayNames": {
+          "en-us": "Next track"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle repeat all / single / off",
+        "displayNames": {
+          "en-us": "Toggle repeat all / single / off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Shuffle",
+        "displayNames": {
+          "en-us": "Shuffle"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,3082 @@
+[
+  {
+    "groupInternalName": "File",
+    "shortcuts": [
+      {
+        "internalName": "New",
+        "displayNames": {
+          "en-us": "New"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "New Menu",
+        "displayNames": {
+          "en-us": "New Menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close",
+        "displayNames": {
+          "en-us": "Close"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close All",
+        "displayNames": {
+          "en-us": "Close All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save",
+        "displayNames": {
+          "en-us": "Save"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save All",
+        "displayNames": {
+          "en-us": "Save All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rename",
+        "displayNames": {
+          "en-us": "Rename"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Refresh",
+        "displayNames": {
+          "en-us": "Refresh"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print",
+        "displayNames": {
+          "en-us": "Print"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Properties",
+        "displayNames": {
+          "en-us": "Properties"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Enter"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Edit",
+    "shortcuts": [
+      {
+        "internalName": "Undo",
+        "displayNames": {
+          "en-us": "Undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut",
+        "displayNames": {
+          "en-us": "Cut"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy",
+        "displayNames": {
+          "en-us": "Copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste",
+        "displayNames": {
+          "en-us": "Paste"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete",
+        "displayNames": {
+          "en-us": "Delete"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select All",
+        "displayNames": {
+          "en-us": "Select All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find and Replace",
+        "displayNames": {
+          "en-us": "Find and Replace"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find Next",
+        "displayNames": {
+          "en-us": "Find Next"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find Previous",
+        "displayNames": {
+          "en-us": "Find Previous"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Incremental Find",
+        "displayNames": {
+          "en-us": "Incremental Find"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reverse Incremental Find",
+        "displayNames": {
+          "en-us": "Reverse Incremental Find"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Insert Mode",
+        "displayNames": {
+          "en-us": "Toggle Insert Mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Insert"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Tooltip Description",
+        "displayNames": {
+          "en-us": "Show Tooltip Description"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Content Assist",
+        "displayNames": {
+          "en-us": "Content Assist"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Context Information",
+        "displayNames": {
+          "en-us": "Context Information"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Word Completion",
+        "displayNames": {
+          "en-us": "Word Completion"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quick Fix",
+        "displayNames": {
+          "en-us": "Quick Fix"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quick Diff Toggle",
+        "displayNames": {
+          "en-us": "Quick Diff Toggle"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Block Selection",
+        "displayNames": {
+          "en-us": "Toggle Block Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Split Editor horizontal",
+        "displayNames": {
+          "en-us": "Toggle Split Editor horizontal"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Split Editor vertical",
+        "displayNames": {
+          "en-us": "Toggle Split Editor vertical"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "219"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Search",
+    "shortcuts": [
+      {
+        "internalName": "Open Search Dialog",
+        "displayNames": {
+          "en-us": "Open Search Dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find Text in Workspace",
+        "displayNames": {
+          "en-us": "Find Text in Workspace"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search References in Ws",
+        "displayNames": {
+          "en-us": "Search References in Ws"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search Declaration in Ws",
+        "displayNames": {
+          "en-us": "Search Declaration in Ws"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Occurrences in File",
+        "displayNames": {
+          "en-us": "Show Occurrences in File"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "U"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Text Editing – Selection",
+    "shortcuts": [
+      {
+        "internalName": "Select to Line Start",
+        "displayNames": {
+          "en-us": "Select to Line Start"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select to Line End",
+        "displayNames": {
+          "en-us": "Select to Line End"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select Previous Word",
+        "displayNames": {
+          "en-us": "Select Previous Word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select Next Word",
+        "displayNames": {
+          "en-us": "Select Next Word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Right"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Text Editing – Navigation",
+    "shortcuts": [
+      {
+        "internalName": "Cursor to Text Start",
+        "displayNames": {
+          "en-us": "Cursor to Text Start"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cursor to Text End",
+        "displayNames": {
+          "en-us": "Cursor to Text End"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cursor to Line Start",
+        "displayNames": {
+          "en-us": "Cursor to Line Start"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cursor to Line End",
+        "displayNames": {
+          "en-us": "Cursor to Line End"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cursor to Previous Word",
+        "displayNames": {
+          "en-us": "Cursor to Previous Word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cursor to Next Word",
+        "displayNames": {
+          "en-us": "Cursor to Next Word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Line",
+        "displayNames": {
+          "en-us": "Go to Line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Folding",
+        "displayNames": {
+          "en-us": "Toggle Folding"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse",
+        "displayNames": {
+          "en-us": "Collapse"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse All",
+        "displayNames": {
+          "en-us": "Collapse All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand",
+        "displayNames": {
+          "en-us": "Expand"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand All",
+        "displayNames": {
+          "en-us": "Expand All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Ruler Context Menu",
+        "displayNames": {
+          "en-us": "Show Ruler Context Menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Word Wrap",
+        "displayNames": {
+          "en-us": "Toggle Word Wrap"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom In",
+        "displayNames": {
+          "en-us": "Zoom In"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom Out",
+        "displayNames": {
+          "en-us": "Zoom Out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Text Editing – Modification",
+    "shortcuts": [
+      {
+        "internalName": "Insert Line Above",
+        "displayNames": {
+          "en-us": "Insert Line Above"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert Line Below",
+        "displayNames": {
+          "en-us": "Insert Line Below"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy Lines Up",
+        "displayNames": {
+          "en-us": "Copy Lines Up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy Lines Down",
+        "displayNames": {
+          "en-us": "Copy Lines Down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move Lines Up",
+        "displayNames": {
+          "en-us": "Move Lines Up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move Lines Down",
+        "displayNames": {
+          "en-us": "Move Lines Down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete Line",
+        "displayNames": {
+          "en-us": "Delete Line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete Previous Word",
+        "displayNames": {
+          "en-us": "Delete Previous Word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete Next Word",
+        "displayNames": {
+          "en-us": "Delete Next Word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete to End of Line",
+        "displayNames": {
+          "en-us": "Delete to End of Line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Convert to Lower Case",
+        "displayNames": {
+          "en-us": "Convert to Lower Case"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Convert to Upper Case",
+        "displayNames": {
+          "en-us": "Convert to Upper Case"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Overwrite",
+        "displayNames": {
+          "en-us": "Toggle Overwrite"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Insert"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Source Editing",
+    "shortcuts": [
+      {
+        "internalName": "Show Source Quick Menu",
+        "displayNames": {
+          "en-us": "Show Source Quick Menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Comment",
+        "displayNames": {
+          "en-us": "Toggle Comment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Mark Occurrences",
+        "displayNames": {
+          "en-us": "Toggle Mark Occurrences"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Format",
+        "displayNames": {
+          "en-us": "Format"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Annotate Class File",
+        "displayNames": {
+          "en-us": "Annotate Class File"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Hyperlink",
+        "displayNames": {
+          "en-us": "Open Hyperlink"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Java Editing – Selection",
+    "shortcuts": [
+      {
+        "internalName": "Select Enclosing Element",
+        "displayNames": {
+          "en-us": "Select Enclosing Element"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select Previous Element",
+        "displayNames": {
+          "en-us": "Select Previous Element"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select Next Element",
+        "displayNames": {
+          "en-us": "Select Next Element"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Restore Last Selection",
+        "displayNames": {
+          "en-us": "Restore Last Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Context Information",
+        "displayNames": {
+          "en-us": "Context Information"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Space"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Java Editing – Navigation",
+    "shortcuts": [
+      {
+        "internalName": "Go to Previous Member",
+        "displayNames": {
+          "en-us": "Go to Previous Member"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Next Member",
+        "displayNames": {
+          "en-us": "Go to Next Member"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Matching Bracket",
+        "displayNames": {
+          "en-us": "Go to Matching Bracket"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Declaration",
+        "displayNames": {
+          "en-us": "Open Declaration"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Type Hierarchy",
+        "displayNames": {
+          "en-us": "Open Type Hierarchy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Call Hierarchy",
+        "displayNames": {
+          "en-us": "Open Call Hierarchy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Attached Javadoc",
+        "displayNames": {
+          "en-us": "Open Attached Javadoc"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Structure",
+        "displayNames": {
+          "en-us": "Open Structure"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quick Hierarchy",
+        "displayNames": {
+          "en-us": "Quick Hierarchy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quick Outline",
+        "displayNames": {
+          "en-us": "Quick Outline"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show In Breadcrumb",
+        "displayNames": {
+          "en-us": "Show In Breadcrumb"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "B"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Java Editing – Modification",
+    "shortcuts": [
+      {
+        "internalName": "Add Block Comment",
+        "displayNames": {
+          "en-us": "Add Block Comment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove Block Comment",
+        "displayNames": {
+          "en-us": "Remove Block Comment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Javadoc Comment",
+        "displayNames": {
+          "en-us": "Add Javadoc Comment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Correct Indentation",
+        "displayNames": {
+          "en-us": "Correct Indentation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Import",
+        "displayNames": {
+          "en-us": "Add Import"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Organize Imports",
+        "displayNames": {
+          "en-us": "Organize Imports"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Surround With Menu",
+        "displayNames": {
+          "en-us": "Surround With Menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove Occurrence",
+        "displayNames": {
+          "en-us": "Remove Occurrence"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "U"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Java Quick Assist",
+    "shortcuts": [
+      {
+        "internalName": "Assign to Local Variable",
+        "displayNames": {
+          "en-us": "Assign to Local Variable"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ],
+          [
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Assign to Field",
+        "displayNames": {
+          "en-us": "Assign to Field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ],
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extract Method",
+        "displayNames": {
+          "en-us": "Extract Method"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ],
+          [
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rename in File",
+        "displayNames": {
+          "en-us": "Rename in File"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ],
+          [
+            "R"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Java Refactoring",
+    "shortcuts": [
+      {
+        "internalName": "Show Refactor Menu",
+        "displayNames": {
+          "en-us": "Show Refactor Menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rename",
+        "displayNames": {
+          "en-us": "Rename"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move",
+        "displayNames": {
+          "en-us": "Move"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Change Method Signature",
+        "displayNames": {
+          "en-us": "Change Method Signature"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extract Method",
+        "displayNames": {
+          "en-us": "Extract Method"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extract Local Variable",
+        "displayNames": {
+          "en-us": "Extract Local Variable"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Inline",
+        "displayNames": {
+          "en-us": "Inline"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "I"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Java Project",
+    "shortcuts": [
+      {
+        "internalName": "Build All",
+        "displayNames": {
+          "en-us": "Build All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Ant Editing",
+    "shortcuts": [
+      {
+        "internalName": "Open External Doc",
+        "displayNames": {
+          "en-us": "Open External Doc"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rename In File",
+        "displayNames": {
+          "en-us": "Rename In File"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "R"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Run",
+    "shortcuts": [
+      {
+        "internalName": "Run",
+        "displayNames": {
+          "en-us": "Run"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Run Ant Build",
+        "displayNames": {
+          "en-us": "Run Ant Build"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "X"
+          ],
+          [
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Run Eclipse Application",
+        "displayNames": {
+          "en-us": "Run Eclipse Application"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "X"
+          ],
+          [
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Run Java Applet",
+        "displayNames": {
+          "en-us": "Run Java Applet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "X"
+          ],
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Run Java Application",
+        "displayNames": {
+          "en-us": "Run Java Application"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "X"
+          ],
+          [
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Run JUnit Plug-in Test",
+        "displayNames": {
+          "en-us": "Run JUnit Plug-in Test"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "X"
+          ],
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Run JUnit Test",
+        "displayNames": {
+          "en-us": "Run JUnit Test"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "X"
+          ],
+          [
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Run OSGi Framework",
+        "displayNames": {
+          "en-us": "Run OSGi Framework"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "X"
+          ],
+          [
+            "O"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Debug",
+    "shortcuts": [
+      {
+        "internalName": "Debug Ant Build",
+        "displayNames": {
+          "en-us": "Debug Ant Build"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "D"
+          ],
+          [
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Debug Eclipse Application",
+        "displayNames": {
+          "en-us": "Debug Eclipse Application"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "D"
+          ],
+          [
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Debug Java Applet",
+        "displayNames": {
+          "en-us": "Debug Java Applet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "D"
+          ],
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Debug Java Application",
+        "displayNames": {
+          "en-us": "Debug Java Application"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "D"
+          ],
+          [
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Debug JUnit Plug-in Test",
+        "displayNames": {
+          "en-us": "Debug JUnit Plug-in Test"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "D"
+          ],
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Debug JUnit Test",
+        "displayNames": {
+          "en-us": "Debug JUnit Test"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "D"
+          ],
+          [
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Debug OSGi Framework",
+        "displayNames": {
+          "en-us": "Debug OSGi Framework"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "D"
+          ],
+          [
+            "O"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Debugging",
+    "shortcuts": [
+      {
+        "internalName": "Toggle Breakpoint",
+        "displayNames": {
+          "en-us": "Toggle Breakpoint"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Resume",
+        "displayNames": {
+          "en-us": "Resume"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Terminate",
+        "displayNames": {
+          "en-us": "Terminate"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Step Into",
+        "displayNames": {
+          "en-us": "Step Into"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Step Into Selection",
+        "displayNames": {
+          "en-us": "Step Into Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Step Over",
+        "displayNames": {
+          "en-us": "Step Over"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Step Return",
+        "displayNames": {
+          "en-us": "Step Return"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Force Return",
+        "displayNames": {
+          "en-us": "Force Return"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Run to Line",
+        "displayNames": {
+          "en-us": "Run to Line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Use Step Filters",
+        "displayNames": {
+          "en-us": "Use Step Filters"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "All Instances",
+        "displayNames": {
+          "en-us": "All Instances"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Inspect",
+        "displayNames": {
+          "en-us": "Inspect"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display",
+        "displayNames": {
+          "en-us": "Display"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Execute",
+        "displayNames": {
+          "en-us": "Execute"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Java Breakpoint Properties",
+        "displayNames": {
+          "en-us": "Java Breakpoint Properties"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo",
+        "displayNames": {
+          "en-us": "Undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Memory Block",
+        "displayNames": {
+          "en-us": "Add Memory Block"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close Rendering",
+        "displayNames": {
+          "en-us": "Close Rendering"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Memory Monitors",
+        "displayNames": {
+          "en-us": "Toggle Memory Monitors"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "New Rendering",
+        "displayNames": {
+          "en-us": "New Rendering"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next Memory Monitor",
+        "displayNames": {
+          "en-us": "Next Memory Monitor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next Page of Memory",
+        "displayNames": {
+          "en-us": "Next Page of Memory"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Page Memory",
+        "displayNames": {
+          "en-us": "Previous Page Memory"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Address",
+        "displayNames": {
+          "en-us": "Go to Address"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "EOF",
+        "displayNames": {
+          "en-us": "EOF"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Skip All Breakpoints",
+        "displayNames": {
+          "en-us": "Skip All Breakpoints"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "B"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Navigate",
+    "shortcuts": [
+      {
+        "internalName": "Open Type",
+        "displayNames": {
+          "en-us": "Open Type"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Type in Hierarchy",
+        "displayNames": {
+          "en-us": "Open Type in Hierarchy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Resource",
+        "displayNames": {
+          "en-us": "Open Resource"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open from Clipboard",
+        "displayNames": {
+          "en-us": "Open from Clipboard"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show In Breadcrumb",
+        "displayNames": {
+          "en-us": "Show In Breadcrumb"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show In...",
+        "displayNames": {
+          "en-us": "Show In..."
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next",
+        "displayNames": {
+          "en-us": "Next"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous",
+        "displayNames": {
+          "en-us": "Previous"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Last Edit Location",
+        "displayNames": {
+          "en-us": "Last Edit Location"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Backward History",
+        "displayNames": {
+          "en-us": "Backward History"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Forward History",
+        "displayNames": {
+          "en-us": "Forward History"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Next Editor Page",
+        "displayNames": {
+          "en-us": "Go to Next Editor Page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Prev. Editor Page",
+        "displayNames": {
+          "en-us": "Go to Prev. Editor Page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Next Editor Sub-Tab",
+        "displayNames": {
+          "en-us": "Go to Next Editor Sub-Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Prev. Editor Sub-Tab",
+        "displayNames": {
+          "en-us": "Go to Prev. Editor Sub-Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next Tab",
+        "displayNames": {
+          "en-us": "Next Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Tab",
+        "displayNames": {
+          "en-us": "Previous Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "PageUp"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Views",
+    "shortcuts": [
+      {
+        "internalName": "Show View",
+        "displayNames": {
+          "en-us": "Show View"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Q"
+          ],
+          [
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show View: Breakpoints",
+        "displayNames": {
+          "en-us": "Show View: Breakpoints"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Q"
+          ],
+          [
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show View: Cheat Sheets",
+        "displayNames": {
+          "en-us": "Show View: Cheat Sheets"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Q"
+          ],
+          [
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show View: Console",
+        "displayNames": {
+          "en-us": "Show View: Console"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Q"
+          ],
+          [
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show View: Declaration",
+        "displayNames": {
+          "en-us": "Show View: Declaration"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Q"
+          ],
+          [
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show View: Error Log",
+        "displayNames": {
+          "en-us": "Show View: Error Log"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Q"
+          ],
+          [
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show View: History",
+        "displayNames": {
+          "en-us": "Show View: History"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Q"
+          ],
+          [
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show View: Javadoc",
+        "displayNames": {
+          "en-us": "Show View: Javadoc"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Q"
+          ],
+          [
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show View: Outline",
+        "displayNames": {
+          "en-us": "Show View: Outline"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Q"
+          ],
+          [
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show View: Package Expl",
+        "displayNames": {
+          "en-us": "Show View: Package Expl"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Q"
+          ],
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show View: Problems",
+        "displayNames": {
+          "en-us": "Show View: Problems"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Q"
+          ],
+          [
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show View: Search",
+        "displayNames": {
+          "en-us": "Show View: Search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Q"
+          ],
+          [
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show View: Synchronize",
+        "displayNames": {
+          "en-us": "Show View: Synchronize"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Q"
+          ],
+          [
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show View: Type Hierarchy",
+        "displayNames": {
+          "en-us": "Show View: Type Hierarchy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Q"
+          ],
+          [
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show View: Variables",
+        "displayNames": {
+          "en-us": "Show View: Variables"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Q"
+          ],
+          [
+            "V"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Plug-in Development",
+    "shortcuts": [
+      {
+        "internalName": "Open Plug-in Artifact",
+        "displayNames": {
+          "en-us": "Open Plug-in Artifact"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Manifest",
+        "displayNames": {
+          "en-us": "Open Manifest"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Format Source",
+        "displayNames": {
+          "en-us": "Format Source"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quick Outline",
+        "displayNames": {
+          "en-us": "Quick Outline"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Plug-in Spy",
+    "shortcuts": [
+      {
+        "internalName": "Plug-in Selection Spy",
+        "displayNames": {
+          "en-us": "Plug-in Selection Spy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Plug-in Menu Spy",
+        "displayNames": {
+          "en-us": "Plug-in Menu Spy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Contrib. Plug-in",
+        "displayNames": {
+          "en-us": "Show Contrib. Plug-in"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Layout Spy",
+        "displayNames": {
+          "en-us": "Layout Spy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "F9"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Git",
+    "shortcuts": [
+      {
+        "internalName": "Commit...",
+        "displayNames": {
+          "en-us": "Commit..."
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy Path to Clipboard",
+        "displayNames": {
+          "en-us": "Copy Path to Clipboard"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste Repo Path or URI",
+        "displayNames": {
+          "en-us": "Paste Repo Path or URI"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Window",
+    "shortcuts": [
+      {
+        "internalName": "Quick Access",
+        "displayNames": {
+          "en-us": "Quick Access"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate Editor",
+        "displayNames": {
+          "en-us": "Activate Editor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F12"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quick Switch Editor",
+        "displayNames": {
+          "en-us": "Quick Switch Editor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to Editor",
+        "displayNames": {
+          "en-us": "Switch to Editor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next Editor",
+        "displayNames": {
+          "en-us": "Next Editor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Editor",
+        "displayNames": {
+          "en-us": "Previous Editor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Maximize View or Editor",
+        "displayNames": {
+          "en-us": "Maximize View or Editor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous View",
+        "displayNames": {
+          "en-us": "Previous View"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next View",
+        "displayNames": {
+          "en-us": "Next View"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show View Menu",
+        "displayNames": {
+          "en-us": "Show View Menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Perspective",
+        "displayNames": {
+          "en-us": "Previous Perspective"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next Perspective",
+        "displayNames": {
+          "en-us": "Next Perspective"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Key Assist",
+        "displayNames": {
+          "en-us": "Show Key Assist"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show System Menu",
+        "displayNames": {
+          "en-us": "Show System Menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Full Screen",
+        "displayNames": {
+          "en-us": "Toggle Full Screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F11"
+          ]
+        ]
+      }
+    ]
+  }
+]

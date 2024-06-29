@@ -1,0 +1,542 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Show keyboard shortcuts",
+        "displayNames": {
+          "en-us": "Show keyboard shortcuts"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Search",
+        "displayNames": {
+          "en-us": "Go to Search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show commands",
+        "displayNames": {
+          "en-us": "Show commands"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Goto",
+        "displayNames": {
+          "en-us": "Goto"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start a new chat",
+        "displayNames": {
+          "en-us": "Start a new chat"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Settings",
+        "displayNames": {
+          "en-us": "Open Settings"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Help",
+        "displayNames": {
+          "en-us": "Open Help"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close",
+        "displayNames": {
+          "en-us": "Close"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom in",
+        "displayNames": {
+          "en-us": "Zoom in"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom out",
+        "displayNames": {
+          "en-us": "Zoom out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Navigation",
+    "shortcuts": [
+      {
+        "internalName": "Open Activity",
+        "displayNames": {
+          "en-us": "Open Activity"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Chat",
+        "displayNames": {
+          "en-us": "Open Chat"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Teams",
+        "displayNames": {
+          "en-us": "Open Teams"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Cancel"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Calendar",
+        "displayNames": {
+          "en-us": "Open Calendar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Calls",
+        "displayNames": {
+          "en-us": "Open Calls"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Files",
+        "displayNames": {
+          "en-us": "Open Files"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to previous list item",
+        "displayNames": {
+          "en-us": "Go to previous list item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to next list item",
+        "displayNames": {
+          "en-us": "Go to next list item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selected team up",
+        "displayNames": {
+          "en-us": "Move selected team up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selected team down",
+        "displayNames": {
+          "en-us": "Move selected team down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to previous section",
+        "displayNames": {
+          "en-us": "Go to previous section"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to next section",
+        "displayNames": {
+          "en-us": "Go to next section"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F6"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Messaging",
+    "shortcuts": [
+      {
+        "internalName": "Go to compose box",
+        "displayNames": {
+          "en-us": "Go to compose box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand compose box",
+        "displayNames": {
+          "en-us": "Expand compose box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Send (expanded compose box)",
+        "displayNames": {
+          "en-us": "Send (expanded compose box)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Attach file",
+        "displayNames": {
+          "en-us": "Attach file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start new line",
+        "displayNames": {
+          "en-us": "Start new line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reply to thread",
+        "displayNames": {
+          "en-us": "Reply to thread"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark as important",
+        "displayNames": {
+          "en-us": "Mark as important"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "I"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Meetings and Calls",
+    "shortcuts": [
+      {
+        "internalName": "Accept video call",
+        "displayNames": {
+          "en-us": "Accept video call"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Accept audio call",
+        "displayNames": {
+          "en-us": "Accept audio call"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decline call",
+        "displayNames": {
+          "en-us": "Decline call"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start audio call",
+        "displayNames": {
+          "en-us": "Start audio call"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start video call",
+        "displayNames": {
+          "en-us": "Start video call"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle mute",
+        "displayNames": {
+          "en-us": "Toggle mute"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle video",
+        "displayNames": {
+          "en-us": "Toggle video"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Filter current list",
+        "displayNames": {
+          "en-us": "Filter current list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to sharing toolbar",
+        "displayNames": {
+          "en-us": "Go to sharing toolbar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle fullscreen",
+        "displayNames": {
+          "en-us": "Toggle fullscreen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      }
+    ]
+  }
+]

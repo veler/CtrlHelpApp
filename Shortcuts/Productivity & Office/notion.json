@@ -1,0 +1,654 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Create a new page (desktop apps only)",
+        "displayNames": {
+          "en-us": "Create a new page (desktop apps only)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open a new Notion window",
+        "displayNames": {
+          "en-us": "Open a new Notion window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search or jump to a recently viewed page",
+        "displayNames": {
+          "en-us": "Search or jump to a recently viewed page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go back a page",
+        "displayNames": {
+          "en-us": "Go back a page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go forward a page",
+        "displayNames": {
+          "en-us": "Go forward a page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Database peek view: Go to previous page",
+        "displayNames": {
+          "en-us": "Database peek view: Go to previous page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Database peek view: Go to next page",
+        "displayNames": {
+          "en-us": "Database peek view: Go to next page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to Dark Mode",
+        "displayNames": {
+          "en-us": "Switch to Dark Mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Create & style content",
+    "shortcuts": [
+      {
+        "internalName": "Insert a line of text",
+        "displayNames": {
+          "en-us": "Insert a line of text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a line break within a block of text",
+        "displayNames": {
+          "en-us": "Create a line break within a block of text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a comment",
+        "displayNames": {
+          "en-us": "Create a comment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Bold selected text",
+        "displayNames": {
+          "en-us": "Bold selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Italicize selected text",
+        "displayNames": {
+          "en-us": "Italicize selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Strikethrough selected text",
+        "displayNames": {
+          "en-us": "Strikethrough selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add a link to selected text",
+        "displayNames": {
+          "en-us": "Add a link to selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turn selected text into inline code",
+        "displayNames": {
+          "en-us": "Turn selected text into inline code"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Indent and nest under parent block",
+        "displayNames": {
+          "en-us": "Indent and nest under parent block"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Unindent",
+        "displayNames": {
+          "en-us": "Unindent"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create text",
+        "displayNames": {
+          "en-us": "Create text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a h1 heading",
+        "displayNames": {
+          "en-us": "Create a h1 heading"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a h2 heading",
+        "displayNames": {
+          "en-us": "Create a h2 heading"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a h3 heading",
+        "displayNames": {
+          "en-us": "Create a h3 heading"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a to-do checkbox",
+        "displayNames": {
+          "en-us": "Create a to-do checkbox"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a bulleted list",
+        "displayNames": {
+          "en-us": "Create a bulleted list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a numbered list",
+        "displayNames": {
+          "en-us": "Create a numbered list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a toggle list",
+        "displayNames": {
+          "en-us": "Create a toggle list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a code block",
+        "displayNames": {
+          "en-us": "Create a code block"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a new page or turn whatever you have on a line into a page",
+        "displayNames": {
+          "en-us": "Create a new page or turn whatever you have on a line into a page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom in",
+        "displayNames": {
+          "en-us": "Zoom in"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom out",
+        "displayNames": {
+          "en-us": "Zoom out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go up one level in page hierarchy",
+        "displayNames": {
+          "en-us": "Go up one level in page hierarchy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hold while dragging to duplicate content",
+        "displayNames": {
+          "en-us": "Hold while dragging to duplicate content"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Edit & move blocks",
+    "shortcuts": [
+      {
+        "internalName": "Move block or page",
+        "displayNames": {
+          "en-us": "Move block or page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select current block or clear selected blocks",
+        "displayNames": {
+          "en-us": "Select current block or clear selected blocks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the block your cursor is in",
+        "displayNames": {
+          "en-us": "Select the block your cursor is in"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open a selected image in full-screen. Or exit full-screen",
+        "displayNames": {
+          "en-us": "Open a selected image in full-screen. Or exit full-screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand selection up",
+        "displayNames": {
+          "en-us": "Expand selection up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand selection down",
+        "displayNames": {
+          "en-us": "Expand selection down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete selected blocks",
+        "displayNames": {
+          "en-us": "Delete selected blocks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Duplicate selected blocks",
+        "displayNames": {
+          "en-us": "Duplicate selected blocks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Edit any text inside a selected block (or open a page inside a page)",
+        "displayNames": {
+          "en-us": "Edit any text inside a selected block (or open a page inside a page)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Edit or change one or more selected blocks via command",
+        "displayNames": {
+          "en-us": "Edit or change one or more selected blocks via command"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Edit all selected cards at once in board view",
+        "displayNames": {
+          "en-us": "Edit all selected cards at once in board view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selected block up",
+        "displayNames": {
+          "en-us": "Move selected block up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selected block down",
+        "displayNames": {
+          "en-us": "Move selected block down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand or close all toggles in a toggle list",
+        "displayNames": {
+          "en-us": "Expand or close all toggles in a toggle list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply the last text or highlight color you used",
+        "displayNames": {
+          "en-us": "Apply the last text or highlight color you used"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Modify the current block (open page, check/uncheck to-do, open/close list item, etc.)",
+        "displayNames": {
+          "en-us": "Modify the current block (open page, check/uncheck to-do, open/close list item, etc.)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ]
+      }
+    ]
+  }
+]

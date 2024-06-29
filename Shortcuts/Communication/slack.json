@@ -1,0 +1,828 @@
+[
+  {
+    "groupInternalName": "Navigation",
+    "shortcuts": [
+      {
+        "internalName": "Jump to a conversation",
+        "displayNames": {
+          "en-us": "Jump to a conversation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move focus to the next section",
+        "displayNames": {
+          "en-us": "Move focus to the next section"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move focus to the previous section",
+        "displayNames": {
+          "en-us": "Move focus to the previous section"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open direct messages menu",
+        "displayNames": {
+          "en-us": "Open direct messages menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Compose a new message",
+        "displayNames": {
+          "en-us": "Compose a new message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open channel browser",
+        "displayNames": {
+          "en-us": "Open channel browser"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Threads view",
+        "displayNames": {
+          "en-us": "Open the Threads view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous unread channel or DM",
+        "displayNames": {
+          "en-us": "Previous unread channel or DM"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next unread channel or DM",
+        "displayNames": {
+          "en-us": "Next unread channel or DM"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous channel or DM visited",
+        "displayNames": {
+          "en-us": "Previous channel or DM visited"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next channel or DM visited",
+        "displayNames": {
+          "en-us": "Next channel or DM visited"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Preferences",
+        "displayNames": {
+          "en-us": "Preferences"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open or close right pane",
+        "displayNames": {
+          "en-us": "Open or close right pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Channel info pane",
+        "displayNames": {
+          "en-us": "Channel info pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mentions &amp; reactions",
+        "displayNames": {
+          "en-us": "Mentions &amp; reactions"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "People",
+        "displayNames": {
+          "en-us": "People"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Saved items",
+        "displayNames": {
+          "en-us": "Saved items"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search current channel or conversation",
+        "displayNames": {
+          "en-us": "Search current channel or conversation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open previous search",
+        "displayNames": {
+          "en-us": "Open previous search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle full screen view",
+        "displayNames": {
+          "en-us": "Toggle full screen view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "All Unreads navigation",
+    "shortcuts": [
+      {
+        "internalName": "Open All Unreads view",
+        "displayNames": {
+          "en-us": "Open All Unreads view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to message above",
+        "displayNames": {
+          "en-us": "Move to message above"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to message below",
+        "displayNames": {
+          "en-us": "Move to message below"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open channels",
+        "displayNames": {
+          "en-us": "Open channels"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse channels",
+        "displayNames": {
+          "en-us": "Collapse channels"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Switch workspaces",
+    "shortcuts": [
+      {
+        "internalName": "Switch to previous workspace",
+        "displayNames": {
+          "en-us": "Switch to previous workspace"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to next workspace",
+        "displayNames": {
+          "en-us": "Switch to next workspace"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to workspace 1 (see assigned number under the workspace icon in your Slack app)",
+        "displayNames": {
+          "en-us": "Switch to workspace 1 (see assigned number under the workspace icon in your Slack app)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Mark messages read or unread",
+    "shortcuts": [
+      {
+        "internalName": "Mark all messages in current channel or DM as read",
+        "displayNames": {
+          "en-us": "Mark all messages in current channel or DM as read"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark all messages as read",
+        "displayNames": {
+          "en-us": "Mark all messages as read"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Escape"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Take an action on a message",
+    "shortcuts": [
+      {
+        "internalName": "Edit your message",
+        "displayNames": {
+          "en-us": "Edit your message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add an emoji reaction",
+        "displayNames": {
+          "en-us": "Add an emoji reaction"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open or reply to a thread",
+        "displayNames": {
+          "en-us": "Open or reply to a thread"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pin or unpin a message",
+        "displayNames": {
+          "en-us": "Pin or unpin a message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Share a message",
+        "displayNames": {
+          "en-us": "Share a message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save a message or remove from Saved items",
+        "displayNames": {
+          "en-us": "Save a message or remove from Saved items"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark as unread starting from a message",
+        "displayNames": {
+          "en-us": "Mark as unread starting from a message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete your message",
+        "displayNames": {
+          "en-us": "Delete your message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a reminder about a message",
+        "displayNames": {
+          "en-us": "Create a reminder about a message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Format messages",
+    "shortcuts": [
+      {
+        "internalName": "Edit your last message",
+        "displayNames": {
+          "en-us": "Edit your last message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select text to beginning of current line",
+        "displayNames": {
+          "en-us": "Select text to beginning of current line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select text to end of current line",
+        "displayNames": {
+          "en-us": "Select text to end of current line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a new line in your message",
+        "displayNames": {
+          "en-us": "Create a new line in your message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add an emoji reaction to a message",
+        "displayNames": {
+          "en-us": "Add an emoji reaction to a message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Bold selected text",
+        "displayNames": {
+          "en-us": "Bold selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Italicize selected text",
+        "displayNames": {
+          "en-us": "Italicize selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Strikethrough selected text",
+        "displayNames": {
+          "en-us": "Strikethrough selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quote selected text",
+        "displayNames": {
+          "en-us": "Quote selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Code selected text",
+        "displayNames": {
+          "en-us": "Code selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Codeblock selected text",
+        "displayNames": {
+          "en-us": "Codeblock selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turn selected text into a numbered list",
+        "displayNames": {
+          "en-us": "Turn selected text into a numbered list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turn selected text into a bulleted list",
+        "displayNames": {
+          "en-us": "Turn selected text into a bulleted list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply formatting to markdown text",
+        "displayNames": {
+          "en-us": "Apply formatting to markdown text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo message formatting",
+        "displayNames": {
+          "en-us": "Undo message formatting"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Files and snippets",
+    "shortcuts": [
+      {
+        "internalName": "Upload file",
+        "displayNames": {
+          "en-us": "Upload file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create new Snippet",
+        "displayNames": {
+          "en-us": "Create new Snippet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Enter"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Call actions",
+    "shortcuts": [
+      {
+        "internalName": "Toggle mute on and off (Hold down to talk when muted)",
+        "displayNames": {
+          "en-us": "Toggle mute on and off (Hold down to talk when muted)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle video on and off",
+        "displayNames": {
+          "en-us": "Toggle video on and off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show invite list",
+        "displayNames": {
+          "en-us": "Show invite list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "View emoji reactions and select first",
+        "displayNames": {
+          "en-us": "View emoji reactions and select first"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "E"
+          ],
+          [
+            "Number1"
+          ]
+        ]
+      }
+    ]
+  }
+]

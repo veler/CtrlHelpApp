@@ -1,0 +1,448 @@
+[
+  {
+    "groupInternalName": "Playback Controls",
+    "shortcuts": [
+      {
+        "internalName": "Play Next Track",
+        "displayNames": {
+          "en-us": "Play Next Track"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Play/Pause",
+        "displayNames": {
+          "en-us": "Play/Pause"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Track",
+        "displayNames": {
+          "en-us": "Previous Track"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Play Now",
+        "displayNames": {
+          "en-us": "Play Now"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Queue Last",
+        "displayNames": {
+          "en-us": "Queue Last"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Queue Next",
+        "displayNames": {
+          "en-us": "Queue Next"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Stop",
+        "displayNames": {
+          "en-us": "Stop"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Volume Down",
+        "displayNames": {
+          "en-us": "Volume Down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Volume Up",
+        "displayNames": {
+          "en-us": "Volume Up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Volume Mute On/Off",
+        "displayNames": {
+          "en-us": "Volume Mute On/Off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start/End Bookmark",
+        "displayNames": {
+          "en-us": "Start/End Bookmark"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "File Menu",
+    "shortcuts": [
+      {
+        "internalName": "Remove",
+        "displayNames": {
+          "en-us": "Remove"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hard Delete",
+        "displayNames": {
+          "en-us": "Hard Delete"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rescan/Add Files",
+        "displayNames": {
+          "en-us": "Rescan/Add Files"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Insert"
+          ]
+        ]
+      },
+      {
+        "internalName": "Refresh",
+        "displayNames": {
+          "en-us": "Refresh"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Edit Controls",
+    "shortcuts": [
+      {
+        "internalName": "Configure MusicBee Preferences",
+        "displayNames": {
+          "en-us": "Configure MusicBee Preferences"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy Tags and Artwork",
+        "displayNames": {
+          "en-us": "Copy Tags and Artwork"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Custom Search",
+        "displayNames": {
+          "en-us": "Custom Search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Edit Tags",
+        "displayNames": {
+          "en-us": "Edit Tags"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select All",
+        "displayNames": {
+          "en-us": "Select All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste Copied Tags",
+        "displayNames": {
+          "en-us": "Paste Copied Tags"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Amend Clicked Column",
+        "displayNames": {
+          "en-us": "Amend Clicked Column"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Tabs",
+    "shortcuts": [
+      {
+        "internalName": "Create New Tab",
+        "displayNames": {
+          "en-us": "Create New Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close Tab",
+        "displayNames": {
+          "en-us": "Close Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Views",
+    "shortcuts": [
+      {
+        "internalName": "Show Now Playing Assistant",
+        "displayNames": {
+          "en-us": "Show Now Playing Assistant"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Now Playing Track Finder",
+        "displayNames": {
+          "en-us": "Show Now Playing Track Finder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Tag Manager",
+        "displayNames": {
+          "en-us": "Show Tag Manager"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Visualizer Full Screen",
+        "displayNames": {
+          "en-us": "Show Visualizer Full Screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Tools",
+    "shortcuts": [
+      {
+        "internalName": "Analyse Volume",
+        "displayNames": {
+          "en-us": "Analyse Volume"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Auto-Organize Files",
+        "displayNames": {
+          "en-us": "Auto-Organize Files"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Auto Tag by Track Update Tags",
+        "displayNames": {
+          "en-us": "Auto Tag by Track Update Tags"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rip CD",
+        "displayNames": {
+          "en-us": "Rip CD"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "R"
+          ]
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1117 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Clear current input (select CE)",
+        "displayNames": {
+          "en-us": "Clear current input (select CE)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fully clear input (select C)",
+        "displayNames": {
+          "en-us": "Fully clear input (select C)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Navigate to the next UI item and give it focus",
+        "displayNames": {
+          "en-us": "Navigate to the next UI item and give it focus"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Selects UI item that has focus",
+        "displayNames": {
+          "en-us": "Selects UI item that has focus"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Selects = in Standard mode, Scientific mode, and Programmer mode",
+        "displayNames": {
+          "en-us": "Selects = in Standard mode, Scientific mode, and Programmer mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select +/- in Standard mode, Scientific mode, and Programmer mode",
+        "displayNames": {
+          "en-us": "Select +/- in Standard mode, Scientific mode, and Programmer mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select 1/x in Standard mode and Scientific mode",
+        "displayNames": {
+          "en-us": "Select 1/x in Standard mode and Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select 2√x in Standard mode and Scientific mode",
+        "displayNames": {
+          "en-us": "Select 2√x in Standard mode and Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select % in Standard mode and Programmer mode",
+        "displayNames": {
+          "en-us": "Select % in Standard mode and Programmer mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number5"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Mode Switch",
+    "shortcuts": [
+      {
+        "internalName": "Switch to Standard mode",
+        "displayNames": {
+          "en-us": "Switch to Standard mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to Scientific mode",
+        "displayNames": {
+          "en-us": "Switch to Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to Graphing mode",
+        "displayNames": {
+          "en-us": "Switch to Graphing mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Cancel"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to Programmer mode",
+        "displayNames": {
+          "en-us": "Switch to Programmer mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to Date Calculation mode",
+        "displayNames": {
+          "en-us": "Switch to Date Calculation mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number5"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Memory",
+    "shortcuts": [
+      {
+        "internalName": "Store in memory, in Standard mode, Scientific mode, and Programmer mode",
+        "displayNames": {
+          "en-us": "Store in memory, in Standard mode, Scientific mode, and Programmer mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add to memory, in Standard mode, Scientific mode, and Programmer mode",
+        "displayNames": {
+          "en-us": "Add to memory, in Standard mode, Scientific mode, and Programmer mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Subtract from memory, in Standard mode, Scientific mode, and Programmer mode",
+        "displayNames": {
+          "en-us": "Subtract from memory, in Standard mode, Scientific mode, and Programmer mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Recall from memory, in Standard mode, Scientific mode, and Programmer mode",
+        "displayNames": {
+          "en-us": "Recall from memory, in Standard mode, Scientific mode, and Programmer mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear memory",
+        "displayNames": {
+          "en-us": "Clear memory"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "History",
+    "shortcuts": [
+      {
+        "internalName": "When history button is visible, selects the history button in Standard mode and Scientific mode",
+        "displayNames": {
+          "en-us": "When history button is visible, selects the history button in Standard mode and Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move up in history list, memory list, and menu items",
+        "displayNames": {
+          "en-us": "Move up in history list, memory list, and menu items"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move down in history list, memory list, and menu items",
+        "displayNames": {
+          "en-us": "Move down in history list, memory list, and menu items"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear history",
+        "displayNames": {
+          "en-us": "Clear history"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "D"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Scientific Mode",
+    "shortcuts": [
+      {
+        "internalName": "Select DEG in Scientific mode",
+        "displayNames": {
+          "en-us": "Select DEG in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select RAD in Scientific mode",
+        "displayNames": {
+          "en-us": "Select RAD in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select GRAD in Scientific mode",
+        "displayNames": {
+          "en-us": "Select GRAD in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select 2xin Scientific mode",
+        "displayNames": {
+          "en-us": "Select 2xin Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select 10xin Scientific mode",
+        "displayNames": {
+          "en-us": "Select 10xin Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select 10xin in Scientific mode",
+        "displayNames": {
+          "en-us": "Select 10xin in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select sin-1 in Scientific mode",
+        "displayNames": {
+          "en-us": "Select sin-1 in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select sinh in Scientific mode",
+        "displayNames": {
+          "en-us": "Select sinh in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select sinh-1 in Scientific mode",
+        "displayNames": {
+          "en-us": "Select sinh-1 in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select tan in Scientific mode",
+        "displayNames": {
+          "en-us": "Select tan in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select tan-1 in Scientific mode",
+        "displayNames": {
+          "en-us": "Select tan-1 in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select tanh in Scientific mode",
+        "displayNames": {
+          "en-us": "Select tanh in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select tanh-1 in Scientific mode",
+        "displayNames": {
+          "en-us": "Select tanh-1 in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select cos in Scientific mode",
+        "displayNames": {
+          "en-us": "Select cos in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select cos-1 in Scientific mode",
+        "displayNames": {
+          "en-us": "Select cos-1 in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select cosh in Scientific mode",
+        "displayNames": {
+          "en-us": "Select cosh in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select cosh-1 in Scientific mode",
+        "displayNames": {
+          "en-us": "Select cosh-1 in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select sec in Scientific mode",
+        "displayNames": {
+          "en-us": "Select sec in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select sec-1 in Scientific mode",
+        "displayNames": {
+          "en-us": "Select sec-1 in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select sech in Scientific mode",
+        "displayNames": {
+          "en-us": "Select sech in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select sech-1 in Scientific mode",
+        "displayNames": {
+          "en-us": "Select sech-1 in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select csc in Scientific mode",
+        "displayNames": {
+          "en-us": "Select csc in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select csc-1 in Scientific mode",
+        "displayNames": {
+          "en-us": "Select csc-1 in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select csch in Scientific mode",
+        "displayNames": {
+          "en-us": "Select csch in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select csch-1 in Scientific mode",
+        "displayNames": {
+          "en-us": "Select csch-1 in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select cot in Scientific mode",
+        "displayNames": {
+          "en-us": "Select cot in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select cot-1 in Scientific mode",
+        "displayNames": {
+          "en-us": "Select cot-1 in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select coth in Scientific mode",
+        "displayNames": {
+          "en-us": "Select coth in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select coth-1 in Scientific mode",
+        "displayNames": {
+          "en-us": "Select coth-1 in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Selecty√x in Scientific mode",
+        "displayNames": {
+          "en-us": "Selecty√x in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select |x| in Scientific mode",
+        "displayNames": {
+          "en-us": "Select |x| in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select floor(x) in Scientific mode",
+        "displayNames": {
+          "en-us": "Select floor(x) in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select ceil(x) in Scientific mode",
+        "displayNames": {
+          "en-us": "Select ceil(x) in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select log in Scientific mode",
+        "displayNames": {
+          "en-us": "Select log in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select logᵧx in Scientific mode",
+        "displayNames": {
+          "en-us": "Select logᵧx in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select dms in Scientific mode",
+        "displayNames": {
+          "en-us": "Select dms in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select ln in Scientific mode",
+        "displayNames": {
+          "en-us": "Select ln in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select e to the power of x in Scientific mode",
+        "displayNames": {
+          "en-us": "Select e to the power of x in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select Pi in Scientific mode",
+        "displayNames": {
+          "en-us": "Select Pi in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select x to the power of 2 in Standard and Scientific mode",
+        "displayNames": {
+          "en-us": "Select x to the power of 2 in Standard and Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggles on/off F-E buttonin Scientific mode",
+        "displayNames": {
+          "en-us": "Toggles on/off F-E buttonin Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select exp in Scientific mode",
+        "displayNames": {
+          "en-us": "Select exp in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select x to the power of y in Scientific mode",
+        "displayNames": {
+          "en-us": "Select x to the power of y in Scientific mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Y"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Graphing Mode",
+    "shortcuts": [
+      {
+        "internalName": "Graph zooms in while in Graphing mode",
+        "displayNames": {
+          "en-us": "Graph zooms in while in Graphing mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Graph zooms out while in Graphing mode",
+        "displayNames": {
+          "en-us": "Graph zooms out while in Graphing mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Programmer Mode",
+    "shortcuts": [
+      {
+        "internalName": "Select DWORD in Programmer mode",
+        "displayNames": {
+          "en-us": "Select DWORD in Programmer mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select WORD in Programmer mode",
+        "displayNames": {
+          "en-us": "Select WORD in Programmer mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select BYTE in Programmer mode",
+        "displayNames": {
+          "en-us": "Select BYTE in Programmer mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select HEX in Programmer mode",
+        "displayNames": {
+          "en-us": "Select HEX in Programmer mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select DEC in Programmer mode",
+        "displayNames": {
+          "en-us": "Select DEC in Programmer mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select OCT in Programmer mode",
+        "displayNames": {
+          "en-us": "Select OCT in Programmer mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select BIN in Programmer mode",
+        "displayNames": {
+          "en-us": "Select BIN in Programmer mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select QWORD in Programmer mode",
+        "displayNames": {
+          "en-us": "Select QWORD in Programmer mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F12"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select letter A in Programmer mode while HEX is select",
+        "displayNames": {
+          "en-us": "Select letter A in Programmer mode while HEX is select"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select letter B in Programmer mode while HEX is select",
+        "displayNames": {
+          "en-us": "Select letter B in Programmer mode while HEX is select"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select letter C in Programmer mode while HEX is select",
+        "displayNames": {
+          "en-us": "Select letter C in Programmer mode while HEX is select"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select letter D in Programmer mode while HEX is select",
+        "displayNames": {
+          "en-us": "Select letter D in Programmer mode while HEX is select"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select letter E in Programmer mode while HEX is select",
+        "displayNames": {
+          "en-us": "Select letter E in Programmer mode while HEX is select"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select letter F in Programmer mode while HEX is select",
+        "displayNames": {
+          "en-us": "Select letter F in Programmer mode while HEX is select"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select RoL in Programmer mode when Bit Shift is set to either \"Circular\" shift",
+        "displayNames": {
+          "en-us": "Select RoL in Programmer mode when Bit Shift is set to either \"Circular\" shift"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select RoR in Programmer mode when Bit Shift is set to either \"Circular\" shift",
+        "displayNames": {
+          "en-us": "Select RoR in Programmer mode when Bit Shift is set to either \"Circular\" shift"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select Lsh in Programmer mode when Bit Shift is set to \"Arithmetic\" or \"Logical\" shift",
+        "displayNames": {
+          "en-us": "Select Lsh in Programmer mode when Bit Shift is set to \"Arithmetic\" or \"Logical\" shift"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select Rsh in Programmer mode when Bit Shift is set to \"Arithmetic\" or \"Logical\" shift",
+        "displayNames": {
+          "en-us": "Select Rsh in Programmer mode when Bit Shift is set to \"Arithmetic\" or \"Logical\" shift"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Decimal"
+          ]
+        ]
+      }
+    ]
+  }
+]

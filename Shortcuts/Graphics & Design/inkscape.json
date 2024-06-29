@@ -1,0 +1,1881 @@
+[
+  {
+    "groupInternalName": "Tools",
+    "shortcuts": [
+      {
+        "internalName": "Selector",
+        "displayNames": {
+          "en-us": "Selector"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Selector (temporary)",
+        "displayNames": {
+          "en-us": "Selector (temporary)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Node tool",
+        "displayNames": {
+          "en-us": "Node tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom tool",
+        "displayNames": {
+          "en-us": "Zoom tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Measure tool",
+        "displayNames": {
+          "en-us": "Measure tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Ractangle tool",
+        "displayNames": {
+          "en-us": "Ractangle tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "3D box tool",
+        "displayNames": {
+          "en-us": "3D box tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Ellipse/arc tool",
+        "displayNames": {
+          "en-us": "Ellipse/arc tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Star tool",
+        "displayNames": {
+          "en-us": "Star tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Spiral tool",
+        "displayNames": {
+          "en-us": "Spiral tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pencil (Freehand) tool",
+        "displayNames": {
+          "en-us": "Pencil (Freehand) tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pen (Bezier) tool",
+        "displayNames": {
+          "en-us": "Pen (Bezier) tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Calligraphic tool",
+        "displayNames": {
+          "en-us": "Calligraphic tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Text tool",
+        "displayNames": {
+          "en-us": "Text tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Spray tool",
+        "displayNames": {
+          "en-us": "Spray tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Eraser tool",
+        "displayNames": {
+          "en-us": "Eraser tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paint bucket tool",
+        "displayNames": {
+          "en-us": "Paint bucket tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Gradient tool",
+        "displayNames": {
+          "en-us": "Gradient tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Dropper tool",
+        "displayNames": {
+          "en-us": "Dropper tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Connector tool",
+        "displayNames": {
+          "en-us": "Connector tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F2"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Dialogs",
+    "shortcuts": [
+      {
+        "internalName": "Fill and Stroke",
+        "displayNames": {
+          "en-us": "Fill and Stroke"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Swatches",
+        "displayNames": {
+          "en-us": "Swatches"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Text and font",
+        "displayNames": {
+          "en-us": "Text and font"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Transform",
+        "displayNames": {
+          "en-us": "Transform"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Layers",
+        "displayNames": {
+          "en-us": "Layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Align and Distribute",
+        "displayNames": {
+          "en-us": "Align and Distribute"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Object Properties",
+        "displayNames": {
+          "en-us": "Object Properties"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo history",
+        "displayNames": {
+          "en-us": "Undo history"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "XML editor",
+        "displayNames": {
+          "en-us": "XML editor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Document preferences",
+        "displayNames": {
+          "en-us": "Document preferences"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Inkscape preferences",
+        "displayNames": {
+          "en-us": "Inkscape preferences"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Export to PNG",
+        "displayNames": {
+          "en-us": "Export to PNG"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find",
+        "displayNames": {
+          "en-us": "Find"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Trace bitmap",
+        "displayNames": {
+          "en-us": "Trace bitmap"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Path Effects",
+        "displayNames": {
+          "en-us": "Path Effects"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Check Spelling",
+        "displayNames": {
+          "en-us": "Check Spelling"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle dialogs",
+        "displayNames": {
+          "en-us": "Toggle dialogs"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F12"
+          ]
+        ]
+      },
+      {
+        "internalName": "Return to the canvas",
+        "displayNames": {
+          "en-us": "Return to the canvas"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close the dialog",
+        "displayNames": {
+          "en-us": "Close the dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to the next widget",
+        "displayNames": {
+          "en-us": "Jump to the next widget"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to previous widget",
+        "displayNames": {
+          "en-us": "Jump to previous widget"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set the new value",
+        "displayNames": {
+          "en-us": "Set the new value"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate current button or list",
+        "displayNames": {
+          "en-us": "Activate current button or list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "In a multi-tab dialog, switch tabs",
+        "displayNames": {
+          "en-us": "In a multi-tab dialog, switch tabs"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open a search field in a dialog with a list",
+        "displayNames": {
+          "en-us": "Open a search field in a dialog with a list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "XML editor",
+    "shortcuts": [
+      {
+        "internalName": "Expand all children and subchildren of the currently selected element",
+        "displayNames": {
+          "en-us": "Expand all children and subchildren of the currently selected element"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand direct children of the currently selected element",
+        "displayNames": {
+          "en-us": "Expand direct children of the currently selected element"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse the currently selected element",
+        "displayNames": {
+          "en-us": "Collapse the currently selected element"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the topmost/lowermost visible element in the list",
+        "displayNames": {
+          "en-us": "Select the topmost/lowermost visible element in the list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the previous/next visible element in the list",
+        "displayNames": {
+          "en-us": "Select the previous/next visible element in the list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select element on previous/next page of list",
+        "displayNames": {
+          "en-us": "Select element on previous/next page of list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set the attribute's value",
+        "displayNames": {
+          "en-us": "Set the attribute's value"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Controls bar",
+    "shortcuts": [
+      {
+        "internalName": "Jump to the first editable filed",
+        "displayNames": {
+          "en-us": "Jump to the first editable filed"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to next field",
+        "displayNames": {
+          "en-us": "Jump to next field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to previous field",
+        "displayNames": {
+          "en-us": "Jump to previous field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Change value by 0.1",
+        "displayNames": {
+          "en-us": "Change value by 0.1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Change value by 5.0",
+        "displayNames": {
+          "en-us": "Change value by 5.0"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Accept the new value",
+        "displayNames": {
+          "en-us": "Accept the new value"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cancel changes, return to canvas",
+        "displayNames": {
+          "en-us": "Cancel changes, return to canvas"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cancel changes",
+        "displayNames": {
+          "en-us": "Cancel changes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Canvas",
+    "shortcuts": [
+      {
+        "internalName": "Zoom in",
+        "displayNames": {
+          "en-us": "Zoom in"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom out",
+        "displayNames": {
+          "en-us": "Zoom out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate zoon field",
+        "displayNames": {
+          "en-us": "Activate zoon field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom 1:1",
+        "displayNames": {
+          "en-us": "Zoom 1:1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom 1:2",
+        "displayNames": {
+          "en-us": "Zoom 1:2"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom to selection",
+        "displayNames": {
+          "en-us": "Zoom to selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Cancel"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom to drawing",
+        "displayNames": {
+          "en-us": "Zoom to drawing"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom to page",
+        "displayNames": {
+          "en-us": "Zoom to page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom to page width",
+        "displayNames": {
+          "en-us": "Zoom to page width"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous zoom",
+        "displayNames": {
+          "en-us": "Previous zoom"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "192"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next zoom",
+        "displayNames": {
+          "en-us": "Next zoom"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "222"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll canvas",
+        "displayNames": {
+          "en-us": "Scroll canvas"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle guides and snapping to guides",
+        "displayNames": {
+          "en-us": "Toggle guides and snapping to guides"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle grids and snapping to grids",
+        "displayNames": {
+          "en-us": "Toggle grids and snapping to grids"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Cancel"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle snapping on and off",
+        "displayNames": {
+          "en-us": "Toggle snapping on and off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number5"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Document",
+    "shortcuts": [
+      {
+        "internalName": "resize page to current selection, or to the drawing if nothing is selected",
+        "displayNames": {
+          "en-us": "resize page to current selection, or to the drawing if nothing is selected"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "R"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "File",
+    "shortcuts": [
+      {
+        "internalName": "Create new document",
+        "displayNames": {
+          "en-us": "Create new document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open an SVG document",
+        "displayNames": {
+          "en-us": "Open an SVG document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Export to PNG",
+        "displayNames": {
+          "en-us": "Export to PNG"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Import bitmap or SVG",
+        "displayNames": {
+          "en-us": "Import bitmap or SVG"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print document",
+        "displayNames": {
+          "en-us": "Print document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save document",
+        "displayNames": {
+          "en-us": "Save document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save under a new name",
+        "displayNames": {
+          "en-us": "Save under a new name"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save a copy",
+        "displayNames": {
+          "en-us": "Save a copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Exit inkscape",
+        "displayNames": {
+          "en-us": "Exit inkscape"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Q"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Window",
+    "shortcuts": [
+      {
+        "internalName": "Toggle rulers",
+        "displayNames": {
+          "en-us": "Toggle rulers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle scrollbars",
+        "displayNames": {
+          "en-us": "Toggle scrollbars"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "toggle palette",
+        "displayNames": {
+          "en-us": "toggle palette"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle fullscreen",
+        "displayNames": {
+          "en-us": "Toggle fullscreen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle toolbars",
+        "displayNames": {
+          "en-us": "Toggle toolbars"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle toolbars and fullscreen",
+        "displayNames": {
+          "en-us": "Toggle toolbars and fullscreen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Main menu",
+        "displayNames": {
+          "en-us": "Main menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Drop-down menu",
+        "displayNames": {
+          "en-us": "Drop-down menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close document window",
+        "displayNames": {
+          "en-us": "Close document window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next document window",
+        "displayNames": {
+          "en-us": "Next document window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous document window",
+        "displayNames": {
+          "en-us": "Previous document window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Tab"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Layers",
+    "shortcuts": [
+      {
+        "internalName": "Create new layer",
+        "displayNames": {
+          "en-us": "Create new layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to layer above",
+        "displayNames": {
+          "en-us": "Move to layer above"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to layer below",
+        "displayNames": {
+          "en-us": "Move to layer below"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Raise layer",
+        "displayNames": {
+          "en-us": "Raise layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Lower layer",
+        "displayNames": {
+          "en-us": "Lower layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Raise layer to top",
+        "displayNames": {
+          "en-us": "Raise layer to top"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Lower layer to bottom",
+        "displayNames": {
+          "en-us": "Lower layer to bottom"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "End"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Object",
+    "shortcuts": [
+      {
+        "internalName": "Undo",
+        "displayNames": {
+          "en-us": "Undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy selection",
+        "displayNames": {
+          "en-us": "Copy selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut selection",
+        "displayNames": {
+          "en-us": "Cut selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste clipboard",
+        "displayNames": {
+          "en-us": "Paste clipboard"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste in place",
+        "displayNames": {
+          "en-us": "Paste in place"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste style",
+        "displayNames": {
+          "en-us": "Paste style"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste path effect",
+        "displayNames": {
+          "en-us": "Paste path effect"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Duplicate selection",
+        "displayNames": {
+          "en-us": "Duplicate selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clone object",
+        "displayNames": {
+          "en-us": "Clone object"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Unlink clone",
+        "displayNames": {
+          "en-us": "Unlink clone"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select original",
+        "displayNames": {
+          "en-us": "Select original"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a bitmap copy",
+        "displayNames": {
+          "en-us": "Create a bitmap copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Trace bitmap",
+        "displayNames": {
+          "en-us": "Trace bitmap"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Object to pattern",
+        "displayNames": {
+          "en-us": "Object to pattern"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pattern to objects",
+        "displayNames": {
+          "en-us": "Pattern to objects"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Group selected objects",
+        "displayNames": {
+          "en-us": "Group selected objects"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Ungroup selected objects",
+        "displayNames": {
+          "en-us": "Ungroup selected objects"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Raise selection to top",
+        "displayNames": {
+          "en-us": "Raise selection to top"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Lower selection to bottom",
+        "displayNames": {
+          "en-us": "Lower selection to bottom"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Raise selection one step",
+        "displayNames": {
+          "en-us": "Raise selection one step"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Lower selection one step",
+        "displayNames": {
+          "en-us": "Lower selection one step"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageDown"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Tweak tool",
+    "shortcuts": [
+      {
+        "internalName": "Move mode",
+        "displayNames": {
+          "en-us": "Move mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move in/out mode",
+        "displayNames": {
+          "en-us": "Move in/out mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move jitter mode",
+        "displayNames": {
+          "en-us": "Move jitter mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scale mode",
+        "displayNames": {
+          "en-us": "Scale mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate mode",
+        "displayNames": {
+          "en-us": "Rotate mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Duplicate/Delete mode",
+        "displayNames": {
+          "en-us": "Duplicate/Delete mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Push path mode",
+        "displayNames": {
+          "en-us": "Push path mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Shrink/Grow path mode",
+        "displayNames": {
+          "en-us": "Shrink/Grow path mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Attract/Repel path mode",
+        "displayNames": {
+          "en-us": "Attract/Repel path mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Roughen mode",
+        "displayNames": {
+          "en-us": "Roughen mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Color paint mode",
+        "displayNames": {
+          "en-us": "Color paint mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Color jitter mode",
+        "displayNames": {
+          "en-us": "Color jitter mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Blur mode",
+        "displayNames": {
+          "en-us": "Blur mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Adjust brush width by",
+        "displayNames": {
+          "en-us": "Adjust brush width by"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set brush width to its minimum or maximum",
+        "displayNames": {
+          "en-us": "Set brush width to its minimum or maximum"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Adjust tweaking force",
+        "displayNames": {
+          "en-us": "Adjust tweaking force"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      }
+    ]
+  }
+]

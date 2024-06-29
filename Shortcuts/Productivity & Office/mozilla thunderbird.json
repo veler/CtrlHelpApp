@@ -1,0 +1,2080 @@
+[
+  {
+    "groupInternalName": "New Messages",
+    "shortcuts": [
+      {
+        "internalName": "New message",
+        "displayNames": {
+          "en-us": "New message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reply to Message (sender only)",
+        "displayNames": {
+          "en-us": "Reply to Message (sender only)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reply to All in Message (sender and all recipients)",
+        "displayNames": {
+          "en-us": "Reply to All in Message (sender and all recipients)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reply to List",
+        "displayNames": {
+          "en-us": "Reply to List"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Forward Message",
+        "displayNames": {
+          "en-us": "Forward Message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Edit Message as New",
+        "displayNames": {
+          "en-us": "Edit Message as New"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Get New Messages for Current Account",
+        "displayNames": {
+          "en-us": "Get New Messages for Current Account"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Get New Messages for All Accounts",
+        "displayNames": {
+          "en-us": "Get New Messages for All Accounts"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open message (in new window or tab)",
+        "displayNames": {
+          "en-us": "Open message (in new window or tab)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open message in conversation",
+        "displayNames": {
+          "en-us": "Open message in conversation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom In",
+        "displayNames": {
+          "en-us": "Zoom In"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom Out",
+        "displayNames": {
+          "en-us": "Zoom Out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reset Zoom",
+        "displayNames": {
+          "en-us": "Reset Zoom"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand Collapsed Thread",
+        "displayNames": {
+          "en-us": "Expand Collapsed Thread"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse Expanded Thread",
+        "displayNames": {
+          "en-us": "Collapse Expanded Thread"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand All Threads",
+        "displayNames": {
+          "en-us": "Expand All Threads"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse All Threads",
+        "displayNames": {
+          "en-us": "Collapse All Threads"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Newsgroups: Ignore or Unignore Thread",
+        "displayNames": {
+          "en-us": "Newsgroups: Ignore or Unignore Thread"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Newsgroups: Ignore or Unignore Subthread",
+        "displayNames": {
+          "en-us": "Newsgroups: Ignore or Unignore Subthread"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Newsgroups: Watch Thread",
+        "displayNames": {
+          "en-us": "Newsgroups: Watch Thread"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Manage Messages",
+    "shortcuts": [
+      {
+        "internalName": "Print message or selected message text",
+        "displayNames": {
+          "en-us": "Print message or selected message text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save Message as File",
+        "displayNames": {
+          "en-us": "Save Message as File"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "View Message Source",
+        "displayNames": {
+          "en-us": "View Message Source"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select All (messages, text, or attachments)",
+        "displayNames": {
+          "en-us": "Select All (messages, text, or attachments)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select Thread",
+        "displayNames": {
+          "en-us": "Select Thread"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Caret browsing (select text with keyboard)",
+        "displayNames": {
+          "en-us": "Toggle Caret browsing (select text with keyboard)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy selected text",
+        "displayNames": {
+          "en-us": "Copy selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut selected search text",
+        "displayNames": {
+          "en-us": "Cut selected search text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste text into search or filter fields",
+        "displayNames": {
+          "en-us": "Paste text into search or filter fields"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move/Copy message to previous target folder Again",
+        "displayNames": {
+          "en-us": "Move/Copy message to previous target folder Again"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Archive Message",
+        "displayNames": {
+          "en-us": "Archive Message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete selected element",
+        "displayNames": {
+          "en-us": "Delete selected element"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete message bypassing trash (no Undo!)",
+        "displayNames": {
+          "en-us": "Delete message bypassing trash (no Undo!)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo",
+        "displayNames": {
+          "en-us": "Undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rename Folder",
+        "displayNames": {
+          "en-us": "Rename Folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add/Remove Tag",
+        "displayNames": {
+          "en-us": "Add/Remove Tag"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark Message as Read/Unread",
+        "displayNames": {
+          "en-us": "Mark Message as Read/Unread"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark Thread as Read",
+        "displayNames": {
+          "en-us": "Mark Thread as Read"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark All Read",
+        "displayNames": {
+          "en-us": "Mark All Read"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark as Read By Date",
+        "displayNames": {
+          "en-us": "Mark as Read By Date"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark as Junk",
+        "displayNames": {
+          "en-us": "Mark as Junk"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark as Not Junk",
+        "displayNames": {
+          "en-us": "Mark as Not Junk"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add/Remove Star",
+        "displayNames": {
+          "en-us": "Add/Remove Star"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Search and filter",
+    "shortcuts": [
+      {
+        "internalName": "Search All Messages of All Accounts",
+        "displayNames": {
+          "en-us": "Search All Messages of All Accounts"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quick Filter",
+        "displayNames": {
+          "en-us": "Quick Filter"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear current Quick Filter; hide Quick Filter Bar",
+        "displayNames": {
+          "en-us": "Clear current Quick Filter; hide Quick Filter Bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search Messages (advanced search in folder)",
+        "displayNames": {
+          "en-us": "Search Messages (advanced search in folder)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find Text in Current Message",
+        "displayNames": {
+          "en-us": "Find Text in Current Message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find Again in Current Message",
+        "displayNames": {
+          "en-us": "Find Again in Current Message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find Previous in Current Message",
+        "displayNames": {
+          "en-us": "Find Previous in Current Message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "G"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Navigation",
+    "shortcuts": [
+      {
+        "internalName": "Go to Mail Start Page",
+        "displayNames": {
+          "en-us": "Go to Mail Start Page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll Down Current Message and go to next Unread",
+        "displayNames": {
+          "en-us": "Scroll Down Current Message and go to next Unread"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Next Message",
+        "displayNames": {
+          "en-us": "Go to Next Message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Previous Message",
+        "displayNames": {
+          "en-us": "Go to Previous Message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Next Unread Message",
+        "displayNames": {
+          "en-us": "Go to Next Unread Message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Previous Unread Message",
+        "displayNames": {
+          "en-us": "Go to Previous Unread Message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Next Unread Thread (and mark current as read)",
+        "displayNames": {
+          "en-us": "Go to Next Unread Thread (and mark current as read)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Next Viewed Message",
+        "displayNames": {
+          "en-us": "Go to Next Viewed Message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Previous Viewed Message",
+        "displayNames": {
+          "en-us": "Go to Previous Viewed Message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "219"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Windows and Tabs",
+    "shortcuts": [
+      {
+        "internalName": "Move to Next UI Element",
+        "displayNames": {
+          "en-us": "Move to Next UI Element"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to Previous UI Element",
+        "displayNames": {
+          "en-us": "Move to Previous UI Element"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to Next Mail Pane",
+        "displayNames": {
+          "en-us": "Move to Next Mail Pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to Previous Mail Pane",
+        "displayNames": {
+          "en-us": "Move to Previous Mail Pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next Tab",
+        "displayNames": {
+          "en-us": "Next Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Tab",
+        "displayNames": {
+          "en-us": "Previous Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mail &amp; Newsgroups Home Tab (Tab 1)",
+        "displayNames": {
+          "en-us": "Mail &amp; Newsgroups Home Tab (Tab 1)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Last Tab",
+        "displayNames": {
+          "en-us": "Last Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Address Book",
+        "displayNames": {
+          "en-us": "Address Book"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Saved Files",
+        "displayNames": {
+          "en-us": "Saved Files"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Help",
+        "displayNames": {
+          "en-us": "Help"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Developer Tools",
+        "displayNames": {
+          "en-us": "Developer Tools"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Message Pane",
+        "displayNames": {
+          "en-us": "Toggle Message Pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close window or tab",
+        "displayNames": {
+          "en-us": "Close window or tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo close tab",
+        "displayNames": {
+          "en-us": "Undo close tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quit Thunderbird (Exit Application)",
+        "displayNames": {
+          "en-us": "Quit Thunderbird (Exit Application)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Q"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Writing Messages",
+    "shortcuts": [
+      {
+        "internalName": "New message (see Starting a new message)",
+        "displayNames": {
+          "en-us": "New message (see Starting a new message)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save Draft",
+        "displayNames": {
+          "en-us": "Save Draft"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print Draft",
+        "displayNames": {
+          "en-us": "Print Draft"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Send Message Now",
+        "displayNames": {
+          "en-us": "Send Message Now"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Send Message Later",
+        "displayNames": {
+          "en-us": "Send Message Later"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Contacts Sidebar",
+        "displayNames": {
+          "en-us": "Toggle Contacts Sidebar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to next main UI element",
+        "displayNames": {
+          "en-us": "Move to next main UI element"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to previous main UI element",
+        "displayNames": {
+          "en-us": "Move to previous main UI element"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom In",
+        "displayNames": {
+          "en-us": "Zoom In"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom Out",
+        "displayNames": {
+          "en-us": "Zoom Out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reset Zoom",
+        "displayNames": {
+          "en-us": "Reset Zoom"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Attachment Pane",
+        "displayNames": {
+          "en-us": "Toggle Attachment Pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Main Mail Window (Mail &amp; Newsgroups)",
+        "displayNames": {
+          "en-us": "Show Main Mail Window (Mail &amp; Newsgroups)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy",
+        "displayNames": {
+          "en-us": "Copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut",
+        "displayNames": {
+          "en-us": "Cut"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste",
+        "displayNames": {
+          "en-us": "Paste"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste as quotation",
+        "displayNames": {
+          "en-us": "Paste as quotation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste without formatting",
+        "displayNames": {
+          "en-us": "Paste without formatting"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rewrap message text",
+        "displayNames": {
+          "en-us": "Rewrap message text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete selected text, attachment, etc",
+        "displayNames": {
+          "en-us": "Delete selected text, attachment, etc"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete word to the right",
+        "displayNames": {
+          "en-us": "Delete word to the right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete word to the left",
+        "displayNames": {
+          "en-us": "Delete word to the left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select All (text in a message, or attachments)",
+        "displayNames": {
+          "en-us": "Select All (text in a message, or attachments)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert Link",
+        "displayNames": {
+          "en-us": "Insert Link"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Discontinue Link, or Remove Links from selection",
+        "displayNames": {
+          "en-us": "Discontinue Link, or Remove Links from selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove Named Anchors",
+        "displayNames": {
+          "en-us": "Remove Named Anchors"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo",
+        "displayNames": {
+          "en-us": "Undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find and Replace Text in Current Message",
+        "displayNames": {
+          "en-us": "Find and Replace Text in Current Message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find Again in Current Message",
+        "displayNames": {
+          "en-us": "Find Again in Current Message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find Previous in Current Message",
+        "displayNames": {
+          "en-us": "Find Previous in Current Message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Check Spelling",
+        "displayNames": {
+          "en-us": "Check Spelling"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Attach File",
+        "displayNames": {
+          "en-us": "Attach File"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rename Attachment",
+        "displayNames": {
+          "en-us": "Rename Attachment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reorder Attachments",
+        "displayNames": {
+          "en-us": "Reorder Attachments"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert a line break instead of a new paragraph",
+        "displayNames": {
+          "en-us": "Insert a line break instead of a new paragraph"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to Top",
+        "displayNames": {
+          "en-us": "Move to Top"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move Up",
+        "displayNames": {
+          "en-us": "Move Up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move together",
+        "displayNames": {
+          "en-us": "Move together"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move Down",
+        "displayNames": {
+          "en-us": "Move Down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to Bottom",
+        "displayNames": {
+          "en-us": "Move to Bottom"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Sort (All attachments or selected attachments)",
+        "displayNames": {
+          "en-us": "Sort (All attachments or selected attachments)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Larger Font Size",
+        "displayNames": {
+          "en-us": "Larger Font Size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "190"
+          ]
+        ]
+      },
+      {
+        "internalName": "Smaller Font Size",
+        "displayNames": {
+          "en-us": "Smaller Font Size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Text Style Bold",
+        "displayNames": {
+          "en-us": "Text Style Bold"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Text Style Italics",
+        "displayNames": {
+          "en-us": "Text Style Italics"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Text Style Underline",
+        "displayNames": {
+          "en-us": "Text Style Underline"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Text Style \"&lt;tt&gt;Fixed Width&lt;/tt&gt;\"",
+        "displayNames": {
+          "en-us": "Text Style \"&lt;tt&gt;Fixed Width&lt;/tt&gt;\""
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Discontinue or Remove Text Styles",
+        "displayNames": {
+          "en-us": "Discontinue or Remove Text Styles"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase Indent",
+        "displayNames": {
+          "en-us": "Increase Indent"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease Indent",
+        "displayNames": {
+          "en-us": "Decrease Indent"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "219"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Address Book",
+    "shortcuts": [
+      {
+        "internalName": "New Address Book Contact",
+        "displayNames": {
+          "en-us": "New Address Book Contact"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Write new message to selected contact(s)",
+        "displayNames": {
+          "en-us": "Write new message to selected contact(s)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Addressbook Advanced Search",
+        "displayNames": {
+          "en-us": "Addressbook Advanced Search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Edit Properties of selected contact or address book",
+        "displayNames": {
+          "en-us": "Edit Properties of selected contact or address book"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select all (contacts, or search text)",
+        "displayNames": {
+          "en-us": "Select all (contacts, or search text)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print selected contacts",
+        "displayNames": {
+          "en-us": "Print selected contacts"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete (selected text, contact, or address book)",
+        "displayNames": {
+          "en-us": "Delete (selected text, contact, or address book)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Main Mail Window (Mail &amp; Newsgroups)",
+        "displayNames": {
+          "en-us": "Show Main Mail Window (Mail &amp; Newsgroups)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Calendar &amp; Tasks",
+    "shortcuts": [
+      {
+        "internalName": "Clear current Events Filter",
+        "displayNames": {
+          "en-us": "Clear current Events Filter"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Today",
+        "displayNames": {
+          "en-us": "Go to Today"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Day View",
+        "displayNames": {
+          "en-us": "Day View"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Week View",
+        "displayNames": {
+          "en-us": "Week View"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Multiweek View",
+        "displayNames": {
+          "en-us": "Multiweek View"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Month View",
+        "displayNames": {
+          "en-us": "Month View"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Filter Tasks",
+        "displayNames": {
+          "en-us": "Filter Tasks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear current Tasks Filter",
+        "displayNames": {
+          "en-us": "Clear current Tasks Filter"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Lightning Add-on",
+    "shortcuts": [
+      {
+        "internalName": "Show or hide Today Pane",
+        "displayNames": {
+          "en-us": "Show or hide Today Pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Calendar tab",
+        "displayNames": {
+          "en-us": "Calendar tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Tasks tab",
+        "displayNames": {
+          "en-us": "Tasks tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mail &amp; Newsgroups Home Tab (Tab 1)",
+        "displayNames": {
+          "en-us": "Mail &amp; Newsgroups Home Tab (Tab 1)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "New Event",
+        "displayNames": {
+          "en-us": "New Event"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "New Task",
+        "displayNames": {
+          "en-us": "New Task"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Copy (selected events, tasks, or text)",
+        "displayNames": {
+          "en-us": "Copy (selected events, tasks, or text)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut (selected events, tasks, or text)",
+        "displayNames": {
+          "en-us": "Cut (selected events, tasks, or text)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste",
+        "displayNames": {
+          "en-us": "Paste"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete (selected events, tasks, or text)",
+        "displayNames": {
+          "en-us": "Delete (selected events, tasks, or text)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo",
+        "displayNames": {
+          "en-us": "Undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print",
+        "displayNames": {
+          "en-us": "Print"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear History",
+        "displayNames": {
+          "en-us": "Clear History"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Delete"
+          ]
+        ]
+      }
+    ]
+  }
+]

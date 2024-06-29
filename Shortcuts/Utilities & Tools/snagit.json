@@ -1,0 +1,572 @@
+[
+  {
+    "groupInternalName": "Capture",
+    "shortcuts": [
+      {
+        "internalName": "Video Selection Guides",
+        "displayNames": {
+          "en-us": "Video Selection Guides"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start Recording",
+        "displayNames": {
+          "en-us": "Start Recording"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pause/Resume Recording",
+        "displayNames": {
+          "en-us": "Pause/Resume Recording"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Stop Recording",
+        "displayNames": {
+          "en-us": "Stop Recording"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Magnifier",
+        "displayNames": {
+          "en-us": "Magnifier"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide Capture Help",
+        "displayNames": {
+          "en-us": "Show/Hide Capture Help"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll Horizontally",
+        "displayNames": {
+          "en-us": "Scroll Horizontally"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll Vertically",
+        "displayNames": {
+          "en-us": "Scroll Vertically"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll Diagonally",
+        "displayNames": {
+          "en-us": "Scroll Diagonally"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Capture 1:1 Aspect Ratio (Square)",
+        "displayNames": {
+          "en-us": "Capture 1:1 Aspect Ratio (Square)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift"
+          ]
+        ]
+      },
+      {
+        "internalName": "Take a Capture",
+        "displayNames": {
+          "en-us": "Take a Capture"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start a Region Selection",
+        "displayNames": {
+          "en-us": "Start a Region Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Enter"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Snagit Editor",
+    "shortcuts": [
+      {
+        "internalName": "Hide Snagit",
+        "displayNames": {
+          "en-us": "Hide Snagit"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "New Image",
+        "displayNames": {
+          "en-us": "New Image"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "New from Clipboard",
+        "displayNames": {
+          "en-us": "New from Clipboard"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create Image from Template",
+        "displayNames": {
+          "en-us": "Create Image from Template"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open",
+        "displayNames": {
+          "en-us": "Open"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close Capture",
+        "displayNames": {
+          "en-us": "Close Capture"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save",
+        "displayNames": {
+          "en-us": "Save"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save As",
+        "displayNames": {
+          "en-us": "Save As"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print",
+        "displayNames": {
+          "en-us": "Print"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo",
+        "displayNames": {
+          "en-us": "Undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut",
+        "displayNames": {
+          "en-us": "Cut"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy",
+        "displayNames": {
+          "en-us": "Copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy All",
+        "displayNames": {
+          "en-us": "Copy All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste",
+        "displayNames": {
+          "en-us": "Paste"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Duplicate",
+        "displayNames": {
+          "en-us": "Duplicate"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete",
+        "displayNames": {
+          "en-us": "Delete"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select All",
+        "displayNames": {
+          "en-us": "Select All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Deselect All",
+        "displayNames": {
+          "en-us": "Deselect All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Invert Selection",
+        "displayNames": {
+          "en-us": "Invert Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Bring Forward",
+        "displayNames": {
+          "en-us": "Bring Forward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Bring Backward",
+        "displayNames": {
+          "en-us": "Bring Backward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Group",
+        "displayNames": {
+          "en-us": "Group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Ungroup",
+        "displayNames": {
+          "en-us": "Ungroup"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next Image (Video from Images)",
+        "displayNames": {
+          "en-us": "Next Image (Video from Images)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Image (Video from Images)",
+        "displayNames": {
+          "en-us": "Previous Image (Video from Images)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Flatten",
+        "displayNames": {
+          "en-us": "Flatten"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Flatten All",
+        "displayNames": {
+          "en-us": "Flatten All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Actual Size",
+        "displayNames": {
+          "en-us": "Actual Size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom In",
+        "displayNames": {
+          "en-us": "Zoom In"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom Out",
+        "displayNames": {
+          "en-us": "Zoom Out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      }
+    ]
+  }
+]

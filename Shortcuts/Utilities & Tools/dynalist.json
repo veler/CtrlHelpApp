@@ -1,0 +1,467 @@
+[
+  {
+    "groupInternalName": "Interface",
+    "shortcuts": [
+      {
+        "internalName": "Open help",
+        "displayNames": {
+          "en-us": "Open help"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Exit search/file finder/search",
+        "displayNames": {
+          "en-us": "Exit search/file finder/search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle file pane",
+        "displayNames": {
+          "en-us": "Toggle file pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle bookmark pane",
+        "displayNames": {
+          "en-us": "Toggle bookmark pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "B"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Editing",
+    "shortcuts": [
+      {
+        "internalName": "Indent",
+        "displayNames": {
+          "en-us": "Indent"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Unindent",
+        "displayNames": {
+          "en-us": "Unindent"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete item",
+        "displayNames": {
+          "en-us": "Delete item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch between item and note",
+        "displayNames": {
+          "en-us": "Switch between item and note"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark as done",
+        "displayNames": {
+          "en-us": "Mark as done"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start new line",
+        "displayNames": {
+          "en-us": "Start new line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo",
+        "displayNames": {
+          "en-us": "Undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ],
+          [
+            "Control",
+            "Shift",
+            "Z"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Modifying lists",
+    "shortcuts": [
+      {
+        "internalName": "Expand/collapse",
+        "displayNames": {
+          "en-us": "Expand/collapse"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand/collapse all",
+        "displayNames": {
+          "en-us": "Expand/collapse all"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle checklist",
+        "displayNames": {
+          "en-us": "Toggle checklist"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle numbered list",
+        "displayNames": {
+          "en-us": "Toggle numbered list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "X"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Selecting",
+    "shortcuts": [
+      {
+        "internalName": "Select this and previous item",
+        "displayNames": {
+          "en-us": "Select this and previous item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select this and next item",
+        "displayNames": {
+          "en-us": "Select this and next item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select one more level upward",
+        "displayNames": {
+          "en-us": "Select one more level upward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select everything",
+        "displayNames": {
+          "en-us": "Select everything"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Navigating & moving",
+    "shortcuts": [
+      {
+        "internalName": "Zoom in",
+        "displayNames": {
+          "en-us": "Zoom in"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom out",
+        "displayNames": {
+          "en-us": "Zoom out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Swap with previous",
+        "displayNames": {
+          "en-us": "Swap with previous"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Swap with next",
+        "displayNames": {
+          "en-us": "Swap with next"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Down"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Formatting",
+    "shortcuts": [
+      {
+        "internalName": "Bold",
+        "displayNames": {
+          "en-us": "Bold"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Italic",
+        "displayNames": {
+          "en-us": "Italic"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle heading",
+        "displayNames": {
+          "en-us": "Toggle heading"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle color label",
+        "displayNames": {
+          "en-us": "Toggle color label"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Search",
+    "shortcuts": [
+      {
+        "internalName": "Search within document",
+        "displayNames": {
+          "en-us": "Search within document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search everywhere (in search bar)",
+        "displayNames": {
+          "en-us": "Search everywhere (in search bar)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open file finder",
+        "displayNames": {
+          "en-us": "Open file finder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open item finder (Pro)",
+        "displayNames": {
+          "en-us": "Open item finder (Pro)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "O"
+          ]
+        ]
+      }
+    ]
+  }
+]

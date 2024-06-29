@@ -1,0 +1,594 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Play/Pause",
+        "displayNames": {
+          "en-us": "Play/Pause"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase volume",
+        "displayNames": {
+          "en-us": "Increase volume"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease volume",
+        "displayNames": {
+          "en-us": "Decrease volume"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mute",
+        "displayNames": {
+          "en-us": "Mute"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turn Shuffle on or off",
+        "displayNames": {
+          "en-us": "Turn Shuffle on or off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turn Track repeat on or off",
+        "displayNames": {
+          "en-us": "Turn Track repeat on or off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to time",
+        "displayNames": {
+          "en-us": "Jump to time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Seek forward",
+        "displayNames": {
+          "en-us": "Seek forward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Seek backward",
+        "displayNames": {
+          "en-us": "Seek backward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next track",
+        "displayNames": {
+          "en-us": "Next track"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous track",
+        "displayNames": {
+          "en-us": "Previous track"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete current playing file",
+        "displayNames": {
+          "en-us": "Delete current playing file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "New playlist",
+        "displayNames": {
+          "en-us": "New playlist"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close playlist",
+        "displayNames": {
+          "en-us": "Close playlist"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rename playlist",
+        "displayNames": {
+          "en-us": "Rename playlist"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save playlist",
+        "displayNames": {
+          "en-us": "Save playlist"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add files",
+        "displayNames": {
+          "en-us": "Add files"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Insert"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add folder",
+        "displayNames": {
+          "en-us": "Add folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Insert"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add URL",
+        "displayNames": {
+          "en-us": "Add URL"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open playlist",
+        "displayNames": {
+          "en-us": "Open playlist"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quick search",
+        "displayNames": {
+          "en-us": "Quick search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Advanced search",
+        "displayNames": {
+          "en-us": "Advanced search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "File info",
+        "displayNames": {
+          "en-us": "File info"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "File location",
+        "displayNames": {
+          "en-us": "File location"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set mark 0 to 5",
+        "displayNames": {
+          "en-us": "Set mark 0 to 5"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select all files",
+        "displayNames": {
+          "en-us": "Select all files"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove all",
+        "displayNames": {
+          "en-us": "Remove all"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove selected tracks",
+        "displayNames": {
+          "en-us": "Remove selected tracks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Physically delete selected files",
+        "displayNames": {
+          "en-us": "Physically delete selected files"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove disabled files",
+        "displayNames": {
+          "en-us": "Remove disabled files"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove duplicates",
+        "displayNames": {
+          "en-us": "Remove duplicates"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove missing",
+        "displayNames": {
+          "en-us": "Remove missing"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Sort by title",
+        "displayNames": {
+          "en-us": "Sort by title"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Sort by folders",
+        "displayNames": {
+          "en-us": "Sort by folders"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Sort by duration",
+        "displayNames": {
+          "en-us": "Sort by duration"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Sort by artist",
+        "displayNames": {
+          "en-us": "Sort by artist"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Cancel"
+          ]
+        ]
+      },
+      {
+        "internalName": "Invert playlist",
+        "displayNames": {
+          "en-us": "Invert playlist"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Randomize playlist",
+        "displayNames": {
+          "en-us": "Randomize playlist"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add to queue",
+        "displayNames": {
+          "en-us": "Add to queue"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove from queue",
+        "displayNames": {
+          "en-us": "Remove from queue"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Queue manager",
+        "displayNames": {
+          "en-us": "Queue manager"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Preferences",
+        "displayNames": {
+          "en-us": "Preferences"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Stay on Top",
+        "displayNames": {
+          "en-us": "Stay on Top"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Audio Converter",
+        "displayNames": {
+          "en-us": "Audio Converter"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Audio Library",
+        "displayNames": {
+          "en-us": "Audio Library"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Tag Editor",
+        "displayNames": {
+          "en-us": "Tag Editor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      }
+    ]
+  }
+]

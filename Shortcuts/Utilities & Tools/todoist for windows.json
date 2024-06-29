@@ -1,0 +1,321 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Open or close menu",
+        "displayNames": {
+          "en-us": "Open or close menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enter multi-select mode",
+        "displayNames": {
+          "en-us": "Enter multi-select mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add a task (with Quick Add)",
+        "displayNames": {
+          "en-us": "Add a task (with Quick Add)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add a task at the bottom of the list",
+        "displayNames": {
+          "en-us": "Add a task at the bottom of the list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add a task at the top of the list",
+        "displayNames": {
+          "en-us": "Add a task at the top of the list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add a section",
+        "displayNames": {
+          "en-us": "Add a section"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open search",
+        "displayNames": {
+          "en-us": "Open search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Manually sync",
+        "displayNames": {
+          "en-us": "Manually sync"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Navigate to default page",
+        "displayNames": {
+          "en-us": "Navigate to default page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Navigate to previous view",
+        "displayNames": {
+          "en-us": "Navigate to previous view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Quick Add",
+    "shortcuts": [
+      {
+        "internalName": "Add a label",
+        "displayNames": {
+          "en-us": "Add a label"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pick a project",
+        "displayNames": {
+          "en-us": "Pick a project"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pick a section",
+        "displayNames": {
+          "en-us": "Pick a section"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add an assignee",
+        "displayNames": {
+          "en-us": "Add an assignee"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save and go to comments",
+        "displayNames": {
+          "en-us": "Save and go to comments"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open full task editor",
+        "displayNames": {
+          "en-us": "Open full task editor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Tasks",
+    "shortcuts": [
+      {
+        "internalName": "Cancel current changes",
+        "displayNames": {
+          "en-us": "Cancel current changes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save new task + create one below",
+        "displayNames": {
+          "en-us": "Save new task + create one below"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Sub-tasks",
+    "shortcuts": [
+      {
+        "internalName": "Increase task indent",
+        "displayNames": {
+          "en-us": "Increase task indent"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease task indent",
+        "displayNames": {
+          "en-us": "Decrease task indent"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Left"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Sorting",
+    "shortcuts": [
+      {
+        "internalName": "Sort by date",
+        "displayNames": {
+          "en-us": "Sort by date"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Sort by priority",
+        "displayNames": {
+          "en-us": "Sort by priority"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Sort by name",
+        "displayNames": {
+          "en-us": "Sort by name"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Sort by assignee",
+        "displayNames": {
+          "en-us": "Sort by assignee"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      }
+    ]
+  }
+]

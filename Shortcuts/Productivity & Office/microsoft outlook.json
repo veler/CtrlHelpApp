@@ -1,0 +1,5104 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Close a window or a menu",
+        "displayNames": {
+          "en-us": "Close a window or a menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the Home tab",
+        "displayNames": {
+          "en-us": "Go to the Home tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a new message",
+        "displayNames": {
+          "en-us": "Create a new message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert a file",
+        "displayNames": {
+          "en-us": "Insert a file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "N"
+          ],
+          [
+            "Menu",
+            "A"
+          ],
+          [
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "New task",
+        "displayNames": {
+          "en-us": "New task"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete an item (when a message, task, or meeting is selected)",
+        "displayNames": {
+          "en-us": "Delete an item (when a message, task, or meeting is selected)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search for an item",
+        "displayNames": {
+          "en-us": "Search for an item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reply to a message",
+        "displayNames": {
+          "en-us": "Reply to a message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "R"
+          ],
+          [
+            "Menu",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy an item",
+        "displayNames": {
+          "en-us": "Copy an item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the Send/Receive tab",
+        "displayNames": {
+          "en-us": "Go to the Send/Receive tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "J"
+          ],
+          [
+            "Menu",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Calendar",
+        "displayNames": {
+          "en-us": "Go to Calendar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Save As dialog on the Attachment tab",
+        "displayNames": {
+          "en-us": "Open the Save As dialog on the Attachment tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "J"
+          ],
+          [
+            "Menu",
+            "A"
+          ],
+          [
+            "Menu",
+            "A"
+          ],
+          [
+            "Menu",
+            "V"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Basic navigation",
+    "shortcuts": [
+      {
+        "internalName": "Switch to the Mail view",
+        "displayNames": {
+          "en-us": "Switch to the Mail view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to the Calendar view",
+        "displayNames": {
+          "en-us": "Switch to the Calendar view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to the Contacts view",
+        "displayNames": {
+          "en-us": "Switch to the Contacts view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to the Tasks view",
+        "displayNames": {
+          "en-us": "Switch to the Tasks view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to the Notes",
+        "displayNames": {
+          "en-us": "Switch to the Notes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to the Folder list in the Folder pane",
+        "displayNames": {
+          "en-us": "Switch to the Folder list in the Folder pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to Shortcuts",
+        "displayNames": {
+          "en-us": "Switch to Shortcuts"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Journal",
+        "displayNames": {
+          "en-us": "Open Journal"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Address Book",
+        "displayNames": {
+          "en-us": "Open the Address Book"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go back to previous view",
+        "displayNames": {
+          "en-us": "Go back to previous view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go forward to next view",
+        "displayNames": {
+          "en-us": "Go forward to next view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to next open message",
+        "displayNames": {
+          "en-us": "Switch to next open message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to previous open message",
+        "displayNames": {
+          "en-us": "Switch to previous open message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move between the Folder pane, the main Outlook window, the Reading pane, and the To-Do bar",
+        "displayNames": {
+          "en-us": "Move between the Folder pane, the main Outlook window, the Reading pane, and the To-Do bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move between the Outlook window, the smaller panes in the Folder pane, the Reading pane, and the sections in the To-Do bar",
+        "displayNames": {
+          "en-us": "Move between the Outlook window, the smaller panes in the Folder pane, the Reading pane, and the sections in the To-Do bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move between the ribbon and the calendar",
+        "displayNames": {
+          "en-us": "Move between the ribbon and the calendar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show the access keys in the ribbon",
+        "displayNames": {
+          "en-us": "Show the access keys in the ribbon"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move around message header lines in the Folder pane or an open message",
+        "displayNames": {
+          "en-us": "Move around message header lines in the Folder pane or an open message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move between the Navigation pane and the calendar",
+        "displayNames": {
+          "en-us": "Move between the Navigation pane and the calendar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to a different folder",
+        "displayNames": {
+          "en-us": "Go to a different folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the Search box",
+        "displayNames": {
+          "en-us": "Go to the Search box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "In the Reading pane, go to the previous message",
+        "displayNames": {
+          "en-us": "In the Reading pane, go to the previous message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "In the Reading pane, page down through the text",
+        "displayNames": {
+          "en-us": "In the Reading pane, page down through the text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "In the Reading pane, page up through the text",
+        "displayNames": {
+          "en-us": "In the Reading pane, page up through the text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go back to previous view in the main Outlook window",
+        "displayNames": {
+          "en-us": "Go back to previous view in the main Outlook window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go forward to next view in the main Outlook window",
+        "displayNames": {
+          "en-us": "Go forward to next view in the main Outlook window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the InfoBar and, if available, show the menu of commands",
+        "displayNames": {
+          "en-us": "Select the InfoBar and, if available, show the menu of commands"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "W"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Navigate to the ribbon",
+    "shortcuts": [
+      {
+        "internalName": "Open the Home tab",
+        "displayNames": {
+          "en-us": "Open the Home tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the File menu",
+        "displayNames": {
+          "en-us": "Open the File menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Send/Receive tab",
+        "displayNames": {
+          "en-us": "Open the Send/Receive tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Folder tab",
+        "displayNames": {
+          "en-us": "Open the Folder tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the View tab",
+        "displayNames": {
+          "en-us": "Open the View tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Search tab",
+        "displayNames": {
+          "en-us": "Open the Search tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the Tell Me search field",
+        "displayNames": {
+          "en-us": "Go to the Tell Me search field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Q"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Create an item or file",
+    "shortcuts": [
+      {
+        "internalName": "Create an appointment",
+        "displayNames": {
+          "en-us": "Create an appointment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a contact",
+        "displayNames": {
+          "en-us": "Create a contact"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a contact group",
+        "displayNames": {
+          "en-us": "Create a contact group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a fax",
+        "displayNames": {
+          "en-us": "Create a fax"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a folder",
+        "displayNames": {
+          "en-us": "Create a folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a meeting request",
+        "displayNames": {
+          "en-us": "Create a meeting request"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a message",
+        "displayNames": {
+          "en-us": "Create a message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a note",
+        "displayNames": {
+          "en-us": "Create a note"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create an Microsoft Office document",
+        "displayNames": {
+          "en-us": "Create an Microsoft Office document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Post to the selected folder",
+        "displayNames": {
+          "en-us": "Post to the selected folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Post a reply in the selected folder",
+        "displayNames": {
+          "en-us": "Post a reply in the selected folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a Search folder",
+        "displayNames": {
+          "en-us": "Create a Search folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a task",
+        "displayNames": {
+          "en-us": "Create a task"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "K"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Format text",
+    "shortcuts": [
+      {
+        "internalName": "Display the Format Text tab on the ribbon",
+        "displayNames": {
+          "en-us": "Display the Format Text tab on the ribbon"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display the Font dialog",
+        "displayNames": {
+          "en-us": "Display the Font dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch the case of the first letter in a selected word or line",
+        "displayNames": {
+          "en-us": "Switch the case of the first letter in a selected word or line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle the case of the selected text between small caps and all caps",
+        "displayNames": {
+          "en-us": "Toggle the case of the selected text between small caps and all caps"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply bold formatting",
+        "displayNames": {
+          "en-us": "Apply bold formatting"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add a bulleted list",
+        "displayNames": {
+          "en-us": "Add a bulleted list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply italic formatting",
+        "displayNames": {
+          "en-us": "Apply italic formatting"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase indent",
+        "displayNames": {
+          "en-us": "Increase indent"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease indent",
+        "displayNames": {
+          "en-us": "Decrease indent"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Center text",
+        "displayNames": {
+          "en-us": "Center text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Underline text",
+        "displayNames": {
+          "en-us": "Underline text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase the font size",
+        "displayNames": {
+          "en-us": "Increase the font size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease the font size",
+        "displayNames": {
+          "en-us": "Decrease the font size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut a selection",
+        "displayNames": {
+          "en-us": "Cut a selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy a selection",
+        "displayNames": {
+          "en-us": "Copy a selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste the copied or cut selection",
+        "displayNames": {
+          "en-us": "Paste the copied or cut selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear the formatting",
+        "displayNames": {
+          "en-us": "Clear the formatting"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete the next word",
+        "displayNames": {
+          "en-us": "Delete the next word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Justify text (Stretch a paragraph to fit between the margins}",
+        "displayNames": {
+          "en-us": "Justify text (Stretch a paragraph to fit between the margins}"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply styles",
+        "displayNames": {
+          "en-us": "Apply styles"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a hanging indent",
+        "displayNames": {
+          "en-us": "Create a hanging indent"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert a hyperlink",
+        "displayNames": {
+          "en-us": "Insert a hyperlink"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Left-align a paragraph",
+        "displayNames": {
+          "en-us": "Left-align a paragraph"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Right-align a paragraph",
+        "displayNames": {
+          "en-us": "Right-align a paragraph"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reduce a hanging indent",
+        "displayNames": {
+          "en-us": "Reduce a hanging indent"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove paragraph formatting",
+        "displayNames": {
+          "en-us": "Remove paragraph formatting"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Q"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Use search",
+    "shortcuts": [
+      {
+        "internalName": "Go to the Search field to find a message or another item",
+        "displayNames": {
+          "en-us": "Go to the Search field to find a message or another item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear the search results",
+        "displayNames": {
+          "en-us": "Clear the search results"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand the search to include All Mail Items, All Calendar Items, or All Contact Items, depending on the module you are in",
+        "displayNames": {
+          "en-us": "Expand the search to include All Mail Items, All Calendar Items, or All Contact Items, depending on the module you are in"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Use Advanced Find",
+        "displayNames": {
+          "en-us": "Use Advanced Find"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a Search folder",
+        "displayNames": {
+          "en-us": "Create a Search folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search for text within an open item",
+        "displayNames": {
+          "en-us": "Search for text within an open item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find and replace text, symbols, or some formatting commands when in the Reading pane or in an open item",
+        "displayNames": {
+          "en-us": "Find and replace text, symbols, or some formatting commands when in the Reading pane or in an open item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand search to include items from the current folder",
+        "displayNames": {
+          "en-us": "Expand search to include items from the current folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand search to include subfolders",
+        "displayNames": {
+          "en-us": "Expand search to include subfolders"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Z"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Print items",
+    "shortcuts": [
+      {
+        "internalName": "Open the Print page in the File menu",
+        "displayNames": {
+          "en-us": "Open the Print page in the File menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F"
+          ],
+          [
+            "Menu",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print an item from an open window",
+        "displayNames": {
+          "en-us": "Print an item from an open window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F"
+          ],
+          [
+            "Menu",
+            "P"
+          ],
+          [
+            "Menu",
+            "F"
+          ],
+          [
+            "Menu",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Page Setup dialog on Print page",
+        "displayNames": {
+          "en-us": "Open the Page Setup dialog on Print page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select a printer on the Print page",
+        "displayNames": {
+          "en-us": "Select a printer on the Print page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F"
+          ],
+          [
+            "Menu",
+            "P"
+          ],
+          [
+            "Menu",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Print Options dialog",
+        "displayNames": {
+          "en-us": "Open the Print Options dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F"
+          ],
+          [
+            "Menu",
+            "P"
+          ],
+          [
+            "Menu",
+            "R"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Use flags",
+    "shortcuts": [
+      {
+        "internalName": "Open the Flag for Follow Up dialog to assign a flag",
+        "displayNames": {
+          "en-us": "Open the Flag for Follow Up dialog to assign a flag"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "G"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Use color categories",
+    "shortcuts": [
+      {
+        "internalName": "Delete the selected category from the list in the Color categories dialog",
+        "displayNames": {
+          "en-us": "Delete the selected category from the list in the Color categories dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "D"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Mail keyboard shortcuts",
+    "shortcuts": [
+      {
+        "internalName": "Switch to Inbox",
+        "displayNames": {
+          "en-us": "Switch to Inbox"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to Outbox",
+        "displayNames": {
+          "en-us": "Switch to Outbox"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Check names",
+        "displayNames": {
+          "en-us": "Check names"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Send a message",
+        "displayNames": {
+          "en-us": "Send a message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the Reply to All option",
+        "displayNames": {
+          "en-us": "Select the Reply to All option"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reply with a meeting request",
+        "displayNames": {
+          "en-us": "Reply with a meeting request"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Forward a message",
+        "displayNames": {
+          "en-us": "Forward a message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark a message as not junk",
+        "displayNames": {
+          "en-us": "Mark a message as not junk"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display blocked external content (in a message)",
+        "displayNames": {
+          "en-us": "Display blocked external content (in a message)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Post to a folder",
+        "displayNames": {
+          "en-us": "Post to a folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply Normal style",
+        "displayNames": {
+          "en-us": "Apply Normal style"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Check for new messages",
+        "displayNames": {
+          "en-us": "Check for new messages"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the previous message",
+        "displayNames": {
+          "en-us": "Go to the previous message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the next message",
+        "displayNames": {
+          "en-us": "Go to the next message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a message (when in Mail view)",
+        "displayNames": {
+          "en-us": "Create a message (when in Mail view)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a message (from any Outlook view)",
+        "displayNames": {
+          "en-us": "Create a message (from any Outlook view)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open a received message",
+        "displayNames": {
+          "en-us": "Open a received message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete and ignore a conversation",
+        "displayNames": {
+          "en-us": "Delete and ignore a conversation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Address Book",
+        "displayNames": {
+          "en-us": "Open the Address Book"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add a Quick flag to an unopened message",
+        "displayNames": {
+          "en-us": "Add a Quick flag to an unopened message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Insert"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display the Flag for follow up dialog",
+        "displayNames": {
+          "en-us": "Display the Flag for follow up dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark a message as read",
+        "displayNames": {
+          "en-us": "Mark a message as read"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark a message as unread",
+        "displayNames": {
+          "en-us": "Mark a message as unread"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the MailTip in the selected message",
+        "displayNames": {
+          "en-us": "Open the MailTip in the selected message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find or replace text",
+        "displayNames": {
+          "en-us": "Find or replace text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find the next item",
+        "displayNames": {
+          "en-us": "Find the next item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Send a message",
+        "displayNames": {
+          "en-us": "Send a message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print an item",
+        "displayNames": {
+          "en-us": "Print an item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Forward a message as an attachment",
+        "displayNames": {
+          "en-us": "Forward a message as an attachment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show the properties for the selected item",
+        "displayNames": {
+          "en-us": "Show the properties for the selected item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark an item for download",
+        "displayNames": {
+          "en-us": "Mark an item for download"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Check the Mark for download status",
+        "displayNames": {
+          "en-us": "Check the Mark for download status"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display the Send/Receive progress",
+        "displayNames": {
+          "en-us": "Display the Send/Receive progress"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save an item",
+        "displayNames": {
+          "en-us": "Save an item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Save as dialog",
+        "displayNames": {
+          "en-us": "Open the Save as dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F12"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Use the message list",
+    "shortcuts": [
+      {
+        "internalName": "Go to the item at the bottom of the screen",
+        "displayNames": {
+          "en-us": "Go to the item at the bottom of the screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the item at the top of the screen",
+        "displayNames": {
+          "en-us": "Go to the item at the top of the screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend or reduce the selected items by one item",
+        "displayNames": {
+          "en-us": "Extend or reduce the selected items by one item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the next or previous item without extending the selection",
+        "displayNames": {
+          "en-us": "Go to the next or previous item without extending the selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select or cancel selection of the active item",
+        "displayNames": {
+          "en-us": "Select or cancel selection of the active item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand groups of messages (for example, Last Week)",
+        "displayNames": {
+          "en-us": "Expand groups of messages (for example, Last Week)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse groups of messages (for example, Last Week)",
+        "displayNames": {
+          "en-us": "Collapse groups of messages (for example, Last Week)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select multiple adjacent messages",
+        "displayNames": {
+          "en-us": "Select multiple adjacent messages"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move message to folder",
+        "displayNames": {
+          "en-us": "Move message to folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Follow Up or Quick Flag to message",
+        "displayNames": {
+          "en-us": "Add Follow Up or Quick Flag to message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F10"
+          ],
+          [
+            "Shift",
+            "U"
+          ],
+          [
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Custom Flag to message",
+        "displayNames": {
+          "en-us": "Add Custom Flag to message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark a message as read",
+        "displayNames": {
+          "en-us": "Mark a message as read"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark a message as unread",
+        "displayNames": {
+          "en-us": "Mark a message as unread"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark an item to download",
+        "displayNames": {
+          "en-us": "Mark an item to download"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "S"
+          ],
+          [
+            "Menu",
+            "M"
+          ],
+          [
+            "Menu",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark an item to download a copy",
+        "displayNames": {
+          "en-us": "Mark an item to download a copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "S"
+          ],
+          [
+            "Menu",
+            "M"
+          ],
+          [
+            "Menu",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Unmark an item to download",
+        "displayNames": {
+          "en-us": "Unmark an item to download"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "S"
+          ],
+          [
+            "Menu",
+            "U"
+          ],
+          [
+            "Menu",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Unmark an item to download a copy",
+        "displayNames": {
+          "en-us": "Unmark an item to download a copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "S"
+          ],
+          [
+            "Menu",
+            "U"
+          ],
+          [
+            "Menu",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete a message",
+        "displayNames": {
+          "en-us": "Delete a message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Ignore a message",
+        "displayNames": {
+          "en-us": "Ignore a message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reply to a message",
+        "displayNames": {
+          "en-us": "Reply to a message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "R"
+          ],
+          [
+            "Menu",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the Reply All option",
+        "displayNames": {
+          "en-us": "Select the Reply All option"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "R"
+          ],
+          [
+            "Menu",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Forward a message",
+        "displayNames": {
+          "en-us": "Forward a message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "F"
+          ],
+          [
+            "Menu",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open a message",
+        "displayNames": {
+          "en-us": "Open a message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display a blocked content menu",
+        "displayNames": {
+          "en-us": "Display a blocked content menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Download blocked pictures or images",
+        "displayNames": {
+          "en-us": "Download blocked pictures or images"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "W"
+          ],
+          [
+            "Control",
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show email properties",
+        "displayNames": {
+          "en-us": "Show email properties"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Post to a folder",
+        "displayNames": {
+          "en-us": "Post to a folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy item to a folder",
+        "displayNames": {
+          "en-us": "Copy item to a folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print a message",
+        "displayNames": {
+          "en-us": "Print a message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set how often Outlook checks for new messages",
+        "displayNames": {
+          "en-us": "Set how often Outlook checks for new messages"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set the junk mail options",
+        "displayNames": {
+          "en-us": "Set the junk mail options"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "J"
+          ],
+          [
+            "Menu",
+            "O"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Use the Reading pane",
+    "shortcuts": [
+      {
+        "internalName": "Go to the previous message",
+        "displayNames": {
+          "en-us": "Go to the previous message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Page down through text",
+        "displayNames": {
+          "en-us": "Page down through text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Page up through text",
+        "displayNames": {
+          "en-us": "Page up through text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the next field",
+        "displayNames": {
+          "en-us": "Move to the next field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to previous field",
+        "displayNames": {
+          "en-us": "Move to previous field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the next or previous link",
+        "displayNames": {
+          "en-us": "Move to the next or previous link"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to the Reply button",
+        "displayNames": {
+          "en-us": "Jump to the Reply button"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close the InfoBar menu",
+        "displayNames": {
+          "en-us": "Close the InfoBar menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Send/Receive",
+    "shortcuts": [
+      {
+        "internalName": "Start a send/receive action for all defined Send/Receive groups with Include this group in Send/Receive (F9) selected. This can include headers, full items, specified folders, items less than a specific size, or any combination that you define",
+        "displayNames": {
+          "en-us": "Start a send/receive action for all defined Send/Receive groups with Include this group in Send/Receive (F9) selected. This can include headers, full items, specified folders, items less than a specific size, or any combination that you define"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start a send/receive action for the current folder, retrieving full items (header, item, and any attachments)",
+        "displayNames": {
+          "en-us": "Start a send/receive action for the current folder, retrieving full items (header, item, and any attachments)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start a send/receive action",
+        "displayNames": {
+          "en-us": "Start a send/receive action"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Define Send/Receive groups",
+        "displayNames": {
+          "en-us": "Define Send/Receive groups"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "S"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Calendar",
+    "shortcuts": [
+      {
+        "internalName": "Create an appointment (when in the Calendar view)",
+        "displayNames": {
+          "en-us": "Create an appointment (when in the Calendar view)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create an appointment (in any Outlook view)",
+        "displayNames": {
+          "en-us": "Create an appointment (in any Outlook view)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a meeting request",
+        "displayNames": {
+          "en-us": "Create a meeting request"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the New Items menu to select which item you'd like to create",
+        "displayNames": {
+          "en-us": "Open the New Items menu to select which item you'd like to create"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Forward an appointment or meeting",
+        "displayNames": {
+          "en-us": "Forward an appointment or meeting"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "F"
+          ],
+          [
+            "Menu",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reply to a meeting request with a message",
+        "displayNames": {
+          "en-us": "Reply to a meeting request with a message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the Reply All option",
+        "displayNames": {
+          "en-us": "Select the Reply All option"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show one day in the calendar",
+        "displayNames": {
+          "en-us": "Show one day in the calendar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show two days in the calendar",
+        "displayNames": {
+          "en-us": "Show two days in the calendar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show three days in the calendar",
+        "displayNames": {
+          "en-us": "Show three days in the calendar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show four days in the calendar",
+        "displayNames": {
+          "en-us": "Show four days in the calendar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show five days in the calendar",
+        "displayNames": {
+          "en-us": "Show five days in the calendar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show six days in the calendar",
+        "displayNames": {
+          "en-us": "Show six days in the calendar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show seven days in the calendar",
+        "displayNames": {
+          "en-us": "Show seven days in the calendar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show eight days in the calendar",
+        "displayNames": {
+          "en-us": "Show eight days in the calendar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show nine days in the calendar",
+        "displayNames": {
+          "en-us": "Show nine days in the calendar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show ten days in the calendar",
+        "displayNames": {
+          "en-us": "Show ten days in the calendar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show today in the calendar",
+        "displayNames": {
+          "en-us": "Show today in the calendar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "O"
+          ],
+          [
+            "Menu",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show the daily view",
+        "displayNames": {
+          "en-us": "Show the daily view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show the next seven days",
+        "displayNames": {
+          "en-us": "Show the next seven days"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to a date",
+        "displayNames": {
+          "en-us": "Go to a date"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to Month view",
+        "displayNames": {
+          "en-us": "Switch to Month view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the next day",
+        "displayNames": {
+          "en-us": "Go to the next day"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the next week",
+        "displayNames": {
+          "en-us": "Go to the next week"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the next month",
+        "displayNames": {
+          "en-us": "Go to the next month"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the previous day",
+        "displayNames": {
+          "en-us": "Go to the previous day"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the previous week",
+        "displayNames": {
+          "en-us": "Go to the previous week"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the previous month",
+        "displayNames": {
+          "en-us": "Go to the previous month"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the start of the week",
+        "displayNames": {
+          "en-us": "Go to the start of the week"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the end of the week",
+        "displayNames": {
+          "en-us": "Go to the end of the week"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to the Full Week view",
+        "displayNames": {
+          "en-us": "Switch to the Full Week view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to the Work Week view",
+        "displayNames": {
+          "en-us": "Switch to the Work Week view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the previous appointment",
+        "displayNames": {
+          "en-us": "Go to the previous appointment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the next appointment",
+        "displayNames": {
+          "en-us": "Go to the next appointment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set up recurrence for an open appointment or meeting",
+        "displayNames": {
+          "en-us": "Set up recurrence for an open appointment or meeting"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open an appointment when the reminder appears",
+        "displayNames": {
+          "en-us": "Open an appointment when the reminder appears"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the reminder window",
+        "displayNames": {
+          "en-us": "Open the reminder window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "V"
+          ],
+          [
+            "Menu",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Snooze the reminder",
+        "displayNames": {
+          "en-us": "Snooze the reminder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Dismiss the reminder",
+        "displayNames": {
+          "en-us": "Dismiss the reminder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to Search",
+        "displayNames": {
+          "en-us": "Jump to Search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show the selected schedule in a horizontal layout if you want to compare calendars to schedule meetings",
+        "displayNames": {
+          "en-us": "Show the selected schedule in a horizontal layout if you want to compare calendars to schedule meetings"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "S"
+          ],
+          [
+            "Menu",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add shared calendars from your contacts, or create a new calendar",
+        "displayNames": {
+          "en-us": "Add shared calendars from your contacts, or create a new calendar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "O"
+          ],
+          [
+            "Menu",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a new calendar group or add a department calendar",
+        "displayNames": {
+          "en-us": "Create a new calendar group or add a department calendar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "C"
+          ],
+          [
+            "Menu",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Email a selected calendar to a contact",
+        "displayNames": {
+          "en-us": "Email a selected calendar to a contact"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Share a calendar with others",
+        "displayNames": {
+          "en-us": "Share a calendar with others"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "S"
+          ],
+          [
+            "Menu",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Publish a calendar online",
+        "displayNames": {
+          "en-us": "Publish a calendar online"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "P"
+          ],
+          [
+            "Menu",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "View and edit the sharing permissions for a folder",
+        "displayNames": {
+          "en-us": "View and edit the sharing permissions for a folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "F"
+          ],
+          [
+            "Menu",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search for contacts",
+        "displayNames": {
+          "en-us": "Search for contacts"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "F"
+          ],
+          [
+            "Menu",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the address book",
+        "displayNames": {
+          "en-us": "Open the address book"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "A"
+          ],
+          [
+            "Menu",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Outlook Options dialog for calendars",
+        "displayNames": {
+          "en-us": "Open the Outlook Options dialog for calendars"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "C"
+          ],
+          [
+            "Menu",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "If information for the currently selected item is abbreviated or not read in full, activate the Microsoft Active Accessibility (MSAA) information. MSAA provides more details to JAWS so that the information can be read in full",
+        "displayNames": {
+          "en-us": "If information for the currently selected item is abbreviated or not read in full, activate the Microsoft Active Accessibility (MSAA) information. MSAA provides more details to JAWS so that the information can be read in full"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Use the day/week/month view",
+    "shortcuts": [
+      {
+        "internalName": "View 10 days",
+        "displayNames": {
+          "en-us": "View 10 days"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to the Week view",
+        "displayNames": {
+          "en-us": "Switch to the Week view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to the Month view",
+        "displayNames": {
+          "en-us": "Switch to the Month view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move between the Calendar view, TaskPad, and Folder list",
+        "displayNames": {
+          "en-us": "Move between the Calendar view, TaskPad, and Folder list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the previous appointment",
+        "displayNames": {
+          "en-us": "Select the previous appointment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the previous day",
+        "displayNames": {
+          "en-us": "Go to the previous day"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the next day",
+        "displayNames": {
+          "en-us": "Go to the next day"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the same day in the next week",
+        "displayNames": {
+          "en-us": "Go to the same day in the next week"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the same day in the previous week",
+        "displayNames": {
+          "en-us": "Go to the same day in the previous week"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Use the single day view",
+    "shortcuts": [
+      {
+        "internalName": "Select the time that begins your work day",
+        "displayNames": {
+          "en-us": "Select the time that begins your work day"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the time that ends your work day",
+        "displayNames": {
+          "en-us": "Select the time that ends your work day"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the previous block of time",
+        "displayNames": {
+          "en-us": "Select the previous block of time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the next block of time",
+        "displayNames": {
+          "en-us": "Select the next block of time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the block of time at the top of the screen",
+        "displayNames": {
+          "en-us": "Select the block of time at the top of the screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the block of time at the bottom of the screen",
+        "displayNames": {
+          "en-us": "Select the block of time at the bottom of the screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend or reduce the selected time",
+        "displayNames": {
+          "en-us": "Extend or reduce the selected time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selected item to the same day in the next week",
+        "displayNames": {
+          "en-us": "Move selected item to the same day in the next week"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selected item to the same day in the previous week",
+        "displayNames": {
+          "en-us": "Move selected item to the same day in the previous week"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Use the Week view",
+    "shortcuts": [
+      {
+        "internalName": "Go to the start of work hours for the selected day",
+        "displayNames": {
+          "en-us": "Go to the start of work hours for the selected day"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the end of work hours for the selected day",
+        "displayNames": {
+          "en-us": "Go to the end of work hours for the selected day"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go up one page view in the selected day",
+        "displayNames": {
+          "en-us": "Go up one page view in the selected day"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go down one page view in the selected day",
+        "displayNames": {
+          "en-us": "Go down one page view in the selected day"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageDown"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Use the Month view",
+    "shortcuts": [
+      {
+        "internalName": "Go to the first day of the week",
+        "displayNames": {
+          "en-us": "Go to the first day of the week"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the same day of the week in the previous page",
+        "displayNames": {
+          "en-us": "Go to the same day of the week in the previous page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the same day of the week in the next page",
+        "displayNames": {
+          "en-us": "Go to the same day of the week in the next page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageDown"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Use the Date Navigator view",
+    "shortcuts": [
+      {
+        "internalName": "Go to the first day of the current week",
+        "displayNames": {
+          "en-us": "Go to the first day of the current week"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the last day of the current week",
+        "displayNames": {
+          "en-us": "Go to the last day of the current week"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the same day in the previous week",
+        "displayNames": {
+          "en-us": "Go to the same day in the previous week"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the same day in the next week",
+        "displayNames": {
+          "en-us": "Go to the same day in the next week"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "People",
+    "shortcuts": [
+      {
+        "internalName": "Dial a new call to a contact",
+        "displayNames": {
+          "en-us": "Dial a new call to a contact"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find a contact",
+        "displayNames": {
+          "en-us": "Find a contact"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enter a name in the Search Address Books",
+        "displayNames": {
+          "en-us": "Enter a name in the Search Address Books"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select all contacts",
+        "displayNames": {
+          "en-us": "Select all contacts"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a message with the selected contact as subject",
+        "displayNames": {
+          "en-us": "Create a message with the selected contact as subject"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a contact (when in Contacts)",
+        "displayNames": {
+          "en-us": "Create a contact (when in Contacts)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a contact (from any Outlook view)",
+        "displayNames": {
+          "en-us": "Create a contact (from any Outlook view)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open a contact form for the selected contact",
+        "displayNames": {
+          "en-us": "Open a contact form for the selected contact"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a contact group",
+        "displayNames": {
+          "en-us": "Create a contact group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Print dialog",
+        "displayNames": {
+          "en-us": "Open the Print dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Update a list of contact group members",
+        "displayNames": {
+          "en-us": "Update a list of contact group members"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to a different folder",
+        "displayNames": {
+          "en-us": "Go to a different folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Address Book",
+        "displayNames": {
+          "en-us": "Open the Address Book"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Use Advanced Find",
+        "displayNames": {
+          "en-us": "Use Advanced Find"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "In an open contact, open the next contact listed",
+        "displayNames": {
+          "en-us": "In an open contact, open the next contact listed"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find a contact in Favorites",
+        "displayNames": {
+          "en-us": "Find a contact in Favorites"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close a contact",
+        "displayNames": {
+          "en-us": "Close a contact"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Send a fax to the selected contact",
+        "displayNames": {
+          "en-us": "Send a fax to the selected contact"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Check Address dialog",
+        "displayNames": {
+          "en-us": "Open the Check Address dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "In a contact form, under Internet, display the Email 1 information",
+        "displayNames": {
+          "en-us": "In a contact form, under Internet, display the Email 1 information"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "In a contact form, under Internet, display the Email 2 information",
+        "displayNames": {
+          "en-us": "In a contact form, under Internet, display the Email 2 information"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "In a contact form, under Internet, display the Email 3 information",
+        "displayNames": {
+          "en-us": "In a contact form, under Internet, display the Email 3 information"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number3"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Use the Business Cards or Address view",
+    "shortcuts": [
+      {
+        "internalName": "Select the previous card",
+        "displayNames": {
+          "en-us": "Select the previous card"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the next card",
+        "displayNames": {
+          "en-us": "Select the next card"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the first card in the list",
+        "displayNames": {
+          "en-us": "Select the first card in the list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the last card in the list",
+        "displayNames": {
+          "en-us": "Select the last card in the list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the first card on the current page",
+        "displayNames": {
+          "en-us": "Select the first card on the current page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the first card on the next page",
+        "displayNames": {
+          "en-us": "Select the first card on the next page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the closest card in the next column",
+        "displayNames": {
+          "en-us": "Select the closest card in the next column"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the closest card in the previous column",
+        "displayNames": {
+          "en-us": "Select the closest card in the previous column"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select or cancel the selection of the active card",
+        "displayNames": {
+          "en-us": "Select or cancel the selection of the active card"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend the selection to the previous card and cancel the selection of cards after the starting point",
+        "displayNames": {
+          "en-us": "Extend the selection to the previous card and cancel the selection of cards after the starting point"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend the selection to the next card and cancel the selection of cards before the starting point",
+        "displayNames": {
+          "en-us": "Extend the selection to the next card and cancel the selection of cards before the starting point"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend the selection to the previous card, regardless of the starting point",
+        "displayNames": {
+          "en-us": "Extend the selection to the previous card, regardless of the starting point"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend the selection to the next card, regardless of the starting point",
+        "displayNames": {
+          "en-us": "Extend the selection to the next card, regardless of the starting point"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend the selection to the first card in the list",
+        "displayNames": {
+          "en-us": "Extend the selection to the first card in the list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend the selection to the last card in the list",
+        "displayNames": {
+          "en-us": "Extend the selection to the last card in the list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend the selection to the first card on the previous page",
+        "displayNames": {
+          "en-us": "Extend the selection to the first card on the previous page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend the selection to the last card on the last page",
+        "displayNames": {
+          "en-us": "Extend the selection to the last card on the last page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "PageDown"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Shortcuts in the Edit Business Cards dialog",
+    "shortcuts": [
+      {
+        "internalName": "Open the Add menu list",
+        "displayNames": {
+          "en-us": "Open the Add menu list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select text in the Label box when the field with a label assigned is selected",
+        "displayNames": {
+          "en-us": "Select text in the Label box when the field with a label assigned is selected"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Add Card Picture dialog",
+        "displayNames": {
+          "en-us": "Open the Add Card Picture dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Place cursor at beginning of the Edit text field",
+        "displayNames": {
+          "en-us": "Place cursor at beginning of the Edit text field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to and select the Fields box",
+        "displayNames": {
+          "en-us": "Go to and select the Fields box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the Image Align menu",
+        "displayNames": {
+          "en-us": "Select the Image Align menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the color palette for the background",
+        "displayNames": {
+          "en-us": "Select the color palette for the background"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "K"
+          ],
+          [
+            "Menu",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the Layout menu",
+        "displayNames": {
+          "en-us": "Select the Layout menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove a selected field from the Fields box",
+        "displayNames": {
+          "en-us": "Remove a selected field from the Fields box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "R"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Move between fields in an open Business Card",
+    "shortcuts": [
+      {
+        "internalName": "Move to the next field and control",
+        "displayNames": {
+          "en-us": "Move to the next field and control"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the previous field and control",
+        "displayNames": {
+          "en-us": "Move to the previous field and control"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close the active card",
+        "displayNames": {
+          "en-us": "Close the active card"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Move between characters in a Business Card field",
+    "shortcuts": [
+      {
+        "internalName": "Add a line in a multiline field",
+        "displayNames": {
+          "en-us": "Add a line in a multiline field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the beginning of a line",
+        "displayNames": {
+          "en-us": "Move to the beginning of a line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the end of a line",
+        "displayNames": {
+          "en-us": "Move to the end of a line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the beginning of a multiline field",
+        "displayNames": {
+          "en-us": "Move to the beginning of a multiline field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the end of a multiline field",
+        "displayNames": {
+          "en-us": "Move to the end of a multiline field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the previous line in a multiline field",
+        "displayNames": {
+          "en-us": "Move to the previous line in a multiline field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the next line in a multiline field",
+        "displayNames": {
+          "en-us": "Move to the next line in a multiline field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the previous character in a field",
+        "displayNames": {
+          "en-us": "Move to the previous character in a field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the next character in a field",
+        "displayNames": {
+          "en-us": "Move to the next character in a field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Tasks",
+    "shortcuts": [
+      {
+        "internalName": "Accept a task request",
+        "displayNames": {
+          "en-us": "Accept a task request"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decline a task request",
+        "displayNames": {
+          "en-us": "Decline a task request"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find a task or other item",
+        "displayNames": {
+          "en-us": "Find a task or other item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Go to Folder dialog",
+        "displayNames": {
+          "en-us": "Open the Go to Folder dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a task when in Tasks view",
+        "displayNames": {
+          "en-us": "Create a task when in Tasks view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a task from any Outlook view",
+        "displayNames": {
+          "en-us": "Create a task from any Outlook view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the selected item",
+        "displayNames": {
+          "en-us": "Open the selected item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print the selected item",
+        "displayNames": {
+          "en-us": "Print the selected item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select all items",
+        "displayNames": {
+          "en-us": "Select all items"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete selected item",
+        "displayNames": {
+          "en-us": "Delete selected item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Forward a task as an attachment",
+        "displayNames": {
+          "en-us": "Forward a task as an attachment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a task request",
+        "displayNames": {
+          "en-us": "Create a task request"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Menu",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch between the Folder pane, Tasks list, and To-Do bar",
+        "displayNames": {
+          "en-us": "Switch between the Folder pane, Tasks list, and To-Do bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo the last action",
+        "displayNames": {
+          "en-us": "Undo the last action"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Flag an item or mark complete",
+        "displayNames": {
+          "en-us": "Flag an item or mark complete"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Insert"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Use the Timeline view when an item is selected",
+    "shortcuts": [
+      {
+        "internalName": "Select the previous item",
+        "displayNames": {
+          "en-us": "Select the previous item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the next item",
+        "displayNames": {
+          "en-us": "Select the next item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select multiple adjacent items",
+        "displayNames": {
+          "en-us": "Select multiple adjacent items"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select multiple non-adjacent items",
+        "displayNames": {
+          "en-us": "Select multiple non-adjacent items"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the selected items",
+        "displayNames": {
+          "en-us": "Open the selected items"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the last item on the timeline (if items are not grouped) or the last item in the group",
+        "displayNames": {
+          "en-us": "Select the last item on the timeline (if items are not grouped) or the last item in the group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display (without selecting) the first item on the timeline (if items are not grouped) or the first item in the group",
+        "displayNames": {
+          "en-us": "Display (without selecting) the first item on the timeline (if items are not grouped) or the first item in the group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display (without selecting) the last item on the timeline (if items are not grouped) or the last item in the group",
+        "displayNames": {
+          "en-us": "Display (without selecting) the last item on the timeline (if items are not grouped) or the last item in the group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "End"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Use the Timeline view when a group is selected",
+    "shortcuts": [
+      {
+        "internalName": "Expand the group",
+        "displayNames": {
+          "en-us": "Expand the group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse the group",
+        "displayNames": {
+          "en-us": "Collapse the group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the previous group",
+        "displayNames": {
+          "en-us": "Select the previous group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the next group",
+        "displayNames": {
+          "en-us": "Select the next group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the first group on the timeline",
+        "displayNames": {
+          "en-us": "Select the first group on the timeline"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the last group on the timeline",
+        "displayNames": {
+          "en-us": "Select the last group on the timeline"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the first item on screen in an expanded group or the first item off screen to the right",
+        "displayNames": {
+          "en-us": "Select the first item on screen in an expanded group or the first item off screen to the right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Use the Timeline view when a time unit on the time scale for days is selected",
+    "shortcuts": [
+      {
+        "internalName": "Move back in increments of time that are the same as those shown on the time scale",
+        "displayNames": {
+          "en-us": "Move back in increments of time that are the same as those shown on the time scale"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move forward in increments of time that are the same as those shown on the time scale",
+        "displayNames": {
+          "en-us": "Move forward in increments of time that are the same as those shown on the time scale"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Open the Visual Basic Editor",
+    "shortcuts": [
+      {
+        "internalName": "Open the Visual Basic Editor",
+        "displayNames": {
+          "en-us": "Open the Visual Basic Editor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F11"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Play macros",
+    "shortcuts": [
+      {
+        "internalName": "Play a macro",
+        "displayNames": {
+          "en-us": "Play a macro"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F8"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Work with item groups",
+    "shortcuts": [
+      {
+        "internalName": "Expand a single selected group",
+        "displayNames": {
+          "en-us": "Expand a single selected group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse a single selected group",
+        "displayNames": {
+          "en-us": "Collapse a single selected group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the previous group",
+        "displayNames": {
+          "en-us": "Select the previous group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the next group",
+        "displayNames": {
+          "en-us": "Select the next group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the first group",
+        "displayNames": {
+          "en-us": "Select the first group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the last group",
+        "displayNames": {
+          "en-us": "Select the last group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the first item on screen in an expanded group or the first item off screen to the right",
+        "displayNames": {
+          "en-us": "Select the first item on screen in an expanded group or the first item off screen to the right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Create or close an InfoPath email form in Outlook 2007, 2010, or 2013",
+    "shortcuts": [
+      {
+        "internalName": "Close an InfoPath form",
+        "displayNames": {
+          "en-us": "Close an InfoPath form"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Menu",
+            "T"
+          ]
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,775 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Close tag",
+        "displayNames": {
+          "en-us": "Close tag"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select tag",
+        "displayNames": {
+          "en-us": "Select tag"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select indentation",
+        "displayNames": {
+          "en-us": "Select indentation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select scope",
+        "displayNames": {
+          "en-us": "Select scope"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Command prompt",
+        "displayNames": {
+          "en-us": "Command prompt"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "P"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Text Editing Beginner",
+    "shortcuts": [
+      {
+        "internalName": "Cut line",
+        "displayNames": {
+          "en-us": "Cut line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert line after",
+        "displayNames": {
+          "en-us": "Insert line after"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert line before",
+        "displayNames": {
+          "en-us": "Insert line before"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move line/selection up",
+        "displayNames": {
+          "en-us": "Move line/selection up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move line/selection down",
+        "displayNames": {
+          "en-us": "Move line/selection down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select line - Repeat to select next lines",
+        "displayNames": {
+          "en-us": "Select line - Repeat to select next lines"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select word - repeat select other occurrences",
+        "displayNames": {
+          "en-us": "Select word - repeat select other occurrences"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to matching parentheses",
+        "displayNames": {
+          "en-us": "Go to matching parentheses"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select all contents of the current parentheses",
+        "displayNames": {
+          "en-us": "Select all contents of the current parentheses"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "M"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Text Editing Intermediate",
+    "shortcuts": [
+      {
+        "internalName": "Delete from cursor to start of line",
+        "displayNames": {
+          "en-us": "Delete from cursor to start of line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Indent current line(s)",
+        "displayNames": {
+          "en-us": "Indent current line(s)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Un-indent current line(s)",
+        "displayNames": {
+          "en-us": "Un-indent current line(s)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Duplicate line(s)",
+        "displayNames": {
+          "en-us": "Duplicate line(s)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Join line below to end of current line",
+        "displayNames": {
+          "en-us": "Join line below to end of current line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Comment/un-comment current line",
+        "displayNames": {
+          "en-us": "Comment/un-comment current line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Block comment current selection",
+        "displayNames": {
+          "en-us": "Block comment current selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo or repeat last shortcut",
+        "displayNames": {
+          "en-us": "Redo or repeat last shortcut"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste and indent correctly",
+        "displayNames": {
+          "en-us": "Paste and indent correctly"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select next auto-complete suggestion",
+        "displayNames": {
+          "en-us": "Select next auto-complete suggestion"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Soft undo",
+        "displayNames": {
+          "en-us": "Soft undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Text Navigation/Goto Anywhere",
+    "shortcuts": [
+      {
+        "internalName": "Quick-open files by name",
+        "displayNames": {
+          "en-us": "Quick-open files by name"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Goto word in current file",
+        "displayNames": {
+          "en-us": "Goto word in current file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "186"
+          ]
+        ]
+      },
+      {
+        "internalName": "Goto symbol",
+        "displayNames": {
+          "en-us": "Goto symbol"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Goto line in current file",
+        "displayNames": {
+          "en-us": "Goto line in current file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Find/Replace",
+    "shortcuts": [
+      {
+        "internalName": "Find previous",
+        "displayNames": {
+          "en-us": "Find previous"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find next",
+        "displayNames": {
+          "en-us": "Find next"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find",
+        "displayNames": {
+          "en-us": "Find"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Replace",
+        "displayNames": {
+          "en-us": "Replace"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find in files",
+        "displayNames": {
+          "en-us": "Find in files"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "F"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Split window",
+    "shortcuts": [
+      {
+        "internalName": "Split view into two columns",
+        "displayNames": {
+          "en-us": "Split view into two columns"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Menu",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Revert view to single column",
+        "displayNames": {
+          "en-us": "Revert view to single column"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Menu",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set view to grid (4 groups)",
+        "displayNames": {
+          "en-us": "Set view to grid (4 groups)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Menu",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to group 2",
+        "displayNames": {
+          "en-us": "Jump to group 2"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move file to group 2",
+        "displayNames": {
+          "en-us": "Move file to group 2"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "Number2"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Text manipulation",
+    "shortcuts": [
+      {
+        "internalName": "Delete line",
+        "displayNames": {
+          "en-us": "Delete line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete word backwords",
+        "displayNames": {
+          "en-us": "Delete word backwords"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete word forwards",
+        "displayNames": {
+          "en-us": "Delete word forwards"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Delete"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Text Selection",
+    "shortcuts": [
+      {
+        "internalName": "Add new line below with cursor",
+        "displayNames": {
+          "en-us": "Add new line below with cursor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Control",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Split selection into lines",
+        "displayNames": {
+          "en-us": "Split selection into lines"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add cursor at all occurrences of a word",
+        "displayNames": {
+          "en-us": "Add cursor at all occurrences of a word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add new line above with cursor",
+        "displayNames": {
+          "en-us": "Add new line above with cursor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Return to single selection",
+        "displayNames": {
+          "en-us": "Return to single selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Code Folding and Marks",
+    "shortcuts": [
+      {
+        "internalName": "Set mark",
+        "displayNames": {
+          "en-us": "Set mark"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Unfold code",
+        "displayNames": {
+          "en-us": "Unfold code"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fold code",
+        "displayNames": {
+          "en-us": "Fold code"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "219"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Bookmarks",
+    "shortcuts": [
+      {
+        "internalName": "Select all bookmarks",
+        "displayNames": {
+          "en-us": "Select all bookmarks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous bookmark",
+        "displayNames": {
+          "en-us": "Previous bookmark"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next bookmark",
+        "displayNames": {
+          "en-us": "Next bookmark"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle bookmark",
+        "displayNames": {
+          "en-us": "Toggle bookmark"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F2"
+          ]
+        ]
+      }
+    ]
+  }
+]

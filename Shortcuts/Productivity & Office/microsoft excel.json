@@ -1,0 +1,4081 @@
+[
+  {
+    "groupInternalName": "Frequent Shortcuts",
+    "shortcuts": [
+      {
+        "internalName": "Add borders",
+        "displayNames": {
+          "en-us": "Add borders"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add or remove filter",
+        "displayNames": {
+          "en-us": "Add or remove filter"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Bold",
+        "displayNames": {
+          "en-us": "Bold"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Center align cell contents",
+        "displayNames": {
+          "en-us": "Center align cell contents"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "A"
+          ],
+          [
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Left align cell contents",
+        "displayNames": {
+          "en-us": "Left align cell contents"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "A"
+          ],
+          [
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Choose a fill color",
+        "displayNames": {
+          "en-us": "Choose a fill color"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close workbook",
+        "displayNames": {
+          "en-us": "Close workbook"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy",
+        "displayNames": {
+          "en-us": "Copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut",
+        "displayNames": {
+          "en-us": "Cut"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste",
+        "displayNames": {
+          "en-us": "Paste"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print",
+        "displayNames": {
+          "en-us": "Print"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save",
+        "displayNames": {
+          "en-us": "Save"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo",
+        "displayNames": {
+          "en-us": "Undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo last action",
+        "displayNames": {
+          "en-us": "Redo last action"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select current column",
+        "displayNames": {
+          "en-us": "Select current column"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select current row",
+        "displayNames": {
+          "en-us": "Select current row"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete selected column",
+        "displayNames": {
+          "en-us": "Delete selected column"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete selected row",
+        "displayNames": {
+          "en-us": "Delete selected row"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find",
+        "displayNames": {
+          "en-us": "Find"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Replace",
+        "displayNames": {
+          "en-us": "Replace"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find next match",
+        "displayNames": {
+          "en-us": "Find next match"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find previous match",
+        "displayNames": {
+          "en-us": "Find previous match"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hide selected columns",
+        "displayNames": {
+          "en-us": "Hide selected columns"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hide selected rows",
+        "displayNames": {
+          "en-us": "Hide selected rows"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number9"
+          ]
+        ]
+      },
+      {
+        "internalName": "New workbook",
+        "displayNames": {
+          "en-us": "New workbook"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open context menu",
+        "displayNames": {
+          "en-us": "Open context menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open workbook",
+        "displayNames": {
+          "en-us": "Open workbook"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove cell contents",
+        "displayNames": {
+          "en-us": "Remove cell contents"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Right align cell contents",
+        "displayNames": {
+          "en-us": "Right align cell contents"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "A"
+          ],
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Unhide columns",
+        "displayNames": {
+          "en-us": "Unhide columns"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Unhide rows",
+        "displayNames": {
+          "en-us": "Unhide rows"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom in",
+        "displayNames": {
+          "en-us": "Zoom in"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom out",
+        "displayNames": {
+          "en-us": "Zoom out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cancel process or close dialog",
+        "displayNames": {
+          "en-us": "Cancel process or close dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rename table",
+        "displayNames": {
+          "en-us": "Rename table"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move table",
+        "displayNames": {
+          "en-us": "Move table"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open AutoFilter Menu dialog",
+        "displayNames": {
+          "en-us": "Open AutoFilter Menu dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Edit active cell",
+        "displayNames": {
+          "en-us": "Edit active cell"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Inside the Ribbon",
+    "shortcuts": [
+      {
+        "internalName": "Activate selected button",
+        "displayNames": {
+          "en-us": "Activate selected button"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand / collapse the ribbon",
+        "displayNames": {
+          "en-us": "Expand / collapse the ribbon"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to left command",
+        "displayNames": {
+          "en-us": "Move to left command"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to right command",
+        "displayNames": {
+          "en-us": "Move to right command"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to submenu when a main menu is open",
+        "displayNames": {
+          "en-us": "Move to submenu when a main menu is open"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the next command in open menu",
+        "displayNames": {
+          "en-us": "Move to the next command in open menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the list for selected command",
+        "displayNames": {
+          "en-us": "Open the list for selected command"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the menu for selected button",
+        "displayNames": {
+          "en-us": "Open the menu for selected button"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select active tab and activate access keys",
+        "displayNames": {
+          "en-us": "Select active tab and activate access keys"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Cell Navigation",
+    "shortcuts": [
+      {
+        "internalName": "Cycle through text boxes / images",
+        "displayNames": {
+          "en-us": "Cycle through text boxes / images"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enter the End mode",
+        "displayNames": {
+          "en-us": "Enter the End mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Exit navigation of text boxes / images",
+        "displayNames": {
+          "en-us": "Exit navigation of text boxes / images"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend selection of cells to last used cell",
+        "displayNames": {
+          "en-us": "Extend selection of cells to last used cell"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move one cell down",
+        "displayNames": {
+          "en-us": "Move one cell down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move one cell left",
+        "displayNames": {
+          "en-us": "Move one cell left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move one cell right",
+        "displayNames": {
+          "en-us": "Move one cell right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move one cell up",
+        "displayNames": {
+          "en-us": "Move one cell up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move one screen down in worksheet",
+        "displayNames": {
+          "en-us": "Move one screen down in worksheet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move one screen left in worksheet",
+        "displayNames": {
+          "en-us": "Move one screen left in worksheet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move one screen right in worksheet",
+        "displayNames": {
+          "en-us": "Move one screen right in worksheet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move one screen up in a worksheet",
+        "displayNames": {
+          "en-us": "Move one screen up in a worksheet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to beginning of a worksheet",
+        "displayNames": {
+          "en-us": "Move to beginning of a worksheet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to bottom edge of data region",
+        "displayNames": {
+          "en-us": "Move to bottom edge of data region"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to cell in the upper left corner",
+        "displayNames": {
+          "en-us": "Move to cell in the upper left corner"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ],
+          [
+            "Scroll"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to last cell on a worksheet",
+        "displayNames": {
+          "en-us": "Move to last cell on a worksheet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to left edge of data region",
+        "displayNames": {
+          "en-us": "Move to left edge of data region"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to next cell to the right",
+        "displayNames": {
+          "en-us": "Move to next cell to the right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to next sheet in workbook",
+        "displayNames": {
+          "en-us": "Move to next sheet in workbook"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to previous sheet in workbook",
+        "displayNames": {
+          "en-us": "Move to previous sheet in workbook"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to right edge of data region",
+        "displayNames": {
+          "en-us": "Move to right edge of data region"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the previous cell",
+        "displayNames": {
+          "en-us": "Move to the previous cell"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to top edge of data region",
+        "displayNames": {
+          "en-us": "Move to top edge of data region"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open list of choices on a cell",
+        "displayNames": {
+          "en-us": "Open list of choices on a cell"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Go To Dialog",
+        "displayNames": {
+          "en-us": "Show Go To Dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Formatting Cells",
+    "shortcuts": [
+      {
+        "internalName": "Apply Currency format",
+        "displayNames": {
+          "en-us": "Apply Currency format"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply Date format",
+        "displayNames": {
+          "en-us": "Apply Date format"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply General format",
+        "displayNames": {
+          "en-us": "Apply General format"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "192"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply Number format",
+        "displayNames": {
+          "en-us": "Apply Number format"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply or remove bold formatting",
+        "displayNames": {
+          "en-us": "Apply or remove bold formatting"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply or remove italic formatting",
+        "displayNames": {
+          "en-us": "Apply or remove italic formatting"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply or remove strikethrough formatting",
+        "displayNames": {
+          "en-us": "Apply or remove strikethrough formatting"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply or remove underline",
+        "displayNames": {
+          "en-us": "Apply or remove underline"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply outline border to cells",
+        "displayNames": {
+          "en-us": "Apply outline border to cells"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply Percentage format",
+        "displayNames": {
+          "en-us": "Apply Percentage format"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply Scientific format",
+        "displayNames": {
+          "en-us": "Apply Scientific format"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply Time format",
+        "displayNames": {
+          "en-us": "Apply Time format"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Check spelling",
+        "displayNames": {
+          "en-us": "Check spelling"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy formula from above cell",
+        "displayNames": {
+          "en-us": "Copy formula from above cell"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "222"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display the Quick Analysis options",
+        "displayNames": {
+          "en-us": "Display the Quick Analysis options"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enter current date",
+        "displayNames": {
+          "en-us": "Enter current date"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "186"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enter current time",
+        "displayNames": {
+          "en-us": "Enter current time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "186"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fill down from cell above",
+        "displayNames": {
+          "en-us": "Fill down from cell above"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fill right from cell left",
+        "displayNames": {
+          "en-us": "Fill right from cell left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Format fonts in Format Cells dialog",
+        "displayNames": {
+          "en-us": "Format fonts in Format Cells dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert a note",
+        "displayNames": {
+          "en-us": "Insert a note"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert Table",
+        "displayNames": {
+          "en-us": "Insert Table"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert threaded comment",
+        "displayNames": {
+          "en-us": "Insert threaded comment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open and edit a note",
+        "displayNames": {
+          "en-us": "Open and edit a note"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open and reply to threaded comment",
+        "displayNames": {
+          "en-us": "Open and reply to threaded comment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Delete dialog to delete cells",
+        "displayNames": {
+          "en-us": "Open Delete dialog to delete cells"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Format Cells dialog",
+        "displayNames": {
+          "en-us": "Open Format Cells dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Insert dialog to insert cells",
+        "displayNames": {
+          "en-us": "Open Insert dialog to insert cells"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Insert hyperlink dialog",
+        "displayNames": {
+          "en-us": "Open the Insert hyperlink dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove outline border to selected cells",
+        "displayNames": {
+          "en-us": "Remove outline border to selected cells"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show or hide objects",
+        "displayNames": {
+          "en-us": "Show or hide objects"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show or hide outline symbols",
+        "displayNames": {
+          "en-us": "Show or hide outline symbols"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle formulas on and off",
+        "displayNames": {
+          "en-us": "Toggle formulas on and off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "192"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Making Selections",
+    "shortcuts": [
+      {
+        "internalName": "Select entire table",
+        "displayNames": {
+          "en-us": "Select entire table"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Complete cell entry and select above cell",
+        "displayNames": {
+          "en-us": "Complete cell entry and select above cell"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend cell selection downwards",
+        "displayNames": {
+          "en-us": "Extend cell selection downwards"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend cell selection to the left",
+        "displayNames": {
+          "en-us": "Extend cell selection to the left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend cell selection to the right",
+        "displayNames": {
+          "en-us": "Extend cell selection to the right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend cell selection to top",
+        "displayNames": {
+          "en-us": "Extend cell selection to top"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend cell selection upwards",
+        "displayNames": {
+          "en-us": "Extend cell selection upwards"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select cells to first column cell",
+        "displayNames": {
+          "en-us": "Select cells to first column cell"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select cells to first row cell",
+        "displayNames": {
+          "en-us": "Select cells to first row cell"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select cells to last column cell",
+        "displayNames": {
+          "en-us": "Select cells to last column cell"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select cells to last row cell",
+        "displayNames": {
+          "en-us": "Select cells to last row cell"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend selection to last bottom cell",
+        "displayNames": {
+          "en-us": "Extend selection to last bottom cell"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend selection to last left cell",
+        "displayNames": {
+          "en-us": "Extend selection to last left cell"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend selection to last right cell",
+        "displayNames": {
+          "en-us": "Extend selection to last right cell"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend selection to last top cell",
+        "displayNames": {
+          "en-us": "Extend selection to last top cell"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fill selected cell range with the current entry",
+        "displayNames": {
+          "en-us": "Fill selected cell range with the current entry"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Repeat last action",
+        "displayNames": {
+          "en-us": "Repeat last action"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select all objects when an object is selected",
+        "displayNames": {
+          "en-us": "Select all objects when an object is selected"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select current and next worksheet",
+        "displayNames": {
+          "en-us": "Select current and next worksheet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select current and previous worksheet",
+        "displayNames": {
+          "en-us": "Select current and previous worksheet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select current array",
+        "displayNames": {
+          "en-us": "Select current array"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select current region around the cell",
+        "displayNames": {
+          "en-us": "Select current region around the cell"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select differences in row",
+        "displayNames": {
+          "en-us": "Select differences in row"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select entire column",
+        "displayNames": {
+          "en-us": "Select entire column"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select entire row",
+        "displayNames": {
+          "en-us": "Select entire row"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select entire worksheet",
+        "displayNames": {
+          "en-us": "Select entire worksheet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select first command on menu",
+        "displayNames": {
+          "en-us": "Select first command on menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select only visible cells",
+        "displayNames": {
+          "en-us": "Select only visible cells"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "186"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start a new line",
+        "displayNames": {
+          "en-us": "Start a new line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle add to selection mode",
+        "displayNames": {
+          "en-us": "Toggle add to selection mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle extend mode",
+        "displayNames": {
+          "en-us": "Toggle extend mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F8"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Working with Formulas",
+    "shortcuts": [
+      {
+        "internalName": "Autosum selection of cells",
+        "displayNames": {
+          "en-us": "Autosum selection of cells"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Calculate active worksheet",
+        "displayNames": {
+          "en-us": "Calculate active worksheet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Calculate all worksheets",
+        "displayNames": {
+          "en-us": "Calculate all worksheets"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cancel entry in formula bar",
+        "displayNames": {
+          "en-us": "Cancel entry in formula bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Check your formula",
+        "displayNames": {
+          "en-us": "Check your formula"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Complete entry in formula bar",
+        "displayNames": {
+          "en-us": "Complete entry in formula bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy the value from the cell above",
+        "displayNames": {
+          "en-us": "Copy the value from the cell above"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "222"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create chart in a new sheet",
+        "displayNames": {
+          "en-us": "Create chart in a new sheet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create embedded chart",
+        "displayNames": {
+          "en-us": "Create embedded chart"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Define name for references",
+        "displayNames": {
+          "en-us": "Define name for references"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display function arguments dialog",
+        "displayNames": {
+          "en-us": "Display function arguments dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display message for error checking button",
+        "displayNames": {
+          "en-us": "Display message for error checking button"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand or collapse formula bar",
+        "displayNames": {
+          "en-us": "Expand or collapse formula bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Force Calculate all worksheets",
+        "displayNames": {
+          "en-us": "Force Calculate all worksheets"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Input array formula",
+        "displayNames": {
+          "en-us": "Input array formula"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert a function",
+        "displayNames": {
+          "en-us": "Insert a function"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert function arguments",
+        "displayNames": {
+          "en-us": "Insert function arguments"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Invoke Flash Fill",
+        "displayNames": {
+          "en-us": "Invoke Flash Fill"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to end of text when in the formula bar",
+        "displayNames": {
+          "en-us": "Move to end of text when in the formula bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to next record of data form",
+        "displayNames": {
+          "en-us": "Move to next record of data form"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open macro dialog",
+        "displayNames": {
+          "en-us": "Open macro dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste a name",
+        "displayNames": {
+          "en-us": "Paste a name"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select text in formula bar to end",
+        "displayNames": {
+          "en-us": "Select text in formula bar to end"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle absolute or relative references",
+        "displayNames": {
+          "en-us": "Toggle absolute or relative references"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Ribbon Tabs",
+    "shortcuts": [
+      {
+        "internalName": "Go to Search field",
+        "displayNames": {
+          "en-us": "Go to Search field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Data tab",
+        "displayNames": {
+          "en-us": "Open Data tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open File page",
+        "displayNames": {
+          "en-us": "Open File page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Formulas tab",
+        "displayNames": {
+          "en-us": "Open Formulas tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Home tab",
+        "displayNames": {
+          "en-us": "Open Home tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Insert tab",
+        "displayNames": {
+          "en-us": "Open Insert tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Page Layout tab",
+        "displayNames": {
+          "en-us": "Open Page Layout tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Review tab",
+        "displayNames": {
+          "en-us": "Open Review tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open View tab",
+        "displayNames": {
+          "en-us": "Open View tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "W"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Paste Special",
+    "shortcuts": [
+      {
+        "internalName": "Open Paste Special dialog",
+        "displayNames": {
+          "en-us": "Open Paste Special dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste Special formats",
+        "displayNames": {
+          "en-us": "Paste Special formats"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "V"
+          ],
+          [
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste Special values",
+        "displayNames": {
+          "en-us": "Paste Special values"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "V"
+          ],
+          [
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste Special formulas",
+        "displayNames": {
+          "en-us": "Paste Special formulas"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "V"
+          ],
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste Special comments",
+        "displayNames": {
+          "en-us": "Paste Special comments"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "V"
+          ],
+          [
+            "C"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Function Keys",
+    "shortcuts": [
+      {
+        "internalName": "Add non-adjacent cell to a selection",
+        "displayNames": {
+          "en-us": "Add non-adjacent cell to a selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add or update cell note",
+        "displayNames": {
+          "en-us": "Add or update cell note"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Calculates active worksheet",
+        "displayNames": {
+          "en-us": "Calculates active worksheet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close workbook window",
+        "displayNames": {
+          "en-us": "Close workbook window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create chart of the selected range",
+        "displayNames": {
+          "en-us": "Create chart of the selected range"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display shortcut menu",
+        "displayNames": {
+          "en-us": "Display shortcut menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert new worksheet",
+        "displayNames": {
+          "en-us": "Insert new worksheet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert new worksheet",
+        "displayNames": {
+          "en-us": "Insert new worksheet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Maximize workbook",
+        "displayNames": {
+          "en-us": "Maximize workbook"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Minimize workbook",
+        "displayNames": {
+          "en-us": "Minimize workbook"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Excel Help",
+        "displayNames": {
+          "en-us": "Open Excel Help"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Go To dialog",
+        "displayNames": {
+          "en-us": "Open Go To dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Insert Function dialog",
+        "displayNames": {
+          "en-us": "Open Insert Function dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Macro dialog",
+        "displayNames": {
+          "en-us": "Open Macro dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Paste Name dialog",
+        "displayNames": {
+          "en-us": "Open Paste Name dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open print preview",
+        "displayNames": {
+          "en-us": "Open print preview"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Save As dialog",
+        "displayNames": {
+          "en-us": "Open Save As dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F12"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Spelling dialog",
+        "displayNames": {
+          "en-us": "Open Spelling dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Thesaurus",
+        "displayNames": {
+          "en-us": "Open Thesaurus"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open VBA Editor",
+        "displayNames": {
+          "en-us": "Open VBA Editor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Perform moving of window",
+        "displayNames": {
+          "en-us": "Perform moving of window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Perform resizing of window",
+        "displayNames": {
+          "en-us": "Perform resizing of window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Repeat last action",
+        "displayNames": {
+          "en-us": "Repeat last action"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Restore window size of workbook",
+        "displayNames": {
+          "en-us": "Restore window size of workbook"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show or hide ribbon",
+        "displayNames": {
+          "en-us": "Show or hide ribbon"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch panes",
+        "displayNames": {
+          "en-us": "Switch panes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch panes in reverse",
+        "displayNames": {
+          "en-us": "Switch panes in reverse"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to next workbook",
+        "displayNames": {
+          "en-us": "Switch to next workbook"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle key tips",
+        "displayNames": {
+          "en-us": "Toggle key tips"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F10"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Macros and VBA",
+    "shortcuts": [
+      {
+        "internalName": "Autocomplete code",
+        "displayNames": {
+          "en-us": "Autocomplete code"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete line of code",
+        "displayNames": {
+          "en-us": "Delete line of code"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Intellisense Dropdown",
+        "displayNames": {
+          "en-us": "Open Intellisense Dropdown"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Visual Basic For Applications (VBA) Editor",
+        "displayNames": {
+          "en-us": "Open Visual Basic For Applications (VBA) Editor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo last action",
+        "displayNames": {
+          "en-us": "Redo last action"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "E"
+          ],
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show quick info",
+        "displayNames": {
+          "en-us": "Show quick info"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Step through code",
+        "displayNames": {
+          "en-us": "Step through code"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F8"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Pivot Table",
+    "shortcuts": [
+      {
+        "internalName": "Group selected items",
+        "displayNames": {
+          "en-us": "Group selected items"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hide selected item or field",
+        "displayNames": {
+          "en-us": "Hide selected item or field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Calculated Field dialog",
+        "displayNames": {
+          "en-us": "Open Calculated Field dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open field list for cell",
+        "displayNames": {
+          "en-us": "Open field list for cell"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open old PivotTable Wizard",
+        "displayNames": {
+          "en-us": "Open old PivotTable Wizard"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "D"
+          ],
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Refresh Pivot Table",
+        "displayNames": {
+          "en-us": "Refresh Pivot Table"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Refresh Pivot Table",
+        "displayNames": {
+          "en-us": "Refresh Pivot Table"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select entire table",
+        "displayNames": {
+          "en-us": "Select entire table"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select first item in Field List",
+        "displayNames": {
+          "en-us": "Select first item in Field List"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select last item in Field List",
+        "displayNames": {
+          "en-us": "Select last item in Field List"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select next item in Field List",
+        "displayNames": {
+          "en-us": "Select next item in Field List"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select or clear a check box",
+        "displayNames": {
+          "en-us": "Select or clear a check box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select previous item in Field List",
+        "displayNames": {
+          "en-us": "Select previous item in Field List"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Ungroup selected items",
+        "displayNames": {
+          "en-us": "Ungroup selected items"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Left"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Power BI",
+    "shortcuts": [
+      {
+        "internalName": "Activate Selection pane",
+        "displayNames": {
+          "en-us": "Activate Selection pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse a table",
+        "displayNames": {
+          "en-us": "Collapse a table"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Comment lines in DAX",
+        "displayNames": {
+          "en-us": "Comment lines in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Comment multiple lines in DAX",
+        "displayNames": {
+          "en-us": "Comment multiple lines in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ],
+          [
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy line down in DAX",
+        "displayNames": {
+          "en-us": "Copy line down in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy line up in DAX",
+        "displayNames": {
+          "en-us": "Copy line up in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create line break with auto-indent",
+        "displayNames": {
+          "en-us": "Create line break with auto-indent"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete a word in DAX",
+        "displayNames": {
+          "en-us": "Delete a word in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete multiple lines in DAX",
+        "displayNames": {
+          "en-us": "Delete multiple lines in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enter lines of code in DAX",
+        "displayNames": {
+          "en-us": "Enter lines of code in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enter lines of code in DAX",
+        "displayNames": {
+          "en-us": "Enter lines of code in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand a table",
+        "displayNames": {
+          "en-us": "Expand a table"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find the highlighted word",
+        "displayNames": {
+          "en-us": "Find the highlighted word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to line number in DAX",
+        "displayNames": {
+          "en-us": "Go to line number in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Indent line in DAX",
+        "displayNames": {
+          "en-us": "Indent line in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert line above in DAX",
+        "displayNames": {
+          "en-us": "Insert line above in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert line below in DAX",
+        "displayNames": {
+          "en-us": "Insert line below in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Interact with a Slicer",
+        "displayNames": {
+          "en-us": "Interact with a Slicer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to matching bracket in DAX",
+        "displayNames": {
+          "en-us": "Jump to matching bracket in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move an object down in layering",
+        "displayNames": {
+          "en-us": "Move an object down in layering"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move an object up in layering",
+        "displayNames": {
+          "en-us": "Move an object up in layering"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move focus backward in section",
+        "displayNames": {
+          "en-us": "Move focus backward in section"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move focus between sections",
+        "displayNames": {
+          "en-us": "Move focus between sections"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move focus forward in section",
+        "displayNames": {
+          "en-us": "Move focus forward in section"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move focus to Visual menu",
+        "displayNames": {
+          "en-us": "Move focus to Visual menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move line down in DAX",
+        "displayNames": {
+          "en-us": "Move line down in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move line up in DAX",
+        "displayNames": {
+          "en-us": "Move line up in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Multi-select",
+        "displayNames": {
+          "en-us": "Multi-select"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift"
+          ]
+        ]
+      },
+      {
+        "internalName": "Multi-select objects",
+        "displayNames": {
+          "en-us": "Multi-select objects"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "New line in DAX",
+        "displayNames": {
+          "en-us": "New line in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Outdent line in DAX",
+        "displayNames": {
+          "en-us": "Outdent line in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Restart Intellisense",
+        "displayNames": {
+          "en-us": "Restart Intellisense"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select all occurrences of current selection",
+        "displayNames": {
+          "en-us": "Select all occurrences of current selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select all occurrences of current word",
+        "displayNames": {
+          "en-us": "Select all occurrences of current word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select an object",
+        "displayNames": {
+          "en-us": "Select an object"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select current line in DAX",
+        "displayNames": {
+          "en-us": "Select current line in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select nearest word in DAX",
+        "displayNames": {
+          "en-us": "Select nearest word in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select object",
+        "displayNames": {
+          "en-us": "Select object"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show data",
+        "displayNames": {
+          "en-us": "Show data"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show keyboard shortcuts",
+        "displayNames": {
+          "en-us": "Show keyboard shortcuts"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle commenting of code",
+        "displayNames": {
+          "en-us": "Toggle commenting of code"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle commenting of lines that has a word",
+        "displayNames": {
+          "en-us": "Toggle commenting of lines that has a word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle object visibility",
+        "displayNames": {
+          "en-us": "Toggle object visibility"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Uncomment lines in DAX",
+        "displayNames": {
+          "en-us": "Uncomment lines in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Uncomment multiple lines in DAX",
+        "displayNames": {
+          "en-us": "Uncomment multiple lines in DAX"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ],
+          [
+            "U"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Others",
+    "shortcuts": [
+      {
+        "internalName": "Add border bottom in Format Cells",
+        "displayNames": {
+          "en-us": "Add border bottom in Format Cells"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add border downard diagonal in Format Cells",
+        "displayNames": {
+          "en-us": "Add border downard diagonal in Format Cells"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add border horizontal interior in Format Cells",
+        "displayNames": {
+          "en-us": "Add border horizontal interior in Format Cells"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add border left in Format Cells",
+        "displayNames": {
+          "en-us": "Add border left in Format Cells"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add border right in Format Cells",
+        "displayNames": {
+          "en-us": "Add border right in Format Cells"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add border top in Format Cells",
+        "displayNames": {
+          "en-us": "Add border top in Format Cells"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add border upward diagonal in Format Cells",
+        "displayNames": {
+          "en-us": "Add border upward diagonal in Format Cells"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add border vertical interior in Format Cells",
+        "displayNames": {
+          "en-us": "Add border vertical interior in Format Cells"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear cell content",
+        "displayNames": {
+          "en-us": "Clear cell content"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear cell content while keeping cell format",
+        "displayNames": {
+          "en-us": "Clear cell content while keeping cell format"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear slicer filter",
+        "displayNames": {
+          "en-us": "Clear slicer filter"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close an open menu or dialog",
+        "displayNames": {
+          "en-us": "Close an open menu or dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete one character to the left",
+        "displayNames": {
+          "en-us": "Delete one character to the left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete one character to the right",
+        "displayNames": {
+          "en-us": "Delete one character to the right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete to the end of line",
+        "displayNames": {
+          "en-us": "Delete to the end of line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display control menu for Excel window",
+        "displayNames": {
+          "en-us": "Display control menu for Excel window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "In End Mode, move to bottom cell in column",
+        "displayNames": {
+          "en-us": "In End Mode, move to bottom cell in column"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ],
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "In End Mode, move to left cell in row",
+        "displayNames": {
+          "en-us": "In End Mode, move to left cell in row"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ],
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "In End Mode, move to right cell in row",
+        "displayNames": {
+          "en-us": "In End Mode, move to right cell in row"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ],
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "In End Mode, move to top cell in column",
+        "displayNames": {
+          "en-us": "In End Mode, move to top cell in column"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ],
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert new line in cell",
+        "displayNames": {
+          "en-us": "Insert new line in cell"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to start of row",
+        "displayNames": {
+          "en-us": "Move to start of row"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to unlocked cells in protected worksheet",
+        "displayNames": {
+          "en-us": "Move to unlocked cells in protected worksheet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open dropdown list",
+        "displayNames": {
+          "en-us": "Open dropdown list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select or clear a check box",
+        "displayNames": {
+          "en-us": "Select or clear a check box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Selects the entire worksheet",
+        "displayNames": {
+          "en-us": "Selects the entire worksheet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to next tab in dialog",
+        "displayNames": {
+          "en-us": "Switch to next tab in dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to Normal view",
+        "displayNames": {
+          "en-us": "Switch to Normal view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "W"
+          ],
+          [
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to Page Break Preview view",
+        "displayNames": {
+          "en-us": "Switch to Page Break Preview view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "W"
+          ],
+          [
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to Page Layout view",
+        "displayNames": {
+          "en-us": "Switch to Page Layout view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "W"
+          ],
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to previous tab in dialog",
+        "displayNames": {
+          "en-us": "Switch to previous tab in dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle End mode",
+        "displayNames": {
+          "en-us": "Toggle End mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle full screen",
+        "displayNames": {
+          "en-us": "Toggle full screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle total row of table",
+        "displayNames": {
+          "en-us": "Toggle total row of table"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      }
+    ]
+  }
+]

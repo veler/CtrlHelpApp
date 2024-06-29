@@ -1,0 +1,2496 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Open a document",
+        "displayNames": {
+          "en-us": "Open a document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a new document",
+        "displayNames": {
+          "en-us": "Create a new document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save the document",
+        "displayNames": {
+          "en-us": "Save the document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close the document",
+        "displayNames": {
+          "en-us": "Close the document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut the selected content to the Clipboard",
+        "displayNames": {
+          "en-us": "Cut the selected content to the Clipboard"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy the selected content to the Clipboard",
+        "displayNames": {
+          "en-us": "Copy the selected content to the Clipboard"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste the contents of the Clipboard",
+        "displayNames": {
+          "en-us": "Paste the contents of the Clipboard"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select all document content",
+        "displayNames": {
+          "en-us": "Select all document content"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply bold formatting to text",
+        "displayNames": {
+          "en-us": "Apply bold formatting to text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply italic formatting to text",
+        "displayNames": {
+          "en-us": "Apply italic formatting to text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply underline formatting to text",
+        "displayNames": {
+          "en-us": "Apply underline formatting to text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease the font size by 1 point",
+        "displayNames": {
+          "en-us": "Decrease the font size by 1 point"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase the font size by 1 point",
+        "displayNames": {
+          "en-us": "Increase the font size by 1 point"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Center the text",
+        "displayNames": {
+          "en-us": "Center the text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Align the text to the left",
+        "displayNames": {
+          "en-us": "Align the text to the left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Align the text to the right",
+        "displayNames": {
+          "en-us": "Align the text to the right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cancel a command",
+        "displayNames": {
+          "en-us": "Cancel a command"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo the previous action",
+        "displayNames": {
+          "en-us": "Undo the previous action"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo the previous action, if possible",
+        "displayNames": {
+          "en-us": "Redo the previous action, if possible"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Split the document window",
+        "displayNames": {
+          "en-us": "Split the document window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove the document window split",
+        "displayNames": {
+          "en-us": "Remove the document window split"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "C"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Ribbon keyboard shortcuts",
+    "shortcuts": [
+      {
+        "internalName": "Move to the Tell me or Search field on the Ribbon to search for assistance or Help content",
+        "displayNames": {
+          "en-us": "Move to the Tell me or Search field on the Ribbon to search for assistance or Help content"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the File page to use Backstage view",
+        "displayNames": {
+          "en-us": "Open the File page to use Backstage view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Home tab to use common formatting commands, paragraph styles, and the Find tool",
+        "displayNames": {
+          "en-us": "Open the Home tab to use common formatting commands, paragraph styles, and the Find tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Insert tab to insert tables, pictures and shapes, headers, or text boxes",
+        "displayNames": {
+          "en-us": "Open the Insert tab to insert tables, pictures and shapes, headers, or text boxes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Design tab to use themes, colors, and effects, such as page borders",
+        "displayNames": {
+          "en-us": "Open the Design tab to use themes, colors, and effects, such as page borders"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Layout tab to work with page margins, page orientation, indentation, and spacing",
+        "displayNames": {
+          "en-us": "Open the Layout tab to work with page margins, page orientation, indentation, and spacing"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the References tab to add a table of contents, footnotes, or a table of citations",
+        "displayNames": {
+          "en-us": "Open the References tab to add a table of contents, footnotes, or a table of citations"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Mailings tab to manage Mail Merge tasks and to work with envelopes and labels",
+        "displayNames": {
+          "en-us": "Open the Mailings tab to manage Mail Merge tasks and to work with envelopes and labels"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Review tab to use Spell Check, set proofing languages, and to track and review changes to your document",
+        "displayNames": {
+          "en-us": "Open the Review tab to use Spell Check, set proofing languages, and to track and review changes to your document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the View tab to choose a document view or mode, such as Read Mode or Outline view. You can also set the zoom magnification and manage multiple document windows",
+        "displayNames": {
+          "en-us": "Open the View tab to choose a document view or mode, such as Read Mode or Outline view. You can also set the zoom magnification and manage multiple document windows"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the active tab on the ribbon, and activate the access keys",
+        "displayNames": {
+          "en-us": "Select the active tab on the ribbon, and activate the access keys"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the focus to commands on the ribbon",
+        "displayNames": {
+          "en-us": "Move the focus to commands on the ribbon"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move between command groupings on the ribbon",
+        "displayNames": {
+          "en-us": "Move between command groupings on the ribbon"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate the selected button",
+        "displayNames": {
+          "en-us": "Activate the selected button"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the list for the selected command",
+        "displayNames": {
+          "en-us": "Open the list for the selected command"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the menu for the selected button",
+        "displayNames": {
+          "en-us": "Open the menu for the selected button"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "When a menu or submenu is open, move to the next command",
+        "displayNames": {
+          "en-us": "When a menu or submenu is open, move to the next command"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand or collapse the ribbon",
+        "displayNames": {
+          "en-us": "Expand or collapse the ribbon"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the context menu",
+        "displayNames": {
+          "en-us": "Open the context menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the submenu when a main menu is open or selected",
+        "displayNames": {
+          "en-us": "Move to the submenu when a main menu is open or selected"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Navigate the document",
+    "shortcuts": [
+      {
+        "internalName": "Move the cursor one word to the left",
+        "displayNames": {
+          "en-us": "Move the cursor one word to the left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the cursor one word to the right",
+        "displayNames": {
+          "en-us": "Move the cursor one word to the right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the cursor up by one paragraph",
+        "displayNames": {
+          "en-us": "Move the cursor up by one paragraph"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the cursor down by one paragraph",
+        "displayNames": {
+          "en-us": "Move the cursor down by one paragraph"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the cursor to the end of the current line",
+        "displayNames": {
+          "en-us": "Move the cursor to the end of the current line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the cursor to the beginning the current line",
+        "displayNames": {
+          "en-us": "Move the cursor to the beginning the current line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the cursor to the top of the screen",
+        "displayNames": {
+          "en-us": "Move the cursor to the top of the screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the cursor to the bottom of the screen",
+        "displayNames": {
+          "en-us": "Move the cursor to the bottom of the screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the cursor by scrolling the document view up by one screen",
+        "displayNames": {
+          "en-us": "Move the cursor by scrolling the document view up by one screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the cursor by scrolling the document view down by one screen",
+        "displayNames": {
+          "en-us": "Move the cursor by scrolling the document view down by one screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the cursor to the top of the next page",
+        "displayNames": {
+          "en-us": "Move the cursor to the top of the next page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the cursor to the top of the previous page",
+        "displayNames": {
+          "en-us": "Move the cursor to the top of the previous page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the cursor to the end of the document",
+        "displayNames": {
+          "en-us": "Move the cursor to the end of the document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the cursor to the beginning of the document",
+        "displayNames": {
+          "en-us": "Move the cursor to the beginning of the document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the cursor to the location of the previous revision",
+        "displayNames": {
+          "en-us": "Move the cursor to the location of the previous revision"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the cursor to the location of the last revision made before the document was last closed",
+        "displayNames": {
+          "en-us": "Move the cursor to the location of the last revision made before the document was last closed"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle through floating shapes, such as text boxes or images",
+        "displayNames": {
+          "en-us": "Cycle through floating shapes, such as text boxes or images"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number5"
+          ],
+          [
+            "Control",
+            "Menu",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Exit the floating shape navigation and return to the normal navigation",
+        "displayNames": {
+          "en-us": "Exit the floating shape navigation and return to the normal navigation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display the Navigation task pane, to search within the document content",
+        "displayNames": {
+          "en-us": "Display the Navigation task pane, to search within the document content"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display the Go To dialog, to navigate to a specific page, bookmark, footnote, table, comment, graphic, or other location",
+        "displayNames": {
+          "en-us": "Display the Go To dialog, to navigate to a specific page, bookmark, footnote, table, comment, graphic, or other location"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle through the locations of the four previous changes made to the document",
+        "displayNames": {
+          "en-us": "Cycle through the locations of the four previous changes made to the document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Z"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Preview and print documents",
+    "shortcuts": [
+      {
+        "internalName": "Print the document",
+        "displayNames": {
+          "en-us": "Print the document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to print preview",
+        "displayNames": {
+          "en-us": "Switch to print preview"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move by one preview page when zoomed out",
+        "displayNames": {
+          "en-us": "Move by one preview page when zoomed out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the first preview page when zoomed out",
+        "displayNames": {
+          "en-us": "Move to the first preview page when zoomed out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the last preview page when zoomed out",
+        "displayNames": {
+          "en-us": "Move to the last preview page when zoomed out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "End"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Select text and graphics",
+    "shortcuts": [
+      {
+        "internalName": "Select the word to the left",
+        "displayNames": {
+          "en-us": "Select the word to the left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the word to the right",
+        "displayNames": {
+          "en-us": "Select the word to the right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select from the current position to the beginning of the current line",
+        "displayNames": {
+          "en-us": "Select from the current position to the beginning of the current line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select from the current position to the end of the current line",
+        "displayNames": {
+          "en-us": "Select from the current position to the end of the current line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select from the current position to the beginning of the current paragraph",
+        "displayNames": {
+          "en-us": "Select from the current position to the beginning of the current paragraph"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select from the current position to the end of the current paragraph",
+        "displayNames": {
+          "en-us": "Select from the current position to the end of the current paragraph"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select from the current position to the top of the screen",
+        "displayNames": {
+          "en-us": "Select from the current position to the top of the screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select from the current position to the bottom of the screen",
+        "displayNames": {
+          "en-us": "Select from the current position to the bottom of the screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select from the current position to the beginning of the document",
+        "displayNames": {
+          "en-us": "Select from the current position to the beginning of the document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select from the current position to the end of the document",
+        "displayNames": {
+          "en-us": "Select from the current position to the end of the document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select from the current position to the bottom of the window",
+        "displayNames": {
+          "en-us": "Select from the current position to the bottom of the window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select all document content",
+        "displayNames": {
+          "en-us": "Select all document content"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Edit text and graphics",
+    "shortcuts": [
+      {
+        "internalName": "Delete one word to the left",
+        "displayNames": {
+          "en-us": "Delete one word to the left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete one word to the right",
+        "displayNames": {
+          "en-us": "Delete one word to the right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Clipboard task pane and enable the Office Clipboard, which allows you to copy and paste content between Microsoft Office apps",
+        "displayNames": {
+          "en-us": "Open the Clipboard task pane and enable the Office Clipboard, which allows you to copy and paste content between Microsoft Office apps"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ],
+          [
+            "Menu",
+            "F"
+          ],
+          [
+            "Menu",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut the selected content to the Clipboard",
+        "displayNames": {
+          "en-us": "Cut the selected content to the Clipboard"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy the selected content to the Clipboard",
+        "displayNames": {
+          "en-us": "Copy the selected content to the Clipboard"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste the contents of the Clipboard",
+        "displayNames": {
+          "en-us": "Paste the contents of the Clipboard"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Define an AutoText block with the selected content",
+        "displayNames": {
+          "en-us": "Define an AutoText block with the selected content"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut the selected content to the Spike",
+        "displayNames": {
+          "en-us": "Cut the selected content to the Spike"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste the contents of the Spike",
+        "displayNames": {
+          "en-us": "Paste the contents of the Spike"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy the selected formatting",
+        "displayNames": {
+          "en-us": "Copy the selected formatting"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste the selected formatting",
+        "displayNames": {
+          "en-us": "Paste the selected formatting"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy the header or footer used in the previous section of the document",
+        "displayNames": {
+          "en-us": "Copy the header or footer used in the previous section of the document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display the Replace dialog, to find and replace text, specific formatting, or special items",
+        "displayNames": {
+          "en-us": "Display the Replace dialog, to find and replace text, specific formatting, or special items"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display the Object dialog, to insert a file object into the document",
+        "displayNames": {
+          "en-us": "Display the Object dialog, to insert a file object into the document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "N"
+          ],
+          [
+            "Menu",
+            "J"
+          ],
+          [
+            "Menu",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert a SmartArt graphic",
+        "displayNames": {
+          "en-us": "Insert a SmartArt graphic"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "N"
+          ],
+          [
+            "Menu",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert a WordArt graphic",
+        "displayNames": {
+          "en-us": "Insert a WordArt graphic"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "N"
+          ],
+          [
+            "Menu",
+            "W"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Work with web content",
+    "shortcuts": [
+      {
+        "internalName": "Insert a hyperlink",
+        "displayNames": {
+          "en-us": "Insert a hyperlink"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go back one page",
+        "displayNames": {
+          "en-us": "Go back one page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go forward one page",
+        "displayNames": {
+          "en-us": "Go forward one page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Refresh the page",
+        "displayNames": {
+          "en-us": "Refresh the page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F9"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Work with tables",
+    "shortcuts": [
+      {
+        "internalName": "Move to the next cell in the row and select its content",
+        "displayNames": {
+          "en-us": "Move to the next cell in the row and select its content"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the previous cell in the row and select its content",
+        "displayNames": {
+          "en-us": "Move to the previous cell in the row and select its content"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the first cell in the row",
+        "displayNames": {
+          "en-us": "Move to the first cell in the row"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the last cell in the row",
+        "displayNames": {
+          "en-us": "Move to the last cell in the row"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the first cell in the column",
+        "displayNames": {
+          "en-us": "Move to the first cell in the column"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the last cell in the column",
+        "displayNames": {
+          "en-us": "Move to the last cell in the column"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the previous row",
+        "displayNames": {
+          "en-us": "Move to the previous row"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the next row",
+        "displayNames": {
+          "en-us": "Move to the next row"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move one row up",
+        "displayNames": {
+          "en-us": "Move one row up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move one row down",
+        "displayNames": {
+          "en-us": "Move one row down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Down"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Review a document",
+    "shortcuts": [
+      {
+        "internalName": "Insert a comment",
+        "displayNames": {
+          "en-us": "Insert a comment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turn change tracking on or off",
+        "displayNames": {
+          "en-us": "Turn change tracking on or off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close the Reviewing Pane",
+        "displayNames": {
+          "en-us": "Close the Reviewing Pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "C"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Work with references, citations and indexing",
+    "shortcuts": [
+      {
+        "internalName": "Mark a table of contents entry",
+        "displayNames": {
+          "en-us": "Mark a table of contents entry"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark a table of authorities entry (citation)",
+        "displayNames": {
+          "en-us": "Mark a table of authorities entry (citation)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Choose citation options",
+        "displayNames": {
+          "en-us": "Choose citation options"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "F12"
+          ],
+          [
+            "Menu",
+            "Shift",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark an index entry",
+        "displayNames": {
+          "en-us": "Mark an index entry"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert a footnote",
+        "displayNames": {
+          "en-us": "Insert a footnote"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert an endnote",
+        "displayNames": {
+          "en-us": "Insert an endnote"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the next footnote",
+        "displayNames": {
+          "en-us": "Go to the next footnote"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "190"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the previous footnote",
+        "displayNames": {
+          "en-us": "Go to the previous footnote"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "188"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Work with mail merge and fields",
+    "shortcuts": [
+      {
+        "internalName": "Preview the mail merge",
+        "displayNames": {
+          "en-us": "Preview the mail merge"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Merge a document",
+        "displayNames": {
+          "en-us": "Merge a document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print the merged document",
+        "displayNames": {
+          "en-us": "Print the merged document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Edit a mail-merge data document",
+        "displayNames": {
+          "en-us": "Edit a mail-merge data document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert a merge field",
+        "displayNames": {
+          "en-us": "Insert a merge field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "F"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Work with document views",
+    "shortcuts": [
+      {
+        "internalName": "Switch to the Read Mode view",
+        "displayNames": {
+          "en-us": "Switch to the Read Mode view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "W"
+          ],
+          [
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to the Print Layout view",
+        "displayNames": {
+          "en-us": "Switch to the Print Layout view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to the Outline view",
+        "displayNames": {
+          "en-us": "Switch to the Outline view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to the Draft view",
+        "displayNames": {
+          "en-us": "Switch to the Draft view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "N"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Use function key shortcuts",
+    "shortcuts": [
+      {
+        "internalName": "Displays the Word help task pane",
+        "displayNames": {
+          "en-us": "Displays the Word help task pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Displays or hides context-sensitive help or the Reveal Formatting task pane",
+        "displayNames": {
+          "en-us": "Displays or hides context-sensitive help or the Reveal Formatting task pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Displays or hides the ribbon",
+        "displayNames": {
+          "en-us": "Displays or hides the ribbon"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Moves the selected text or graphic",
+        "displayNames": {
+          "en-us": "Moves the selected text or graphic"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copies the selected text or graphic",
+        "displayNames": {
+          "en-us": "Copies the selected text or graphic"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Displays the print preview area on the Print tab in the Backstage view",
+        "displayNames": {
+          "en-us": "Displays the print preview area on the Print tab in the Backstage view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Displays the Open dialog",
+        "displayNames": {
+          "en-us": "Displays the Open dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switches the selected text between upper case, lower case, and title case",
+        "displayNames": {
+          "en-us": "Switches the selected text between upper case, lower case, and title case"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cuts the selected content to the Spike",
+        "displayNames": {
+          "en-us": "Cuts the selected content to the Spike"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pastes the contents of the Spike",
+        "displayNames": {
+          "en-us": "Pastes the contents of the Spike"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Creates a new Building Block",
+        "displayNames": {
+          "en-us": "Creates a new Building Block"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Repeats the last command or action, if possible",
+        "displayNames": {
+          "en-us": "Repeats the last command or action, if possible"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Repeats the last Find or Go To action",
+        "displayNames": {
+          "en-us": "Repeats the last Find or Go To action"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Closes the current document",
+        "displayNames": {
+          "en-us": "Closes the current document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Displays the Go To dialog",
+        "displayNames": {
+          "en-us": "Displays the Go To dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Moves the cursor to the last change",
+        "displayNames": {
+          "en-us": "Moves the cursor to the last change"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Displays the Bookmark dialog",
+        "displayNames": {
+          "en-us": "Displays the Bookmark dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Restores the document window size",
+        "displayNames": {
+          "en-us": "Restores the document window size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch between the document, task pane, status bar, and ribbon",
+        "displayNames": {
+          "en-us": "Switch between the document, task pane, status bar, and ribbon"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switches between the document, ribbon, status bar, and task pane",
+        "displayNames": {
+          "en-us": "Switches between the document, ribbon, status bar, and task pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switches to the next document window when more than one document is open",
+        "displayNames": {
+          "en-us": "Switches to the next document window when more than one document is open"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switches to the previous document window when more than one document is open",
+        "displayNames": {
+          "en-us": "Switches to the previous document window when more than one document is open"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Moves from an open dialog box back to the document, for dialog boxes that support this behavior",
+        "displayNames": {
+          "en-us": "Moves from an open dialog box back to the document, for dialog boxes that support this behavior"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Displays the Editor task pane to check spelling and grammar in the document or the selected text",
+        "displayNames": {
+          "en-us": "Displays the Editor task pane to check spelling and grammar in the document or the selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Displays the Thesaurus task pane",
+        "displayNames": {
+          "en-us": "Displays the Thesaurus task pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Updates the linked information in a Word source document",
+        "displayNames": {
+          "en-us": "Updates the linked information in a Word source document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Finds the next spelling or grammatical error",
+        "displayNames": {
+          "en-us": "Finds the next spelling or grammatical error"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Displays the Research task pane",
+        "displayNames": {
+          "en-us": "Displays the Research task pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extends the selection",
+        "displayNames": {
+          "en-us": "Extends the selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reduces the selection",
+        "displayNames": {
+          "en-us": "Reduces the selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turns extend selection mode on and off",
+        "displayNames": {
+          "en-us": "Turns extend selection mode on and off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Displays the Macro dialog to create, run, edit, or delete a macro",
+        "displayNames": {
+          "en-us": "Displays the Macro dialog to create, run, edit, or delete a macro"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Updates the selected fields",
+        "displayNames": {
+          "en-us": "Updates the selected fields"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switches between a field code and its result",
+        "displayNames": {
+          "en-us": "Switches between a field code and its result"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Inserts an empty field",
+        "displayNames": {
+          "en-us": "Inserts an empty field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Unlinks the current field",
+        "displayNames": {
+          "en-us": "Unlinks the current field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switches between all field codes and their results",
+        "displayNames": {
+          "en-us": "Switches between all field codes and their results"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Runs GOTOBUTTON or MACROBUTTON from a field displaying field results",
+        "displayNames": {
+          "en-us": "Runs GOTOBUTTON or MACROBUTTON from a field displaying field results"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turns KeyTips on or off",
+        "displayNames": {
+          "en-us": "Turns KeyTips on or off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Displays the shortcut menu for the selected item",
+        "displayNames": {
+          "en-us": "Displays the shortcut menu for the selected item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Maximizes or restores the document window size",
+        "displayNames": {
+          "en-us": "Maximizes or restores the document window size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Displays the Selection task pane",
+        "displayNames": {
+          "en-us": "Displays the Selection task pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Displays the menu or message for available actions",
+        "displayNames": {
+          "en-us": "Displays the menu or message for available actions"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Moves to the next field",
+        "displayNames": {
+          "en-us": "Moves to the next field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Moves to the previous field",
+        "displayNames": {
+          "en-us": "Moves to the previous field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Locks the current field",
+        "displayNames": {
+          "en-us": "Locks the current field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Unlocks the current field",
+        "displayNames": {
+          "en-us": "Unlocks the current field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Opens the Microsoft Visual Basic for Applications editor",
+        "displayNames": {
+          "en-us": "Opens the Microsoft Visual Basic for Applications editor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Displays the Save As dialog",
+        "displayNames": {
+          "en-us": "Displays the Save As dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F12"
+          ]
+        ]
+      },
+      {
+        "internalName": "Saves the document",
+        "displayNames": {
+          "en-us": "Saves the document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F12"
+          ]
+        ]
+      },
+      {
+        "internalName": "Displays the Open dialog",
+        "displayNames": {
+          "en-us": "Displays the Open dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F12"
+          ]
+        ]
+      },
+      {
+        "internalName": "Displays the Print tab in the Backstage view",
+        "displayNames": {
+          "en-us": "Displays the Print tab in the Backstage view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F12"
+          ]
+        ]
+      },
+      {
+        "internalName": "Selects the Table of Contents button in the Table of Contents container when the container is active",
+        "displayNames": {
+          "en-us": "Selects the Table of Contents button in the Table of Contents container when the container is active"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "F12"
+          ]
+        ]
+      }
+    ]
+  }
+]

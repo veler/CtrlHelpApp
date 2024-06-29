@@ -1,0 +1,476 @@
+[
+  {
+    "groupInternalName": "Meetings",
+    "shortcuts": [
+      {
+        "internalName": "Switch to active speaker view",
+        "displayNames": {
+          "en-us": "Switch to active speaker view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to gallery video view",
+        "displayNames": {
+          "en-us": "Switch to gallery video view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start/Stop Video",
+        "displayNames": {
+          "en-us": "Start/Stop Video"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mute/unmute audio",
+        "displayNames": {
+          "en-us": "Mute/unmute audio"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mute/unmute audio all except host",
+        "displayNames": {
+          "en-us": "Mute/unmute audio all except host"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle screen share",
+        "displayNames": {
+          "en-us": "Toggle screen share"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start/stop new screen share",
+        "displayNames": {
+          "en-us": "Start/stop new screen share"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pause or resume screen share",
+        "displayNames": {
+          "en-us": "Pause or resume screen share"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start/stop local recording",
+        "displayNames": {
+          "en-us": "Start/stop local recording"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start/stop cloud recording",
+        "displayNames": {
+          "en-us": "Start/stop cloud recording"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pause or resume recording",
+        "displayNames": {
+          "en-us": "Pause or resume recording"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch camera",
+        "displayNames": {
+          "en-us": "Switch camera"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Raise/lower hand",
+        "displayNames": {
+          "en-us": "Raise/lower hand"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Gain Remote Control",
+        "displayNames": {
+          "en-us": "Gain Remote Control"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Stop Remote Control",
+        "displayNames": {
+          "en-us": "Stop Remote Control"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Read active speaker name",
+        "displayNames": {
+          "en-us": "Read active speaker name"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "View",
+    "shortcuts": [
+      {
+        "internalName": "Focus the meeting controls",
+        "displayNames": {
+          "en-us": "Focus the meeting controls"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display/hide In-Meeting Chat panel",
+        "displayNames": {
+          "en-us": "Display/hide In-Meeting Chat panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display/hide Participants panel",
+        "displayNames": {
+          "en-us": "Display/hide Participants panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Invite window",
+        "displayNames": {
+          "en-us": "Open Invite window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide floating meeting controls",
+        "displayNames": {
+          "en-us": "Show/Hide floating meeting controls"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to Portrait/Landscape View",
+        "displayNames": {
+          "en-us": "Switch to Portrait/Landscape View"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enter or exit full screen",
+        "displayNames": {
+          "en-us": "Enter or exit full screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle the meeting control toolbar",
+        "displayNames": {
+          "en-us": "Toggle the meeting control toolbar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      },
+      {
+        "internalName": "Screenshot",
+        "displayNames": {
+          "en-us": "Screenshot"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "T"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Navigation",
+    "shortcuts": [
+      {
+        "internalName": "Navigate among popup windows",
+        "displayNames": {
+          "en-us": "Navigate among popup windows"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "View prev 25 streams in gallery view",
+        "displayNames": {
+          "en-us": "View prev 25 streams in gallery view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "View next 25 streams in gallery view",
+        "displayNames": {
+          "en-us": "View next 25 streams in gallery view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close current chat session",
+        "displayNames": {
+          "en-us": "Close current chat session"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to previous chat",
+        "displayNames": {
+          "en-us": "Go to previous chat"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to next chat",
+        "displayNames": {
+          "en-us": "Go to next chat"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to chat with someone",
+        "displayNames": {
+          "en-us": "Jump to chat with someone"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the next tab",
+        "displayNames": {
+          "en-us": "Move to the next tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the previous tab",
+        "displayNames": {
+          "en-us": "Move to the previous tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search",
+        "displayNames": {
+          "en-us": "Search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      }
+    ]
+  }
+]

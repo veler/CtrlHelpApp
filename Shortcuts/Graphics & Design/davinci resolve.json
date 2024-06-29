@@ -1,0 +1,2037 @@
+[
+  {
+    "groupInternalName": "Navigation",
+    "shortcuts": [
+      {
+        "internalName": "Pause / Start Playback",
+        "displayNames": {
+          "en-us": "Pause / Start Playback"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Play Reverse",
+        "displayNames": {
+          "en-us": "Play Reverse"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Stop Playback",
+        "displayNames": {
+          "en-us": "Stop Playback"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Play Forward",
+        "displayNames": {
+          "en-us": "Play Forward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Previous Keyframe",
+        "displayNames": {
+          "en-us": "Go to Previous Keyframe"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Next Keyframe",
+        "displayNames": {
+          "en-us": "Go to Next Keyframe"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to First Frame",
+        "displayNames": {
+          "en-us": "Go to First Frame"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "186"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Last Frame",
+        "displayNames": {
+          "en-us": "Go to Last Frame"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "222"
+          ]
+        ]
+      },
+      {
+        "internalName": "Play Around Current Frame",
+        "displayNames": {
+          "en-us": "Play Around Current Frame"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Timeline Start",
+        "displayNames": {
+          "en-us": "Go to Timeline Start"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Timeline End",
+        "displayNames": {
+          "en-us": "Go to Timeline End"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Clip / Edit",
+        "displayNames": {
+          "en-us": "Previous Clip / Edit"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next Clip / Edit",
+        "displayNames": {
+          "en-us": "Next Clip / Edit"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Step One Frame Reverse",
+        "displayNames": {
+          "en-us": "Step One Frame Reverse"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Step One Frame Forward",
+        "displayNames": {
+          "en-us": "Step One Frame Forward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select Clips Forward On This Track",
+        "displayNames": {
+          "en-us": "Select Clips Forward On This Track"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Next Marker",
+        "displayNames": {
+          "en-us": "Go to Next Marker"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Previous Marker",
+        "displayNames": {
+          "en-us": "Go to Previous Marker"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Mark In",
+        "displayNames": {
+          "en-us": "Go to Mark In"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Mark Out",
+        "displayNames": {
+          "en-us": "Go to Mark Out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear Mark In",
+        "displayNames": {
+          "en-us": "Clear Mark In"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear Mark Out",
+        "displayNames": {
+          "en-us": "Clear Mark Out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Play Around In",
+        "displayNames": {
+          "en-us": "Play Around In"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Play Around Out",
+        "displayNames": {
+          "en-us": "Play Around Out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Space"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Toggles",
+    "shortcuts": [
+      {
+        "internalName": "Source / Timeline Viewer",
+        "displayNames": {
+          "en-us": "Source / Timeline Viewer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extract Current Node",
+        "displayNames": {
+          "en-us": "Extract Current Node"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply Grade From Two Clip Prior",
+        "displayNames": {
+          "en-us": "Apply Grade From Two Clip Prior"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply Grade From One Clip Prior",
+        "displayNames": {
+          "en-us": "Apply Grade From One Clip Prior"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enable / Disable Clip",
+        "displayNames": {
+          "en-us": "Enable / Disable Clip"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Match Frame",
+        "displayNames": {
+          "en-us": "Match Frame"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Flag",
+        "displayNames": {
+          "en-us": "Add Flag"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Hand / Selection In Node Window",
+        "displayNames": {
+          "en-us": "Toggle Hand / Selection In Node Window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cinema Viewer",
+        "displayNames": {
+          "en-us": "Cinema Viewer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Dynamic Trim Mode",
+        "displayNames": {
+          "en-us": "Dynamic Trim Mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Trim Mode",
+        "displayNames": {
+          "en-us": "Trim Mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Edit Point Type",
+        "displayNames": {
+          "en-us": "Edit Point Type"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Normal Edit Mode",
+        "displayNames": {
+          "en-us": "Normal Edit Mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Editing",
+    "shortcuts": [
+      {
+        "internalName": "Set Mark In",
+        "displayNames": {
+          "en-us": "Set Mark In"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set Mark Out",
+        "displayNames": {
+          "en-us": "Set Mark Out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark Clip",
+        "displayNames": {
+          "en-us": "Mark Clip"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Marker",
+        "displayNames": {
+          "en-us": "Add Marker"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete Selected",
+        "displayNames": {
+          "en-us": "Delete Selected"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select Nearest Edit Point",
+        "displayNames": {
+          "en-us": "Select Nearest Edit Point"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select Blade",
+        "displayNames": {
+          "en-us": "Select Blade"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Snapping On / Off",
+        "displayNames": {
+          "en-us": "Snapping On / Off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Nudge One Frame Left",
+        "displayNames": {
+          "en-us": "Nudge One Frame Left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Nudge One Frame Right",
+        "displayNames": {
+          "en-us": "Nudge One Frame Right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Slip and Slide Mode",
+        "displayNames": {
+          "en-us": "Toggle Slip and Slide Mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Ripple Delete",
+        "displayNames": {
+          "en-us": "Ripple Delete"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut",
+        "displayNames": {
+          "en-us": "Cut"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Razor",
+        "displayNames": {
+          "en-us": "Razor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Split Clip",
+        "displayNames": {
+          "en-us": "Split Clip"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Join Clip",
+        "displayNames": {
+          "en-us": "Join Clip"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create Subclip",
+        "displayNames": {
+          "en-us": "Create Subclip"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo",
+        "displayNames": {
+          "en-us": "Undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Transition",
+        "displayNames": {
+          "en-us": "Add Transition"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Video Only Transition",
+        "displayNames": {
+          "en-us": "Add Video Only Transition"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Audio Only Transition",
+        "displayNames": {
+          "en-us": "Add Audio Only Transition"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Parallel Node",
+        "displayNames": {
+          "en-us": "Add Parallel Node"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "New Timeline",
+        "displayNames": {
+          "en-us": "New Timeline"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "New Bin",
+        "displayNames": {
+          "en-us": "New Bin"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add &amp; Modify New Marker",
+        "displayNames": {
+          "en-us": "Add &amp; Modify New Marker"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Modify Marker",
+        "displayNames": {
+          "en-us": "Modify Marker"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete Marker",
+        "displayNames": {
+          "en-us": "Delete Marker"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear Mark In &amp; Mark Out",
+        "displayNames": {
+          "en-us": "Clear Mark In &amp; Mark Out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy",
+        "displayNames": {
+          "en-us": "Copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Serial Node + CPW",
+        "displayNames": {
+          "en-us": "Add Serial Node + CPW"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste",
+        "displayNames": {
+          "en-us": "Paste"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select all",
+        "displayNames": {
+          "en-us": "Select all"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Deselect all",
+        "displayNames": {
+          "en-us": "Deselect all"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Auto Color",
+        "displayNames": {
+          "en-us": "Auto Color"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Trim Start",
+        "displayNames": {
+          "en-us": "Trim Start"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Trim End",
+        "displayNames": {
+          "en-us": "Trim End"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Nudge Multiframe Left",
+        "displayNames": {
+          "en-us": "Nudge Multiframe Left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Nudge Multiframe Right",
+        "displayNames": {
+          "en-us": "Nudge Multiframe Right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Volume down 1 dB",
+        "displayNames": {
+          "en-us": "Volume down 1 dB"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Volume up 1 dB",
+        "displayNames": {
+          "en-us": "Volume up 1 dB"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move Selected Keyframes Right",
+        "displayNames": {
+          "en-us": "Move Selected Keyframes Right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move Selected Keyframes Left",
+        "displayNames": {
+          "en-us": "Move Selected Keyframes Left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Step 1 Second Forward",
+        "displayNames": {
+          "en-us": "Step 1 Second Forward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Step 1 Second Backward",
+        "displayNames": {
+          "en-us": "Step 1 Second Backward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Highlight",
+        "displayNames": {
+          "en-us": "Highlight"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Version",
+        "displayNames": {
+          "en-us": "Add Version"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Ribble Overwrite",
+        "displayNames": {
+          "en-us": "Ribble Overwrite"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fit To Fill",
+        "displayNames": {
+          "en-us": "Fit To Fill"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Append To End of Timeline",
+        "displayNames": {
+          "en-us": "Append To End of Timeline"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F12"
+          ]
+        ]
+      },
+      {
+        "internalName": "Audio Scrubbing",
+        "displayNames": {
+          "en-us": "Audio Scrubbing"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Ripple Delete",
+        "displayNames": {
+          "en-us": "Ripple Delete"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Back"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Nodes",
+    "shortcuts": [
+      {
+        "internalName": "Disable / Enable Current Node",
+        "displayNames": {
+          "en-us": "Disable / Enable Current Node"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Disable / Enable All Nodes",
+        "displayNames": {
+          "en-us": "Disable / Enable All Nodes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Bypass All Grades",
+        "displayNames": {
+          "en-us": "Bypass All Grades"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Parallel Node",
+        "displayNames": {
+          "en-us": "Add Parallel Node"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Serial Node",
+        "displayNames": {
+          "en-us": "Add Serial Node"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Serial Node + LPW",
+        "displayNames": {
+          "en-us": "Add Serial Node + LPW"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Layer Node",
+        "displayNames": {
+          "en-us": "Add Layer Node"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Node",
+        "displayNames": {
+          "en-us": "Previous Node"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "186"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next Node",
+        "displayNames": {
+          "en-us": "Next Node"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "222"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Splitter Combiner Node",
+        "displayNames": {
+          "en-us": "Add Splitter Combiner Node"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reset Grades &amp; Notes",
+        "displayNames": {
+          "en-us": "Reset Grades &amp; Notes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Home"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "F Keys",
+    "shortcuts": [
+      {
+        "internalName": "Insert Edit",
+        "displayNames": {
+          "en-us": "Insert Edit"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Overwrite Edit",
+        "displayNames": {
+          "en-us": "Overwrite Edit"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Replace Edit",
+        "displayNames": {
+          "en-us": "Replace Edit"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Place On Top Edit",
+        "displayNames": {
+          "en-us": "Place On Top Edit"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F12"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Viewers &amp; Displays",
+    "shortcuts": [
+      {
+        "internalName": "Expand Display",
+        "displayNames": {
+          "en-us": "Expand Display"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Left Display",
+        "displayNames": {
+          "en-us": "Left Display"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Right Display",
+        "displayNames": {
+          "en-us": "Right Display"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display Red Channel only",
+        "displayNames": {
+          "en-us": "Display Red Channel only"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display Z-buffer Channel",
+        "displayNames": {
+          "en-us": "Display Z-buffer Channel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display Full Color",
+        "displayNames": {
+          "en-us": "Display Full Color"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom In",
+        "displayNames": {
+          "en-us": "Zoom In"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom Out",
+        "displayNames": {
+          "en-us": "Zoom Out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom To Fit",
+        "displayNames": {
+          "en-us": "Zoom To Fit"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enhanced Viewer",
+        "displayNames": {
+          "en-us": "Enhanced Viewer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Full Screen Viewer",
+        "displayNames": {
+          "en-us": "Full Screen Viewer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cinema Viewer",
+        "displayNames": {
+          "en-us": "Cinema Viewer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Split Screen",
+        "displayNames": {
+          "en-us": "Split Screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fast Forward",
+        "displayNames": {
+          "en-us": "Fast Forward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fast Reverse",
+        "displayNames": {
+          "en-us": "Fast Reverse"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Retime Controls",
+        "displayNames": {
+          "en-us": "Retime Controls"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Freeze Frame",
+        "displayNames": {
+          "en-us": "Freeze Frame"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Loop / Unloop",
+        "displayNames": {
+          "en-us": "Loop / Unloop"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Grab Still Frame",
+        "displayNames": {
+          "en-us": "Grab Still Frame"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Video + Audio or Separate",
+        "displayNames": {
+          "en-us": "Toggle Video + Audio or Separate"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "U"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Application",
+    "shortcuts": [
+      {
+        "internalName": "Import Media",
+        "displayNames": {
+          "en-us": "Import Media"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save project",
+        "displayNames": {
+          "en-us": "Save project"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Export Project",
+        "displayNames": {
+          "en-us": "Export Project"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "New Timeline",
+        "displayNames": {
+          "en-us": "New Timeline"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "New Bin",
+        "displayNames": {
+          "en-us": "New Bin"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Project Settings",
+        "displayNames": {
+          "en-us": "Project Settings"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Number9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Video Scopes",
+        "displayNames": {
+          "en-us": "Video Scopes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Printer Light Hotkeys",
+        "displayNames": {
+          "en-us": "Printer Light Hotkeys"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "192"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom Out",
+        "displayNames": {
+          "en-us": "Zoom Out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom In",
+        "displayNames": {
+          "en-us": "Zoom In"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Primary Workspace Media",
+        "displayNames": {
+          "en-us": "Primary Workspace Media"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Primary Workspace Cut",
+        "displayNames": {
+          "en-us": "Primary Workspace Cut"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Primary Workspace Edit",
+        "displayNames": {
+          "en-us": "Primary Workspace Edit"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Primary Workspace Color",
+        "displayNames": {
+          "en-us": "Primary Workspace Color"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Primary Workspace Fairlight",
+        "displayNames": {
+          "en-us": "Primary Workspace Fairlight"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Primary Workspace Deliver",
+        "displayNames": {
+          "en-us": "Primary Workspace Deliver"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Load Memory A",
+        "displayNames": {
+          "en-us": "Load Memory A"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save Memory A",
+        "displayNames": {
+          "en-us": "Save Memory A"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Load Memory B",
+        "displayNames": {
+          "en-us": "Load Memory B"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save Memory B",
+        "displayNames": {
+          "en-us": "Save Memory B"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Load Memory C",
+        "displayNames": {
+          "en-us": "Load Memory C"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save Memory C",
+        "displayNames": {
+          "en-us": "Save Memory C"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Load Memory D",
+        "displayNames": {
+          "en-us": "Load Memory D"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save Memory D",
+        "displayNames": {
+          "en-us": "Save Memory D"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Load Memory E",
+        "displayNames": {
+          "en-us": "Load Memory E"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save Memory E",
+        "displayNames": {
+          "en-us": "Save Memory E"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Load Memory F",
+        "displayNames": {
+          "en-us": "Load Memory F"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save Memory F",
+        "displayNames": {
+          "en-us": "Save Memory F"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Load Memory G",
+        "displayNames": {
+          "en-us": "Load Memory G"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save Memory G",
+        "displayNames": {
+          "en-us": "Save Memory G"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Load Memory H",
+        "displayNames": {
+          "en-us": "Load Memory H"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save Memory H",
+        "displayNames": {
+          "en-us": "Save Memory H"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quit Resolve",
+        "displayNames": {
+          "en-us": "Quit Resolve"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Q"
+          ]
+        ]
+      }
+    ]
+  }
+]

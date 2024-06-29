@@ -1,0 +1,388 @@
+[
+  {
+    "groupInternalName": "Type and edit",
+    "shortcuts": [
+      {
+        "internalName": "Create new sticky note",
+        "displayNames": {
+          "en-us": "Create new sticky note"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close the current sticky note",
+        "displayNames": {
+          "en-us": "Close the current sticky note"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete the current sticky note",
+        "displayNames": {
+          "en-us": "Delete the current sticky note"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the focus to the all notes list",
+        "displayNames": {
+          "en-us": "Move the focus to the all notes list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle forward between all notes",
+        "displayNames": {
+          "en-us": "Cycle forward between all notes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle backwards between all notes",
+        "displayNames": {
+          "en-us": "Cycle backwards between all notes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select all text on the sticky note",
+        "displayNames": {
+          "en-us": "Select all text on the sticky note"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy selected text to the clipboard",
+        "displayNames": {
+          "en-us": "Copy selected text to the clipboard"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut selected text to the clipboard",
+        "displayNames": {
+          "en-us": "Cut selected text to the clipboard"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste the text of the clipboard",
+        "displayNames": {
+          "en-us": "Paste the text of the clipboard"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo the last action",
+        "displayNames": {
+          "en-us": "Undo the last action"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo the last action",
+        "displayNames": {
+          "en-us": "Redo the last action"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move one word to the left",
+        "displayNames": {
+          "en-us": "Move one word to the left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move one word to the right",
+        "displayNames": {
+          "en-us": "Move one word to the right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the beginning of the line",
+        "displayNames": {
+          "en-us": "Move to the beginning of the line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the end of the line",
+        "displayNames": {
+          "en-us": "Move to the end of the line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the beginning of the note",
+        "displayNames": {
+          "en-us": "Move to the beginning of the note"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to the end of the note",
+        "displayNames": {
+          "en-us": "Move to the end of the note"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete the next word",
+        "displayNames": {
+          "en-us": "Delete the next word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete the previous word",
+        "displayNames": {
+          "en-us": "Delete the previous word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search any note when in the notes list",
+        "displayNames": {
+          "en-us": "Search any note when in the notes list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Return to notes list from search",
+        "displayNames": {
+          "en-us": "Return to notes list from search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Formatting",
+    "shortcuts": [
+      {
+        "internalName": "Toggle bold",
+        "displayNames": {
+          "en-us": "Toggle bold"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle italic",
+        "displayNames": {
+          "en-us": "Toggle italic"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle underline",
+        "displayNames": {
+          "en-us": "Toggle underline"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle bulleted list",
+        "displayNames": {
+          "en-us": "Toggle bulleted list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle strikethrough",
+        "displayNames": {
+          "en-us": "Toggle strikethrough"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Right-align a paragraph",
+        "displayNames": {
+          "en-us": "Right-align a paragraph"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "RightShift"
+          ]
+        ]
+      },
+      {
+        "internalName": "Left-align a paragraph",
+        "displayNames": {
+          "en-us": "Left-align a paragraph"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "LeftShift"
+          ]
+        ]
+      }
+    ]
+  }
+]

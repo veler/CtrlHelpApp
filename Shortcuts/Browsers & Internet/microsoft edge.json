@@ -1,0 +1,964 @@
+[
+  {
+    "groupInternalName": "Tabs and Windows",
+    "shortcuts": [
+      {
+        "internalName": "Switch to the next tab",
+        "displayNames": {
+          "en-us": "Switch to the next tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to the previous tab",
+        "displayNames": {
+          "en-us": "Switch to the previous tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reload the current page",
+        "displayNames": {
+          "en-us": "Reload the current page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reload the current page, ignoring cached content",
+        "displayNames": {
+          "en-us": "Reload the current page, ignoring cached content"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch focus to next pane",
+        "displayNames": {
+          "en-us": "Switch focus to next pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch focus to previous pane",
+        "displayNames": {
+          "en-us": "Switch focus to previous pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enter full screen (toggle)",
+        "displayNames": {
+          "en-us": "Enter full screen (toggle)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to a specific tab",
+        "displayNames": {
+          "en-us": "Switch to a specific tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to the last tab",
+        "displayNames": {
+          "en-us": "Switch to the last tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Duplicate current tab",
+        "displayNames": {
+          "en-us": "Duplicate current tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open a new tab and switch to it",
+        "displayNames": {
+          "en-us": "Open a new tab and switch to it"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reopen the last closed tab, and switch to it",
+        "displayNames": {
+          "en-us": "Reopen the last closed tab, and switch to it"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set focus on the first item in the toolbar",
+        "displayNames": {
+          "en-us": "Set focus on the first item in the toolbar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close the current tab",
+        "displayNames": {
+          "en-us": "Close the current tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close the current window",
+        "displayNames": {
+          "en-us": "Close the current window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Downloads in a new tab",
+        "displayNames": {
+          "en-us": "Open Downloads in a new tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste and search or Paste and go (if it's a URL)",
+        "displayNames": {
+          "en-us": "Paste and search or Paste and go (if it's a URL)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mute the current tab (toggle)",
+        "displayNames": {
+          "en-us": "Mute the current tab (toggle)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Sign in as a different user or browse as a Guest",
+        "displayNames": {
+          "en-us": "Sign in as a different user or browse as a Guest"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open a new window",
+        "displayNames": {
+          "en-us": "Open a new window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open a new InPrivate window",
+        "displayNames": {
+          "en-us": "Open a new InPrivate window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open a file from your computer in Edge",
+        "displayNames": {
+          "en-us": "Open a file from your computer in Edge"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Favorites management",
+        "displayNames": {
+          "en-us": "Open Favorites management"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "O"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Favorites",
+    "shortcuts": [
+      {
+        "internalName": "Show or hide the favorites bar",
+        "displayNames": {
+          "en-us": "Show or hide the favorites bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set focus on the first item in the favorites bar",
+        "displayNames": {
+          "en-us": "Set focus on the first item in the favorites bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save the current tab as a favorite",
+        "displayNames": {
+          "en-us": "Save the current tab as a favorite"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save all open tabs as favorites in a new folder",
+        "displayNames": {
+          "en-us": "Save all open tabs as favorites in a new folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "D"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Developer Tools",
+    "shortcuts": [
+      {
+        "internalName": "Open Developer Tools",
+        "displayNames": {
+          "en-us": "Open Developer Tools"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "View source",
+        "displayNames": {
+          "en-us": "View source"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Send feedback dialog",
+        "displayNames": {
+          "en-us": "Open the Send feedback dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "I"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Page",
+    "shortcuts": [
+      {
+        "internalName": "Zoom in",
+        "displayNames": {
+          "en-us": "Zoom in"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom out",
+        "displayNames": {
+          "en-us": "Zoom out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add www. to the beginning and .com to the end of text typed in the address bar",
+        "displayNames": {
+          "en-us": "Add www. to the beginning and .com to the end of text typed in the address bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the top of the page, Move keyboard focus to first item of pane",
+        "displayNames": {
+          "en-us": "Go to the top of the page, Move keyboard focus to first item of pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the bottom of the page, Move keyboard focus to last item of pane",
+        "displayNames": {
+          "en-us": "Go to the bottom of the page, Move keyboard focus to last item of pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to next tab stop",
+        "displayNames": {
+          "en-us": "Go to next tab stop"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to previous tab stop",
+        "displayNames": {
+          "en-us": "Go to previous tab stop"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Stop loading page; close dialog or pop-up",
+        "displayNames": {
+          "en-us": "Stop loading page; close dialog or pop-up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll up webpage, one screen at a time",
+        "displayNames": {
+          "en-us": "Scroll up webpage, one screen at a time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll down webpage, one screen at a time",
+        "displayNames": {
+          "en-us": "Scroll down webpage, one screen at a time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close the current page in the current tab",
+        "displayNames": {
+          "en-us": "Close the current page in the current tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find in the current tab",
+        "displayNames": {
+          "en-us": "Find in the current tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the URL in the address bar",
+        "displayNames": {
+          "en-us": "Select the URL in the address bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Collections",
+        "displayNames": {
+          "en-us": "Open Collections"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reset zoom level",
+        "displayNames": {
+          "en-us": "Reset zoom level"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print the current page",
+        "displayNames": {
+          "en-us": "Print the current page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print using the system dialog",
+        "displayNames": {
+          "en-us": "Print using the system dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save the current page",
+        "displayNames": {
+          "en-us": "Save the current page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste without formatting",
+        "displayNames": {
+          "en-us": "Paste without formatting"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start or stop Read Aloud",
+        "displayNames": {
+          "en-us": "Start or stop Read Aloud"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the URL in the address bar to edit",
+        "displayNames": {
+          "en-us": "Select the URL in the address bar to edit"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open a search query in the address bar",
+        "displayNames": {
+          "en-us": "Open a search query in the address bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find on page",
+        "displayNames": {
+          "en-us": "Find on page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to the next match to your Find Bar search",
+        "displayNames": {
+          "en-us": "Jump to the next match to your Find Bar search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to the previous match to your Find Bar search",
+        "displayNames": {
+          "en-us": "Jump to the previous match to your Find Bar search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move cursor to beginning of first word in same line",
+        "displayNames": {
+          "en-us": "Move cursor to beginning of first word in same line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move cursor to the end of last word in same line",
+        "displayNames": {
+          "en-us": "Move cursor to the end of last word in same line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "PDF",
+    "shortcuts": [
+      {
+        "internalName": "Toggle PDF between fit to page / fit to width",
+        "displayNames": {
+          "en-us": "Toggle PDF between fit to page / fit to width"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate PDF counter-clockwise 90*",
+        "displayNames": {
+          "en-us": "Rotate PDF counter-clockwise 90*"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate PDF clockwise 90*",
+        "displayNames": {
+          "en-us": "Rotate PDF clockwise 90*"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "221"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "History",
+    "shortcuts": [
+      {
+        "internalName": "Open clear browsing data options",
+        "displayNames": {
+          "en-us": "Open clear browsing data options"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go back",
+        "displayNames": {
+          "en-us": "Go back"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go forward",
+        "displayNames": {
+          "en-us": "Go forward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open your home page in the current tab",
+        "displayNames": {
+          "en-us": "Open your home page in the current tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open History in a new tab (web UI)",
+        "displayNames": {
+          "en-us": "Open History in a new tab (web UI)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Edge Features",
+    "shortcuts": [
+      {
+        "internalName": "Open Help",
+        "displayNames": {
+          "en-us": "Open Help"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turn caret browsing on or off",
+        "displayNames": {
+          "en-us": "Turn caret browsing on or off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enter or exit Immersive Reader",
+        "displayNames": {
+          "en-us": "Enter or exit Immersive Reader"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open context menu",
+        "displayNames": {
+          "en-us": "Open context menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Settings and more \"...\" menu",
+        "displayNames": {
+          "en-us": "Open the Settings and more \"...\" menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set focus on the Settings and more \"…\" button",
+        "displayNames": {
+          "en-us": "Set focus on the Settings and more \"…\" button"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      }
+    ]
+  }
+]

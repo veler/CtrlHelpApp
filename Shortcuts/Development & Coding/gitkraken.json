@@ -1,0 +1,552 @@
+[
+  {
+    "groupInternalName": "Repo actions",
+    "shortcuts": [
+      {
+        "internalName": "Create branch",
+        "displayNames": {
+          "en-us": "Create branch"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fetch all",
+        "displayNames": {
+          "en-us": "Fetch all"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Stage the current file",
+        "displayNames": {
+          "en-us": "Stage the current file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Stage all files",
+        "displayNames": {
+          "en-us": "Stage all files"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Unstage the current file",
+        "displayNames": {
+          "en-us": "Unstage the current file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Unstage all files",
+        "displayNames": {
+          "en-us": "Unstage all files"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Commit staged files with current message",
+        "displayNames": {
+          "en-us": "Commit staged files with current message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Stage all files and commit with current message",
+        "displayNames": {
+          "en-us": "Stage all files and commit with current message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Focus commit message box",
+        "displayNames": {
+          "en-us": "Focus commit message box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Navigation",
+    "shortcuts": [
+      {
+        "internalName": "Open keyboard shortcuts",
+        "displayNames": {
+          "en-us": "Open keyboard shortcuts"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select next commit in graph",
+        "displayNames": {
+          "en-us": "Select next commit in graph"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select previous commit in graph",
+        "displayNames": {
+          "en-us": "Select previous commit in graph"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select next item in branch",
+        "displayNames": {
+          "en-us": "Select next item in branch"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select previous item in branch",
+        "displayNames": {
+          "en-us": "Select previous item in branch"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select first commit in graph",
+        "displayNames": {
+          "en-us": "Select first commit in graph"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select last commit in graph",
+        "displayNames": {
+          "en-us": "Select last commit in graph"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo",
+        "displayNames": {
+          "en-us": "Undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Fuzzy Finder",
+    "shortcuts": [
+      {
+        "internalName": "Toggle Fuzzy Finder",
+        "displayNames": {
+          "en-us": "Toggle Fuzzy Finder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search commits",
+        "displayNames": {
+          "en-us": "Search commits"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open repo via Fuzzy Finder",
+        "displayNames": {
+          "en-us": "Open repo via Fuzzy Finder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search file to view history and blame",
+        "displayNames": {
+          "en-us": "Search file to view history and blame"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Focus the left panel filter bar",
+        "displayNames": {
+          "en-us": "Focus the left panel filter bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open current repo in terminal",
+        "displayNames": {
+          "en-us": "Open current repo in terminal"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open current repo in File Manager",
+        "displayNames": {
+          "en-us": "Open current repo in File Manager"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open diff or merge tool",
+        "displayNames": {
+          "en-us": "Open diff or merge tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close current repo",
+        "displayNames": {
+          "en-us": "Close current repo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search within file (if file content has focus)",
+        "displayNames": {
+          "en-us": "Search within file (if file content has focus)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "UI",
+    "shortcuts": [
+      {
+        "internalName": "Toggle Fullscreen Mode",
+        "displayNames": {
+          "en-us": "Toggle Fullscreen Mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase Zoom",
+        "displayNames": {
+          "en-us": "Increase Zoom"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease Zoom",
+        "displayNames": {
+          "en-us": "Decrease Zoom"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reset zoom",
+        "displayNames": {
+          "en-us": "Reset zoom"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show or hide the left panel",
+        "displayNames": {
+          "en-us": "Show or hide the left panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Focus the search bar",
+        "displayNames": {
+          "en-us": "Focus the search bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Focus the left panel filter bar",
+        "displayNames": {
+          "en-us": "Focus the left panel filter bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close the current panel (if one is open)",
+        "displayNames": {
+          "en-us": "Close the current panel (if one is open)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Tabs",
+    "shortcuts": [
+      {
+        "internalName": "New Tab",
+        "displayNames": {
+          "en-us": "New Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close Tab",
+        "displayNames": {
+          "en-us": "Close Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to next open tab",
+        "displayNames": {
+          "en-us": "Jump to next open tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to previous open tab",
+        "displayNames": {
+          "en-us": "Jump to previous open tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Tab"
+          ]
+        ]
+      }
+    ]
+  }
+]

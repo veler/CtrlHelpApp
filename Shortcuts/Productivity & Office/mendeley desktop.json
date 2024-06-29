@@ -1,0 +1,244 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "New tab",
+        "displayNames": {
+          "en-us": "New tab"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Close current tab",
+        "displayNames": {
+          "en-us": "Close current tab"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Re-open tab",
+        "displayNames": {
+          "en-us": "Re-open tab"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to next tab",
+        "displayNames": {
+          "en-us": "Go to next tab"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to previous tab",
+        "displayNames": {
+          "en-us": "Go to previous tab"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Tab"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Scroll down",
+        "displayNames": {
+          "en-us": "Scroll down"
+        },
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Scroll up",
+        "displayNames": {
+          "en-us": "Scroll up"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Space"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go back",
+        "displayNames": {
+          "en-us": "Go back"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go forward",
+        "displayNames": {
+          "en-us": "Go forward"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Zoom in",
+        "displayNames": {
+          "en-us": "Zoom in"
+        },
+        "keyCombination": [
+          [
+            "Control"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Zoom out",
+        "displayNames": {
+          "en-us": "Zoom out"
+        },
+        "keyCombination": [
+          [
+            "Control"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Reset to 100% zoom",
+        "displayNames": {
+          "en-us": "Reset to 100% zoom"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "New folder",
+        "displayNames": {
+          "en-us": "New folder"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Copy",
+        "displayNames": {
+          "en-us": "Copy"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Activate sticky note tool",
+        "displayNames": {
+          "en-us": "Activate sticky note tool"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Copy formatted citation",
+        "displayNames": {
+          "en-us": "Copy formatted citation"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Search",
+        "displayNames": {
+          "en-us": "Search"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Activate highlight tool",
+        "displayNames": {
+          "en-us": "Activate highlight tool"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "H"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  }
+]

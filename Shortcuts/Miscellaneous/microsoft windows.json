@@ -1,0 +1,1530 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Cut the selected item",
+        "displayNames": {
+          "en-us": "Cut the selected item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy the selected item",
+        "displayNames": {
+          "en-us": "Copy the selected item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste the selected item",
+        "displayNames": {
+          "en-us": "Paste the selected item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste the selected item",
+        "displayNames": {
+          "en-us": "Paste the selected item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Insert"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo an action",
+        "displayNames": {
+          "en-us": "Undo an action"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch between open apps",
+        "displayNames": {
+          "en-us": "Switch between open apps"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Lock your PC",
+        "displayNames": {
+          "en-us": "Lock your PC"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display and hide the desktop",
+        "displayNames": {
+          "en-us": "Display and hide the desktop"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rename the selected item",
+        "displayNames": {
+          "en-us": "Rename the selected item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search for a file or folder",
+        "displayNames": {
+          "en-us": "Search for a file or folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display the address bar list",
+        "displayNames": {
+          "en-us": "Display the address bar list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Refresh the active window",
+        "displayNames": {
+          "en-us": "Refresh the active window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle through screen elements",
+        "displayNames": {
+          "en-us": "Cycle through screen elements"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate the Menu bar in app",
+        "displayNames": {
+          "en-us": "Activate the Menu bar in app"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show password on the sign-in screen",
+        "displayNames": {
+          "en-us": "Show password on the sign-in screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle through opened items",
+        "displayNames": {
+          "en-us": "Cycle through opened items"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display properties for selected item",
+        "displayNames": {
+          "en-us": "Display properties for selected item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the shortcut menu",
+        "displayNames": {
+          "en-us": "Open the shortcut menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go back",
+        "displayNames": {
+          "en-us": "Go back"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go forward",
+        "displayNames": {
+          "en-us": "Go forward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move up one screen",
+        "displayNames": {
+          "en-us": "Move up one screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move down one screen",
+        "displayNames": {
+          "en-us": "Move down one screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close the active document",
+        "displayNames": {
+          "en-us": "Close the active document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select all items",
+        "displayNames": {
+          "en-us": "Select all items"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete the selected item",
+        "displayNames": {
+          "en-us": "Delete the selected item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo an action",
+        "displayNames": {
+          "en-us": "Redo an action"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move cursor to the next word",
+        "displayNames": {
+          "en-us": "Move cursor to the next word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move cursor to the previous word",
+        "displayNames": {
+          "en-us": "Move cursor to the previous word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move cursor to the next paragraph",
+        "displayNames": {
+          "en-us": "Move cursor to the next paragraph"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move cursor to previous paragraph",
+        "displayNames": {
+          "en-us": "Move cursor to previous paragraph"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Use the arrow keys cycle open apps",
+        "displayNames": {
+          "en-us": "Use the arrow keys cycle open apps"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Start",
+        "displayNames": {
+          "en-us": "Open Start"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Task Manager",
+        "displayNames": {
+          "en-us": "Open Task Manager"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display shortcut menu for item",
+        "displayNames": {
+          "en-us": "Display shortcut menu for item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Permanently delete selected item",
+        "displayNames": {
+          "en-us": "Permanently delete selected item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open next menu, or submenu",
+        "displayNames": {
+          "en-us": "Open next menu, or submenu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open left menu, or close submenu",
+        "displayNames": {
+          "en-us": "Open left menu, or close submenu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Stop or leave the current task",
+        "displayNames": {
+          "en-us": "Stop or leave the current task"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Take screenshot, copy to clipboard",
+        "displayNames": {
+          "en-us": "Take screenshot, copy to clipboard"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Snapshot"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Windows Key",
+    "shortcuts": [
+      {
+        "internalName": "Open or close Start",
+        "displayNames": {
+          "en-us": "Open or close Start"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Action center",
+        "displayNames": {
+          "en-us": "Open Action center"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set focus in the notification area",
+        "displayNames": {
+          "en-us": "Set focus in the notification area"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Cortana in listening mode",
+        "displayNames": {
+          "en-us": "Open Cortana in listening mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the charms menu",
+        "displayNames": {
+          "en-us": "Open the charms menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display and hide the desktop",
+        "displayNames": {
+          "en-us": "Display and hide the desktop"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle the date on the desktop",
+        "displayNames": {
+          "en-us": "Toggle the date on the desktop"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Menu",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open File Explorer",
+        "displayNames": {
+          "en-us": "Open File Explorer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Feedback Hub, take screenshot",
+        "displayNames": {
+          "en-us": "Open Feedback Hub, take screenshot"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Game bar when game is open",
+        "displayNames": {
+          "en-us": "Open Game bar when game is open"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start dictation",
+        "displayNames": {
+          "en-us": "Start dictation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Settings",
+        "displayNames": {
+          "en-us": "Open Settings"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set focus to a Windows tip if available",
+        "displayNames": {
+          "en-us": "Set focus to a Windows tip if available"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Connect quick action",
+        "displayNames": {
+          "en-us": "Open the Connect quick action"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Lock your PC or switch accounts",
+        "displayNames": {
+          "en-us": "Lock your PC or switch accounts"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Minimize all windows",
+        "displayNames": {
+          "en-us": "Minimize all windows"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Lock device orientation",
+        "displayNames": {
+          "en-us": "Lock device orientation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Choose a presentation display mode",
+        "displayNames": {
+          "en-us": "Choose a presentation display mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Quick Assist",
+        "displayNames": {
+          "en-us": "Open Quick Assist"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Control",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Run dialog box",
+        "displayNames": {
+          "en-us": "Open the Run dialog box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open search",
+        "displayNames": {
+          "en-us": "Open search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Take partial screenshot of screen",
+        "displayNames": {
+          "en-us": "Take partial screenshot of screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle through apps on the taskbar",
+        "displayNames": {
+          "en-us": "Cycle through apps on the taskbar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Ease of Access Center",
+        "displayNames": {
+          "en-us": "Open Ease of Access Center"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the clipboard",
+        "displayNames": {
+          "en-us": "Open the clipboard"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle through notifications",
+        "displayNames": {
+          "en-us": "Cycle through notifications"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Quick Link menu",
+        "displayNames": {
+          "en-us": "Open the Quick Link menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle input to Windows-Mixed-Reality/desktop",
+        "displayNames": {
+          "en-us": "Toggle input to Windows-Mixed-Reality/desktop"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show app commands available full-screen mode",
+        "displayNames": {
+          "en-us": "Show app commands available full-screen mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open emoji panel",
+        "displayNames": {
+          "en-us": "Open emoji panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Temporarily peek at the desktop",
+        "displayNames": {
+          "en-us": "Temporarily peek at the desktop"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display the System Properties dialog box",
+        "displayNames": {
+          "en-us": "Display the System Properties dialog box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Pause"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search for PCs (if you're on a network)",
+        "displayNames": {
+          "en-us": "Search for PCs (if you're on a network)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Restore minimized windows on the desktop",
+        "displayNames": {
+          "en-us": "Restore minimized windows on the desktop"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Task view",
+        "displayNames": {
+          "en-us": "Open Task view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Maximize the window",
+        "displayNames": {
+          "en-us": "Maximize the window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove current app from screen or minimize the desktop window",
+        "displayNames": {
+          "en-us": "Remove current app from screen or minimize the desktop window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Maximize the app or desktop window to the left side of the screen",
+        "displayNames": {
+          "en-us": "Maximize the app or desktop window to the left side of the screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Maximize the app or desktop window to the right side of the screen",
+        "displayNames": {
+          "en-us": "Maximize the app or desktop window to the right side of the screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Minimize all except the active desktop window (restores all windows on second stroke)",
+        "displayNames": {
+          "en-us": "Minimize all except the active desktop window (restores all windows on second stroke)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Stretch the desktop window to the top and bottom of the screen",
+        "displayNames": {
+          "en-us": "Stretch the desktop window to the top and bottom of the screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Restore/minimize active desktop windows vertically, maintaining width",
+        "displayNames": {
+          "en-us": "Restore/minimize active desktop windows vertically, maintaining width"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move an app from one monitor to another",
+        "displayNames": {
+          "en-us": "Move an app from one monitor to another"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch input language and keyboard layout",
+        "displayNames": {
+          "en-us": "Switch input language and keyboard layout"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Change to a previously selected input",
+        "displayNames": {
+          "en-us": "Change to a previously selected input"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Control",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turn on Narrator",
+        "displayNames": {
+          "en-us": "Turn on Narrator"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Control",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Magnifier",
+        "displayNames": {
+          "en-us": "Open Magnifier"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Begin IME reconversion",
+        "displayNames": {
+          "en-us": "Begin IME reconversion"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open shoulder taps",
+        "displayNames": {
+          "en-us": "Open shoulder taps"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Wake PC",
+        "displayNames": {
+          "en-us": "Wake PC"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Control",
+            "Shift",
+            "B"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Command Prompt",
+    "shortcuts": [
+      {
+        "internalName": "Copy the selected text",
+        "displayNames": {
+          "en-us": "Copy the selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste the selected text",
+        "displayNames": {
+          "en-us": "Paste the selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enter Mark mode",
+        "displayNames": {
+          "en-us": "Enter Mark mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the cursor by one page up",
+        "displayNames": {
+          "en-us": "Move the cursor by one page up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the cursor by one page down",
+        "displayNames": {
+          "en-us": "Move the cursor by one page down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the cursor to the beginning of the buffer",
+        "displayNames": {
+          "en-us": "Move the cursor to the beginning of the buffer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the cursor to the end of the buffer",
+        "displayNames": {
+          "en-us": "Move the cursor to the end of the buffer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move up one line in the output history",
+        "displayNames": {
+          "en-us": "Move up one line in the output history"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move down one line in the output history",
+        "displayNames": {
+          "en-us": "Move down one line in the output history"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "If the command line is empty, move the viewport to the top of the buffer. Otherwise, delete all the characters to the left of the cursor in the command line",
+        "displayNames": {
+          "en-us": "If the command line is empty, move the viewport to the top of the buffer. Otherwise, delete all the characters to the left of the cursor in the command line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "If the command line is empty, move the viewport to the command line. Otherwise, delete all the characters to the right of the cursor in the command line",
+        "displayNames": {
+          "en-us": "If the command line is empty, move the viewport to the command line. Otherwise, delete all the characters to the right of the cursor in the command line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "End"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Dialog Boxes",
+    "shortcuts": [
+      {
+        "internalName": "Display the items in the active list",
+        "displayNames": {
+          "en-us": "Display the items in the active list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move forward through tabs",
+        "displayNames": {
+          "en-us": "Move forward through tabs"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move back through tabs",
+        "displayNames": {
+          "en-us": "Move back through tabs"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to nth tab",
+        "displayNames": {
+          "en-us": "Move to nth tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move forward through options",
+        "displayNames": {
+          "en-us": "Move forward through options"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move back through options",
+        "displayNames": {
+          "en-us": "Move back through options"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle a check box if active",
+        "displayNames": {
+          "en-us": "Toggle a check box if active"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open a folder one level up if a folder is selected in the Save As or Open dialog box",
+        "displayNames": {
+          "en-us": "Open a folder one level up if a folder is selected in the Save As or Open dialog box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Virtual Desktops",
+    "shortcuts": [
+      {
+        "internalName": "Open Task view",
+        "displayNames": {
+          "en-us": "Open Task view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add a virtual desktop",
+        "displayNames": {
+          "en-us": "Add a virtual desktop"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch between virtual desktops you’ve created on the right",
+        "displayNames": {
+          "en-us": "Switch between virtual desktops you’ve created on the right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Control",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch between virtual desktops you’ve created on the left",
+        "displayNames": {
+          "en-us": "Switch between virtual desktops you’ve created on the left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Control",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close the virtual desktop you're using",
+        "displayNames": {
+          "en-us": "Close the virtual desktop you're using"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "Control",
+            "F4"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Settings",
+    "shortcuts": [
+      {
+        "internalName": "Open settings",
+        "displayNames": {
+          "en-us": "Open settings"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go back to the settings home page",
+        "displayNames": {
+          "en-us": "Go back to the settings home page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ]
+      }
+    ]
+  }
+]

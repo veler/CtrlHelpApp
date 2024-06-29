@@ -1,0 +1,285 @@
+[
+  {
+    "groupInternalName": "Navigation",
+    "shortcuts": [
+      {
+        "internalName": "Open quick switcher",
+        "displayNames": {
+          "en-us": "Open quick switcher"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open graph view",
+        "displayNames": {
+          "en-us": "Open graph view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open command palette",
+        "displayNames": {
+          "en-us": "Open command palette"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Navigate back",
+        "displayNames": {
+          "en-us": "Navigate back"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Navigate forward",
+        "displayNames": {
+          "en-us": "Navigate forward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open help",
+        "displayNames": {
+          "en-us": "Open help"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Follow link under cursor",
+        "displayNames": {
+          "en-us": "Follow link under cursor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open link under cursor in new pane",
+        "displayNames": {
+          "en-us": "Open link under cursor in new pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open settings",
+        "displayNames": {
+          "en-us": "Open settings"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "188"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Pane Handling",
+    "shortcuts": [
+      {
+        "internalName": "Create new note",
+        "displayNames": {
+          "en-us": "Create new note"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close active pane",
+        "displayNames": {
+          "en-us": "Close active pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Search",
+    "shortcuts": [
+      {
+        "internalName": "Search current file",
+        "displayNames": {
+          "en-us": "Search current file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search &amp; replace in current file",
+        "displayNames": {
+          "en-us": "Search &amp; replace in current file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search in all files",
+        "displayNames": {
+          "en-us": "Search in all files"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Editing",
+    "shortcuts": [
+      {
+        "internalName": "Toggle bold for selection",
+        "displayNames": {
+          "en-us": "Toggle bold for selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle italics for selection",
+        "displayNames": {
+          "en-us": "Toggle italics for selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert link",
+        "displayNames": {
+          "en-us": "Insert link"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete paragraph",
+        "displayNames": {
+          "en-us": "Delete paragraph"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle edit/preview mode",
+        "displayNames": {
+          "en-us": "Toggle edit/preview mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Editor: save file",
+        "displayNames": {
+          "en-us": "Editor: save file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      }
+    ]
+  }
+]

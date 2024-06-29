@@ -1,0 +1,567 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Open Shortcuts Page",
+        "displayNames": {
+          "en-us": "Open Shortcuts Page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Header Boards Menu",
+        "displayNames": {
+          "en-us": "Open Header Boards Menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Focus Search Box",
+        "displayNames": {
+          "en-us": "Focus Search Box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo Action",
+        "displayNames": {
+          "en-us": "Undo Action"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo Action",
+        "displayNames": {
+          "en-us": "Redo Action"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Repeat Action",
+        "displayNames": {
+          "en-us": "Repeat Action"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Board Menu",
+        "displayNames": {
+          "en-us": "Toggle Board Menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear All Filters",
+        "displayNames": {
+          "en-us": "Clear All Filters"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Card Navigation",
+    "shortcuts": [
+      {
+        "internalName": "Select card to right",
+        "displayNames": {
+          "en-us": "Select card to right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select card to left",
+        "displayNames": {
+          "en-us": "Select card to left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select card below",
+        "displayNames": {
+          "en-us": "Select card below"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select card above",
+        "displayNames": {
+          "en-us": "Select card above"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Card Actions",
+    "shortcuts": [
+      {
+        "internalName": "Archive Card",
+        "displayNames": {
+          "en-us": "Archive Card"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Due Date",
+        "displayNames": {
+          "en-us": "Due Date"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Checklist",
+        "displayNames": {
+          "en-us": "Add Checklist"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quick Edit Mode",
+        "displayNames": {
+          "en-us": "Quick Edit Mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close Menu / Cancel Editing",
+        "displayNames": {
+          "en-us": "Close Menu / Cancel Editing"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save Text",
+        "displayNames": {
+          "en-us": "Save Text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Card",
+        "displayNames": {
+          "en-us": "Open Card"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Card Filter Menu",
+        "displayNames": {
+          "en-us": "Open Card Filter Menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add / Remove Members",
+        "displayNames": {
+          "en-us": "Add / Remove Members"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Watch",
+        "displayNames": {
+          "en-us": "Watch"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Assign Self",
+        "displayNames": {
+          "en-us": "Assign Self"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Edit Title",
+        "displayNames": {
+          "en-us": "Edit Title"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Vote",
+        "displayNames": {
+          "en-us": "Vote"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert New Card",
+        "displayNames": {
+          "en-us": "Insert New Card"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move card to bottom list to the left",
+        "displayNames": {
+          "en-us": "Move card to bottom list to the left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move card to bottom of list to the right",
+        "displayNames": {
+          "en-us": "Move card to bottom of list to the right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move card to top of list to the left",
+        "displayNames": {
+          "en-us": "Move card to top of list to the left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move card to top of list to the right",
+        "displayNames": {
+          "en-us": "Move card to top of list to the right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "190"
+          ]
+        ]
+      },
+      {
+        "internalName": "My Cards Filter",
+        "displayNames": {
+          "en-us": "My Cards Filter"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy Card",
+        "displayNames": {
+          "en-us": "Copy Card"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste Copied Card",
+        "displayNames": {
+          "en-us": "Paste Copied Card"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut Card",
+        "displayNames": {
+          "en-us": "Cut Card"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Labels",
+    "shortcuts": [
+      {
+        "internalName": "Open Label Pop-over",
+        "displayNames": {
+          "en-us": "Open Label Pop-over"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Green Label",
+        "displayNames": {
+          "en-us": "Toggle Green Label"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Yellow Label",
+        "displayNames": {
+          "en-us": "Toggle Yellow Label"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Orange Label",
+        "displayNames": {
+          "en-us": "Toggle Orange Label"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Red Label",
+        "displayNames": {
+          "en-us": "Toggle Red Label"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Purple Label",
+        "displayNames": {
+          "en-us": "Toggle Purple Label"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Blue Label",
+        "displayNames": {
+          "en-us": "Toggle Blue Label"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Sky Label",
+        "displayNames": {
+          "en-us": "Toggle Sky Label"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Lime Label",
+        "displayNames": {
+          "en-us": "Toggle Lime Label"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Pink Label",
+        "displayNames": {
+          "en-us": "Toggle Pink Label"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Label Names",
+        "displayNames": {
+          "en-us": "Toggle Label Names"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "186"
+          ]
+        ]
+      }
+    ]
+  }
+]

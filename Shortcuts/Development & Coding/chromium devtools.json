@@ -1,0 +1,734 @@
+[
+  {
+    "groupInternalName": "Opening DevTools",
+    "shortcuts": [
+      {
+        "internalName": "Open whatever panel you used last",
+        "displayNames": {
+          "en-us": "Open whatever panel you used last"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F12"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Console panel",
+        "displayNames": {
+          "en-us": "Open the Console panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Elements panel",
+        "displayNames": {
+          "en-us": "Open the Elements panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Global",
+    "shortcuts": [
+      {
+        "internalName": "Show Settings",
+        "displayNames": {
+          "en-us": "Show Settings"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Focus the next panel",
+        "displayNames": {
+          "en-us": "Focus the next panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Focus the previous panel",
+        "displayNames": {
+          "en-us": "Focus the previous panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch back to last used docking position",
+        "displayNames": {
+          "en-us": "Switch back to last used docking position"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Device Mode",
+        "displayNames": {
+          "en-us": "Toggle Device Mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Inspect Element Mode",
+        "displayNames": {
+          "en-us": "Toggle Inspect Element Mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Command Menu",
+        "displayNames": {
+          "en-us": "Open the Command Menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle the Drawer",
+        "displayNames": {
+          "en-us": "Toggle the Drawer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Normal reload",
+        "displayNames": {
+          "en-us": "Normal reload"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hard reload",
+        "displayNames": {
+          "en-us": "Hard reload"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search for text within the current panel. Not supported in the Audits, Application, and Security panels",
+        "displayNames": {
+          "en-us": "Search for text within the current panel. Not supported in the Audits, Application, and Security panels"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Opens the Search tab in the Drawer, which lets you search for text across all loaded resources",
+        "displayNames": {
+          "en-us": "Opens the Search tab in the Drawer, which lets you search for text across all loaded resources"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open a file in the Sources panel",
+        "displayNames": {
+          "en-us": "Open a file in the Sources panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom in",
+        "displayNames": {
+          "en-us": "Zoom in"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom out",
+        "displayNames": {
+          "en-us": "Zoom out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Restore default zoom level",
+        "displayNames": {
+          "en-us": "Restore default zoom level"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Elements panel",
+    "shortcuts": [
+      {
+        "internalName": "Undo change",
+        "displayNames": {
+          "en-us": "Undo change"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo change",
+        "displayNames": {
+          "en-us": "Redo change"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the element above / below the currently-selected element",
+        "displayNames": {
+          "en-us": "Select the element above / below the currently-selected element"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand the currently-selected node. If the node is already expanded, this shortcut selects the element below it",
+        "displayNames": {
+          "en-us": "Expand the currently-selected node. If the node is already expanded, this shortcut selects the element below it"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse the currently-selected node. If the node is already collapsed, this shortcut selects the element above it",
+        "displayNames": {
+          "en-us": "Collapse the currently-selected node. If the node is already collapsed, this shortcut selects the element above it"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Edit Attributes mode on the currently-selected element",
+        "displayNames": {
+          "en-us": "Toggle Edit Attributes mode on the currently-selected element"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the next / previous attribute after entering Edit Attributes mode",
+        "displayNames": {
+          "en-us": "Select the next / previous attribute after entering Edit Attributes mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hide the currently-selected element",
+        "displayNames": {
+          "en-us": "Hide the currently-selected element"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Edit as HTML mode on the currently-selected element",
+        "displayNames": {
+          "en-us": "Toggle Edit as HTML mode on the currently-selected element"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Sources panel",
+    "shortcuts": [
+      {
+        "internalName": "Pause script execution (if currently running) or resume (if currently paused)",
+        "displayNames": {
+          "en-us": "Pause script execution (if currently running) or resume (if currently paused)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Step over next function call",
+        "displayNames": {
+          "en-us": "Step over next function call"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Step into next function call",
+        "displayNames": {
+          "en-us": "Step into next function call"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Step out of current function",
+        "displayNames": {
+          "en-us": "Step out of current function"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the call frame below / above the currently-selected frame",
+        "displayNames": {
+          "en-us": "Select the call frame below / above the currently-selected frame"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save changes to local modifications",
+        "displayNames": {
+          "en-us": "Save changes to local modifications"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save all changes",
+        "displayNames": {
+          "en-us": "Save all changes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to line",
+        "displayNames": {
+          "en-us": "Go to line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close the active tab",
+        "displayNames": {
+          "en-us": "Close the active tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "W"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Code Editor",
+    "shortcuts": [
+      {
+        "internalName": "Delete all characters in the last word, up to the cursor",
+        "displayNames": {
+          "en-us": "Delete all characters in the last word, up to the cursor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add or remove a line-of-code breakpoint",
+        "displayNames": {
+          "en-us": "Add or remove a line-of-code breakpoint"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to matching bracket",
+        "displayNames": {
+          "en-us": "Go to matching bracket"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle line comment",
+        "displayNames": {
+          "en-us": "Toggle line comment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select / de-select the next occurrence of whatever word the cursor is on",
+        "displayNames": {
+          "en-us": "Select / de-select the next occurrence of whatever word the cursor is on"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Performance panel",
+    "shortcuts": [
+      {
+        "internalName": "Start / stop recording",
+        "displayNames": {
+          "en-us": "Start / stop recording"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save recording",
+        "displayNames": {
+          "en-us": "Save recording"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Load recording",
+        "displayNames": {
+          "en-us": "Load recording"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Memory panel",
+    "shortcuts": [
+      {
+        "internalName": "Start / stop recording",
+        "displayNames": {
+          "en-us": "Start / stop recording"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Console panel",
+    "shortcuts": [
+      {
+        "internalName": "Accept autocomplete suggestion",
+        "displayNames": {
+          "en-us": "Accept autocomplete suggestion"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reject autocomplete suggestion",
+        "displayNames": {
+          "en-us": "Reject autocomplete suggestion"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Get previous statement",
+        "displayNames": {
+          "en-us": "Get previous statement"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Get next statement",
+        "displayNames": {
+          "en-us": "Get next statement"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Focus the Console",
+        "displayNames": {
+          "en-us": "Focus the Console"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "192"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear the Console",
+        "displayNames": {
+          "en-us": "Clear the Console"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Force a multi-line entry. (Should be auto-detected usually)",
+        "displayNames": {
+          "en-us": "Force a multi-line entry. (Should be auto-detected usually)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Execute",
+        "displayNames": {
+          "en-us": "Execute"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      }
+    ]
+  }
+]

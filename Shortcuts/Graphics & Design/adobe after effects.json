@@ -1,0 +1,4326 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Select all",
+        "displayNames": {
+          "en-us": "Select all"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Deselect all",
+        "displayNames": {
+          "en-us": "Deselect all"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rename selected layer, composition, folder, effect, group, or mask",
+        "displayNames": {
+          "en-us": "Rename selected layer, composition, folder, effect, group, or mask"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open selected layer, composition, or footage item",
+        "displayNames": {
+          "en-us": "Open selected layer, composition, or footage item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selected layers, masks, effects, or render items down (back) or up (forward) in stacking order",
+        "displayNames": {
+          "en-us": "Move selected layers, masks, effects, or render items down (back) or up (forward) in stacking order"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selected layers, masks, effects, or render items to bottom (back) or top (front) of stacking order",
+        "displayNames": {
+          "en-us": "Move selected layers, masks, effects, or render items to bottom (back) or top (front) of stacking order"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend selection to next item in Project panel, Render Queue panel, or Effect Controls panel",
+        "displayNames": {
+          "en-us": "Extend selection to next item in Project panel, Render Queue panel, or Effect Controls panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend selection to previous item in Project panel, Render Queue panel, or Effect Controls panel",
+        "displayNames": {
+          "en-us": "Extend selection to previous item in Project panel, Render Queue panel, or Effect Controls panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Duplicate selected layers, masks, effects, text selectors, animators, puppet meshes, shapes, render items, output modules, or compositions",
+        "displayNames": {
+          "en-us": "Duplicate selected layers, masks, effects, text selectors, animators, puppet meshes, shapes, render items, output modules, or compositions"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quit",
+        "displayNames": {
+          "en-us": "Quit"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo",
+        "displayNames": {
+          "en-us": "Undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Purge All Memory",
+        "displayNames": {
+          "en-us": "Purge All Memory"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Interrupt running a script",
+        "displayNames": {
+          "en-us": "Interrupt running a script"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display filename corresponding to the frame at the current time in the Info panel",
+        "displayNames": {
+          "en-us": "Display filename corresponding to the frame at the current time in the Info panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "E"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Projects",
+    "shortcuts": [
+      {
+        "internalName": "New project",
+        "displayNames": {
+          "en-us": "New project"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open project",
+        "displayNames": {
+          "en-us": "Open project"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open most recent project",
+        "displayNames": {
+          "en-us": "Open most recent project"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "New folder in Project panel",
+        "displayNames": {
+          "en-us": "New folder in Project panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Project Settings dialog box",
+        "displayNames": {
+          "en-us": "Open Project Settings dialog box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find in Project panel",
+        "displayNames": {
+          "en-us": "Find in Project panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Preferences",
+    "shortcuts": [
+      {
+        "internalName": "Open Preferences dialog box",
+        "displayNames": {
+          "en-us": "Open Preferences dialog box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "186"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Panels, viewers, workspaces, and windows",
+    "shortcuts": [
+      {
+        "internalName": "Open or close Project panel",
+        "displayNames": {
+          "en-us": "Open or close Project panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open or close Render Queue panel",
+        "displayNames": {
+          "en-us": "Open or close Render Queue panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open or close Tools panel",
+        "displayNames": {
+          "en-us": "Open or close Tools panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open or close Info panel",
+        "displayNames": {
+          "en-us": "Open or close Info panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open or close Preview panel",
+        "displayNames": {
+          "en-us": "Open or close Preview panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open or close Audio panel",
+        "displayNames": {
+          "en-us": "Open or close Audio panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open or close Effects &amp; Presets panel",
+        "displayNames": {
+          "en-us": "Open or close Effects &amp; Presets panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open or close Character panel",
+        "displayNames": {
+          "en-us": "Open or close Character panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open or close Paragraph panel",
+        "displayNames": {
+          "en-us": "Open or close Paragraph panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open or close Paint panel",
+        "displayNames": {
+          "en-us": "Open or close Paint panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open or close Brushes panel",
+        "displayNames": {
+          "en-us": "Open or close Brushes panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open or close Effect Controls panel for selected layer",
+        "displayNames": {
+          "en-us": "Open or close Effect Controls panel for selected layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Flowchart panel for project flowchart",
+        "displayNames": {
+          "en-us": "Open Flowchart panel for project flowchart"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to workspace",
+        "displayNames": {
+          "en-us": "Switch to workspace"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close active viewer or panel (closes content first)",
+        "displayNames": {
+          "en-us": "Close active viewer or panel (closes content first)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close active panel or all viewers of type of active viewer (closes content first). For example, if a Timeline panel is active, this command closes all Timeline panels",
+        "displayNames": {
+          "en-us": "Close active panel or all viewers of type of active viewer (closes content first). For example, if a Timeline panel is active, this command closes all Timeline panels"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Split the frame containing the active viewer and create a viewer with opposite locked/unlocked state",
+        "displayNames": {
+          "en-us": "Split the frame containing the active viewer and create a viewer with opposite locked/unlocked state"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Maximize or restore panel under pointer",
+        "displayNames": {
+          "en-us": "Maximize or restore panel under pointer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "192"
+          ]
+        ]
+      },
+      {
+        "internalName": "Resize application window or floating window to fit screen. (Press again to resize window so that contents fill the screen.)",
+        "displayNames": {
+          "en-us": "Resize application window or floating window to fit screen. (Press again to resize window so that contents fill the screen.)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move application window or floating window to main monitor; resize window to fit screen. (Press again to resize window so that contents fill the screen.)",
+        "displayNames": {
+          "en-us": "Move application window or floating window to main monitor; resize window to fit screen. (Press again to resize window so that contents fill the screen.)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle activation between Composition panel and Timeline panel for current composition",
+        "displayNames": {
+          "en-us": "Toggle activation between Composition panel and Timeline panel for current composition"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle to previous or next item in active viewer (for example, cycle through open compositions)",
+        "displayNames": {
+          "en-us": "Cycle to previous or next item in active viewer (for example, cycle through open compositions)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle to previous or next panel in active frame (for example, cycle through open Timeline panels)",
+        "displayNames": {
+          "en-us": "Cycle to previous or next panel in active frame (for example, cycle through open Timeline panels)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "188"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Activate tools",
+    "shortcuts": [
+      {
+        "internalName": "Activate Selection tool",
+        "displayNames": {
+          "en-us": "Activate Selection tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate Hand tool",
+        "displayNames": {
+          "en-us": "Activate Hand tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Temporarily activate Hand tool",
+        "displayNames": {
+          "en-us": "Temporarily activate Hand tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate Zoom In tool",
+        "displayNames": {
+          "en-us": "Activate Zoom In tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate Zoom Out tool",
+        "displayNames": {
+          "en-us": "Activate Zoom Out tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate Rotation tool",
+        "displayNames": {
+          "en-us": "Activate Rotation tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate Roto Brush tool",
+        "displayNames": {
+          "en-us": "Activate Roto Brush tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate Refine Edge tool",
+        "displayNames": {
+          "en-us": "Activate Refine Edge tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate and cycle through Camera tools (Unified Camera, Orbit Camera, Track XY Camera, and Track Z Camera)",
+        "displayNames": {
+          "en-us": "Activate and cycle through Camera tools (Unified Camera, Orbit Camera, Track XY Camera, and Track Z Camera)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate Pan Behind tool",
+        "displayNames": {
+          "en-us": "Activate Pan Behind tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate and cycle through mask and shape tools (Rectangle, Rounded Rectangle, Ellipse, Polygon, Star)",
+        "displayNames": {
+          "en-us": "Activate and cycle through mask and shape tools (Rectangle, Rounded Rectangle, Ellipse, Polygon, Star)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate and cycle through Type tools (Horizontal and Vertical)",
+        "displayNames": {
+          "en-us": "Activate and cycle through Type tools (Horizontal and Vertical)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate and cycle between the Pen and Mask Feather tools. (Note: You can turn off this setting in the Preferences dialog box.)",
+        "displayNames": {
+          "en-us": "Activate and cycle between the Pen and Mask Feather tools. (Note: You can turn off this setting in the Preferences dialog box.)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Temporarily activate Selection tool when a pen tool is selected",
+        "displayNames": {
+          "en-us": "Temporarily activate Selection tool when a pen tool is selected"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control"
+          ]
+        ]
+      },
+      {
+        "internalName": "Temporarily activate Pen tool when the Selection tool is selected and pointer is over a path (Add Vertex tool when pointer is over a segment; Convert Vertex tool when pointer is over a vertex)",
+        "displayNames": {
+          "en-us": "Temporarily activate Pen tool when the Selection tool is selected and pointer is over a path (Add Vertex tool when pointer is over a segment; Convert Vertex tool when pointer is over a vertex)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate and cycle through Brush, Clone Stamp, and Eraser tools",
+        "displayNames": {
+          "en-us": "Activate and cycle through Brush, Clone Stamp, and Eraser tools"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate and cycle through Puppet tools",
+        "displayNames": {
+          "en-us": "Activate and cycle through Puppet tools"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Temporarily convert Selection tool to Shape Duplication tool",
+        "displayNames": {
+          "en-us": "Temporarily convert Selection tool to Shape Duplication tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      },
+      {
+        "internalName": "Temporarily convert Selection tool to Direct Selection tool",
+        "displayNames": {
+          "en-us": "Temporarily convert Selection tool to Direct Selection tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Compositions and the work area",
+    "shortcuts": [
+      {
+        "internalName": "New composition",
+        "displayNames": {
+          "en-us": "New composition"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Composition Settings dialog box for selected composition",
+        "displayNames": {
+          "en-us": "Open Composition Settings dialog box for selected composition"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set beginning or end of work area to current time",
+        "displayNames": {
+          "en-us": "Set beginning or end of work area to current time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set work area to duration of selected layers or, if no layers are selected, set work area to composition duration",
+        "displayNames": {
+          "en-us": "Set work area to duration of selected layers or, if no layers are selected, set work area to composition duration"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Composition Mini-Flowchart for active composition",
+        "displayNames": {
+          "en-us": "Open Composition Mini-Flowchart for active composition"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate the most recently active composition that is in the same composition hierarchy (network of nested compositions) as the currently active composition",
+        "displayNames": {
+          "en-us": "Activate the most recently active composition that is in the same composition hierarchy (network of nested compositions) as the currently active composition"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Trim Composition to work area",
+        "displayNames": {
+          "en-us": "Trim Composition to work area"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "New Composition from selection",
+        "displayNames": {
+          "en-us": "New Composition from selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Back"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Time navigation",
+    "shortcuts": [
+      {
+        "internalName": "Go to specific time",
+        "displayNames": {
+          "en-us": "Go to specific time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to beginning or end of work area",
+        "displayNames": {
+          "en-us": "Go to beginning or end of work area"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to previous or next visible item in time ruler",
+        "displayNames": {
+          "en-us": "Go to previous or next visible item in time ruler"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to beginning of composition, layer, or footage item",
+        "displayNames": {
+          "en-us": "Go to beginning of composition, layer, or footage item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to end of composition, layer, or footage item",
+        "displayNames": {
+          "en-us": "Go to end of composition, layer, or footage item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go forward 1 frame",
+        "displayNames": {
+          "en-us": "Go forward 1 frame"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go forward 10 frames",
+        "displayNames": {
+          "en-us": "Go forward 10 frames"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go backward 1 frame",
+        "displayNames": {
+          "en-us": "Go backward 1 frame"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go backward 10 frames",
+        "displayNames": {
+          "en-us": "Go backward 10 frames"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to layer In point",
+        "displayNames": {
+          "en-us": "Go to layer In point"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to layer Out point",
+        "displayNames": {
+          "en-us": "Go to layer Out point"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to previous In point or Out point",
+        "displayNames": {
+          "en-us": "Go to previous In point or Out point"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to next In point or Out point",
+        "displayNames": {
+          "en-us": "Go to next In point or Out point"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll to current time in Timeline panel",
+        "displayNames": {
+          "en-us": "Scroll to current time in Timeline panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Previews",
+    "shortcuts": [
+      {
+        "internalName": "Start or stop preview",
+        "displayNames": {
+          "en-us": "Start or stop preview"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Preview only audio, from current time",
+        "displayNames": {
+          "en-us": "Preview only audio, from current time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Preview only audio, in work area",
+        "displayNames": {
+          "en-us": "Preview only audio, in work area"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Preview number of frames specified by Alternate Preview preference (defaults to 5)",
+        "displayNames": {
+          "en-us": "Preview number of frames specified by Alternate Preview preference (defaults to 5)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "NumberPad0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Mercury Transmit video preview",
+        "displayNames": {
+          "en-us": "Toggle Mercury Transmit video preview"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Take snapshot",
+        "displayNames": {
+          "en-us": "Take snapshot"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display snapshot in active viewer",
+        "displayNames": {
+          "en-us": "Display snapshot in active viewer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Purge snapshot",
+        "displayNames": {
+          "en-us": "Purge snapshot"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fast Previews &gt; Off",
+        "displayNames": {
+          "en-us": "Fast Previews &gt; Off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fast Previews &gt; Adaptive Resolution",
+        "displayNames": {
+          "en-us": "Fast Previews &gt; Adaptive Resolution"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fast Previews &gt; Draft",
+        "displayNames": {
+          "en-us": "Fast Previews &gt; Draft"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fast Previews &gt; Fast Draft",
+        "displayNames": {
+          "en-us": "Fast Previews &gt; Fast Draft"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fast Previews &gt; Wireframe",
+        "displayNames": {
+          "en-us": "Fast Previews &gt; Wireframe"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number5"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Views",
+    "shortcuts": [
+      {
+        "internalName": "Turn display color management on or off for active view",
+        "displayNames": {
+          "en-us": "Turn display color management on or off for active view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show red, green, blue, or alpha channel as grayscale",
+        "displayNames": {
+          "en-us": "Show red, green, blue, or alpha channel as grayscale"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show colorized red, green, or blue channel",
+        "displayNames": {
+          "en-us": "Show colorized red, green, or blue channel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle showing straight RGB color",
+        "displayNames": {
+          "en-us": "Toggle showing straight RGB color"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show alpha boundary (outline between transparent and opaque regions) in Layer panel",
+        "displayNames": {
+          "en-us": "Show alpha boundary (outline between transparent and opaque regions) in Layer panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show alpha overlay (colored overlay on transparent regions) in Layer panel",
+        "displayNames": {
+          "en-us": "Show alpha overlay (colored overlay on transparent regions) in Layer panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Refine Edge X-ray",
+        "displayNames": {
+          "en-us": "Show Refine Edge X-ray"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom-in in Composition, Layer, or Footage panel",
+        "displayNames": {
+          "en-us": "Zoom-in in Composition, Layer, or Footage panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom-out in Composition, Layer, or Footage panel",
+        "displayNames": {
+          "en-us": "Zoom-out in Composition, Layer, or Footage panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom to 100% in Composition, Layer, or Footage panel",
+        "displayNames": {
+          "en-us": "Zoom to 100% in Composition, Layer, or Footage panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom to fit in Composition, Layer, or Footage panel",
+        "displayNames": {
+          "en-us": "Zoom to fit in Composition, Layer, or Footage panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom up to 100% to fit in Composition, Layer, or Footage panel",
+        "displayNames": {
+          "en-us": "Zoom up to 100% to fit in Composition, Layer, or Footage panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set resolution to Full, Half, or Custom in Composition panel",
+        "displayNames": {
+          "en-us": "Set resolution to Full, Half, or Custom in Composition panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open View Options dialog box for active Composition panel",
+        "displayNames": {
+          "en-us": "Open View Options dialog box for active Composition panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom in time",
+        "displayNames": {
+          "en-us": "Zoom in time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom out time",
+        "displayNames": {
+          "en-us": "Zoom out time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom in Timeline panel to single-frame units (Press again to zoom out to show entire composition duration.)",
+        "displayNames": {
+          "en-us": "Zoom in Timeline panel to single-frame units (Press again to zoom out to show entire composition duration.)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "186"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom out in Timeline panel to show the entire composition duration (Press again to zoom back in to the duration specified by the Time Navigator.)",
+        "displayNames": {
+          "en-us": "Zoom out in Timeline panel to show the entire composition duration (Press again to zoom back in to the duration specified by the Time Navigator.)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "186"
+          ]
+        ]
+      },
+      {
+        "internalName": "Prevent images from being rendered for previews in viewer panels",
+        "displayNames": {
+          "en-us": "Prevent images from being rendered for previews in viewer panels"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "CapitalLock"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show or hide safe zones",
+        "displayNames": {
+          "en-us": "Show or hide safe zones"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "222"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show or hide grid",
+        "displayNames": {
+          "en-us": "Show or hide grid"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "222"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show or hide proportional grid",
+        "displayNames": {
+          "en-us": "Show or hide proportional grid"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "222"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show or hide rulers",
+        "displayNames": {
+          "en-us": "Show or hide rulers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show or hide guides",
+        "displayNames": {
+          "en-us": "Show or hide guides"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "186"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turn snapping to grid on or off",
+        "displayNames": {
+          "en-us": "Turn snapping to grid on or off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "222"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turn snapping to guides on or off",
+        "displayNames": {
+          "en-us": "Turn snapping to guides on or off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "186"
+          ]
+        ]
+      },
+      {
+        "internalName": "Lock or unlock guides",
+        "displayNames": {
+          "en-us": "Lock or unlock guides"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "186"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show or hide layer controls (masks, motion paths, light and camera wireframes, effect control points, and layer handles)",
+        "displayNames": {
+          "en-us": "Show or hide layer controls (masks, motion paths, light and camera wireframes, effect control points, and layer handles)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "H"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Footage",
+    "shortcuts": [
+      {
+        "internalName": "Import one file or image sequence",
+        "displayNames": {
+          "en-us": "Import one file or image sequence"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Import multiple files or image sequences",
+        "displayNames": {
+          "en-us": "Import multiple files or image sequences"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add selected items to most recently activated composition",
+        "displayNames": {
+          "en-us": "Add selected items to most recently activated composition"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Replace selected source footage for selected layers with footage item selected in Project panel",
+        "displayNames": {
+          "en-us": "Replace selected source footage for selected layers with footage item selected in Project panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete a footage item without a warning",
+        "displayNames": {
+          "en-us": "Delete a footage item without a warning"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Interpret Footage dialog box for selected footage item",
+        "displayNames": {
+          "en-us": "Open Interpret Footage dialog box for selected footage item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remember footage interpretation",
+        "displayNames": {
+          "en-us": "Remember footage interpretation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Edit selected footage item in application with which it’s associated (Edit Original)",
+        "displayNames": {
+          "en-us": "Edit selected footage item in application with which it’s associated (Edit Original)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Replace selected footage item",
+        "displayNames": {
+          "en-us": "Replace selected footage item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reload selected footage items",
+        "displayNames": {
+          "en-us": "Reload selected footage items"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set proxy for selected footage item",
+        "displayNames": {
+          "en-us": "Set proxy for selected footage item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "P"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Effects and animation presets",
+    "shortcuts": [
+      {
+        "internalName": "Delete all effects from selected layers",
+        "displayNames": {
+          "en-us": "Delete all effects from selected layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply most recently applied effect to selected layers",
+        "displayNames": {
+          "en-us": "Apply most recently applied effect to selected layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply most recently applied animation preset to selected layers",
+        "displayNames": {
+          "en-us": "Apply most recently applied animation preset to selected layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "F"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Layers",
+    "shortcuts": [
+      {
+        "internalName": "New solid layer",
+        "displayNames": {
+          "en-us": "New solid layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "New null layer",
+        "displayNames": {
+          "en-us": "New null layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "New adjustment layer",
+        "displayNames": {
+          "en-us": "New adjustment layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle selection of layer (1-999) by its number (enter digits rapidly for two-digit and three-digit numbers)",
+        "displayNames": {
+          "en-us": "Toggle selection of layer (1-999) by its number (enter digits rapidly for two-digit and three-digit numbers)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select next layer in stacking order",
+        "displayNames": {
+          "en-us": "Select next layer in stacking order"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select previous layer in stacking order",
+        "displayNames": {
+          "en-us": "Select previous layer in stacking order"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend selection to next layer in stacking order",
+        "displayNames": {
+          "en-us": "Extend selection to next layer in stacking order"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend selection to previous layer in stacking order",
+        "displayNames": {
+          "en-us": "Extend selection to previous layer in stacking order"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Deselect all layers",
+        "displayNames": {
+          "en-us": "Deselect all layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll topmost selected layer to top of Timeline panel",
+        "displayNames": {
+          "en-us": "Scroll topmost selected layer to top of Timeline panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show or hide Parent column",
+        "displayNames": {
+          "en-us": "Show or hide Parent column"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show or hide Layer Switches and Modes columns",
+        "displayNames": {
+          "en-us": "Show or hide Layer Switches and Modes columns"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Setting the sampling method for selected layers (Best/Bilinear)",
+        "displayNames": {
+          "en-us": "Setting the sampling method for selected layers (Best/Bilinear)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Setting the sampling method for selected layers (Best/Bicubic)",
+        "displayNames": {
+          "en-us": "Setting the sampling method for selected layers (Best/Bicubic)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turn Video (eyeball) switch on or off for selected layers",
+        "displayNames": {
+          "en-us": "Turn Video (eyeball) switch on or off for selected layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turn off Video switch for all video layers other than selected layers",
+        "displayNames": {
+          "en-us": "Turn off Video switch for all video layers other than selected layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open settings dialog box for selected solid, light, camera, null, or adjustment layer",
+        "displayNames": {
+          "en-us": "Open settings dialog box for selected solid, light, camera, null, or adjustment layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste layers at current time",
+        "displayNames": {
+          "en-us": "Paste layers at current time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Split selected layers. (If no layers are selected, split all layers.)",
+        "displayNames": {
+          "en-us": "Split selected layers. (If no layers are selected, split all layers.)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Precompose selected layers",
+        "displayNames": {
+          "en-us": "Precompose selected layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Effect Controls panel for selected layers",
+        "displayNames": {
+          "en-us": "Open Effect Controls panel for selected layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reverse selected layers in time",
+        "displayNames": {
+          "en-us": "Reverse selected layers in time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enable time remapping for selected layers",
+        "displayNames": {
+          "en-us": "Enable time remapping for selected layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selected layers so that their In point or Out point is at the current time",
+        "displayNames": {
+          "en-us": "Move selected layers so that their In point or Out point is at the current time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Trim In point or Out point of selected layers to current time",
+        "displayNames": {
+          "en-us": "Trim In point or Out point of selected layers to current time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set In point or Out point by time-stretching",
+        "displayNames": {
+          "en-us": "Set In point or Out point by time-stretching"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selected layers so that their In point is at beginning of composition",
+        "displayNames": {
+          "en-us": "Move selected layers so that their In point is at beginning of composition"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selected layers so that their Out point is at end of composition",
+        "displayNames": {
+          "en-us": "Move selected layers so that their Out point is at end of composition"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Lock selected layers",
+        "displayNames": {
+          "en-us": "Lock selected layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Unlock all layers",
+        "displayNames": {
+          "en-us": "Unlock all layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set Quality to Best, Draft, or Wireframe for selected layers",
+        "displayNames": {
+          "en-us": "Set Quality to Best, Draft, or Wireframe for selected layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle forward or backward through blending modes for selected layers",
+        "displayNames": {
+          "en-us": "Cycle forward or backward through blending modes for selected layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find in Timeline panel",
+        "displayNames": {
+          "en-us": "Find in Timeline panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Showing properties and groups in the Timeline panel",
+    "shortcuts": [
+      {
+        "internalName": "Find in Timeline panel",
+        "displayNames": {
+          "en-us": "Find in Timeline panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle expansion of selected layers to show all properties",
+        "displayNames": {
+          "en-us": "Toggle expansion of selected layers to show all properties"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "192"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show only Anchor Point property (for lights and cameras, Point Of Interest)",
+        "displayNames": {
+          "en-us": "Show only Anchor Point property (for lights and cameras, Point Of Interest)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show only Audio Levels property",
+        "displayNames": {
+          "en-us": "Show only Audio Levels property"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show only Mask Feather property",
+        "displayNames": {
+          "en-us": "Show only Mask Feather property"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show only Mask Path property",
+        "displayNames": {
+          "en-us": "Show only Mask Path property"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show only Mask Opacity property",
+        "displayNames": {
+          "en-us": "Show only Mask Opacity property"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "T"
+          ],
+          [
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show only Opacity property (for lights, Intensity)",
+        "displayNames": {
+          "en-us": "Show only Opacity property (for lights, Intensity)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show only Position property",
+        "displayNames": {
+          "en-us": "Show only Position property"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show only Rotation and Orientation properties",
+        "displayNames": {
+          "en-us": "Show only Rotation and Orientation properties"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show only Scale property",
+        "displayNames": {
+          "en-us": "Show only Scale property"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show only Time Remap property",
+        "displayNames": {
+          "en-us": "Show only Time Remap property"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ],
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show only instances of missing effects",
+        "displayNames": {
+          "en-us": "Show only instances of missing effects"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ],
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show only Effects property group",
+        "displayNames": {
+          "en-us": "Show only Effects property group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show only mask property groups",
+        "displayNames": {
+          "en-us": "Show only mask property groups"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ],
+          [
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show only Material Options property group",
+        "displayNames": {
+          "en-us": "Show only Material Options property group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "A"
+          ],
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show only expressions",
+        "displayNames": {
+          "en-us": "Show only expressions"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "E"
+          ],
+          [
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show properties with keyframes",
+        "displayNames": {
+          "en-us": "Show properties with keyframes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show only modified properties",
+        "displayNames": {
+          "en-us": "Show only modified properties"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "U"
+          ],
+          [
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show only paint strokes, Roto Brush strokes, and Puppet pins",
+        "displayNames": {
+          "en-us": "Show only paint strokes, Roto Brush strokes, and Puppet pins"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "P"
+          ],
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show only audio waveform",
+        "displayNames": {
+          "en-us": "Show only audio waveform"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "L"
+          ],
+          [
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show only selected properties and groups",
+        "displayNames": {
+          "en-us": "Show only selected properties and groups"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "S"
+          ],
+          [
+            "S"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Showing properties in the Effect Controls panel",
+    "shortcuts": [
+      {
+        "internalName": "Toggle expansion of selected effects to show all properties",
+        "displayNames": {
+          "en-us": "Toggle expansion of selected effects to show all properties"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "192"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Modifying layer properties",
+    "shortcuts": [
+      {
+        "internalName": "Open Auto-Orientation dialog box for selected layers",
+        "displayNames": {
+          "en-us": "Open Auto-Orientation dialog box for selected layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Opacity dialog box for selected layers",
+        "displayNames": {
+          "en-us": "Open Opacity dialog box for selected layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Rotation dialog box for selected layers",
+        "displayNames": {
+          "en-us": "Open Rotation dialog box for selected layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Position dialog box for selected layers",
+        "displayNames": {
+          "en-us": "Open Position dialog box for selected layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Center-selected layers in view (modifies Position property to place anchor points of selected layers in center of current view)",
+        "displayNames": {
+          "en-us": "Center-selected layers in view (modifies Position property to place anchor points of selected layers in center of current view)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Center anchor point in the visible content",
+        "displayNames": {
+          "en-us": "Center anchor point in the visible content"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selected layers 1 pixel at current magnification (Position)",
+        "displayNames": {
+          "en-us": "Move selected layers 1 pixel at current magnification (Position)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selected layers 10 pixels at current magnification (Position)",
+        "displayNames": {
+          "en-us": "Move selected layers 10 pixels at current magnification (Position)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selected layers 1 frame earlier or later",
+        "displayNames": {
+          "en-us": "Move selected layers 1 frame earlier or later"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selected layers 10 frames earlier or later",
+        "displayNames": {
+          "en-us": "Move selected layers 10 frames earlier or later"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase or decrease Rotation (Z Rotation) of selected layers by 1°",
+        "displayNames": {
+          "en-us": "Increase or decrease Rotation (Z Rotation) of selected layers by 1°"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase or decrease Rotation (Z Rotation) of selected layers by 10°",
+        "displayNames": {
+          "en-us": "Increase or decrease Rotation (Z Rotation) of selected layers by 10°"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase or decrease Opacity (or Intensity for light layers) of selected layers by 1%",
+        "displayNames": {
+          "en-us": "Increase or decrease Opacity (or Intensity for light layers) of selected layers by 1%"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase or decrease Opacity (or Intensity for light layers) of selected layers by 10%",
+        "displayNames": {
+          "en-us": "Increase or decrease Opacity (or Intensity for light layers) of selected layers by 10%"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase Scale of selected layers by 1%",
+        "displayNames": {
+          "en-us": "Increase Scale of selected layers by 1%"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease Scale of selected layers by 1%",
+        "displayNames": {
+          "en-us": "Decrease Scale of selected layers by 1%"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase Scale of selected layers by 10%",
+        "displayNames": {
+          "en-us": "Increase Scale of selected layers by 10%"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease Scale of selected layers by 10%",
+        "displayNames": {
+          "en-us": "Decrease Scale of selected layers by 10%"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scale and reposition selected layers to fit composition",
+        "displayNames": {
+          "en-us": "Scale and reposition selected layers to fit composition"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scale and reposition selected layers to fit composition width, preserving image aspect ratio for each layer",
+        "displayNames": {
+          "en-us": "Scale and reposition selected layers to fit composition width, preserving image aspect ratio for each layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scale and reposition selected layers to fit composition height, preserving image aspect ratio for each layer",
+        "displayNames": {
+          "en-us": "Scale and reposition selected layers to fit composition height, preserving image aspect ratio for each layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "G"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "3D layers",
+    "shortcuts": [
+      {
+        "internalName": "Switch to 3D view 1 (defaults to Front)",
+        "displayNames": {
+          "en-us": "Switch to 3D view 1 (defaults to Front)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to 3D view 2 (defaults to Custom View 1)",
+        "displayNames": {
+          "en-us": "Switch to 3D view 2 (defaults to Custom View 1)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to 3D view 3 (defaults to Active Camera)",
+        "displayNames": {
+          "en-us": "Switch to 3D view 3 (defaults to Active Camera)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F12"
+          ]
+        ]
+      },
+      {
+        "internalName": "Return to previous view",
+        "displayNames": {
+          "en-us": "Return to previous view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "New light",
+        "displayNames": {
+          "en-us": "New light"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "New camera",
+        "displayNames": {
+          "en-us": "New camera"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the camera and its point of interest to look at selected 3D layers",
+        "displayNames": {
+          "en-us": "Move the camera and its point of interest to look at selected 3D layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "With a camera tool selected, move the camera and its point of interest to look at selected 3D layers",
+        "displayNames": {
+          "en-us": "With a camera tool selected, move the camera and its point of interest to look at selected 3D layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "With a camera tool selected, move the camera and its point of interest to look at all 3D layers",
+        "displayNames": {
+          "en-us": "With a camera tool selected, move the camera and its point of interest to look at all 3D layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turn Casts Shadows property on or off for selected 3D layers",
+        "displayNames": {
+          "en-us": "Turn Casts Shadows property on or off for selected 3D layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "C"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Keyframes and the Graph Editor",
+    "shortcuts": [
+      {
+        "internalName": "Toggle between Graph Editor and layer bar modes",
+        "displayNames": {
+          "en-us": "Toggle between Graph Editor and layer bar modes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select all visible keyframes and properties",
+        "displayNames": {
+          "en-us": "Select all visible keyframes and properties"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Deselect all keyframes, properties, and property groups",
+        "displayNames": {
+          "en-us": "Deselect all keyframes, properties, and property groups"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move keyframe 1 frame later or earlier",
+        "displayNames": {
+          "en-us": "Move keyframe 1 frame later or earlier"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move keyframe 10 frames later or earlier",
+        "displayNames": {
+          "en-us": "Move keyframe 10 frames later or earlier"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set interpolation for selected keyframes (layer bar mode)",
+        "displayNames": {
+          "en-us": "Set interpolation for selected keyframes (layer bar mode)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set keyframe interpolation method to hold or Auto Bezier",
+        "displayNames": {
+          "en-us": "Set keyframe interpolation method to hold or Auto Bezier"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Easy ease selected keyframes",
+        "displayNames": {
+          "en-us": "Easy ease selected keyframes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Easy ease selected keyframes in",
+        "displayNames": {
+          "en-us": "Easy ease selected keyframes in"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Easy ease selected keyframes out",
+        "displayNames": {
+          "en-us": "Easy ease selected keyframes out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set velocity for selected keyframes",
+        "displayNames": {
+          "en-us": "Set velocity for selected keyframes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "K"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Text",
+    "shortcuts": [
+      {
+        "internalName": "New text layer",
+        "displayNames": {
+          "en-us": "New text layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Align selected horizontal text left, center, or right",
+        "displayNames": {
+          "en-us": "Align selected horizontal text left, center, or right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Align selected vertical text top, center, or bottom",
+        "displayNames": {
+          "en-us": "Align selected vertical text top, center, or bottom"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend or reduce selection by one character to right or left in horizontal text",
+        "displayNames": {
+          "en-us": "Extend or reduce selection by one character to right or left in horizontal text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend or reduce selection by one word to right or left in horizontal text",
+        "displayNames": {
+          "en-us": "Extend or reduce selection by one word to right or left in horizontal text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend or reduce selection by one line up or down in horizontal text",
+        "displayNames": {
+          "en-us": "Extend or reduce selection by one line up or down in horizontal text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend or reduce selection by one line to right or left in vertical text",
+        "displayNames": {
+          "en-us": "Extend or reduce selection by one line to right or left in vertical text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend or reduce selection one word up or down in vertical text",
+        "displayNames": {
+          "en-us": "Extend or reduce selection one word up or down in vertical text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Extend or reduce selection by one character up or down in vertical text",
+        "displayNames": {
+          "en-us": "Extend or reduce selection by one character up or down in vertical text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select text from insertion point to beginning or end of line",
+        "displayNames": {
+          "en-us": "Select text from insertion point to beginning or end of line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move insertion point to beginning or end of line",
+        "displayNames": {
+          "en-us": "Move insertion point to beginning or end of line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select text from insertion point to beginning or end of text frame",
+        "displayNames": {
+          "en-us": "Select text from insertion point to beginning or end of text frame"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "In horizontal text, move insertion point one character left or right",
+        "displayNames": {
+          "en-us": "In horizontal text, move insertion point one character left or right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "In horizontal text move insertion point one line up or down",
+        "displayNames": {
+          "en-us": "In horizontal text move insertion point one line up or down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "In horizontal text move insertion point one word left or right",
+        "displayNames": {
+          "en-us": "In horizontal text move insertion point one word left or right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "In horizontal text move insertion point one paragraph up or down",
+        "displayNames": {
+          "en-us": "In horizontal text move insertion point one paragraph up or down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "In vertical text move insertion point one character up or down",
+        "displayNames": {
+          "en-us": "In vertical text move insertion point one character up or down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "In vertical text, move insertion point one character left or right",
+        "displayNames": {
+          "en-us": "In vertical text, move insertion point one character left or right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "In vertical text, move insertion point one word up or down",
+        "displayNames": {
+          "en-us": "In vertical text, move insertion point one word up or down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "In vertical text, move insertion point one paragraph left or right",
+        "displayNames": {
+          "en-us": "In vertical text, move insertion point one paragraph left or right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turn All Caps on or off for selected text",
+        "displayNames": {
+          "en-us": "Turn All Caps on or off for selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turn Small Caps on or off for selected text",
+        "displayNames": {
+          "en-us": "Turn Small Caps on or off for selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turn Superscript on or off for selected text",
+        "displayNames": {
+          "en-us": "Turn Superscript on or off for selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turn Subscript on or off for selected text",
+        "displayNames": {
+          "en-us": "Turn Subscript on or off for selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set horizontal scale to 100% for selected text",
+        "displayNames": {
+          "en-us": "Set horizontal scale to 100% for selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set vertical scale to 100% for selected text",
+        "displayNames": {
+          "en-us": "Set vertical scale to 100% for selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Auto leading for selected text",
+        "displayNames": {
+          "en-us": "Auto leading for selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reset tracking to 0 for selected text",
+        "displayNames": {
+          "en-us": "Reset tracking to 0 for selected text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Justify paragraph; left align last line",
+        "displayNames": {
+          "en-us": "Justify paragraph; left align last line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Justify paragraph; right align last line",
+        "displayNames": {
+          "en-us": "Justify paragraph; right align last line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Justify paragraph; force last line",
+        "displayNames": {
+          "en-us": "Justify paragraph; force last line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease or increase font size of selected text by 2 units",
+        "displayNames": {
+          "en-us": "Decrease or increase font size of selected text by 2 units"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease or increase font size of selected text by 10 units",
+        "displayNames": {
+          "en-us": "Decrease or increase font size of selected text by 10 units"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase or decrease leading by 2 units",
+        "displayNames": {
+          "en-us": "Increase or decrease leading by 2 units"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase or decrease leading by 10 units",
+        "displayNames": {
+          "en-us": "Increase or decrease leading by 10 units"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease or increase baseline shift by 2 units",
+        "displayNames": {
+          "en-us": "Decrease or increase baseline shift by 2 units"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease or increase baseline shift by 10 units",
+        "displayNames": {
+          "en-us": "Decrease or increase baseline shift by 10 units"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease or increase kerning or tracking 20 units (20/1000 ems)",
+        "displayNames": {
+          "en-us": "Decrease or increase kerning or tracking 20 units (20/1000 ems)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease or increase kerning or tracking 100 units (100/1000 ems)",
+        "displayNames": {
+          "en-us": "Decrease or increase kerning or tracking 100 units (100/1000 ems)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle paragraph composer",
+        "displayNames": {
+          "en-us": "Toggle paragraph composer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "T"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Masks",
+    "shortcuts": [
+      {
+        "internalName": "New mask",
+        "displayNames": {
+          "en-us": "New mask"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select next or previous mask",
+        "displayNames": {
+          "en-us": "Select next or previous mask"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "192"
+          ]
+        ]
+      },
+      {
+        "internalName": "Exit free-transform mask editing mode",
+        "displayNames": {
+          "en-us": "Exit free-transform mask editing mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selected path points 1 pixel at current magnification",
+        "displayNames": {
+          "en-us": "Move selected path points 1 pixel at current magnification"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selected path points 10 pixels at current magnification",
+        "displayNames": {
+          "en-us": "Move selected path points 10 pixels at current magnification"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Invert selected mask",
+        "displayNames": {
+          "en-us": "Invert selected mask"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Mask Feather dialog box for selected mask",
+        "displayNames": {
+          "en-us": "Open Mask Feather dialog box for selected mask"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Mask Shape dialog box for selected mask",
+        "displayNames": {
+          "en-us": "Open Mask Shape dialog box for selected mask"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Subtract mode",
+        "displayNames": {
+          "en-us": "Subtract mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Darken mode",
+        "displayNames": {
+          "en-us": "Darken mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Difference mode",
+        "displayNames": {
+          "en-us": "Difference mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add mode",
+        "displayNames": {
+          "en-us": "Add mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Intersect mode",
+        "displayNames": {
+          "en-us": "Intersect mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "None",
+        "displayNames": {
+          "en-us": "None"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "N"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Paint tools",
+    "shortcuts": [
+      {
+        "internalName": "Swap paint background color and foreground colors",
+        "displayNames": {
+          "en-us": "Swap paint background color and foreground colors"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set paint foreground color to black and background color to white",
+        "displayNames": {
+          "en-us": "Set paint foreground color to black and background color to white"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Momentarily activate Eraser tool with Last Stroke Only option",
+        "displayNames": {
+          "en-us": "Momentarily activate Eraser tool with Last Stroke Only option"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate a specific Clone Stamp tool preset",
+        "displayNames": {
+          "en-us": "Activate a specific Clone Stamp tool preset"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set opacity for a paint tool to 100%",
+        "displayNames": {
+          "en-us": "Set opacity for a paint tool to 100%"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set flow for a paint tool",
+        "displayNames": {
+          "en-us": "Set flow for a paint tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set flow for a paint tool to 100%",
+        "displayNames": {
+          "en-us": "Set flow for a paint tool to 100%"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move earlier or later by number of frames specified for stroke Duration",
+        "displayNames": {
+          "en-us": "Move earlier or later by number of frames specified for stroke Duration"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "PageUp"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Shape layers",
+    "shortcuts": [
+      {
+        "internalName": "Group selected shapes",
+        "displayNames": {
+          "en-us": "Group selected shapes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Ungroup selected shapes",
+        "displayNames": {
+          "en-us": "Ungroup selected shapes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "G"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Markers",
+    "shortcuts": [
+      {
+        "internalName": "Set marker at current time (works during preview and audio-only preview)",
+        "displayNames": {
+          "en-us": "Set marker at current time (works during preview and audio-only preview)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set marker at current time and open marker dialog box",
+        "displayNames": {
+          "en-us": "Set marker at current time and open marker dialog box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set and number composition marker 3 at the current time",
+        "displayNames": {
+          "en-us": "Set and number composition marker 3 at the current time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Number3"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Motion tracking",
+    "shortcuts": [
+      {
+        "internalName": "Move feature region, search region, and attach point 1 pixel at current magnification",
+        "displayNames": {
+          "en-us": "Move feature region, search region, and attach point 1 pixel at current magnification"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move feature region, search region, and attach point 10 pixels up at current magnification",
+        "displayNames": {
+          "en-us": "Move feature region, search region, and attach point 10 pixels up at current magnification"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move feature region and search region 1 pixel right at current magnification",
+        "displayNames": {
+          "en-us": "Move feature region and search region 1 pixel right at current magnification"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move feature region and search region 10 pixels left at current magnification",
+        "displayNames": {
+          "en-us": "Move feature region and search region 10 pixels left at current magnification"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Left"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Saving, exporting, and rendering",
+    "shortcuts": [
+      {
+        "internalName": "Save project",
+        "displayNames": {
+          "en-us": "Save project"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increment and save project",
+        "displayNames": {
+          "en-us": "Increment and save project"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save As",
+        "displayNames": {
+          "en-us": "Save As"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add active composition or selected items to render queue",
+        "displayNames": {
+          "en-us": "Add active composition or selected items to render queue"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add current frame to render queue",
+        "displayNames": {
+          "en-us": "Add current frame to render queue"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Duplicate render item with same output filename as original",
+        "displayNames": {
+          "en-us": "Duplicate render item with same output filename as original"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add a composition to the Adobe Media Encoder encoding queue",
+        "displayNames": {
+          "en-us": "Add a composition to the Adobe Media Encoder encoding queue"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "M"
+          ]
+        ]
+      }
+    ]
+  }
+]

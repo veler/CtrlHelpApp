@@ -1,0 +1,363 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Select an item and enter Selection mode (in Collection)",
+        "displayNames": {
+          "en-us": "Select an item and enter Selection mode (in Collection)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select an item while in Selection mode (from Selection mode)",
+        "displayNames": {
+          "en-us": "Select an item while in Selection mode (from Selection mode)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll up, down, left, or right (in Collection)",
+        "displayNames": {
+          "en-us": "Scroll up, down, left, or right (in Collection)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show the next or previous item (on a single item or slideshow)",
+        "displayNames": {
+          "en-us": "Show the next or previous item (on a single item or slideshow)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move within the photo (on a zoomed photo)",
+        "displayNames": {
+          "en-us": "Move within the photo (on a zoomed photo)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom in or out when viewing a photo",
+        "displayNames": {
+          "en-us": "Zoom in or out when viewing a photo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reset zoom on a photo",
+        "displayNames": {
+          "en-us": "Reset zoom on a photo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Return to previous screen",
+        "displayNames": {
+          "en-us": "Return to previous screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save",
+        "displayNames": {
+          "en-us": "Save"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print",
+        "displayNames": {
+          "en-us": "Print"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy",
+        "displayNames": {
+          "en-us": "Copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set as lock screen",
+        "displayNames": {
+          "en-us": "Set as lock screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Editing",
+    "shortcuts": [
+      {
+        "internalName": "Undo changes (editing)",
+        "displayNames": {
+          "en-us": "Undo changes (editing)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo changes (editing)",
+        "displayNames": {
+          "en-us": "Redo changes (editing)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "View original (editing)",
+        "displayNames": {
+          "en-us": "View original (editing)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Resize crop or selective focus area",
+        "displayNames": {
+          "en-us": "Resize crop or selective focus area"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move crop or selective focus area",
+        "displayNames": {
+          "en-us": "Move crop or selective focus area"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate a photo (viewing or editing)",
+        "displayNames": {
+          "en-us": "Rotate a photo (viewing or editing)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enhance a photo (viewing a photo)",
+        "displayNames": {
+          "en-us": "Enhance a photo (viewing a photo)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Viewing",
+    "shortcuts": [
+      {
+        "internalName": "Start a slide show (viewing an item)",
+        "displayNames": {
+          "en-us": "Start a slide show (viewing an item)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "View file info",
+        "displayNames": {
+          "en-us": "View file info"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show or hide commands (viewing a photo)",
+        "displayNames": {
+          "en-us": "Show or hide commands (viewing a photo)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Play or pause the video (viewing a video)",
+        "displayNames": {
+          "en-us": "Play or pause the video (viewing a video)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Albums",
+    "shortcuts": [
+      {
+        "internalName": "Create a new album (in Albums view)",
+        "displayNames": {
+          "en-us": "Create a new album (in Albums view)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove album (in Albums view)",
+        "displayNames": {
+          "en-us": "Remove album (in Albums view)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add selected items to album",
+        "displayNames": {
+          "en-us": "Add selected items to album"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove selected items from album",
+        "displayNames": {
+          "en-us": "Remove selected items from album"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      }
+    ]
+  }
+]

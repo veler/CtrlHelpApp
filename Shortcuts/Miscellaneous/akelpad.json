@@ -1,0 +1,1050 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "cut",
+        "displayNames": {
+          "en-us": "cut"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "copy",
+        "displayNames": {
+          "en-us": "copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "paste",
+        "displayNames": {
+          "en-us": "paste"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "paste text as ANSI",
+        "displayNames": {
+          "en-us": "paste text as ANSI"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Insert"
+          ]
+        ]
+      },
+      {
+        "internalName": "paste to column selection",
+        "displayNames": {
+          "en-us": "paste to column selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "select all",
+        "displayNames": {
+          "en-us": "select all"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "delete from left",
+        "displayNames": {
+          "en-us": "delete from left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "delete from right",
+        "displayNames": {
+          "en-us": "delete from right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "undo",
+        "displayNames": {
+          "en-us": "undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "redo",
+        "displayNames": {
+          "en-us": "redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "print",
+        "displayNames": {
+          "en-us": "print"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "exit",
+        "displayNames": {
+          "en-us": "exit"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "insert date",
+        "displayNames": {
+          "en-us": "insert date"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "on/off \"Word wrap\"",
+        "displayNames": {
+          "en-us": "on/off \"Word wrap\""
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "new line with left spaces",
+        "displayNames": {
+          "en-us": "new line with left spaces"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Navigation",
+    "shortcuts": [
+      {
+        "internalName": "find",
+        "displayNames": {
+          "en-us": "find"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "find next down",
+        "displayNames": {
+          "en-us": "find next down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "find next up",
+        "displayNames": {
+          "en-us": "find next up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "find and replace",
+        "displayNames": {
+          "en-us": "find and replace"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "go to line (by number)",
+        "displayNames": {
+          "en-us": "go to line (by number)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "go to start of line",
+        "displayNames": {
+          "en-us": "go to start of line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "go to end of line",
+        "displayNames": {
+          "en-us": "go to end of line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "go to start of text",
+        "displayNames": {
+          "en-us": "go to start of text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "go to end of text",
+        "displayNames": {
+          "en-us": "go to end of text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "go to start of word",
+        "displayNames": {
+          "en-us": "go to start of word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "go to end of word",
+        "displayNames": {
+          "en-us": "go to end of word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "go to start of previous line",
+        "displayNames": {
+          "en-us": "go to start of previous line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "go to start of next line",
+        "displayNames": {
+          "en-us": "go to start of next line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "go to first visible character",
+        "displayNames": {
+          "en-us": "go to first visible character"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "go to last visible character",
+        "displayNames": {
+          "en-us": "go to last visible character"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "PageDown"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Transform",
+    "shortcuts": [
+      {
+        "internalName": "on/off \"Keep left spaces\"",
+        "displayNames": {
+          "en-us": "on/off \"Keep left spaces\""
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "recode text",
+        "displayNames": {
+          "en-us": "recode text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "delete first char",
+        "displayNames": {
+          "en-us": "delete first char"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "delete current line",
+        "displayNames": {
+          "en-us": "delete current line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "delete left word",
+        "displayNames": {
+          "en-us": "delete left word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "delete right word",
+        "displayNames": {
+          "en-us": "delete right word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "trim trailing whitespaces",
+        "displayNames": {
+          "en-us": "trim trailing whitespaces"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "change case in loop",
+        "displayNames": {
+          "en-us": "change case in loop"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "selected text, as \"UPPERCASE\"",
+        "displayNames": {
+          "en-us": "selected text, as \"UPPERCASE\""
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "selected text, as \"lowercase\"",
+        "displayNames": {
+          "en-us": "selected text, as \"lowercase\""
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "selected text, as \"Sentence case.\"",
+        "displayNames": {
+          "en-us": "selected text, as \"Sentence case.\""
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "selected text, as \"Title Case\"",
+        "displayNames": {
+          "en-us": "selected text, as \"Title Case\""
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "selected text, as \"iNVERT cASE\"",
+        "displayNames": {
+          "en-us": "selected text, as \"iNVERT cASE\""
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Files",
+    "shortcuts": [
+      {
+        "internalName": "create new file",
+        "displayNames": {
+          "en-us": "create new file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "open file",
+        "displayNames": {
+          "en-us": "open file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "reopen file",
+        "displayNames": {
+          "en-us": "reopen file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "save",
+        "displayNames": {
+          "en-us": "save"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "save as",
+        "displayNames": {
+          "en-us": "save as"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "save all",
+        "displayNames": {
+          "en-us": "save all"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "reopen file as ANSI (Windows)",
+        "displayNames": {
+          "en-us": "reopen file as ANSI (Windows)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "reopen file as OEM (DOS)",
+        "displayNames": {
+          "en-us": "reopen file as OEM (DOS)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "reopen file as KOI8-R",
+        "displayNames": {
+          "en-us": "reopen file as KOI8-R"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "reopen file as UTF-16LE",
+        "displayNames": {
+          "en-us": "reopen file as UTF-16LE"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "reopen file as UTF-16BE",
+        "displayNames": {
+          "en-us": "reopen file as UTF-16BE"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "reopen file as UTF-8",
+        "displayNames": {
+          "en-us": "reopen file as UTF-8"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "save file as ANSI (Windows)",
+        "displayNames": {
+          "en-us": "save file as ANSI (Windows)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Menu",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "save file as OEM (DOS)",
+        "displayNames": {
+          "en-us": "save file as OEM (DOS)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Menu",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "save file as KOI8-R",
+        "displayNames": {
+          "en-us": "save file as KOI8-R"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Menu",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "save file as UTF-16LE",
+        "displayNames": {
+          "en-us": "save file as UTF-16LE"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Menu",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "save file as UTF-16BE",
+        "displayNames": {
+          "en-us": "save file as UTF-16BE"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Menu",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "save file as UTF-8",
+        "displayNames": {
+          "en-us": "save file as UTF-8"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Menu",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "reopen file with code page detect",
+        "displayNames": {
+          "en-us": "reopen file with code page detect"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F5"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Windows",
+    "shortcuts": [
+      {
+        "internalName": "Create new window",
+        "displayNames": {
+          "en-us": "Create new window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close all",
+        "displayNames": {
+          "en-us": "Close all"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "on/off \"Always on top\"",
+        "displayNames": {
+          "en-us": "on/off \"Always on top\""
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "go to next dialog",
+        "displayNames": {
+          "en-us": "go to next dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "go to previous dialog",
+        "displayNames": {
+          "en-us": "go to previous dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "activate next pane (split window)",
+        "displayNames": {
+          "en-us": "activate next pane (split window)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "activate previous pane (split window)",
+        "displayNames": {
+          "en-us": "activate previous pane (split window)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "select window dialog (MDI)",
+        "displayNames": {
+          "en-us": "select window dialog (MDI)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "next window (MDI)",
+        "displayNames": {
+          "en-us": "next window (MDI)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "previous window (MDI)",
+        "displayNames": {
+          "en-us": "previous window (MDI)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "close window (MDI)",
+        "displayNames": {
+          "en-us": "close window (MDI)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "maximize/restore window",
+        "displayNames": {
+          "en-us": "maximize/restore window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Enter"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Other",
+    "shortcuts": [
+      {
+        "internalName": "run \"Character map\"",
+        "displayNames": {
+          "en-us": "run \"Character map\""
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "plugins",
+        "displayNames": {
+          "en-us": "plugins"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "execute command",
+        "displayNames": {
+          "en-us": "execute command"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "fast reopenning/saving menu",
+        "displayNames": {
+          "en-us": "fast reopenning/saving menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F12"
+          ]
+        ]
+      }
+    ]
+  }
+]

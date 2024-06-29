@@ -1,0 +1,484 @@
+[
+  {
+    "groupInternalName": "Messages",
+    "shortcuts": [
+      {
+        "internalName": "Edit Message",
+        "displayNames": {
+          "en-us": "Edit Message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete Message",
+        "displayNames": {
+          "en-us": "Delete Message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pin Message",
+        "displayNames": {
+          "en-us": "Pin Message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Reaction",
+        "displayNames": {
+          "en-us": "Add Reaction"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reply",
+        "displayNames": {
+          "en-us": "Reply"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy Text",
+        "displayNames": {
+          "en-us": "Copy Text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark Unread",
+        "displayNames": {
+          "en-us": "Mark Unread"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Focus Text Area",
+        "displayNames": {
+          "en-us": "Focus Text Area"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Navigate",
+    "shortcuts": [
+      {
+        "internalName": "Navigate Between Servers",
+        "displayNames": {
+          "en-us": "Navigate Between Servers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Navigate Between Channels",
+        "displayNames": {
+          "en-us": "Navigate Between Channels"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Navigate forward and backward in page history",
+        "displayNames": {
+          "en-us": "Navigate forward and backward in page history"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Navigate Between Unread Channels",
+        "displayNames": {
+          "en-us": "Navigate Between Unread Channels"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Navigate Between Unread Channels with Mentions",
+        "displayNames": {
+          "en-us": "Navigate Between Unread Channels with Mentions"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle between last server and DMs",
+        "displayNames": {
+          "en-us": "Toggle between last server and DMs"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle QuickSwitcher",
+        "displayNames": {
+          "en-us": "Toggle QuickSwitcher"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create or join a server",
+        "displayNames": {
+          "en-us": "Create or join a server"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Chat",
+    "shortcuts": [
+      {
+        "internalName": "Mark server read",
+        "displayNames": {
+          "en-us": "Mark server read"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mark channel as read",
+        "displayNames": {
+          "en-us": "Mark channel as read"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create private group",
+        "displayNames": {
+          "en-us": "Create private group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Pins Popout",
+        "displayNames": {
+          "en-us": "Toggle Pins Popout"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Inbox Popout",
+        "displayNames": {
+          "en-us": "Toggle Inbox Popout"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle channel member list",
+        "displayNames": {
+          "en-us": "Toggle channel member list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle emoji picker",
+        "displayNames": {
+          "en-us": "Toggle emoji picker"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle GIF picker",
+        "displayNames": {
+          "en-us": "Toggle GIF picker"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll Chat Up or Down",
+        "displayNames": {
+          "en-us": "Scroll Chat Up or Down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to oldest unread message",
+        "displayNames": {
+          "en-us": "Jump to oldest unread message"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Upload a file",
+        "displayNames": {
+          "en-us": "Upload a file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "U"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Voice and Video",
+    "shortcuts": [
+      {
+        "internalName": "Toggle Mute",
+        "displayNames": {
+          "en-us": "Toggle Mute"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Deafen",
+        "displayNames": {
+          "en-us": "Toggle Deafen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Answer Incoming Call",
+        "displayNames": {
+          "en-us": "Answer Incoming Call"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decline Incoming Call",
+        "displayNames": {
+          "en-us": "Decline Incoming Call"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start Call in Private Message or Group",
+        "displayNames": {
+          "en-us": "Start Call in Private Message or Group"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "222"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Misc",
+    "shortcuts": [
+      {
+        "internalName": "Show Keyboard Shortcuts List",
+        "displayNames": {
+          "en-us": "Show Keyboard Shortcuts List"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Get Help",
+        "displayNames": {
+          "en-us": "Get Help"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search",
+        "displayNames": {
+          "en-us": "Search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      }
+    ]
+  }
+]

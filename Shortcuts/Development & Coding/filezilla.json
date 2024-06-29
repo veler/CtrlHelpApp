@@ -1,0 +1,419 @@
+[
+  {
+    "groupInternalName": "Files and Folders",
+    "shortcuts": [
+      {
+        "internalName": "Rename selected file",
+        "displayNames": {
+          "en-us": "Rename selected file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search remote files",
+        "displayNames": {
+          "en-us": "Search remote files"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Refreshes local and remote file and folder views",
+        "displayNames": {
+          "en-us": "Refreshes local and remote file and folder views"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a new directory",
+        "displayNames": {
+          "en-us": "Create a new directory"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show files currently being edited",
+        "displayNames": {
+          "en-us": "Show files currently being edited"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Directory listing filters …",
+        "displayNames": {
+          "en-us": "Directory listing filters …"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enable directory comparison",
+        "displayNames": {
+          "en-us": "Enable directory comparison"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle synchronized browsing",
+        "displayNames": {
+          "en-us": "Toggle synchronized browsing"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Transfer",
+    "shortcuts": [
+      {
+        "internalName": "Manual transfer",
+        "displayNames": {
+          "en-us": "Manual transfer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Transfer selected item to an item in other pane with same name",
+        "displayNames": {
+          "en-us": "Transfer selected item to an item in other pane with same name"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Transfers selected file",
+        "displayNames": {
+          "en-us": "Transfers selected file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Stops the current operation",
+        "displayNames": {
+          "en-us": "Stops the current operation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Disconnects from server",
+        "displayNames": {
+          "en-us": "Disconnects from server"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Process queue",
+        "displayNames": {
+          "en-us": "Process queue"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Exit",
+        "displayNames": {
+          "en-us": "Exit"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reconnects to server",
+        "displayNames": {
+          "en-us": "Reconnects to server"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Preserve timestamps of transferred files",
+        "displayNames": {
+          "en-us": "Preserve timestamps of transferred files"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Navigation",
+    "shortcuts": [
+      {
+        "internalName": "Switches to the next view",
+        "displayNames": {
+          "en-us": "Switches to the next view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close tab",
+        "displayNames": {
+          "en-us": "Close tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Navigates to parent folder in file view",
+        "displayNames": {
+          "en-us": "Navigates to parent folder in file view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Opens the Site Manager",
+        "displayNames": {
+          "en-us": "Opens the Site Manager"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Opens a new tab",
+        "displayNames": {
+          "en-us": "Opens a new tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switches to next/previous tab",
+        "displayNames": {
+          "en-us": "Switches to next/previous tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Moves up one item in the current view",
+        "displayNames": {
+          "en-us": "Moves up one item in the current view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Moves down one item in the current view",
+        "displayNames": {
+          "en-us": "Moves down one item in the current view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Nothing in a files view, Up one level in a tree view",
+        "displayNames": {
+          "en-us": "Nothing in a files view, Up one level in a tree view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go down one level in a tree view",
+        "displayNames": {
+          "en-us": "Go down one level in a tree view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Step into collapsed node",
+        "displayNames": {
+          "en-us": "Step into collapsed node"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ],
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand selected directory",
+        "displayNames": {
+          "en-us": "Expand selected directory"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Bookmarks",
+    "shortcuts": [
+      {
+        "internalName": "Add bookmark",
+        "displayNames": {
+          "en-us": "Add bookmark"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Manage bookmarks",
+        "displayNames": {
+          "en-us": "Manage bookmarks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "B"
+          ]
+        ]
+      }
+    ]
+  }
+]

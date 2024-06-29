@@ -1,0 +1,457 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Go to Preferences",
+        "displayNames": {
+          "en-us": "Go to Preferences"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle full screen view",
+        "displayNames": {
+          "en-us": "Toggle full screen view"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reset zoom to default text size",
+        "displayNames": {
+          "en-us": "Reset zoom to default text size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom in for larger text and graphics",
+        "displayNames": {
+          "en-us": "Zoom in for larger text and graphics"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom out for smaller text and graphics",
+        "displayNames": {
+          "en-us": "Zoom out for smaller text and graphics"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Developer Tools",
+        "displayNames": {
+          "en-us": "Toggle Developer Tools"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "I"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Repositories",
+    "shortcuts": [
+      {
+        "internalName": "Add a new repository",
+        "displayNames": {
+          "en-us": "Add a new repository"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add a local repository",
+        "displayNames": {
+          "en-us": "Add a local repository"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clone a repository from GitHub",
+        "displayNames": {
+          "en-us": "Clone a repository from GitHub"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show a list of your repositories",
+        "displayNames": {
+          "en-us": "Show a list of your repositories"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Push the latest commits to GitHub",
+        "displayNames": {
+          "en-us": "Push the latest commits to GitHub"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pull down the latest changes from GitHub",
+        "displayNames": {
+          "en-us": "Pull down the latest changes from GitHub"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove an existing repository",
+        "displayNames": {
+          "en-us": "Remove an existing repository"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "View the repository on GitHub",
+        "displayNames": {
+          "en-us": "View the repository on GitHub"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open repository in your preferred terminal tool",
+        "displayNames": {
+          "en-us": "Open repository in your preferred terminal tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "192"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show the repository in Finder",
+        "displayNames": {
+          "en-us": "Show the repository in Finder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the repository in your preferred editor tool",
+        "displayNames": {
+          "en-us": "Open the repository in your preferred editor tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create an issue on GitHub",
+        "displayNames": {
+          "en-us": "Create an issue on GitHub"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Branches",
+    "shortcuts": [
+      {
+        "internalName": "Show all your changes before committing",
+        "displayNames": {
+          "en-us": "Show all your changes before committing"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show your commit history",
+        "displayNames": {
+          "en-us": "Show your commit history"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show all your branches",
+        "displayNames": {
+          "en-us": "Show all your branches"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the commit summary field",
+        "displayNames": {
+          "en-us": "Go to the commit summary field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Commit changes when summary or description field is active",
+        "displayNames": {
+          "en-us": "Commit changes when summary or description field is active"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select or deselect all highlighted files",
+        "displayNames": {
+          "en-us": "Select or deselect all highlighted files"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a new branch",
+        "displayNames": {
+          "en-us": "Create a new branch"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rename the current branch",
+        "displayNames": {
+          "en-us": "Rename the current branch"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete the current branch",
+        "displayNames": {
+          "en-us": "Delete the current branch"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Update from default branch",
+        "displayNames": {
+          "en-us": "Update from default branch"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Compare to an existing branch",
+        "displayNames": {
+          "en-us": "Compare to an existing branch"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Merge into current branch",
+        "displayNames": {
+          "en-us": "Merge into current branch"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show or hide stashed changes",
+        "displayNames": {
+          "en-us": "Show or hide stashed changes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Compare branches on GitHub",
+        "displayNames": {
+          "en-us": "Compare branches on GitHub"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show the current pull request on GitHub",
+        "displayNames": {
+          "en-us": "Show the current pull request on GitHub"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1166 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Paths",
+        "displayNames": {
+          "en-us": "Paths"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Color Picker",
+        "displayNames": {
+          "en-us": "Color Picker"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom",
+        "displayNames": {
+          "en-us": "Zoom"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Measure",
+        "displayNames": {
+          "en-us": "Measure"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Text",
+        "displayNames": {
+          "en-us": "Text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toolbox",
+        "displayNames": {
+          "en-us": "Toolbox"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Default Colors (black foreground, white background)",
+        "displayNames": {
+          "en-us": "Default Colors (black foreground, white background)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Swap Colors",
+        "displayNames": {
+          "en-us": "Swap Colors"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "File",
+    "shortcuts": [
+      {
+        "internalName": "New Image",
+        "displayNames": {
+          "en-us": "New Image"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a new Image from Clipboard",
+        "displayNames": {
+          "en-us": "Create a new Image from Clipboard"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Image",
+        "displayNames": {
+          "en-us": "Open Image"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open as Layers",
+        "displayNames": {
+          "en-us": "Open as Layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save Image",
+        "displayNames": {
+          "en-us": "Save Image"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save As",
+        "displayNames": {
+          "en-us": "Save As"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print",
+        "displayNames": {
+          "en-us": "Print"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close",
+        "displayNames": {
+          "en-us": "Close"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close All",
+        "displayNames": {
+          "en-us": "Close All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quit",
+        "displayNames": {
+          "en-us": "Quit"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Q"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Edit",
+    "shortcuts": [
+      {
+        "internalName": "Undo",
+        "displayNames": {
+          "en-us": "Undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut",
+        "displayNames": {
+          "en-us": "Cut"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy",
+        "displayNames": {
+          "en-us": "Copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy Visible",
+        "displayNames": {
+          "en-us": "Copy Visible"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste",
+        "displayNames": {
+          "en-us": "Paste"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Past as New Image",
+        "displayNames": {
+          "en-us": "Past as New Image"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear",
+        "displayNames": {
+          "en-us": "Clear"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fill with FG Color",
+        "displayNames": {
+          "en-us": "Fill with FG Color"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fill with BG Color",
+        "displayNames": {
+          "en-us": "Fill with BG Color"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fill with Pattern",
+        "displayNames": {
+          "en-us": "Fill with Pattern"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "186"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Select",
+    "shortcuts": [
+      {
+        "internalName": "Select All",
+        "displayNames": {
+          "en-us": "Select All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select None",
+        "displayNames": {
+          "en-us": "Select None"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Invert Selection",
+        "displayNames": {
+          "en-us": "Invert Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Selection",
+        "displayNames": {
+          "en-us": "Toggle Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Path to selection",
+        "displayNames": {
+          "en-us": "Path to selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Float Selection",
+        "displayNames": {
+          "en-us": "Float Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select by Color",
+        "displayNames": {
+          "en-us": "Select by Color"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select from Path",
+        "displayNames": {
+          "en-us": "Select from Path"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Quick Mask",
+        "displayNames": {
+          "en-us": "Toggle Quick Mask"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Q"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "View",
+    "shortcuts": [
+      {
+        "internalName": "Shrink Wrap - Reduce image window to size of image",
+        "displayNames": {
+          "en-us": "Shrink Wrap - Reduce image window to size of image"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Fullscreen View",
+        "displayNames": {
+          "en-us": "Toggle Fullscreen View"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Selection",
+        "displayNames": {
+          "en-us": "Show Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Guides",
+        "displayNames": {
+          "en-us": "Show Guides"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Rulers",
+        "displayNames": {
+          "en-us": "Show Rulers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "R"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Image",
+    "shortcuts": [
+      {
+        "internalName": "Duplicate Image",
+        "displayNames": {
+          "en-us": "Duplicate Image"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Merge Visible Layers",
+        "displayNames": {
+          "en-us": "Merge Visible Layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display Image Properties",
+        "displayNames": {
+          "en-us": "Display Image Properties"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Enter"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Layer",
+    "shortcuts": [
+      {
+        "internalName": "New Layer",
+        "displayNames": {
+          "en-us": "New Layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Duplicate Layer",
+        "displayNames": {
+          "en-us": "Duplicate Layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Anchor Layer",
+        "displayNames": {
+          "en-us": "Anchor Layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select previous layer",
+        "displayNames": {
+          "en-us": "Select previous layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select next layer",
+        "displayNames": {
+          "en-us": "Select next layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select Top layer",
+        "displayNames": {
+          "en-us": "Select Top layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select bottom layer",
+        "displayNames": {
+          "en-us": "Select bottom layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Selection Tools",
+    "shortcuts": [
+      {
+        "internalName": "Rectangle Select",
+        "displayNames": {
+          "en-us": "Rectangle Select"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Ellipse Select",
+        "displayNames": {
+          "en-us": "Ellipse Select"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Free Select",
+        "displayNames": {
+          "en-us": "Free Select"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fuzzy Select",
+        "displayNames": {
+          "en-us": "Fuzzy Select"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select by Color",
+        "displayNames": {
+          "en-us": "Select by Color"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Intelligent Scissors",
+        "displayNames": {
+          "en-us": "Intelligent Scissors"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "I"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Paint Tools",
+    "shortcuts": [
+      {
+        "internalName": "Bucket Fill",
+        "displayNames": {
+          "en-us": "Bucket Fill"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Blend",
+        "displayNames": {
+          "en-us": "Blend"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pencil",
+        "displayNames": {
+          "en-us": "Pencil"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paintbrush",
+        "displayNames": {
+          "en-us": "Paintbrush"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Eraser",
+        "displayNames": {
+          "en-us": "Eraser"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Airbrush",
+        "displayNames": {
+          "en-us": "Airbrush"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Ink",
+        "displayNames": {
+          "en-us": "Ink"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clone",
+        "displayNames": {
+          "en-us": "Clone"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Heal",
+        "displayNames": {
+          "en-us": "Heal"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Blur / Sharpen",
+        "displayNames": {
+          "en-us": "Blur / Sharpen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Smudge",
+        "displayNames": {
+          "en-us": "Smudge"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Dodge / Burn",
+        "displayNames": {
+          "en-us": "Dodge / Burn"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "D"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Transfrom Tools",
+    "shortcuts": [
+      {
+        "internalName": "Align",
+        "displayNames": {
+          "en-us": "Align"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move",
+        "displayNames": {
+          "en-us": "Move"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Crop",
+        "displayNames": {
+          "en-us": "Crop"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate",
+        "displayNames": {
+          "en-us": "Rotate"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scale",
+        "displayNames": {
+          "en-us": "Scale"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Shear",
+        "displayNames": {
+          "en-us": "Shear"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Perspective",
+        "displayNames": {
+          "en-us": "Perspective"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Flip",
+        "displayNames": {
+          "en-us": "Flip"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Dockable Dialogs",
+    "shortcuts": [
+      {
+        "internalName": "Layers",
+        "displayNames": {
+          "en-us": "Layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Brushes",
+        "displayNames": {
+          "en-us": "Brushes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Patterns",
+        "displayNames": {
+          "en-us": "Patterns"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Gradients",
+        "displayNames": {
+          "en-us": "Gradients"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toolbox",
+        "displayNames": {
+          "en-us": "Toolbox"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Help Menu",
+    "shortcuts": [
+      {
+        "internalName": "Help",
+        "displayNames": {
+          "en-us": "Help"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Context Sensitive Help",
+        "displayNames": {
+          "en-us": "Context Sensitive Help"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F1"
+          ]
+        ]
+      }
+    ]
+  }
+]

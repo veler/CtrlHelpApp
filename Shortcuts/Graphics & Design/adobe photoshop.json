@@ -1,0 +1,4907 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Free Transform",
+        "displayNames": {
+          "en-us": "Free Transform"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle between painting and erasing with the same brush",
+        "displayNames": {
+          "en-us": "Toggle between painting and erasing with the same brush"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "192"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease Brush Size",
+        "displayNames": {
+          "en-us": "Decrease Brush Size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase Brush Size",
+        "displayNames": {
+          "en-us": "Increase Brush Size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate the brush tip by 1 degree",
+        "displayNames": {
+          "en-us": "Rotate the brush tip by 1 degree"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate the brush tip by 15 degrees",
+        "displayNames": {
+          "en-us": "Rotate the brush tip by 15 degrees"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Default Foreground/Background colors",
+        "displayNames": {
+          "en-us": "Default Foreground/Background colors"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch Foreground/Background colors",
+        "displayNames": {
+          "en-us": "Switch Foreground/Background colors"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "New layer via copy",
+        "displayNames": {
+          "en-us": "New layer via copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "New layer via cut",
+        "displayNames": {
+          "en-us": "New layer via cut"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close all open documents other than the current document",
+        "displayNames": {
+          "en-us": "Close all open documents other than the current document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cancel any modal dialog window (including the Start Workspace)",
+        "displayNames": {
+          "en-us": "Cancel any modal dialog window (including the Start Workspace)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the first edit field of the toolbar",
+        "displayNames": {
+          "en-us": "Select the first edit field of the toolbar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Navigate between fields",
+        "displayNames": {
+          "en-us": "Navigate between fields"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Navigate between fields in the opposite direction",
+        "displayNames": {
+          "en-us": "Navigate between fields in the opposite direction"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Change Cancel to Reset",
+        "displayNames": {
+          "en-us": "Change Cancel to Reset"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search across Photoshop",
+        "displayNames": {
+          "en-us": "Search across Photoshop"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Function keys",
+    "shortcuts": [
+      {
+        "internalName": "Start Help",
+        "displayNames": {
+          "en-us": "Start Help"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut",
+        "displayNames": {
+          "en-us": "Cut"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy",
+        "displayNames": {
+          "en-us": "Copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste",
+        "displayNames": {
+          "en-us": "Paste"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide Brush panel",
+        "displayNames": {
+          "en-us": "Show/Hide Brush panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide Color panel",
+        "displayNames": {
+          "en-us": "Show/Hide Color panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide Layers panel",
+        "displayNames": {
+          "en-us": "Show/Hide Layers panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide Info panel",
+        "displayNames": {
+          "en-us": "Show/Hide Info panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide Actions panel",
+        "displayNames": {
+          "en-us": "Show/Hide Actions panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Revert",
+        "displayNames": {
+          "en-us": "Revert"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F12"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fill",
+        "displayNames": {
+          "en-us": "Fill"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Feather Selection",
+        "displayNames": {
+          "en-us": "Feather Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Inverse Selection",
+        "displayNames": {
+          "en-us": "Inverse Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F7"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Select tools",
+    "shortcuts": [
+      {
+        "internalName": "Cycle through tools with the same shortcut key",
+        "displayNames": {
+          "en-us": "Cycle through tools with the same shortcut key"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move tool",
+        "displayNames": {
+          "en-us": "Move tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rectangular Marquee tool† / Elliptical Marquee tool",
+        "displayNames": {
+          "en-us": "Rectangular Marquee tool† / Elliptical Marquee tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Lasso tool / Polygonal Lasso tool / Magnetic Lasso tool",
+        "displayNames": {
+          "en-us": "Lasso tool / Polygonal Lasso tool / Magnetic Lasso tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Magic Wand tool / Quick Selection tool",
+        "displayNames": {
+          "en-us": "Magic Wand tool / Quick Selection tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Crop tool / Slice tool / Slice Select tool",
+        "displayNames": {
+          "en-us": "Crop tool / Slice tool / Slice Select tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Eyedropper tool / Color Sampler tool / Ruler tool / Note tool",
+        "displayNames": {
+          "en-us": "Eyedropper tool / Color Sampler tool / Ruler tool / Note tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Spot Healing Brush tool / Healing Brush tool / Patch tool / Red Eye tool",
+        "displayNames": {
+          "en-us": "Spot Healing Brush tool / Healing Brush tool / Patch tool / Red Eye tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Brush tool / Pencil tool / Color Replacement tool / Mixer Brush tool",
+        "displayNames": {
+          "en-us": "Brush tool / Pencil tool / Color Replacement tool / Mixer Brush tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clone Stamp tool / Pattern Stamp tool",
+        "displayNames": {
+          "en-us": "Clone Stamp tool / Pattern Stamp tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "History Brush tool / Art History Brush tool",
+        "displayNames": {
+          "en-us": "History Brush tool / Art History Brush tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Eraser tool / Background Eraser tool / Magic Eraser tool",
+        "displayNames": {
+          "en-us": "Eraser tool / Background Eraser tool / Magic Eraser tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Gradient tool / Paint Bucket tool",
+        "displayNames": {
+          "en-us": "Gradient tool / Paint Bucket tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Dodge tool / Burn tool / Sponge tool",
+        "displayNames": {
+          "en-us": "Dodge tool / Burn tool / Sponge tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pen tool / Freeform Pen tool",
+        "displayNames": {
+          "en-us": "Pen tool / Freeform Pen tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Type tools",
+        "displayNames": {
+          "en-us": "Type tools"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Path Selection tool / Direct Selection tool",
+        "displayNames": {
+          "en-us": "Path Selection tool / Direct Selection tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Shape tools",
+        "displayNames": {
+          "en-us": "Shape tools"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hand tool",
+        "displayNames": {
+          "en-us": "Hand tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom tool",
+        "displayNames": {
+          "en-us": "Zoom tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Default Foreground/Background colors",
+        "displayNames": {
+          "en-us": "Default Foreground/Background colors"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch Foreground/Background colors",
+        "displayNames": {
+          "en-us": "Switch Foreground/Background colors"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Standard/Quick Mask modes",
+        "displayNames": {
+          "en-us": "Toggle Standard/Quick Mask modes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Content-Aware Move tool",
+        "displayNames": {
+          "en-us": "Content-Aware Move tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Perspective Crop tool",
+        "displayNames": {
+          "en-us": "Perspective Crop tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Artboard tool",
+        "displayNames": {
+          "en-us": "Artboard tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate View tool",
+        "displayNames": {
+          "en-us": "Rotate View tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Preserve Transparency",
+        "displayNames": {
+          "en-us": "Toggle Preserve Transparency"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease Brush Hardness",
+        "displayNames": {
+          "en-us": "Decrease Brush Hardness"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase Brush Hardness",
+        "displayNames": {
+          "en-us": "Increase Brush Hardness"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Brush",
+        "displayNames": {
+          "en-us": "Previous Brush"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next Brush",
+        "displayNames": {
+          "en-us": "Next Brush"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "First Brush",
+        "displayNames": {
+          "en-us": "First Brush"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Last Brush",
+        "displayNames": {
+          "en-us": "Last Brush"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "190"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "View images",
+    "shortcuts": [
+      {
+        "internalName": "Cycle through open documents",
+        "displayNames": {
+          "en-us": "Cycle through open documents"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to previous document",
+        "displayNames": {
+          "en-us": "Switch to previous document"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close a file in Photoshop and open Bridge",
+        "displayNames": {
+          "en-us": "Close a file in Photoshop and open Bridge"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle between Standard mode and Quick Mask mode",
+        "displayNames": {
+          "en-us": "Toggle between Standard mode and Quick Mask mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle screen modes",
+        "displayNames": {
+          "en-us": "Toggle screen modes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle screen modes backward",
+        "displayNames": {
+          "en-us": "Toggle screen modes backward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle (forward) canvas color",
+        "displayNames": {
+          "en-us": "Toggle (forward) canvas color"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle (backward) canvas color",
+        "displayNames": {
+          "en-us": "Toggle (backward) canvas color"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Space",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Magnify 100%",
+        "displayNames": {
+          "en-us": "Magnify 100%"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to Hand tool (when not in text-edit mode)",
+        "displayNames": {
+          "en-us": "Switch to Hand tool (when not in text-edit mode)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to Zoom In tool",
+        "displayNames": {
+          "en-us": "Switch to Zoom In tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to Zoom Out tool",
+        "displayNames": {
+          "en-us": "Switch to Zoom Out tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply zoom percentage, and keep zoom percentage box active",
+        "displayNames": {
+          "en-us": "Apply zoom percentage, and keep zoom percentage box active"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll 1 page up",
+        "displayNames": {
+          "en-us": "Scroll 1 page up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll 1 page down",
+        "displayNames": {
+          "en-us": "Scroll 1 page down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll left 1 screen",
+        "displayNames": {
+          "en-us": "Scroll left 1 screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll right 1 screen",
+        "displayNames": {
+          "en-us": "Scroll right 1 screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll up 10 units",
+        "displayNames": {
+          "en-us": "Scroll up 10 units"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll down 10 units",
+        "displayNames": {
+          "en-us": "Scroll down 10 units"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll left 10 units",
+        "displayNames": {
+          "en-us": "Scroll left 10 units"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll right 10 units",
+        "displayNames": {
+          "en-us": "Scroll right 10 units"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "PageDown"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move view to upper-left corner",
+        "displayNames": {
+          "en-us": "Move view to upper-left corner"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move view to lower-right corner",
+        "displayNames": {
+          "en-us": "Move view to lower-right corner"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle layer mask on/off as rubylith (layer mask must be selected)",
+        "displayNames": {
+          "en-us": "Toggle layer mask on/off as rubylith (layer mask must be selected)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Puppet Warp",
+    "shortcuts": [
+      {
+        "internalName": "Cancel completely",
+        "displayNames": {
+          "en-us": "Cancel completely"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo last pin adjustment",
+        "displayNames": {
+          "en-us": "Undo last pin adjustment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select all pins",
+        "displayNames": {
+          "en-us": "Select all pins"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Deselect all pins",
+        "displayNames": {
+          "en-us": "Deselect all pins"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Temporarily hide pins",
+        "displayNames": {
+          "en-us": "Temporarily hide pins"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "H"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Select and Mask",
+    "shortcuts": [
+      {
+        "internalName": "Open the Select and Mask workspace",
+        "displayNames": {
+          "en-us": "Open the Select and Mask workspace"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle (forward) through preview modes",
+        "displayNames": {
+          "en-us": "Cycle (forward) through preview modes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle (backward) through preview modes",
+        "displayNames": {
+          "en-us": "Cycle (backward) through preview modes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle between original image and selection preview",
+        "displayNames": {
+          "en-us": "Toggle between original image and selection preview"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle between original selection and refined version",
+        "displayNames": {
+          "en-us": "Toggle between original selection and refined version"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle radius preview on and off",
+        "displayNames": {
+          "en-us": "Toggle radius preview on and off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "J"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Filter Gallery",
+    "shortcuts": [
+      {
+        "internalName": "Reapply last-used filter",
+        "displayNames": {
+          "en-us": "Reapply last-used filter"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Change Cancel button to Default",
+        "displayNames": {
+          "en-us": "Change Cancel button to Default"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control"
+          ]
+        ]
+      },
+      {
+        "internalName": "Change Cancel button to Reset",
+        "displayNames": {
+          "en-us": "Change Cancel button to Reset"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo/Redo",
+        "displayNames": {
+          "en-us": "Undo/Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Step forward",
+        "displayNames": {
+          "en-us": "Step forward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Step backward",
+        "displayNames": {
+          "en-us": "Step backward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Z"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Liquify filter",
+    "shortcuts": [
+      {
+        "internalName": "Forward Warp tool",
+        "displayNames": {
+          "en-us": "Forward Warp tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reconstruct tool",
+        "displayNames": {
+          "en-us": "Reconstruct tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Twirl Clockwise tool",
+        "displayNames": {
+          "en-us": "Twirl Clockwise tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pucker tool",
+        "displayNames": {
+          "en-us": "Pucker tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Bloat tool",
+        "displayNames": {
+          "en-us": "Bloat tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Push Left tool",
+        "displayNames": {
+          "en-us": "Push Left tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mirror tool",
+        "displayNames": {
+          "en-us": "Mirror tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turbulence tool",
+        "displayNames": {
+          "en-us": "Turbulence tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Freeze Mask tool",
+        "displayNames": {
+          "en-us": "Freeze Mask tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Thaw Mask tool",
+        "displayNames": {
+          "en-us": "Thaw Mask tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reverse direction for Bloat, Pucker, Push Left, and Mirror tools",
+        "displayNames": {
+          "en-us": "Reverse direction for Bloat, Pucker, Push Left, and Mirror tools"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease brush size by 2, or density, pressure, rate, or turbulent jitter by 1",
+        "displayNames": {
+          "en-us": "Decrease brush size by 2, or density, pressure, rate, or turbulent jitter by 1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase brush size by 2, or density, pressure, rate, or turbulent jitter by 1",
+        "displayNames": {
+          "en-us": "Increase brush size by 2, or density, pressure, rate, or turbulent jitter by 1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease brush size by 2, or density, pressure, rate, or turbulent jitter by 1",
+        "displayNames": {
+          "en-us": "Decrease brush size by 2, or density, pressure, rate, or turbulent jitter by 1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase brush size by 2, or density, pressure, rate, or turbulent jitter by 1",
+        "displayNames": {
+          "en-us": "Increase brush size by 2, or density, pressure, rate, or turbulent jitter by 1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle through controls on right from top",
+        "displayNames": {
+          "en-us": "Cycle through controls on right from top"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle through controls on right from bottom",
+        "displayNames": {
+          "en-us": "Cycle through controls on right from bottom"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Change Cancel to Reset",
+        "displayNames": {
+          "en-us": "Change Cancel to Reset"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Vanishing Point",
+    "shortcuts": [
+      {
+        "internalName": "Zoom 2x (temporary)",
+        "displayNames": {
+          "en-us": "Zoom 2x (temporary)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom in",
+        "displayNames": {
+          "en-us": "Zoom in"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom out",
+        "displayNames": {
+          "en-us": "Zoom out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase brush size (Brush, Stamp tools)",
+        "displayNames": {
+          "en-us": "Increase brush size (Brush, Stamp tools)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease brush size (Brush, Stamp tools)",
+        "displayNames": {
+          "en-us": "Decrease brush size (Brush, Stamp tools)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase brush hardness (Brush, Stamp tools)",
+        "displayNames": {
+          "en-us": "Increase brush hardness (Brush, Stamp tools)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease brush hardness (Brush, Stamp tools)",
+        "displayNames": {
+          "en-us": "Decrease brush hardness (Brush, Stamp tools)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo last action",
+        "displayNames": {
+          "en-us": "Undo last action"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo last action",
+        "displayNames": {
+          "en-us": "Redo last action"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Deselect all",
+        "displayNames": {
+          "en-us": "Deselect all"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hide selection and planes",
+        "displayNames": {
+          "en-us": "Hide selection and planes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selection 1 pixel",
+        "displayNames": {
+          "en-us": "Move selection 1 pixel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selection 10 pixels",
+        "displayNames": {
+          "en-us": "Move selection 10 pixels"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy",
+        "displayNames": {
+          "en-us": "Copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste",
+        "displayNames": {
+          "en-us": "Paste"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Repeat last duplicate and move",
+        "displayNames": {
+          "en-us": "Repeat last duplicate and move"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a floating selection from the current selection",
+        "displayNames": {
+          "en-us": "Create a floating selection from the current selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Constrain selection to a 15° rotation",
+        "displayNames": {
+          "en-us": "Constrain selection to a 15° rotation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete last node while creating plane",
+        "displayNames": {
+          "en-us": "Delete last node while creating plane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Camera Raw dialog box",
+    "shortcuts": [
+      {
+        "internalName": "Zoom tool",
+        "displayNames": {
+          "en-us": "Zoom tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hand tool",
+        "displayNames": {
+          "en-us": "Hand tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "White Balance tool",
+        "displayNames": {
+          "en-us": "White Balance tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Color Sampler tool",
+        "displayNames": {
+          "en-us": "Color Sampler tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Crop tool",
+        "displayNames": {
+          "en-us": "Crop tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Straighten tool",
+        "displayNames": {
+          "en-us": "Straighten tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Spot Removal tool",
+        "displayNames": {
+          "en-us": "Spot Removal tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Red Eye Removal tool",
+        "displayNames": {
+          "en-us": "Red Eye Removal tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Basic panel",
+        "displayNames": {
+          "en-us": "Basic panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Tone Curve panel",
+        "displayNames": {
+          "en-us": "Tone Curve panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Detail panel",
+        "displayNames": {
+          "en-us": "Detail panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "HSL/Grayscale panel",
+        "displayNames": {
+          "en-us": "HSL/Grayscale panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Split Toning panel",
+        "displayNames": {
+          "en-us": "Split Toning panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Lens Corrections panel",
+        "displayNames": {
+          "en-us": "Lens Corrections panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Camera Calibration panel",
+        "displayNames": {
+          "en-us": "Camera Calibration panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Presets panel",
+        "displayNames": {
+          "en-us": "Presets panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Snapshots panel",
+        "displayNames": {
+          "en-us": "Open Snapshots panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Parametric Curve Targeted Adjustment tool",
+        "displayNames": {
+          "en-us": "Parametric Curve Targeted Adjustment tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hue Targeted Adjustment tool",
+        "displayNames": {
+          "en-us": "Hue Targeted Adjustment tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Saturation Targeted Adjustment tool",
+        "displayNames": {
+          "en-us": "Saturation Targeted Adjustment tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Luminance Targeted Adjustment tool",
+        "displayNames": {
+          "en-us": "Luminance Targeted Adjustment tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Grayscale Mix Targeted Adjustment tool",
+        "displayNames": {
+          "en-us": "Grayscale Mix Targeted Adjustment tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Last-used Targeted Adjustment tool",
+        "displayNames": {
+          "en-us": "Last-used Targeted Adjustment tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Adjustment Brush tool",
+        "displayNames": {
+          "en-us": "Adjustment Brush tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Graduated Filter tool",
+        "displayNames": {
+          "en-us": "Graduated Filter tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase brush size",
+        "displayNames": {
+          "en-us": "Increase brush size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease brush size",
+        "displayNames": {
+          "en-us": "Decrease brush size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase brush feather",
+        "displayNames": {
+          "en-us": "Increase brush feather"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease brush feather",
+        "displayNames": {
+          "en-us": "Decrease brush feather"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Temporarily switch between Add and Erase modes for Adjustment Brush",
+        "displayNames": {
+          "en-us": "Temporarily switch between Add and Erase modes for Adjustment Brush"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase temporary Adjustment Brush tool size",
+        "displayNames": {
+          "en-us": "Increase temporary Adjustment Brush tool size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease temporary Adjustment Brush tool size",
+        "displayNames": {
+          "en-us": "Decrease temporary Adjustment Brush tool size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase temporary Adjustment Brush tool feather",
+        "displayNames": {
+          "en-us": "Increase temporary Adjustment Brush tool feather"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease temporary Adjustment Brush tool feather",
+        "displayNames": {
+          "en-us": "Decrease temporary Adjustment Brush tool feather"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase temporary Adjustment Brush tool flow in increments of 10",
+        "displayNames": {
+          "en-us": "Increase temporary Adjustment Brush tool flow in increments of 10"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease temporary Adjustment Brush tool flow in increments of 10",
+        "displayNames": {
+          "en-us": "Decrease temporary Adjustment Brush tool flow in increments of 10"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch to New mode from Add or Erase mode",
+        "displayNames": {
+          "en-us": "Switch to New mode from Add or Erase mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Auto Mask for Adjustment Brush tool",
+        "displayNames": {
+          "en-us": "Toggle Auto Mask for Adjustment Brush tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Show Mask for Adjustment Brush tool",
+        "displayNames": {
+          "en-us": "Toggle Show Mask for Adjustment Brush tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle pins for Adjustment Brush tool",
+        "displayNames": {
+          "en-us": "Toggle pins for Adjustment Brush tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle overlay for Graduated Filter, Spot Removal tool, or Red Eye Removal tool",
+        "displayNames": {
+          "en-us": "Toggle overlay for Graduated Filter, Spot Removal tool, or Red Eye Removal tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate image left",
+        "displayNames": {
+          "en-us": "Rotate image left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate image right",
+        "displayNames": {
+          "en-us": "Rotate image right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom in",
+        "displayNames": {
+          "en-us": "Zoom in"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom out",
+        "displayNames": {
+          "en-us": "Zoom out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Temporarily switch to Zoom In tool",
+        "displayNames": {
+          "en-us": "Temporarily switch to Zoom In tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control"
+          ]
+        ]
+      },
+      {
+        "internalName": "Temporarily switch to Zoom Out tool",
+        "displayNames": {
+          "en-us": "Temporarily switch to Zoom Out tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle preview",
+        "displayNames": {
+          "en-us": "Toggle preview"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Full screen mode",
+        "displayNames": {
+          "en-us": "Full screen mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Temporarily activate White Balance tool",
+        "displayNames": {
+          "en-us": "Temporarily activate White Balance tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selected point in Curves panel (1 unit)",
+        "displayNames": {
+          "en-us": "Move selected point in Curves panel (1 unit)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move selected point in Curves panel (10 units)",
+        "displayNames": {
+          "en-us": "Move selected point in Curves panel (10 units)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open selected images in Camera Raw dialog box from Bridge",
+        "displayNames": {
+          "en-us": "Open selected images in Camera Raw dialog box from Bridge"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Highlight clipping warning",
+        "displayNames": {
+          "en-us": "Highlight clipping warning"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Shadows clipping warning",
+        "displayNames": {
+          "en-us": "Shadows clipping warning"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "(Filmstrip mode) Add 1 - 5 star rating",
+        "displayNames": {
+          "en-us": "(Filmstrip mode) Add 1 - 5 star rating"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ],
+          [
+            "Subtract"
+          ],
+          [
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "(Filmstrip mode) Increase rating",
+        "displayNames": {
+          "en-us": "(Filmstrip mode) Increase rating"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease rating",
+        "displayNames": {
+          "en-us": "Decrease rating"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "(Filmstrip mode) Add red label",
+        "displayNames": {
+          "en-us": "(Filmstrip mode) Add red label"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "(Filmstrip mode) Add yellow label",
+        "displayNames": {
+          "en-us": "(Filmstrip mode) Add yellow label"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "(Filmstrip mode) Add green label",
+        "displayNames": {
+          "en-us": "(Filmstrip mode) Add green label"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "(Filmstrip mode) Add blue label",
+        "displayNames": {
+          "en-us": "(Filmstrip mode) Add blue label"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number9"
+          ]
+        ]
+      },
+      {
+        "internalName": "(Filmstrip mode) Add purple label",
+        "displayNames": {
+          "en-us": "(Filmstrip mode) Add purple label"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Camera Raw preferences",
+        "displayNames": {
+          "en-us": "Camera Raw preferences"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Deletes Adobe Camera Raw preferences",
+        "displayNames": {
+          "en-us": "Deletes Adobe Camera Raw preferences"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Black-and-White dialog box",
+    "shortcuts": [
+      {
+        "internalName": "Open the Black-and-White dialog box",
+        "displayNames": {
+          "en-us": "Open the Black-and-White dialog box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase selected value by 1%",
+        "displayNames": {
+          "en-us": "Increase selected value by 1%"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease selected value by 1%",
+        "displayNames": {
+          "en-us": "Decrease selected value by 1%"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase selected value by 10%",
+        "displayNames": {
+          "en-us": "Increase selected value by 10%"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease selected value by 10%",
+        "displayNames": {
+          "en-us": "Decrease selected value by 10%"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Down"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Curves",
+    "shortcuts": [
+      {
+        "internalName": "Open the Curves dialog box",
+        "displayNames": {
+          "en-us": "Open the Curves dialog box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the previous point on the curve",
+        "displayNames": {
+          "en-us": "Select the previous point on the curve"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Deselect a point",
+        "displayNames": {
+          "en-us": "Deselect a point"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "To delete a point on the curve",
+        "displayNames": {
+          "en-us": "To delete a point on the curve"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Select",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the selected point 1 unit",
+        "displayNames": {
+          "en-us": "Move the selected point 1 unit"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move the selected point 10 units",
+        "displayNames": {
+          "en-us": "Move the selected point 10 units"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Select and move objects",
+    "shortcuts": [
+      {
+        "internalName": "Switch to Move tool",
+        "displayNames": {
+          "en-us": "Switch to Move tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply an operation of the Magnetic Lasso",
+        "displayNames": {
+          "en-us": "Apply an operation of the Magnetic Lasso"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cancel an operation of the Magnetic Lasso",
+        "displayNames": {
+          "en-us": "Cancel an operation of the Magnetic Lasso"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move layer 1 pixel when nothing selected on layer",
+        "displayNames": {
+          "en-us": "Move layer 1 pixel when nothing selected on layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle crop shield off and on",
+        "displayNames": {
+          "en-us": "Toggle crop shield off and on"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Divide"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Transform",
+    "shortcuts": [
+      {
+        "internalName": "Transform from the center or reflect",
+        "displayNames": {
+          "en-us": "Transform from the center or reflect"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      },
+      {
+        "internalName": "Constrain",
+        "displayNames": {
+          "en-us": "Constrain"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift"
+          ]
+        ]
+      },
+      {
+        "internalName": "Distort",
+        "displayNames": {
+          "en-us": "Distort"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply",
+        "displayNames": {
+          "en-us": "Apply"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cancel",
+        "displayNames": {
+          "en-us": "Cancel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Free transform with duplicate data",
+        "displayNames": {
+          "en-us": "Free transform with duplicate data"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Transform again with duplicate data",
+        "displayNames": {
+          "en-us": "Transform again with duplicate data"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "T"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Painting",
+    "shortcuts": [
+      {
+        "internalName": "Mixer Brush changes Mix setting",
+        "displayNames": {
+          "en-us": "Mixer Brush changes Mix setting"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle through blending modes",
+        "displayNames": {
+          "en-us": "Cycle through blending modes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Fill dialog box on the background or standard layer",
+        "displayNames": {
+          "en-us": "Open Fill dialog box on the background or standard layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fill with foreground or background color",
+        "displayNames": {
+          "en-us": "Fill with foreground or background color"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fill from history",
+        "displayNames": {
+          "en-us": "Fill from history"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Displays Fill dialog box",
+        "displayNames": {
+          "en-us": "Displays Fill dialog box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Lock transparent pixels on/off",
+        "displayNames": {
+          "en-us": "Lock transparent pixels on/off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Divide"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Blending modes",
+    "shortcuts": [
+      {
+        "internalName": "Cycle through blending modes",
+        "displayNames": {
+          "en-us": "Cycle through blending modes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Normal",
+        "displayNames": {
+          "en-us": "Normal"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Dissolve",
+        "displayNames": {
+          "en-us": "Dissolve"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Behind (Brush tool only)",
+        "displayNames": {
+          "en-us": "Behind (Brush tool only)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear (Brush tool only)",
+        "displayNames": {
+          "en-us": "Clear (Brush tool only)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Darken",
+        "displayNames": {
+          "en-us": "Darken"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Multiply",
+        "displayNames": {
+          "en-us": "Multiply"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Color Burn",
+        "displayNames": {
+          "en-us": "Color Burn"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Linear Burn",
+        "displayNames": {
+          "en-us": "Linear Burn"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Lighten",
+        "displayNames": {
+          "en-us": "Lighten"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Screen",
+        "displayNames": {
+          "en-us": "Screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Color Dodge",
+        "displayNames": {
+          "en-us": "Color Dodge"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Linear Dodge",
+        "displayNames": {
+          "en-us": "Linear Dodge"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Overlay",
+        "displayNames": {
+          "en-us": "Overlay"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Soft Light",
+        "displayNames": {
+          "en-us": "Soft Light"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hard Light",
+        "displayNames": {
+          "en-us": "Hard Light"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Vivid Light",
+        "displayNames": {
+          "en-us": "Vivid Light"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Linear Light",
+        "displayNames": {
+          "en-us": "Linear Light"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pin Light",
+        "displayNames": {
+          "en-us": "Pin Light"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hard Mix",
+        "displayNames": {
+          "en-us": "Hard Mix"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Difference",
+        "displayNames": {
+          "en-us": "Difference"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Exclusion",
+        "displayNames": {
+          "en-us": "Exclusion"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hue",
+        "displayNames": {
+          "en-us": "Hue"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Saturation",
+        "displayNames": {
+          "en-us": "Saturation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Color",
+        "displayNames": {
+          "en-us": "Color"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Luminosity",
+        "displayNames": {
+          "en-us": "Luminosity"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Desaturate",
+        "displayNames": {
+          "en-us": "Desaturate"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Saturate",
+        "displayNames": {
+          "en-us": "Saturate"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Dodge/burn shadows",
+        "displayNames": {
+          "en-us": "Dodge/burn shadows"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Dodge/burn midtones",
+        "displayNames": {
+          "en-us": "Dodge/burn midtones"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Dodge/burn highlights",
+        "displayNames": {
+          "en-us": "Dodge/burn highlights"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set blending mode to Threshold for bitmap images, Normal for all other images",
+        "displayNames": {
+          "en-us": "Set blending mode to Threshold for bitmap images, Normal for all other images"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "N"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Select and edit text",
+    "shortcuts": [
+      {
+        "internalName": "Select 1 character left/right or 1 line down/up",
+        "displayNames": {
+          "en-us": "Select 1 character left/right or 1 line down/up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select 1 word left/right",
+        "displayNames": {
+          "en-us": "Select 1 word left/right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move 1 character left/right, 1 line down/up",
+        "displayNames": {
+          "en-us": "Move 1 character left/right, 1 line down/up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move 1 word left/right",
+        "displayNames": {
+          "en-us": "Move 1 word left/right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide selection on selected type",
+        "displayNames": {
+          "en-us": "Show/Hide selection on selected type"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display the bounding box for transforming text when editing text",
+        "displayNames": {
+          "en-us": "Display the bounding box for transforming text when editing text"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Format type",
+    "shortcuts": [
+      {
+        "internalName": "Choose 100% horizontal scale",
+        "displayNames": {
+          "en-us": "Choose 100% horizontal scale"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Choose 100% vertical scale",
+        "displayNames": {
+          "en-us": "Choose 100% vertical scale"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Choose Auto leading",
+        "displayNames": {
+          "en-us": "Choose Auto leading"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Choose 0 for tracking",
+        "displayNames": {
+          "en-us": "Choose 0 for tracking"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Justify paragraph, left aligns last line",
+        "displayNames": {
+          "en-us": "Justify paragraph, left aligns last line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Justify paragraph, justifies all",
+        "displayNames": {
+          "en-us": "Justify paragraph, justifies all"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle paragraph hyphenation on/off",
+        "displayNames": {
+          "en-us": "Toggle paragraph hyphenation on/off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle single/every-line composer on/off",
+        "displayNames": {
+          "en-us": "Toggle single/every-line composer on/off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase type size of selected text 2 points or pixels",
+        "displayNames": {
+          "en-us": "Increase type size of selected text 2 points or pixels"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease type size of selected text 2 points or pixels",
+        "displayNames": {
+          "en-us": "Decrease type size of selected text 2 points or pixels"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "190"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase leading 2 points or pixels",
+        "displayNames": {
+          "en-us": "Increase leading 2 points or pixels"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease leading 2 points or pixels",
+        "displayNames": {
+          "en-us": "Decrease leading 2 points or pixels"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase baseline shift 2 points or pixels",
+        "displayNames": {
+          "en-us": "Increase baseline shift 2 points or pixels"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease baseline shift 2 points or pixels",
+        "displayNames": {
+          "en-us": "Decrease baseline shift 2 points or pixels"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase kerning/tracking 20/1000 ems",
+        "displayNames": {
+          "en-us": "Increase kerning/tracking 20/1000 ems"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease kerning/tracking 20/1000 ems",
+        "displayNames": {
+          "en-us": "Decrease kerning/tracking 20/1000 ems"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Slice and optimize",
+    "shortcuts": [
+      {
+        "internalName": "Toggle between Slice tool and Slice Selection tool",
+        "displayNames": {
+          "en-us": "Toggle between Slice tool and Slice Selection tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Panels",
+    "shortcuts": [
+      {
+        "internalName": "Apply value and keep text box active",
+        "displayNames": {
+          "en-us": "Apply value and keep text box active"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide all panels",
+        "displayNames": {
+          "en-us": "Show/Hide all panels"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show/Hide all panels except the toolbox and options bar",
+        "displayNames": {
+          "en-us": "Show/Hide all panels except the toolbox and options bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Highlight options bar",
+        "displayNames": {
+          "en-us": "Highlight options bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease selected values by 10",
+        "displayNames": {
+          "en-us": "Decrease selected values by 10"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase selected values by 10",
+        "displayNames": {
+          "en-us": "Increase selected values by 10"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Adjustment layers",
+    "shortcuts": [
+      {
+        "internalName": "Choose specific channel for adjustment",
+        "displayNames": {
+          "en-us": "Choose specific channel for adjustment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Choose composite channel for adjustment",
+        "displayNames": {
+          "en-us": "Choose composite channel for adjustment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete adjustment layer",
+        "displayNames": {
+          "en-us": "Delete adjustment layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Brush panel",
+    "shortcuts": [
+      {
+        "internalName": "Select previous brush size",
+        "displayNames": {
+          "en-us": "Select previous brush size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select next brush size",
+        "displayNames": {
+          "en-us": "Select next brush size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select first brush",
+        "displayNames": {
+          "en-us": "Select first brush"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select last brush",
+        "displayNames": {
+          "en-us": "Select last brush"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle airbrush option",
+        "displayNames": {
+          "en-us": "Toggle airbrush option"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "P"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Channels panel",
+    "shortcuts": [
+      {
+        "internalName": "Select individual channels",
+        "displayNames": {
+          "en-us": "Select individual channels"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select composite channel",
+        "displayNames": {
+          "en-us": "Select composite channel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Load channel as selection",
+        "displayNames": {
+          "en-us": "Load channel as selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number3"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Clone Source panel",
+    "shortcuts": [
+      {
+        "internalName": "Show Clone Source (overlays image)",
+        "displayNames": {
+          "en-us": "Show Clone Source (overlays image)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift"
+          ]
+        ]
+      },
+      {
+        "internalName": "Nudge Clone Source",
+        "displayNames": {
+          "en-us": "Nudge Clone Source"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate Clone Source",
+        "displayNames": {
+          "en-us": "Rotate Clone Source"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scale (increase or reduce size) Clone Source",
+        "displayNames": {
+          "en-us": "Scale (increase or reduce size) Clone Source"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "219"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "History panel",
+    "shortcuts": [
+      {
+        "internalName": "Step forward through image states",
+        "displayNames": {
+          "en-us": "Step forward through image states"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Step backward through image states",
+        "displayNames": {
+          "en-us": "Step backward through image states"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Permanently clear history (no Undo)",
+        "displayNames": {
+          "en-us": "Permanently clear history (no Undo)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Layers panel",
+    "shortcuts": [
+      {
+        "internalName": "New layer",
+        "displayNames": {
+          "en-us": "New layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "New layer via copy",
+        "displayNames": {
+          "en-us": "New layer via copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "New layer via cut",
+        "displayNames": {
+          "en-us": "New layer via cut"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Group layers",
+        "displayNames": {
+          "en-us": "Group layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Ungroup layers",
+        "displayNames": {
+          "en-us": "Ungroup layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create/release clipping mask",
+        "displayNames": {
+          "en-us": "Create/release clipping mask"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select all layers",
+        "displayNames": {
+          "en-us": "Select all layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Merge visible layers",
+        "displayNames": {
+          "en-us": "Merge visible layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select top layer",
+        "displayNames": {
+          "en-us": "Select top layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select bottom layer",
+        "displayNames": {
+          "en-us": "Select bottom layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add to layer selection in Layers panel",
+        "displayNames": {
+          "en-us": "Add to layer selection in Layers panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select next layer down",
+        "displayNames": {
+          "en-us": "Select next layer down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select next layer up",
+        "displayNames": {
+          "en-us": "Select next layer up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move target layer down",
+        "displayNames": {
+          "en-us": "Move target layer down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move target layer up",
+        "displayNames": {
+          "en-us": "Move target layer up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Merge a copy of all visible layers into target layer",
+        "displayNames": {
+          "en-us": "Merge a copy of all visible layers into target layer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Merge layers",
+        "displayNames": {
+          "en-us": "Merge layers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move layer to bottom",
+        "displayNames": {
+          "en-us": "Move layer to bottom"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "219"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move layer to top",
+        "displayNames": {
+          "en-us": "Move layer to top"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "221"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle lock transparency for target layer, or last applied lock",
+        "displayNames": {
+          "en-us": "Toggle lock transparency for target layer, or last applied lock"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle rubylith mode for layer mask on/off",
+        "displayNames": {
+          "en-us": "Toggle rubylith mode for layer mask on/off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Extract and Pattern Maker (optional plug-ins)",
+    "shortcuts": [
+      {
+        "internalName": "Fit in window",
+        "displayNames": {
+          "en-us": "Fit in window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom in",
+        "displayNames": {
+          "en-us": "Zoom in"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom out",
+        "displayNames": {
+          "en-us": "Zoom out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle through controls on right from top",
+        "displayNames": {
+          "en-us": "Cycle through controls on right from top"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle through controls on right from bottom",
+        "displayNames": {
+          "en-us": "Cycle through controls on right from bottom"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Temporarily activate Hand tool",
+        "displayNames": {
+          "en-us": "Temporarily activate Hand tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Change Cancel to Reset",
+        "displayNames": {
+          "en-us": "Change Cancel to Reset"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      },
+      {
+        "internalName": "Edge Highlighter tool",
+        "displayNames": {
+          "en-us": "Edge Highlighter tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fill tool",
+        "displayNames": {
+          "en-us": "Fill tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Eyedropper tool",
+        "displayNames": {
+          "en-us": "Eyedropper tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cleanup tool",
+        "displayNames": {
+          "en-us": "Cleanup tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Edge Touchup tool",
+        "displayNames": {
+          "en-us": "Edge Touchup tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove current highlight",
+        "displayNames": {
+          "en-us": "Remove current highlight"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Highlight entire image",
+        "displayNames": {
+          "en-us": "Highlight entire image"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Show menu options in preview between Original and Extracted",
+        "displayNames": {
+          "en-us": "Toggle Show menu options in preview between Original and Extracted"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enable Cleanup and Edge Touchup tools before preview",
+        "displayNames": {
+          "en-us": "Enable Cleanup and Edge Touchup tools before preview"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle through Display menu in preview from top to bottom",
+        "displayNames": {
+          "en-us": "Cycle through Display menu in preview from top to bottom"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle through Display menu in preview from bottom to top",
+        "displayNames": {
+          "en-us": "Cycle through Display menu in preview from bottom to top"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease brush size by 1",
+        "displayNames": {
+          "en-us": "Decrease brush size by 1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase brush size by 1",
+        "displayNames": {
+          "en-us": "Increase brush size by 1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease brush size by 1",
+        "displayNames": {
+          "en-us": "Decrease brush size by 1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase brush size by 1",
+        "displayNames": {
+          "en-us": "Increase brush size by 1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete current selection",
+        "displayNames": {
+          "en-us": "Delete current selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo a selection move",
+        "displayNames": {
+          "en-us": "Undo a selection move"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Generate or generate again",
+        "displayNames": {
+          "en-us": "Generate or generate again"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Intersect with current selection",
+        "displayNames": {
+          "en-us": "Intersect with current selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle view: original/generated pattern",
+        "displayNames": {
+          "en-us": "Toggle view: original/generated pattern"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to first tile in Tile History",
+        "displayNames": {
+          "en-us": "Go to first tile in Tile History"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to last tile in Tile History",
+        "displayNames": {
+          "en-us": "Go to last tile in Tile History"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to previous tile in Tile History",
+        "displayNames": {
+          "en-us": "Go to previous tile in Tile History"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to next tile in Tile History",
+        "displayNames": {
+          "en-us": "Go to next tile in Tile History"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete current tile from Tile History",
+        "displayNames": {
+          "en-us": "Delete current tile from Tile History"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Nudge selection when viewing the original",
+        "displayNames": {
+          "en-us": "Nudge selection when viewing the original"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase selection nudging when viewing the original",
+        "displayNames": {
+          "en-us": "Increase selection nudging when viewing the original"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Right"
+          ]
+        ]
+      }
+    ]
+  }
+]

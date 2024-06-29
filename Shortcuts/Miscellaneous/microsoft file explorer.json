@@ -1,0 +1,299 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Select the address bar",
+        "displayNames": {
+          "en-us": "Select the address bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select the search box",
+        "displayNames": {
+          "en-us": "Select the search box"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open a new window",
+        "displayNames": {
+          "en-us": "Open a new window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close the active window",
+        "displayNames": {
+          "en-us": "Close the active window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display all folders above the selected folder",
+        "displayNames": {
+          "en-us": "Display all folders above the selected folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create a new folder",
+        "displayNames": {
+          "en-us": "Create a new folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display all subfolders under the selected folder",
+        "displayNames": {
+          "en-us": "Display all subfolders under the selected folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "NumberKeyLock",
+            "Number8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display the contents of the selected folder",
+        "displayNames": {
+          "en-us": "Display the contents of the selected folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "NumberKeyLock",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Collapse the selected folder",
+        "displayNames": {
+          "en-us": "Collapse the selected folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "NumberKeyLock",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display the preview panel",
+        "displayNames": {
+          "en-us": "Display the preview panel"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Properties dialog box for the selected item",
+        "displayNames": {
+          "en-us": "Open the Properties dialog box for the selected item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "View the next folder",
+        "displayNames": {
+          "en-us": "View the next folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "View the folder that the folder was in",
+        "displayNames": {
+          "en-us": "View the folder that the folder was in"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "View the previous folder",
+        "displayNames": {
+          "en-us": "View the previous folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display the bottom of the active window",
+        "displayNames": {
+          "en-us": "Display the bottom of the active window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display the top of the active window",
+        "displayNames": {
+          "en-us": "Display the top of the active window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Maximize or minimize the active window",
+        "displayNames": {
+          "en-us": "Maximize or minimize the active window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Left Navigation Pane",
+    "shortcuts": [
+      {
+        "internalName": "Focus left navigation pane",
+        "displayNames": {
+          "en-us": "Focus left navigation pane"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "D"
+          ],
+          [
+            "Tab"
+          ],
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "One item up / down",
+        "displayNames": {
+          "en-us": "One item up / down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "One page up / down",
+        "displayNames": {
+          "en-us": "One page up / down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to first item",
+        "displayNames": {
+          "en-us": "Go to first item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to last item",
+        "displayNames": {
+          "en-us": "Go to last item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      }
+    ]
+  }
+]

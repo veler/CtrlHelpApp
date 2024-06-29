@@ -1,0 +1,1814 @@
+[
+  {
+    "groupInternalName": "Showing and Hiding Views",
+    "shortcuts": [
+      {
+        "internalName": "Toggle Full Screen Mode",
+        "displayNames": {
+          "en-us": "Toggle Full Screen Mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Second Window",
+        "displayNames": {
+          "en-us": "Toggle Second Window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Session/Arrangement View",
+        "displayNames": {
+          "en-us": "Toggle Session/Arrangement View"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Device/Clip View",
+        "displayNames": {
+          "en-us": "Toggle Device/Clip View"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hide/Show Detail View",
+        "displayNames": {
+          "en-us": "Hide/Show Detail View"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Hot-Swap Mode",
+        "displayNames": {
+          "en-us": "Toggle Hot-Swap Mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Drum Rack/last-selected Pad",
+        "displayNames": {
+          "en-us": "Toggle Drum Rack/last-selected Pad"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hide/Show Info View",
+        "displayNames": {
+          "en-us": "Hide/Show Info View"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hide/Show Video Window",
+        "displayNames": {
+          "en-us": "Hide/Show Video Window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hide/Show Browser",
+        "displayNames": {
+          "en-us": "Hide/Show Browser"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hide/Show Overview",
+        "displayNames": {
+          "en-us": "Hide/Show Overview"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hide/Show In/Out",
+        "displayNames": {
+          "en-us": "Hide/Show In/Out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hide/Show Sends",
+        "displayNames": {
+          "en-us": "Hide/Show Sends"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hide/Show Mixer",
+        "displayNames": {
+          "en-us": "Hide/Show Mixer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Preferences",
+        "displayNames": {
+          "en-us": "Open the Preferences"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close Window/Dialog",
+        "displayNames": {
+          "en-us": "Close Window/Dialog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Adjusting Values",
+    "shortcuts": [
+      {
+        "internalName": "Decrement",
+        "displayNames": {
+          "en-us": "Decrement"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Finer Resolution for Dragging",
+        "displayNames": {
+          "en-us": "Finer Resolution for Dragging"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift"
+          ]
+        ]
+      },
+      {
+        "internalName": "Return to Default",
+        "displayNames": {
+          "en-us": "Return to Default"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Next Field (Bar.beat.16th)",
+        "displayNames": {
+          "en-us": "Go to Next Field (Bar.beat.16th)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Decimal",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Abort Value Entry",
+        "displayNames": {
+          "en-us": "Abort Value Entry"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Confirm Value Entry",
+        "displayNames": {
+          "en-us": "Confirm Value Entry"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Browsing",
+    "shortcuts": [
+      {
+        "internalName": "Scroll Down",
+        "displayNames": {
+          "en-us": "Scroll Down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close",
+        "displayNames": {
+          "en-us": "Close"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Load Selected Item from Browser",
+        "displayNames": {
+          "en-us": "Load Selected Item from Browser"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Preview Selected File",
+        "displayNames": {
+          "en-us": "Preview Selected File"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search in Browser",
+        "displayNames": {
+          "en-us": "Search in Browser"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reset color for selected browser item",
+        "displayNames": {
+          "en-us": "Reset color for selected browser item"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number0"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Transport",
+    "shortcuts": [
+      {
+        "internalName": "Play from Start Marker/Stop",
+        "displayNames": {
+          "en-us": "Play from Start Marker/Stop"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Continue Play from Stop Point",
+        "displayNames": {
+          "en-us": "Continue Play from Stop Point"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Play Arrangement View Selection",
+        "displayNames": {
+          "en-us": "Play Arrangement View Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move Insert Marker to Beginning",
+        "displayNames": {
+          "en-us": "Move Insert Marker to Beginning"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Record",
+        "displayNames": {
+          "en-us": "Record"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Back to Arrangement",
+        "displayNames": {
+          "en-us": "Back to Arrangement"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F10"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Editing",
+    "shortcuts": [
+      {
+        "internalName": "Cut",
+        "displayNames": {
+          "en-us": "Cut"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy",
+        "displayNames": {
+          "en-us": "Copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste",
+        "displayNames": {
+          "en-us": "Paste"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Duplicate",
+        "displayNames": {
+          "en-us": "Duplicate"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete",
+        "displayNames": {
+          "en-us": "Delete"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo",
+        "displayNames": {
+          "en-us": "Undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rename",
+        "displayNames": {
+          "en-us": "Rename"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select All",
+        "displayNames": {
+          "en-us": "Select All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clips and Slots Across all Tracks",
+        "displayNames": {
+          "en-us": "Clips and Slots Across all Tracks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift"
+          ]
+        ]
+      },
+      {
+        "internalName": "Time Across all Tracks",
+        "displayNames": {
+          "en-us": "Time Across all Tracks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift"
+          ]
+        ]
+      },
+      {
+        "internalName": "The Selected Part of the Envelope",
+        "displayNames": {
+          "en-us": "The Selected Part of the Envelope"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Loop Brace and Start/End Markers",
+    "shortcuts": [
+      {
+        "internalName": "Nudge Loop Left",
+        "displayNames": {
+          "en-us": "Nudge Loop Left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Halve",
+        "displayNames": {
+          "en-us": "Halve"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Shorten",
+        "displayNames": {
+          "en-us": "Shorten"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Lengthen Loop",
+        "displayNames": {
+          "en-us": "Lengthen Loop"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select Material in Loop",
+        "displayNames": {
+          "en-us": "Select Material in Loop"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Session View Commands",
+    "shortcuts": [
+      {
+        "internalName": "Launch Selected Clip/Slot",
+        "displayNames": {
+          "en-us": "Launch Selected Clip/Slot"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select all Clips/Slots",
+        "displayNames": {
+          "en-us": "Select all Clips/Slots"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add/Remove Stop Button",
+        "displayNames": {
+          "en-us": "Add/Remove Stop Button"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert MIDI clip",
+        "displayNames": {
+          "en-us": "Insert MIDI clip"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert Scene",
+        "displayNames": {
+          "en-us": "Insert Scene"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert Captured Scene",
+        "displayNames": {
+          "en-us": "Insert Captured Scene"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Drop Browser Clips as a Scene",
+        "displayNames": {
+          "en-us": "Drop Browser Clips as a Scene"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control"
+          ]
+        ]
+      },
+      {
+        "internalName": "Deactivate Selected Clip",
+        "displayNames": {
+          "en-us": "Deactivate Selected Clip"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number0"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Arrangement View Commands",
+    "shortcuts": [
+      {
+        "internalName": "Split Clip at Selection",
+        "displayNames": {
+          "en-us": "Split Clip at Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Consolidate Selection into Clip",
+        "displayNames": {
+          "en-us": "Consolidate Selection into Clip"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create Fade/Crossfade",
+        "displayNames": {
+          "en-us": "Create Fade/Crossfade"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Loop Selection",
+        "displayNames": {
+          "en-us": "Toggle Loop Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert Silence",
+        "displayNames": {
+          "en-us": "Insert Silence"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pan Left/Right of Selection",
+        "displayNames": {
+          "en-us": "Pan Left/Right of Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu"
+          ]
+        ]
+      },
+      {
+        "internalName": "Unfold Selected Tracks",
+        "displayNames": {
+          "en-us": "Unfold Selected Tracks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Unfold all Tracks",
+        "displayNames": {
+          "en-us": "Unfold all Tracks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll Display to Follow Playback",
+        "displayNames": {
+          "en-us": "Scroll Display to Follow Playback"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Optimize Arrangement Height",
+        "displayNames": {
+          "en-us": "Optimize Arrangement Height"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Optimize Arrangement Width",
+        "displayNames": {
+          "en-us": "Optimize Arrangement Width"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Deactivate Selection",
+        "displayNames": {
+          "en-us": "Deactivate Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Nudge Selection Left",
+        "displayNames": {
+          "en-us": "Nudge Selection Left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reverse Audio Clip Selection",
+        "displayNames": {
+          "en-us": "Reverse Audio Clip Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom to time selection",
+        "displayNames": {
+          "en-us": "Zoom to time selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom back from time selection",
+        "displayNames": {
+          "en-us": "Zoom back from time selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Play from insert marker in clip",
+        "displayNames": {
+          "en-us": "Play from insert marker in clip"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Space"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Commands for Tracks",
+    "shortcuts": [
+      {
+        "internalName": "Insert Audio Track",
+        "displayNames": {
+          "en-us": "Insert Audio Track"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert MIDI Track",
+        "displayNames": {
+          "en-us": "Insert MIDI Track"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert Return Track",
+        "displayNames": {
+          "en-us": "Insert Return Track"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rename Selected Track",
+        "displayNames": {
+          "en-us": "Rename Selected Track"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Group Selected Tracks",
+        "displayNames": {
+          "en-us": "Group Selected Tracks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Ungroup Tracks",
+        "displayNames": {
+          "en-us": "Ungroup Tracks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Grouped Tracks",
+        "displayNames": {
+          "en-us": "Show Grouped Tracks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hide Grouped Tracks",
+        "displayNames": {
+          "en-us": "Hide Grouped Tracks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Solo Selected Tracks",
+        "displayNames": {
+          "en-us": "Solo Selected Tracks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Device from Browser",
+        "displayNames": {
+          "en-us": "Add Device from Browser"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Deactivate Selected Track",
+        "displayNames": {
+          "en-us": "Deactivate Selected Track"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number0"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Commands for Breakpoint Envelopes",
+    "shortcuts": [
+      {
+        "internalName": "Toggle Automation Mode",
+        "displayNames": {
+          "en-us": "Toggle Automation Mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Finer Resolution for Dragging",
+        "displayNames": {
+          "en-us": "Finer Resolution for Dragging"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift"
+          ]
+        ]
+      },
+      {
+        "internalName": "Create Curved Automation Segment",
+        "displayNames": {
+          "en-us": "Create Curved Automation Segment"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      },
+      {
+        "internalName": "Momentarily Toggle Fade Controls",
+        "displayNames": {
+          "en-us": "Momentarily Toggle Fade Controls"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete Automation/Clear Envelope",
+        "displayNames": {
+          "en-us": "Delete Automation/Clear Envelope"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Key/MIDI Map Mode and the Computer MIDI Keyboard",
+    "shortcuts": [
+      {
+        "internalName": "Toggle MIDI Map Mode",
+        "displayNames": {
+          "en-us": "Toggle MIDI Map Mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Key Map Mode",
+        "displayNames": {
+          "en-us": "Toggle Key Map Mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Computer MIDI Keyboard",
+        "displayNames": {
+          "en-us": "Computer MIDI Keyboard"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Zooming, Display and Selections",
+    "shortcuts": [
+      {
+        "internalName": "Zoom In",
+        "displayNames": {
+          "en-us": "Zoom In"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom Out",
+        "displayNames": {
+          "en-us": "Zoom Out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Follow (Auto-Scroll)",
+        "displayNames": {
+          "en-us": "Follow (Auto-Scroll)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pan Left/Right of Selection",
+        "displayNames": {
+          "en-us": "Pan Left/Right of Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Clip View Sample Display",
+    "shortcuts": [
+      {
+        "internalName": "Quantize",
+        "displayNames": {
+          "en-us": "Quantize"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quantize Settings...",
+        "displayNames": {
+          "en-us": "Quantize Settings..."
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll Display to Follow Playback",
+        "displayNames": {
+          "en-us": "Scroll Display to Follow Playback"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom to Clip Selection",
+        "displayNames": {
+          "en-us": "Zoom to Clip Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom Back from Clip Selection",
+        "displayNames": {
+          "en-us": "Zoom Back from Clip Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Clip View MIDI Editor",
+    "shortcuts": [
+      {
+        "internalName": "Quantize",
+        "displayNames": {
+          "en-us": "Quantize"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quantize Settings...",
+        "displayNames": {
+          "en-us": "Quantize Settings..."
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move Insert Marker to Beginning",
+        "displayNames": {
+          "en-us": "Move Insert Marker to Beginning"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move Insert Marker to End",
+        "displayNames": {
+          "en-us": "Move Insert Marker to End"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll Display to Follow Playback",
+        "displayNames": {
+          "en-us": "Scroll Display to Follow Playback"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom to Clip Selection",
+        "displayNames": {
+          "en-us": "Zoom to Clip Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom Back from Clip Selection",
+        "displayNames": {
+          "en-us": "Zoom Back from Clip Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Grid Snapping and Drawing",
+    "shortcuts": [
+      {
+        "internalName": "Toggle Draw Mode",
+        "displayNames": {
+          "en-us": "Toggle Draw Mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Narrow Grid",
+        "displayNames": {
+          "en-us": "Narrow Grid"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Widen Grid",
+        "displayNames": {
+          "en-us": "Widen Grid"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Triplet Grid",
+        "displayNames": {
+          "en-us": "Triplet Grid"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Cancel"
+          ]
+        ]
+      },
+      {
+        "internalName": "Snap to Grid",
+        "displayNames": {
+          "en-us": "Snap to Grid"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Fixed/Zoom-Adaptive Grid",
+        "displayNames": {
+          "en-us": "Fixed/Zoom-Adaptive Grid"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Bypass Snapping While Dragging",
+        "displayNames": {
+          "en-us": "Bypass Snapping While Dragging"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Global Quantization",
+    "shortcuts": [
+      {
+        "internalName": "Sixteenth-Note Quantization",
+        "displayNames": {
+          "en-us": "Sixteenth-Note Quantization"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Eighth-Note Quantization",
+        "displayNames": {
+          "en-us": "Eighth-Note Quantization"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quarter-Note Quantization",
+        "displayNames": {
+          "en-us": "Quarter-Note Quantization"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "1-Bar Quantization",
+        "displayNames": {
+          "en-us": "1-Bar Quantization"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quantization Off",
+        "displayNames": {
+          "en-us": "Quantization Off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Working with Sets and the Program",
+    "shortcuts": [
+      {
+        "internalName": "New Live Set",
+        "displayNames": {
+          "en-us": "New Live Set"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Live Set",
+        "displayNames": {
+          "en-us": "Open Live Set"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save Live Set",
+        "displayNames": {
+          "en-us": "Save Live Set"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save Live Set As...",
+        "displayNames": {
+          "en-us": "Save Live Set As..."
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quit Live",
+        "displayNames": {
+          "en-us": "Quit Live"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Export Audio/Video",
+        "displayNames": {
+          "en-us": "Export Audio/Video"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Export MIDI file",
+        "displayNames": {
+          "en-us": "Export MIDI file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "E"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Working with Plug-Ins and Devices",
+    "shortcuts": [
+      {
+        "internalName": "Show/hide plugin windows",
+        "displayNames": {
+          "en-us": "Show/hide plugin windows"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open window (show/hide plugin)",
+        "displayNames": {
+          "en-us": "Open window (show/hide plugin)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control"
+          ]
+        ]
+      },
+      {
+        "internalName": "Group/Ungroup Devices",
+        "displayNames": {
+          "en-us": "Group/Ungroup Devices"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Click to append devices to a device",
+        "displayNames": {
+          "en-us": "Click to append devices to a device"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift"
+          ]
+        ]
+      },
+      {
+        "internalName": "Load selected device from browser",
+        "displayNames": {
+          "en-us": "Load selected device from browser"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      }
+    ]
+  }
+]

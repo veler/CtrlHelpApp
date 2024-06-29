@@ -1,0 +1,783 @@
+[
+  {
+    "groupInternalName": "Tabs and windows",
+    "shortcuts": [
+      {
+        "internalName": "Open a new window",
+        "displayNames": {
+          "en-us": "Open a new window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open a new window in Incognito mode",
+        "displayNames": {
+          "en-us": "Open a new window in Incognito mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open a new tab, and jump to it",
+        "displayNames": {
+          "en-us": "Open a new tab, and jump to it"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reopen previously closed tabs in the order they were closed",
+        "displayNames": {
+          "en-us": "Reopen previously closed tabs in the order they were closed"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to the next open tab",
+        "displayNames": {
+          "en-us": "Jump to the next open tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to the previous open tab",
+        "displayNames": {
+          "en-us": "Jump to the previous open tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to third tab",
+        "displayNames": {
+          "en-us": "Jump to third tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to the last tab",
+        "displayNames": {
+          "en-us": "Jump to the last tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the previous page from your browsing history in the current tab",
+        "displayNames": {
+          "en-us": "Open the previous page from your browsing history in the current tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the next page from your browsing history in the current tab",
+        "displayNames": {
+          "en-us": "Open the next page from your browsing history in the current tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Close the current tab",
+        "displayNames": {
+          "en-us": "Close the current tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Minimize the current window",
+        "displayNames": {
+          "en-us": "Minimize the current window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Space"
+          ],
+          [
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quit Google Chrome",
+        "displayNames": {
+          "en-us": "Quit Google Chrome"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F"
+          ],
+          [
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Tab search",
+        "displayNames": {
+          "en-us": "Tab search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Action",
+    "shortcuts": [
+      {
+        "internalName": "Open the Chrome menu",
+        "displayNames": {
+          "en-us": "Open the Chrome menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show or hide the Bookmarks bar",
+        "displayNames": {
+          "en-us": "Show or hide the Bookmarks bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Bookmarks Manager",
+        "displayNames": {
+          "en-us": "Open the Bookmarks Manager"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the History page in a new tab",
+        "displayNames": {
+          "en-us": "Open the History page in a new tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Downloads page in a new tab",
+        "displayNames": {
+          "en-us": "Open the Downloads page in a new tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Chrome Task Manager",
+        "displayNames": {
+          "en-us": "Open the Chrome Task Manager"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set focus on the first item in the Chrome toolbar",
+        "displayNames": {
+          "en-us": "Set focus on the first item in the Chrome toolbar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set focus on the rightmost item in the Chrome toolbar",
+        "displayNames": {
+          "en-us": "Set focus on the rightmost item in the Chrome toolbar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle focus to unfocused dialog (if showing) and all toolbars",
+        "displayNames": {
+          "en-us": "Cycle focus to unfocused dialog (if showing) and all toolbars"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Find Bar to search the current page",
+        "displayNames": {
+          "en-us": "Open the Find Bar to search the current page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to the next match to your Find Bar search",
+        "displayNames": {
+          "en-us": "Jump to the next match to your Find Bar search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Jump to the previous match to your Find Bar search",
+        "displayNames": {
+          "en-us": "Jump to the previous match to your Find Bar search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Developer Tools",
+        "displayNames": {
+          "en-us": "Open Developer Tools"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Clear Browsing Data options",
+        "displayNames": {
+          "en-us": "Open the Clear Browsing Data options"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Chrome Help Center in a new tab",
+        "displayNames": {
+          "en-us": "Open the Chrome Help Center in a new tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Log in as a different user, browse as a Guest, or access payment and password info",
+        "displayNames": {
+          "en-us": "Log in as a different user, browse as a Guest, or access payment and password info"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open a feedback form",
+        "displayNames": {
+          "en-us": "Open a feedback form"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "I"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Address bar",
+    "shortcuts": [
+      {
+        "internalName": "Jump to the address bar",
+        "displayNames": {
+          "en-us": "Jump to the address bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search the web from anywhere on the page",
+        "displayNames": {
+          "en-us": "Search the web from anywhere on the page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move cursor to the address bar",
+        "displayNames": {
+          "en-us": "Move cursor to the address bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F5"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Webpages",
+    "shortcuts": [
+      {
+        "internalName": "Open options to print the current page",
+        "displayNames": {
+          "en-us": "Open options to print the current page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open options to save the current page",
+        "displayNames": {
+          "en-us": "Open options to save the current page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reload the current page",
+        "displayNames": {
+          "en-us": "Reload the current page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reload the current page, ignoring cached content",
+        "displayNames": {
+          "en-us": "Reload the current page, ignoring cached content"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Stop the page loading",
+        "displayNames": {
+          "en-us": "Stop the page loading"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Browse clickable items moving forward",
+        "displayNames": {
+          "en-us": "Browse clickable items moving forward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Browse clickable items moving backward",
+        "displayNames": {
+          "en-us": "Browse clickable items moving backward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open a file from your computer in Chrome",
+        "displayNames": {
+          "en-us": "Open a file from your computer in Chrome"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Display non-editable HTML source code for the current page",
+        "displayNames": {
+          "en-us": "Display non-editable HTML source code for the current page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save your current webpage as a bookmark",
+        "displayNames": {
+          "en-us": "Save your current webpage as a bookmark"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save all open tabs as bookmarks in a new folder",
+        "displayNames": {
+          "en-us": "Save all open tabs as bookmarks in a new folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Turn full-screen mode on or off",
+        "displayNames": {
+          "en-us": "Turn full-screen mode on or off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Make everything on the page bigger",
+        "displayNames": {
+          "en-us": "Make everything on the page bigger"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Make everything on the page smaller",
+        "displayNames": {
+          "en-us": "Make everything on the page smaller"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Return everything on the page to default size",
+        "displayNames": {
+          "en-us": "Return everything on the page to default size"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll down a webpage, a screen at a time",
+        "displayNames": {
+          "en-us": "Scroll down a webpage, a screen at a time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scroll up a webpage, a screen at a time",
+        "displayNames": {
+          "en-us": "Scroll up a webpage, a screen at a time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the top of the page",
+        "displayNames": {
+          "en-us": "Go to the top of the page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to the bottom of the page",
+        "displayNames": {
+          "en-us": "Go to the bottom of the page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move your cursor to the beginning of the previous word in a text field",
+        "displayNames": {
+          "en-us": "Move your cursor to the beginning of the previous word in a text field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move your cursor to the next word",
+        "displayNames": {
+          "en-us": "Move your cursor to the next word"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete the previous word in a text field",
+        "displayNames": {
+          "en-us": "Delete the previous word in a text field"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open the Home page in the current tab",
+        "displayNames": {
+          "en-us": "Open the Home page in the current tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reset page zoom level",
+        "displayNames": {
+          "en-us": "Reset page zoom level"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      }
+    ]
+  }
+]

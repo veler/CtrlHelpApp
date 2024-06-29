@@ -1,0 +1,2217 @@
+[
+  {
+    "groupInternalName": "Audio",
+    "shortcuts": [
+      {
+        "internalName": "Adjust Fades to Range",
+        "displayNames": {
+          "en-us": "Adjust Fades to Range"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Crossfade",
+        "displayNames": {
+          "en-us": "Crossfade"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Automation",
+    "shortcuts": [
+      {
+        "internalName": "Toggle read automation",
+        "displayNames": {
+          "en-us": "Toggle read automation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle write automation",
+        "displayNames": {
+          "en-us": "Toggle write automation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "W"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Chords",
+    "shortcuts": [
+      {
+        "internalName": "Chord Pads",
+        "displayNames": {
+          "en-us": "Chord Pads"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Devices",
+    "shortcuts": [
+      {
+        "internalName": "MixConsole lower zone",
+        "displayNames": {
+          "en-us": "MixConsole lower zone"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mixer",
+        "displayNames": {
+          "en-us": "Mixer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Video",
+        "displayNames": {
+          "en-us": "Video"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Virtual Keyboard",
+        "displayNames": {
+          "en-us": "Virtual Keyboard"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "VST Connections",
+        "displayNames": {
+          "en-us": "VST Connections"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "VST Instruments",
+        "displayNames": {
+          "en-us": "VST Instruments"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "VST Performance",
+        "displayNames": {
+          "en-us": "VST Performance"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F12"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Edit",
+    "shortcuts": [
+      {
+        "internalName": "Toggle focused object",
+        "displayNames": {
+          "en-us": "Toggle focused object"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Auto-Scroll On/Off",
+        "displayNames": {
+          "en-us": "Auto-Scroll On/Off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy",
+        "displayNames": {
+          "en-us": "Copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut",
+        "displayNames": {
+          "en-us": "Cut"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut Time",
+        "displayNames": {
+          "en-us": "Cut Time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete",
+        "displayNames": {
+          "en-us": "Delete"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete Time",
+        "displayNames": {
+          "en-us": "Delete Time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Duplicate",
+        "displayNames": {
+          "en-us": "Duplicate"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand/Reduce",
+        "displayNames": {
+          "en-us": "Expand/Reduce"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert Silence",
+        "displayNames": {
+          "en-us": "Insert Silence"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Invert",
+        "displayNames": {
+          "en-us": "Invert"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Left side to cursor",
+        "displayNames": {
+          "en-us": "Left side to cursor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to Cursor",
+        "displayNames": {
+          "en-us": "Move to Cursor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to Front",
+        "displayNames": {
+          "en-us": "Move to Front"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mute",
+        "displayNames": {
+          "en-us": "Mute"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mute Events",
+        "displayNames": {
+          "en-us": "Mute Events"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mute/Unmute Objects",
+        "displayNames": {
+          "en-us": "Mute/Unmute Objects"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open",
+        "displayNames": {
+          "en-us": "Open"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste",
+        "displayNames": {
+          "en-us": "Paste"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste at Origin",
+        "displayNames": {
+          "en-us": "Paste at Origin"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste relative to crsr",
+        "displayNames": {
+          "en-us": "Paste relative to crsr"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste Time",
+        "displayNames": {
+          "en-us": "Paste Time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Primary param dec",
+        "displayNames": {
+          "en-us": "Primary param dec"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Primary param inc",
+        "displayNames": {
+          "en-us": "Primary param inc"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Record Enable",
+        "displayNames": {
+          "en-us": "Record Enable"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Repeat",
+        "displayNames": {
+          "en-us": "Repeat"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Right side to cursor",
+        "displayNames": {
+          "en-us": "Right side to cursor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Second param dec",
+        "displayNames": {
+          "en-us": "Second param dec"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Second param inc",
+        "displayNames": {
+          "en-us": "Second param inc"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select All",
+        "displayNames": {
+          "en-us": "Select All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select None",
+        "displayNames": {
+          "en-us": "Select None"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Snap On/Off",
+        "displayNames": {
+          "en-us": "Snap On/Off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Solo",
+        "displayNames": {
+          "en-us": "Solo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Split At Cursor",
+        "displayNames": {
+          "en-us": "Split At Cursor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Split Range",
+        "displayNames": {
+          "en-us": "Split Range"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Stationary Cursor",
+        "displayNames": {
+          "en-us": "Stationary Cursor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo",
+        "displayNames": {
+          "en-us": "Undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Unmute Events",
+        "displayNames": {
+          "en-us": "Unmute Events"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Write",
+        "displayNames": {
+          "en-us": "Write"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Editors",
+    "shortcuts": [
+      {
+        "internalName": "Open Score Editor",
+        "displayNames": {
+          "en-us": "Open Score Editor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open/Close Editor",
+        "displayNames": {
+          "en-us": "Open/Close Editor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "File",
+    "shortcuts": [
+      {
+        "internalName": "Close",
+        "displayNames": {
+          "en-us": "Close"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "New",
+        "displayNames": {
+          "en-us": "New"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open",
+        "displayNames": {
+          "en-us": "Open"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quit",
+        "displayNames": {
+          "en-us": "Quit"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save",
+        "displayNames": {
+          "en-us": "Save"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save As",
+        "displayNames": {
+          "en-us": "Save As"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save New Version",
+        "displayNames": {
+          "en-us": "Save New Version"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "S"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Media",
+    "shortcuts": [
+      {
+        "internalName": "Open MediaBay",
+        "displayNames": {
+          "en-us": "Open MediaBay"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Preview Start",
+        "displayNames": {
+          "en-us": "Preview Start"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Search MediaBay",
+        "displayNames": {
+          "en-us": "Search MediaBay"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F5"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "MIDI",
+    "shortcuts": [
+      {
+        "internalName": "Toggle controller lanes",
+        "displayNames": {
+          "en-us": "Toggle controller lanes"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "L"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Navigate",
+    "shortcuts": [
+      {
+        "internalName": "Expand selection down",
+        "displayNames": {
+          "en-us": "Expand selection down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Event down 1 octave",
+        "displayNames": {
+          "en-us": "Event down 1 octave"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand selection left",
+        "displayNames": {
+          "en-us": "Expand selection left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand selection right",
+        "displayNames": {
+          "en-us": "Expand selection right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Expand selection up",
+        "displayNames": {
+          "en-us": "Expand selection up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Event up 1 octave",
+        "displayNames": {
+          "en-us": "Event up 1 octave"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select bottom track list",
+        "displayNames": {
+          "en-us": "Select bottom track list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Event down 1 semitone",
+        "displayNames": {
+          "en-us": "Event down 1 semitone"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select next",
+        "displayNames": {
+          "en-us": "Select next"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Selection",
+        "displayNames": {
+          "en-us": "Toggle Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select top track in list",
+        "displayNames": {
+          "en-us": "Select top track in list"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select next",
+        "displayNames": {
+          "en-us": "Select next"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Event 1 semitone up",
+        "displayNames": {
+          "en-us": "Event 1 semitone up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Nudge",
+    "shortcuts": [
+      {
+        "internalName": "End Left",
+        "displayNames": {
+          "en-us": "End Left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "End Right",
+        "displayNames": {
+          "en-us": "End Right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Left",
+        "displayNames": {
+          "en-us": "Left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Right",
+        "displayNames": {
+          "en-us": "Right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start Left",
+        "displayNames": {
+          "en-us": "Start Left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start Right",
+        "displayNames": {
+          "en-us": "Start Right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Project",
+    "shortcuts": [
+      {
+        "internalName": "Open Markers",
+        "displayNames": {
+          "en-us": "Open Markers"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Pool",
+        "displayNames": {
+          "en-us": "Open Pool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Tempo Track",
+        "displayNames": {
+          "en-us": "Open Tempo Track"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Del selected tracks",
+        "displayNames": {
+          "en-us": "Del selected tracks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Setup",
+        "displayNames": {
+          "en-us": "Setup"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "S"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Quantize",
+    "shortcuts": [
+      {
+        "internalName": "Quantize",
+        "displayNames": {
+          "en-us": "Quantize"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Set Insert Length",
+    "shortcuts": [
+      {
+        "internalName": "1/1",
+        "displayNames": {
+          "en-us": "1/1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "1/2",
+        "displayNames": {
+          "en-us": "1/2"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "1/4",
+        "displayNames": {
+          "en-us": "1/4"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Cancel"
+          ]
+        ]
+      },
+      {
+        "internalName": "1/8",
+        "displayNames": {
+          "en-us": "1/8"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "1/16",
+        "displayNames": {
+          "en-us": "1/16"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "1/32",
+        "displayNames": {
+          "en-us": "1/32"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "1/64",
+        "displayNames": {
+          "en-us": "1/64"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "1/128",
+        "displayNames": {
+          "en-us": "1/128"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Dotted",
+        "displayNames": {
+          "en-us": "Toggle Dotted"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Triplet",
+        "displayNames": {
+          "en-us": "Toggle Triplet"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Subtract"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Tool",
+    "shortcuts": [
+      {
+        "internalName": "Draw tool",
+        "displayNames": {
+          "en-us": "Draw tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Drumstick tool",
+        "displayNames": {
+          "en-us": "Drumstick tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Erase tool",
+        "displayNames": {
+          "en-us": "Erase tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Glue tool",
+        "displayNames": {
+          "en-us": "Glue tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mute tool",
+        "displayNames": {
+          "en-us": "Mute tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next Tool",
+        "displayNames": {
+          "en-us": "Next Tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F10"
+          ]
+        ]
+      },
+      {
+        "internalName": "Play tool",
+        "displayNames": {
+          "en-us": "Play tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Tool",
+        "displayNames": {
+          "en-us": "Previous Tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Range tool",
+        "displayNames": {
+          "en-us": "Range tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select tool",
+        "displayNames": {
+          "en-us": "Select tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Split tool",
+        "displayNames": {
+          "en-us": "Split tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Cancel"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom tool",
+        "displayNames": {
+          "en-us": "Zoom tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number6"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Transport",
+    "shortcuts": [
+      {
+        "internalName": "Activate Punch In",
+        "displayNames": {
+          "en-us": "Activate Punch In"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Activate Punch Out",
+        "displayNames": {
+          "en-us": "Activate Punch Out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enter Left Locator",
+        "displayNames": {
+          "en-us": "Enter Left Locator"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enter project cursor",
+        "displayNames": {
+          "en-us": "Enter project cursor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enter Right Locator",
+        "displayNames": {
+          "en-us": "Enter Right Locator"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enter Tempo",
+        "displayNames": {
+          "en-us": "Enter Tempo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Enter Time Signature",
+        "displayNames": {
+          "en-us": "Enter Time Signature"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Exchange time formats",
+        "displayNames": {
+          "en-us": "Exchange time formats"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Insert Marker",
+        "displayNames": {
+          "en-us": "Insert Marker"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Insert"
+          ]
+        ]
+      },
+      {
+        "internalName": "Locate Next Event",
+        "displayNames": {
+          "en-us": "Locate Next Event"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Locate Next Hitpoint",
+        "displayNames": {
+          "en-us": "Locate Next Hitpoint"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Locate Next Marker",
+        "displayNames": {
+          "en-us": "Locate Next Marker"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Locate Prev Event",
+        "displayNames": {
+          "en-us": "Locate Prev Event"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Locate Prev Hitpoint",
+        "displayNames": {
+          "en-us": "Locate Prev Hitpoint"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Locate Prev Marker",
+        "displayNames": {
+          "en-us": "Locate Prev Marker"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Locate Selection Start",
+        "displayNames": {
+          "en-us": "Locate Selection Start"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Locators to Selection",
+        "displayNames": {
+          "en-us": "Locators to Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Loop Selection",
+        "displayNames": {
+          "en-us": "Loop Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Panel (Transport panel)",
+        "displayNames": {
+          "en-us": "Panel (Transport panel)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Play Selection Range",
+        "displayNames": {
+          "en-us": "Play Selection Range"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set lctors to sel range",
+        "displayNames": {
+          "en-us": "Set lctors to sel range"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set Marker 1",
+        "displayNames": {
+          "en-us": "Set Marker 1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set Marker 2",
+        "displayNames": {
+          "en-us": "Set Marker 2"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start",
+        "displayNames": {
+          "en-us": "Start"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Start/Stop",
+        "displayNames": {
+          "en-us": "Start/Stop"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "To Marker 1",
+        "displayNames": {
+          "en-us": "To Marker 1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "To Marker 2",
+        "displayNames": {
+          "en-us": "To Marker 2"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Use external sync",
+        "displayNames": {
+          "en-us": "Use external sync"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Use Metronome",
+        "displayNames": {
+          "en-us": "Use Metronome"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Use Tempo Track",
+        "displayNames": {
+          "en-us": "Use Tempo Track"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Window Zones",
+    "shortcuts": [
+      {
+        "internalName": "Toggle Right Zone",
+        "displayNames": {
+          "en-us": "Toggle Right Zone"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Lower Zone",
+        "displayNames": {
+          "en-us": "Toggle Lower Zone"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Transport Zone",
+        "displayNames": {
+          "en-us": "Toggle Transport Zone"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Previous Tab",
+        "displayNames": {
+          "en-us": "Show Previous Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Next Tab",
+        "displayNames": {
+          "en-us": "Show Next Tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Previous Page",
+        "displayNames": {
+          "en-us": "Show Previous Page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Previous Page",
+        "displayNames": {
+          "en-us": "Show Previous Page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Next Page",
+        "displayNames": {
+          "en-us": "Show Next Page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Next Page",
+        "displayNames": {
+          "en-us": "Show Next Page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Info Line",
+        "displayNames": {
+          "en-us": "Toggle Info Line"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Windows",
+    "shortcuts": [
+      {
+        "internalName": "Inline: Key Commands",
+        "displayNames": {
+          "en-us": "Inline: Key Commands"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Inline: Settings",
+        "displayNames": {
+          "en-us": "Inline: Settings"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Inline: View Layout",
+        "displayNames": {
+          "en-us": "Inline: View Layout"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F2"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Zoom",
+    "shortcuts": [
+      {
+        "internalName": "Zoom Full",
+        "displayNames": {
+          "en-us": "Zoom Full"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom In",
+        "displayNames": {
+          "en-us": "Zoom In"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom In Tracks",
+        "displayNames": {
+          "en-us": "Zoom In Tracks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom In Vertically",
+        "displayNames": {
+          "en-us": "Zoom In Vertically"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom Out",
+        "displayNames": {
+          "en-us": "Zoom Out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom Out Tracks",
+        "displayNames": {
+          "en-us": "Zoom Out Tracks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom Out Vertically",
+        "displayNames": {
+          "en-us": "Zoom Out Vertically"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom to Event",
+        "displayNames": {
+          "en-us": "Zoom to Event"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom to Selection",
+        "displayNames": {
+          "en-us": "Zoom to Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom Tracks Exclusive",
+        "displayNames": {
+          "en-us": "Zoom Tracks Exclusive"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Down"
+          ]
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1599 @@
+[
+  {
+    "groupInternalName": "File",
+    "shortcuts": [
+      {
+        "internalName": "New Catalog",
+        "displayNames": {
+          "en-us": "New Catalog"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "New Session",
+        "displayNames": {
+          "en-us": "New Session"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open",
+        "displayNames": {
+          "en-us": "Open"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Import Images",
+        "displayNames": {
+          "en-us": "Import Images"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Process",
+        "displayNames": {
+          "en-us": "Process"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrement Counter",
+        "displayNames": {
+          "en-us": "Decrement Counter"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print",
+        "displayNames": {
+          "en-us": "Print"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Edit",
+    "shortcuts": [
+      {
+        "internalName": "Undo",
+        "displayNames": {
+          "en-us": "Undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Advanced Search",
+        "displayNames": {
+          "en-us": "Advanced Search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Image",
+    "shortcuts": [
+      {
+        "internalName": "Edit All Selected",
+        "displayNames": {
+          "en-us": "Edit All Selected"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rename",
+        "displayNames": {
+          "en-us": "Rename"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ]
+      },
+      {
+        "internalName": "New Variant",
+        "displayNames": {
+          "en-us": "New Variant"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clone Variant",
+        "displayNames": {
+          "en-us": "Clone Variant"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F8"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add to Selects Album",
+        "displayNames": {
+          "en-us": "Add to Selects Album"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete (Variant)",
+        "displayNames": {
+          "en-us": "Delete (Variant)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Delete"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete from Disk",
+        "displayNames": {
+          "en-us": "Delete from Disk"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Delete"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Adjustments",
+    "shortcuts": [
+      {
+        "internalName": "Reset",
+        "displayNames": {
+          "en-us": "Reset"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy Adjustments",
+        "displayNames": {
+          "en-us": "Copy Adjustments"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply Adjustments",
+        "displayNames": {
+          "en-us": "Apply Adjustments"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy and Apply Adjustments",
+        "displayNames": {
+          "en-us": "Copy and Apply Adjustments"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "No Rating",
+        "displayNames": {
+          "en-us": "No Rating"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rate 1 star",
+        "displayNames": {
+          "en-us": "Rate 1 star"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rate 2 stars",
+        "displayNames": {
+          "en-us": "Rate 2 stars"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rate 3 stars",
+        "displayNames": {
+          "en-us": "Rate 3 stars"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Cancel"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rate 4 stars",
+        "displayNames": {
+          "en-us": "Rate 4 stars"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rate 5 stars",
+        "displayNames": {
+          "en-us": "Rate 5 stars"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Red",
+        "displayNames": {
+          "en-us": "Red"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Yellow",
+        "displayNames": {
+          "en-us": "Yellow"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Multiply"
+          ]
+        ]
+      },
+      {
+        "internalName": "Green",
+        "displayNames": {
+          "en-us": "Green"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Auto Adjust",
+        "displayNames": {
+          "en-us": "Auto Adjust"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate Left",
+        "displayNames": {
+          "en-us": "Rotate Left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate Right",
+        "displayNames": {
+          "en-us": "Rotate Right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate Snap",
+        "displayNames": {
+          "en-us": "Rotate Snap"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Decimal"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Select",
+    "shortcuts": [
+      {
+        "internalName": "Select All",
+        "displayNames": {
+          "en-us": "Select All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Deselect All",
+        "displayNames": {
+          "en-us": "Deselect All"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Invert Selection",
+        "displayNames": {
+          "en-us": "Invert Selection"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next",
+        "displayNames": {
+          "en-us": "Next"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous",
+        "displayNames": {
+          "en-us": "Previous"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Set",
+        "displayNames": {
+          "en-us": "Previous Set"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next Set",
+        "displayNames": {
+          "en-us": "Next Set"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Camera",
+    "shortcuts": [
+      {
+        "internalName": "Capture",
+        "displayNames": {
+          "en-us": "Capture"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "View",
+    "shortcuts": [
+      {
+        "internalName": "Exposure Warning",
+        "displayNames": {
+          "en-us": "Exposure Warning"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Overlay",
+        "displayNames": {
+          "en-us": "Overlay"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Annotations",
+        "displayNames": {
+          "en-us": "Annotations"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Before/After",
+        "displayNames": {
+          "en-us": "Before/After"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Switch Before/After mode",
+        "displayNames": {
+          "en-us": "Switch Before/After mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Grid",
+        "displayNames": {
+          "en-us": "Grid"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Viewer",
+        "displayNames": {
+          "en-us": "Viewer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Proof Margin",
+        "displayNames": {
+          "en-us": "Proof Margin"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Black",
+        "displayNames": {
+          "en-us": "Black"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Very Dark",
+        "displayNames": {
+          "en-us": "Very Dark"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Dark",
+        "displayNames": {
+          "en-us": "Dark"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Cancel"
+          ]
+        ]
+      },
+      {
+        "internalName": "Medium",
+        "displayNames": {
+          "en-us": "Medium"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Light",
+        "displayNames": {
+          "en-us": "Light"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "White",
+        "displayNames": {
+          "en-us": "White"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom-In",
+        "displayNames": {
+          "en-us": "Zoom-In"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom-Out",
+        "displayNames": {
+          "en-us": "Zoom-Out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Browser",
+        "displayNames": {
+          "en-us": "Browser"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Place Below",
+        "displayNames": {
+          "en-us": "Place Below"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Tools",
+        "displayNames": {
+          "en-us": "Tools"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Place Left/Right",
+        "displayNames": {
+          "en-us": "Place Left/Right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Full Screen",
+        "displayNames": {
+          "en-us": "Full Screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Window",
+    "shortcuts": [
+      {
+        "internalName": "Viewer",
+        "displayNames": {
+          "en-us": "Viewer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F10"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Help",
+    "shortcuts": [
+      {
+        "internalName": "Online User Guide",
+        "displayNames": {
+          "en-us": "Online User Guide"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Tips",
+        "displayNames": {
+          "en-us": "Tips"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F1"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Other",
+    "shortcuts": [
+      {
+        "internalName": "Select Up",
+        "displayNames": {
+          "en-us": "Select Up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select Down",
+        "displayNames": {
+          "en-us": "Select Down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle Compare Variant",
+        "displayNames": {
+          "en-us": "Toggle Compare Variant"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Enter"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next Tool",
+        "displayNames": {
+          "en-us": "Next Tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Tool",
+        "displayNames": {
+          "en-us": "Previous Tool"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Tool Tab 1",
+        "displayNames": {
+          "en-us": "Tool Tab 1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Tool Tab 2",
+        "displayNames": {
+          "en-us": "Tool Tab 2"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Tool Tab 3",
+        "displayNames": {
+          "en-us": "Tool Tab 3"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Cancel"
+          ]
+        ]
+      },
+      {
+        "internalName": "Tool Tab 4",
+        "displayNames": {
+          "en-us": "Tool Tab 4"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Tool Tab 5",
+        "displayNames": {
+          "en-us": "Tool Tab 5"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Tool Tab 6",
+        "displayNames": {
+          "en-us": "Tool Tab 6"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Tool Tab 7",
+        "displayNames": {
+          "en-us": "Tool Tab 7"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Tool Tab 8",
+        "displayNames": {
+          "en-us": "Tool Tab 8"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Tool Tab 9",
+        "displayNames": {
+          "en-us": "Tool Tab 9"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "White Balance - Kelvin +50",
+        "displayNames": {
+          "en-us": "White Balance - Kelvin +50"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "White Balance - Kelvin -50",
+        "displayNames": {
+          "en-us": "White Balance - Kelvin -50"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "White Balance - Tint +1",
+        "displayNames": {
+          "en-us": "White Balance - Tint +1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "White Balance - Tint -1",
+        "displayNames": {
+          "en-us": "White Balance - Tint -1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Exposure +0.1",
+        "displayNames": {
+          "en-us": "Exposure +0.1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Exposure -0.1",
+        "displayNames": {
+          "en-us": "Exposure -0.1"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Saturation +2",
+        "displayNames": {
+          "en-us": "Saturation +2"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Saturation -2",
+        "displayNames": {
+          "en-us": "Saturation -2"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Subtract"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Cursor Tools",
+    "shortcuts": [
+      {
+        "internalName": "Select",
+        "displayNames": {
+          "en-us": "Select"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to Selects Folder",
+        "displayNames": {
+          "en-us": "Move to Selects Folder"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Delete",
+        "displayNames": {
+          "en-us": "Delete"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pan",
+        "displayNames": {
+          "en-us": "Pan"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom In",
+        "displayNames": {
+          "en-us": "Zoom In"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom Out",
+        "displayNames": {
+          "en-us": "Zoom Out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Crop",
+        "displayNames": {
+          "en-us": "Crop"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Straighten",
+        "displayNames": {
+          "en-us": "Straighten"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate Freehand",
+        "displayNames": {
+          "en-us": "Rotate Freehand"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate Left",
+        "displayNames": {
+          "en-us": "Rotate Left"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate Right",
+        "displayNames": {
+          "en-us": "Rotate Right"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Remove Spot",
+        "displayNames": {
+          "en-us": "Remove Spot"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pick White Balance",
+        "displayNames": {
+          "en-us": "Pick White Balance"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pick Normalize Color",
+        "displayNames": {
+          "en-us": "Pick Normalize Color"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply Normalization",
+        "displayNames": {
+          "en-us": "Apply Normalization"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pick Curve Point",
+        "displayNames": {
+          "en-us": "Pick Curve Point"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pick Luma Curve Point",
+        "displayNames": {
+          "en-us": "Pick Luma Curve Point"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "U"
+          ]
+        ]
+      },
+      {
+        "internalName": "Direct Color Editor",
+        "displayNames": {
+          "en-us": "Direct Color Editor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Copy Adjustments",
+        "displayNames": {
+          "en-us": "Copy Adjustments"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Apply Adjustments",
+        "displayNames": {
+          "en-us": "Apply Adjustments"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move Overlay",
+        "displayNames": {
+          "en-us": "Move Overlay"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move Watermark",
+        "displayNames": {
+          "en-us": "Move Watermark"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Loupe",
+        "displayNames": {
+          "en-us": "Loupe"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Keystone",
+        "displayNames": {
+          "en-us": "Keystone"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Keystone Vertical",
+        "displayNames": {
+          "en-us": "Keystone Vertical"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Keystone Horizontal",
+        "displayNames": {
+          "en-us": "Keystone Horizontal"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Draw Mask",
+        "displayNames": {
+          "en-us": "Draw Mask"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Erase Mask",
+        "displayNames": {
+          "en-us": "Erase Mask"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Draw Linear Gradient Mask",
+        "displayNames": {
+          "en-us": "Draw Linear Gradient Mask"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Draw Radial Gradient Mask",
+        "displayNames": {
+          "en-us": "Draw Radial Gradient Mask"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Draw Healing Mask",
+        "displayNames": {
+          "en-us": "Draw Healing Mask"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Draw Cloning Mask",
+        "displayNames": {
+          "en-us": "Draw Cloning Mask"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Draw Annotations",
+        "displayNames": {
+          "en-us": "Draw Annotations"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "I"
+          ]
+        ]
+      }
+    ]
+  }
+]

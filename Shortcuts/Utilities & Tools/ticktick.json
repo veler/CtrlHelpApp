@@ -1,0 +1,223 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Quick Add",
+        "displayNames": {
+          "en-us": "Quick Add"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show / Hide App",
+        "displayNames": {
+          "en-us": "Show / Hide App"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Lock / Unlock App",
+        "displayNames": {
+          "en-us": "Lock / Unlock App"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Task Operation",
+    "shortcuts": [
+      {
+        "internalName": "Sync",
+        "displayNames": {
+          "en-us": "Sync"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to Search",
+        "displayNames": {
+          "en-us": "Go to Search"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "New Task",
+        "displayNames": {
+          "en-us": "New Task"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Complete Selected Task(s)",
+        "displayNames": {
+          "en-us": "Complete Selected Task(s)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set Due Date",
+        "displayNames": {
+          "en-us": "Set Due Date"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Clear Due Date",
+        "displayNames": {
+          "en-us": "Clear Due Date"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set Today",
+        "displayNames": {
+          "en-us": "Set Today"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set Tomorrow",
+        "displayNames": {
+          "en-us": "Set Tomorrow"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set Next Week",
+        "displayNames": {
+          "en-us": "Set Next Week"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set No Priority",
+        "displayNames": {
+          "en-us": "Set No Priority"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set Low Priority",
+        "displayNames": {
+          "en-us": "Set Low Priority"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set Medium Priority",
+        "displayNames": {
+          "en-us": "Set Medium Priority"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Set High Priority",
+        "displayNames": {
+          "en-us": "Set High Priority"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Number3"
+          ]
+        ]
+      }
+    ]
+  }
+]

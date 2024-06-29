@@ -1,0 +1,658 @@
+[
+  {
+    "groupInternalName": "Tools",
+    "shortcuts": [
+      {
+        "internalName": "Pan",
+        "displayNames": {
+          "en-us": "Pan"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move",
+        "displayNames": {
+          "en-us": "Move"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rotate",
+        "displayNames": {
+          "en-us": "Rotate"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scale",
+        "displayNames": {
+          "en-us": "Scale"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Rect",
+        "displayNames": {
+          "en-us": "Rect"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Unified",
+        "displayNames": {
+          "en-us": "Unified"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pivot Mode Toggle",
+        "displayNames": {
+          "en-us": "Pivot Mode Toggle"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pivot Rotation Toggle",
+        "displayNames": {
+          "en-us": "Pivot Rotation Toggle"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Vertex Snap (move/­rot­ate­/scale)",
+        "displayNames": {
+          "en-us": "Vertex Snap (move/­rot­ate­/scale)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Scene View",
+    "shortcuts": [
+      {
+        "internalName": "Zoom to Mouse Cursor",
+        "displayNames": {
+          "en-us": "Zoom to Mouse Cursor"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Scroll"
+          ]
+        ]
+      },
+      {
+        "internalName": "Frame Selected",
+        "displayNames": {
+          "en-us": "Frame Selected"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Follow Frame",
+        "displayNames": {
+          "en-us": "Follow Frame"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Lock View to Selected",
+        "displayNames": {
+          "en-us": "Lock View to Selected"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Duplicate",
+        "displayNames": {
+          "en-us": "Duplicate"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Refresh Scene",
+        "displayNames": {
+          "en-us": "Refresh Scene"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save Selection Set",
+        "displayNames": {
+          "en-us": "Save Selection Set"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number3"
+          ]
+        ]
+      },
+      {
+        "internalName": "Load Selection Set",
+        "displayNames": {
+          "en-us": "Load Selection Set"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number3"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "File Options",
+    "shortcuts": [
+      {
+        "internalName": "New Scene",
+        "displayNames": {
+          "en-us": "New Scene"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Scene",
+        "displayNames": {
+          "en-us": "Open Scene"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save Scene",
+        "displayNames": {
+          "en-us": "Save Scene"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save Scene As",
+        "displayNames": {
+          "en-us": "Save Scene As"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Build Settin­gs",
+        "displayNames": {
+          "en-us": "Build Settin­gs"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Build & Run",
+        "displayNames": {
+          "en-us": "Build & Run"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Play Mode Controls",
+    "shortcuts": [
+      {
+        "internalName": "Play Toggle",
+        "displayNames": {
+          "en-us": "Play Toggle"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pause",
+        "displayNames": {
+          "en-us": "Pause"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Step",
+        "displayNames": {
+          "en-us": "Step"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "P"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "GameObject",
+    "shortcuts": [
+      {
+        "internalName": "New Emtpy GO",
+        "displayNames": {
+          "en-us": "New Emtpy GO"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Add Component",
+        "displayNames": {
+          "en-us": "Add Component"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Move to View",
+        "displayNames": {
+          "en-us": "Move to View"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Align with View",
+        "displayNames": {
+          "en-us": "Align with View"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Lock View to Selected",
+        "displayNames": {
+          "en-us": "Lock View to Selected"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "F"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Animation Tool",
+    "shortcuts": [
+      {
+        "internalName": "Next Frame",
+        "displayNames": {
+          "en-us": "Next Frame"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next Keyframe",
+        "displayNames": {
+          "en-us": "Next Keyframe"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Decimal"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Frame",
+        "displayNames": {
+          "en-us": "Previous Frame"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Previous Keyframe",
+        "displayNames": {
+          "en-us": "Previous Keyframe"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "188"
+          ]
+        ]
+      },
+      {
+        "internalName": "Record Keyframe",
+        "displayNames": {
+          "en-us": "Record Keyframe"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Play Animation",
+        "displayNames": {
+          "en-us": "Play Animation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Windows",
+    "shortcuts": [
+      {
+        "internalName": "Next Window",
+        "displayNames": {
+          "en-us": "Next Window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Scene",
+        "displayNames": {
+          "en-us": "Scene"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Game",
+        "displayNames": {
+          "en-us": "Game"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Inspector",
+        "displayNames": {
+          "en-us": "Inspector"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Cancel"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hierarchy",
+        "displayNames": {
+          "en-us": "Hierarchy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number4"
+          ]
+        ]
+      },
+      {
+        "internalName": "Project",
+        "displayNames": {
+          "en-us": "Project"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number5"
+          ]
+        ]
+      },
+      {
+        "internalName": "Animation",
+        "displayNames": {
+          "en-us": "Animation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number6"
+          ]
+        ]
+      },
+      {
+        "internalName": "Profiler",
+        "displayNames": {
+          "en-us": "Profiler"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Audio Mixer",
+        "displayNames": {
+          "en-us": "Audio Mixer"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Asset Store",
+        "displayNames": {
+          "en-us": "Asset Store"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Console",
+        "displayNames": {
+          "en-us": "Console"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,730 @@
+[
+  {
+    "groupInternalName": "Tabs & Windows",
+    "shortcuts": [
+      {
+        "internalName": "Close current tab",
+        "displayNames": {
+          "en-us": "Close current tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle forward through open tabs",
+        "displayNames": {
+          "en-us": "Cycle forward through open tabs"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle back through open tabs",
+        "displayNames": {
+          "en-us": "Cycle back through open tabs"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle through open windows",
+        "displayNames": {
+          "en-us": "Cycle through open windows"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Minimize a window",
+        "displayNames": {
+          "en-us": "Minimize a window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "LeftWindows",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open new tab",
+        "displayNames": {
+          "en-us": "Open new tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open new window",
+        "displayNames": {
+          "en-us": "Open new window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open new private window",
+        "displayNames": {
+          "en-us": "Open new private window"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reopen last closed tab",
+        "displayNames": {
+          "en-us": "Reopen last closed tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Toggle tab menu",
+        "displayNames": {
+          "en-us": "Toggle tab menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "View previous active tab",
+        "displayNames": {
+          "en-us": "View previous active tab"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "192"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Command the browser",
+    "shortcuts": [
+      {
+        "internalName": "Open Downloads page",
+        "displayNames": {
+          "en-us": "Open Downloads page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Extensions page",
+        "displayNames": {
+          "en-us": "Open Extensions page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open History page",
+        "displayNames": {
+          "en-us": "Open History page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open local file",
+        "displayNames": {
+          "en-us": "Open local file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Focus address bar",
+        "displayNames": {
+          "en-us": "Focus address bar"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Preferences (Settings) page",
+        "displayNames": {
+          "en-us": "Open Preferences (Settings) page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Print current page",
+        "displayNames": {
+          "en-us": "Print current page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Quit Opera",
+        "displayNames": {
+          "en-us": "Quit Opera"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save a page locally",
+        "displayNames": {
+          "en-us": "Save a page locally"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open help",
+        "displayNames": {
+          "en-us": "Open help"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Find text on the page",
+    "shortcuts": [
+      {
+        "internalName": "Find on page",
+        "displayNames": {
+          "en-us": "Find on page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find next",
+        "displayNames": {
+          "en-us": "Find next"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find previous",
+        "displayNames": {
+          "en-us": "Find previous"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "G"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Navigate pages",
+    "shortcuts": [
+      {
+        "internalName": "Cycle forward through page elements",
+        "displayNames": {
+          "en-us": "Cycle forward through page elements"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle back through page elements",
+        "displayNames": {
+          "en-us": "Cycle back through page elements"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Tab"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go forward one page",
+        "displayNames": {
+          "en-us": "Go forward one page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go back one page",
+        "displayNames": {
+          "en-us": "Go back one page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to bottom of page",
+        "displayNames": {
+          "en-us": "Go to bottom of page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "End"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go to top of page",
+        "displayNames": {
+          "en-us": "Go to top of page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ]
+      },
+      {
+        "internalName": "Page down",
+        "displayNames": {
+          "en-us": "Page down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Page up",
+        "displayNames": {
+          "en-us": "Page up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reload the current page",
+        "displayNames": {
+          "en-us": "Reload the current page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "View current page source",
+        "displayNames": {
+          "en-us": "View current page source"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Manipulate text",
+    "shortcuts": [
+      {
+        "internalName": "Copy",
+        "displayNames": {
+          "en-us": "Copy"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cut",
+        "displayNames": {
+          "en-us": "Cut"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Paste",
+        "displayNames": {
+          "en-us": "Paste"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Select all",
+        "displayNames": {
+          "en-us": "Select all"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Undo",
+        "displayNames": {
+          "en-us": "Undo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Redo",
+        "displayNames": {
+          "en-us": "Redo"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Z"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Zoom in and out",
+    "shortcuts": [
+      {
+        "internalName": "Enter full-screen mode",
+        "displayNames": {
+          "en-us": "Enter full-screen mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom in",
+        "displayNames": {
+          "en-us": "Zoom in"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom out",
+        "displayNames": {
+          "en-us": "Zoom out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reset zoom to 100%",
+        "displayNames": {
+          "en-us": "Reset zoom to 100%"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Advanced",
+    "shortcuts": [
+      {
+        "internalName": "Cycle left through tabs",
+        "displayNames": {
+          "en-us": "Cycle left through tabs"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Cycle right through tabs",
+        "displayNames": {
+          "en-us": "Cycle right through tabs"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number2"
+          ]
+        ]
+      },
+      {
+        "internalName": "Find on page",
+        "displayNames": {
+          "en-us": "Find on page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Divide"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go back one page",
+        "displayNames": {
+          "en-us": "Go back one page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Go forward one page",
+        "displayNames": {
+          "en-us": "Go forward one page"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom in",
+        "displayNames": {
+          "en-us": "Zoom in"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number0"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom in more",
+        "displayNames": {
+          "en-us": "Zoom in more"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom out",
+        "displayNames": {
+          "en-us": "Zoom out"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number9"
+          ]
+        ]
+      },
+      {
+        "internalName": "Zoom out more",
+        "displayNames": {
+          "en-us": "Zoom out more"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number7"
+          ]
+        ]
+      },
+      {
+        "internalName": "Reset zoom to 100%",
+        "displayNames": {
+          "en-us": "Reset zoom to 100%"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Number6"
+          ]
+        ]
+      }
+    ]
+  }
+]

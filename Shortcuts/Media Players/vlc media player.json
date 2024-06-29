@@ -1,0 +1,761 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Fullscreen",
+        "displayNames": {
+          "en-us": "Fullscreen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Pause or play",
+        "displayNames": {
+          "en-us": "Pause or play"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ]
+      },
+      {
+        "internalName": "Subtitles cycle/off",
+        "displayNames": {
+          "en-us": "Subtitles cycle/off"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Audio track cycle",
+        "displayNames": {
+          "en-us": "Audio track cycle"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Volume Up",
+        "displayNames": {
+          "en-us": "Volume Up"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ]
+      },
+      {
+        "internalName": "Volume Down",
+        "displayNames": {
+          "en-us": "Volume Down"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Down"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open Single file(s)",
+        "displayNames": {
+          "en-us": "Open Single file(s)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Hide / unhide controls",
+        "displayNames": {
+          "en-us": "Hide / unhide controls"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Prefer&shy;ences/ interface settings",
+        "displayNames": {
+          "en-us": "Prefer&shy;ences/ interface settings"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Adjustments and audio/&shy;video effects",
+        "displayNames": {
+          "en-us": "Adjustments and audio/&shy;video effects"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Edit bookmarks",
+        "displayNames": {
+          "en-us": "Edit bookmarks"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open messages",
+        "displayNames": {
+          "en-us": "Open messages"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open network",
+        "displayNames": {
+          "en-us": "Open network"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open capture device",
+        "displayNames": {
+          "en-us": "Open capture device"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open playlist",
+        "displayNames": {
+          "en-us": "Open playlist"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Save playlist",
+        "displayNames": {
+          "en-us": "Save playlist"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ]
+      },
+      {
+        "internalName": "Media inform&shy;ation",
+        "displayNames": {
+          "en-us": "Media inform&shy;ation"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open audio menu",
+        "displayNames": {
+          "en-us": "Open audio menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open help menu",
+        "displayNames": {
+          "en-us": "Open help menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open media menu",
+        "displayNames": {
+          "en-us": "Open media menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open playlist menu",
+        "displayNames": {
+          "en-us": "Open playlist menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "P"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open tool menu",
+        "displayNames": {
+          "en-us": "Open tool menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open video menu",
+        "displayNames": {
+          "en-us": "Open video menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "V"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open playback menu",
+        "displayNames": {
+          "en-us": "Open playback menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "L"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show movie path",
+        "displayNames": {
+          "en-us": "Show movie path"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show Help",
+        "displayNames": {
+          "en-us": "Show Help"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Window full-s&shy;creen (not equal to pressing F)",
+        "displayNames": {
+          "en-us": "Window full-s&shy;creen (not equal to pressing F)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Navigation",
+    "shortcuts": [
+      {
+        "internalName": "Goto",
+        "displayNames": {
+          "en-us": "Goto"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Very short jump backward – 3 secs",
+        "displayNames": {
+          "en-us": "Very short jump backward – 3 secs"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Very short jump forward – 3 secs",
+        "displayNames": {
+          "en-us": "Very short jump forward – 3 secs"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Shift",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Short jump backward – 10 secs",
+        "displayNames": {
+          "en-us": "Short jump backward – 10 secs"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Short jump forward – 10 secs",
+        "displayNames": {
+          "en-us": "Short jump forward – 10 secs"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Medium jump backward – 1 min",
+        "displayNames": {
+          "en-us": "Medium jump backward – 1 min"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Medium jump forward - 1 min",
+        "displayNames": {
+          "en-us": "Medium jump forward - 1 min"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Long jump backward",
+        "displayNames": {
+          "en-us": "Long jump backward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Left"
+          ]
+        ]
+      },
+      {
+        "internalName": "Long jump forward",
+        "displayNames": {
+          "en-us": "Long jump forward"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Right"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next frame",
+        "displayNames": {
+          "en-us": "Next frame"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ]
+      },
+      {
+        "internalName": "Next in playlist",
+        "displayNames": {
+          "en-us": "Next in playlist"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "N"
+          ]
+        ]
+      },
+      {
+        "internalName": "Current from beginning/Previous in playlist",
+        "displayNames": {
+          "en-us": "Current from beginning/Previous in playlist"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "P"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Browsing & Playback",
+    "shortcuts": [
+      {
+        "internalName": "Open disc menu",
+        "displayNames": {
+          "en-us": "Open disc menu"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open folder (browse folder menu)",
+        "displayNames": {
+          "en-us": "Open folder (browse folder menu)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ]
+      },
+      {
+        "internalName": "Advanced open file",
+        "displayNames": {
+          "en-us": "Advanced open file"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ]
+      },
+      {
+        "internalName": "Open single file(s)",
+        "displayNames": {
+          "en-us": "Open single file(s)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "O"
+          ]
+        ]
+      },
+      {
+        "internalName": "Mute and unmute audio",
+        "displayNames": {
+          "en-us": "Mute and unmute audio"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ]
+      },
+      {
+        "internalName": "Stop movie",
+        "displayNames": {
+          "en-us": "Stop movie"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ]
+      },
+      {
+        "internalName": "Exit full screen mode",
+        "displayNames": {
+          "en-us": "Exit full screen mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Escape"
+          ]
+        ]
+      },
+      {
+        "internalName": "Faster",
+        "displayNames": {
+          "en-us": "Faster"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Slower",
+        "displayNames": {
+          "en-us": "Slower"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Subtract"
+          ]
+        ]
+      },
+      {
+        "internalName": "Normal",
+        "displayNames": {
+          "en-us": "Normal"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Add"
+          ]
+        ]
+      },
+      {
+        "internalName": "Aspect ratio",
+        "displayNames": {
+          "en-us": "Aspect ratio"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ]
+      },
+      {
+        "internalName": "Crop screen",
+        "displayNames": {
+          "en-us": "Crop screen"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase subtitle delay",
+        "displayNames": {
+          "en-us": "Increase subtitle delay"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease subtitle delay",
+        "displayNames": {
+          "en-us": "Decrease subtitle delay"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "H"
+          ]
+        ]
+      },
+      {
+        "internalName": "Increase audio delay",
+        "displayNames": {
+          "en-us": "Increase audio delay"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "J"
+          ]
+        ]
+      },
+      {
+        "internalName": "Decrease audio delay",
+        "displayNames": {
+          "en-us": "Decrease audio delay"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "K"
+          ]
+        ]
+      },
+      {
+        "internalName": "Change zoom mode",
+        "displayNames": {
+          "en-us": "Change zoom mode"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ]
+      },
+      {
+        "internalName": "Recent media (in Media - Recent media menu)",
+        "displayNames": {
+          "en-us": "Recent media (in Media - Recent media menu)"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ]
+      },
+      {
+        "internalName": "Show time",
+        "displayNames": {
+          "en-us": "Show time"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ]
+      },
+      {
+        "internalName": "Random",
+        "displayNames": {
+          "en-us": "Random"
+        },
+        "searchKeywords": [],
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ]
+      }
+    ]
+  }
+]
