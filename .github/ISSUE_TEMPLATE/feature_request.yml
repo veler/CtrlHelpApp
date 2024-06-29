@@ -1,0 +1,30 @@
+name: Feature Request
+description: Suggest an idea for a new feature or app's keyboard shortcut to support in CtrlHelp
+labels: feature, untriaged
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If you find this request relevant to you too, leave a thumbs up 👍
+
+  - type: textarea
+    attributes:
+      label: What feature or new app's keyboard shortcut do you think should be added to CtrlHelp?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Why do you think this is needed?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Solution/Idea
+      description: Describe your solution/idea. If possible, provide mock-up or example of how your idea could look like.
+
+  - type: textarea
+    attributes:
+      label: Comments
+      description: Additional information, comments or screenshots about the feature request.
