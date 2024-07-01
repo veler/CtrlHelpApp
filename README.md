@@ -132,7 +132,7 @@ Utilities & Tools
 
 ## Getting Started
 
-To get started with CtrlHelp, simply download the application from the [Microsoft Store website](https://apps.microsoft.com/detail/CtrlHelp/9mvpjxnskdrr?mode=full) and install it on your Windows 10 or Windows 11 device.
+To get started with CtrlHelp, simply download the application from the [Microsoft Store website](https://apps.microsoft.com/detail/CtrlHelp/9mvpjxnskdrr?mode=full) and install it on your Windows 10 or Windows 11 device. There is a free trial.
 
 ## How to Contribute
 
