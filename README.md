@@ -165,4 +165,3 @@ Thank you for using CtrlHelp!
 ![CtrlHelp empowers you to practice the keyboard shortcuts associated with specific commands. Your challenge: recall and type them correctly within 2 seconds to achieve mastery.](Assets/4.png)
 ![Press and hold the Control key for a second, and a list of shortcuts for your active app will pop up. Choose a command to instantly trigger the corresponding shortcut within the app. You can configure the hotkey and duration in the app settings.](Assets/2.png)
 ![CtrlHelp - Unleash Your Keyboard's Potential.](Assets/6.png)
-![CtrlHelp - Unleash Your Keyboard's Potential.](Assets/CtrlHelp.mp4)
