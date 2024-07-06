@@ -1447,5 +1447,8112 @@
         "searchKeywords": []
       }
     ]
+  },
+  {
+    "groupInternalName": "Observer / Replay",
+    "shortcuts": [
+      {
+        "internalName": "Toggle cinematic mode",
+        "displayNames": {
+          "en-us": "Toggle cinematic mode"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle free camera",
+        "displayNames": {
+          "en-us": "Toggle free camera"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle For of War",
+        "displayNames": {
+          "en-us": "Toggle For of War"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Slower",
+        "displayNames": {
+          "en-us": "Slower"
+        },
+        "keyCombination": [
+          [
+            "189"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Faster",
+        "displayNames": {
+          "en-us": "Faster"
+        },
+        "keyCombination": [
+          [
+            "187"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "View next player",
+        "displayNames": {
+          "en-us": "View next player"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "221"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "View previous player",
+        "displayNames": {
+          "en-us": "View previous player"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "219"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Caster Mode: Toggle Focus Statistics",
+        "displayNames": {
+          "en-us": "Caster Mode: Toggle Focus Statistics"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Menu",
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Caster Mode: Flip Player UI Sides",
+        "displayNames": {
+          "en-us": "Caster Mode: Flip Player UI Sides"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Menu",
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Caster Mode: View player 1",
+        "displayNames": {
+          "en-us": "Caster Mode: View player 1"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Menu",
+            "Number1"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Caster Mode: View player 2",
+        "displayNames": {
+          "en-us": "Caster Mode: View player 2"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Menu",
+            "Number2"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "General commands",
+    "shortcuts": [
+      {
+        "internalName": "Advance to the Next Age",
+        "displayNames": {
+          "en-us": "Advance to the Next Age"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Age Up / Hero Upgrade I",
+        "displayNames": {
+          "en-us": "Age Up / Hero Upgrade I"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Age Up / Hero Upgrade II",
+        "displayNames": {
+          "en-us": "Age Up / Hero Upgrade II"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Construction Menu I",
+        "displayNames": {
+          "en-us": "Construction Menu I"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Construction Menu II",
+        "displayNames": {
+          "en-us": "Construction Menu II"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Construction Menu III",
+        "displayNames": {
+          "en-us": "Construction Menu III"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Construction Menu IV",
+        "displayNames": {
+          "en-us": "Construction Menu IV"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Attack Move",
+        "displayNames": {
+          "en-us": "Attack Move"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Patrol",
+        "displayNames": {
+          "en-us": "Patrol"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Garrison",
+        "displayNames": {
+          "en-us": "Garrison"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Ring the Town Bell",
+        "displayNames": {
+          "en-us": "Ring the Town Bell"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Return All To Work",
+        "displayNames": {
+          "en-us": "Return All To Work"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Return To Work",
+        "displayNames": {
+          "en-us": "Return To Work"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Ungarrison",
+        "displayNames": {
+          "en-us": "Ungarrison"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Rally Point",
+        "displayNames": {
+          "en-us": "Rally Point"
+        },
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Stand Ground",
+        "displayNames": {
+          "en-us": "Toggle Stand Ground"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Stop",
+        "displayNames": {
+          "en-us": "Stop"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cancel Construction",
+        "displayNames": {
+          "en-us": "Cancel Construction"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Delete Unit",
+        "displayNames": {
+          "en-us": "Delete Unit"
+        },
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Line Formation",
+        "displayNames": {
+          "en-us": "Line Formation"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Spread Formation",
+        "displayNames": {
+          "en-us": "Spread Formation"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Wedge Formation",
+        "displayNames": {
+          "en-us": "Wedge Formation"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Attack Ground",
+        "displayNames": {
+          "en-us": "Attack Ground"
+        },
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Heal",
+        "displayNames": {
+          "en-us": "Heal"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Automatic Healing",
+        "displayNames": {
+          "en-us": "Toggle Automatic Healing"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Heard Sheep to Building",
+        "displayNames": {
+          "en-us": "Heard Sheep to Building"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Heard Sheep to Building (Khan)",
+        "displayNames": {
+          "en-us": "Heard Sheep to Building (Khan)"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Conversion",
+        "displayNames": {
+          "en-us": "Conversion"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Repair",
+        "displayNames": {
+          "en-us": "Repair"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Seek Shelter",
+        "displayNames": {
+          "en-us": "Seek Shelter"
+        },
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Pack Up",
+        "displayNames": {
+          "en-us": "Pack Up"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Unpack",
+        "displayNames": {
+          "en-us": "Unpack"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Detonate",
+        "displayNames": {
+          "en-us": "Detonate"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Trade",
+        "displayNames": {
+          "en-us": "Trade"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Drop Carcass",
+        "displayNames": {
+          "en-us": "Drop Carcass"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Restart Trading",
+        "displayNames": {
+          "en-us": "Restart Trading"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Drop Relic",
+        "displayNames": {
+          "en-us": "Drop Relic"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Battering Ram / Cheirosiphon",
+        "displayNames": {
+          "en-us": "Produce Battering Ram / Cheirosiphon"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Tower of he Sultan",
+        "displayNames": {
+          "en-us": "Produce Tower of he Sultan"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Siege Tower",
+        "displayNames": {
+          "en-us": "Produce Siege Tower"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Mangonel / Manjaniq",
+        "displayNames": {
+          "en-us": "Produce Mangonel / Manjaniq"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Springald",
+        "displayNames": {
+          "en-us": "Produce Springald"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Unit abilities",
+    "shortcuts": [
+      {
+        "internalName": "Place Palings",
+        "displayNames": {
+          "en-us": "Place Palings"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Atabeg Supervision",
+        "displayNames": {
+          "en-us": "Atabeg Supervision"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Patch Job",
+        "displayNames": {
+          "en-us": "Patch Job"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Man The Sails",
+        "displayNames": {
+          "en-us": "Man The Sails"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Body of Iron",
+        "displayNames": {
+          "en-us": "Body of Iron"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Setup Camp",
+        "displayNames": {
+          "en-us": "Setup Camp"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Deploy Pavise",
+        "displayNames": {
+          "en-us": "Deploy Pavise"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Transport Ship",
+        "displayNames": {
+          "en-us": "Produce Transport Ship"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Forced March",
+        "displayNames": {
+          "en-us": "Forced March"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Maneuver Arrow",
+        "displayNames": {
+          "en-us": "Maneuver Arrow"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Desert Raider Blade",
+        "displayNames": {
+          "en-us": "Desert Raider Blade"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Swap Weapon (Incendiary)",
+        "displayNames": {
+          "en-us": "Swap Weapon (Incendiary)"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Collect Tax",
+        "displayNames": {
+          "en-us": "Collect Tax"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Artillery Shot",
+        "displayNames": {
+          "en-us": "Artillery Shot"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Activate Stealth",
+        "displayNames": {
+          "en-us": "Activate Stealth"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Fortitude",
+        "displayNames": {
+          "en-us": "Fortitude"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Gallop",
+        "displayNames": {
+          "en-us": "Gallop"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Spy",
+        "displayNames": {
+          "en-us": "Spy"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Monarch Sprint",
+        "displayNames": {
+          "en-us": "Monarch Sprint"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Monarch Treason",
+        "displayNames": {
+          "en-us": "Monarch Treason"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Trample",
+        "displayNames": {
+          "en-us": "Trample"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Attack Drums (On)",
+        "displayNames": {
+          "en-us": "Attack Drums (On)"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Grand Galley Military School",
+        "displayNames": {
+          "en-us": "Grand Galley Military School"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Attack Speed Arrow",
+        "displayNames": {
+          "en-us": "Attack Speed Arrow"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Sabotage",
+        "displayNames": {
+          "en-us": "Sabotage"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Proselytize",
+        "displayNames": {
+          "en-us": "Proselytize"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Arrow Volley",
+        "displayNames": {
+          "en-us": "Arrow Volley"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Melee Defense Drums (On)",
+        "displayNames": {
+          "en-us": "Melee Defense Drums (On)"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mass Heal",
+        "displayNames": {
+          "en-us": "Mass Heal"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Shield Wall",
+        "displayNames": {
+          "en-us": "Shield Wall"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Desert Raider Bow",
+        "displayNames": {
+          "en-us": "Desert Raider Bow"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Swap Weapon (Kinetic)",
+        "displayNames": {
+          "en-us": "Swap Weapon (Kinetic)"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Place Yorishiro",
+        "displayNames": {
+          "en-us": "Place Yorishiro"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Soheils Sutra",
+        "displayNames": {
+          "en-us": "Soheils Sutra"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Defense Arrow",
+        "displayNames": {
+          "en-us": "Defense Arrow"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Leave Shield Wall",
+        "displayNames": {
+          "en-us": "Leave Shield Wall"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Ranged Defense Drums (On)",
+        "displayNames": {
+          "en-us": "Ranged Defense Drums (On)"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Holy Inspiration",
+        "displayNames": {
+          "en-us": "Holy Inspiration"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Supervise",
+        "displayNames": {
+          "en-us": "Supervise"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Shunshin",
+        "displayNames": {
+          "en-us": "Shunshin"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Patch Job",
+        "displayNames": {
+          "en-us": "Patch Job"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Scouting Falcon",
+        "displayNames": {
+          "en-us": "Scouting Falcon"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Berserking",
+        "displayNames": {
+          "en-us": "Berserking"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Structural Reinforcements",
+        "displayNames": {
+          "en-us": "Structural Reinforcements"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Automatic Tax Collection",
+        "displayNames": {
+          "en-us": "Toggle Automatic Tax Collection"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Treasure Caravans",
+        "displayNames": {
+          "en-us": "Treasure Caravans"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Emergency Repairs",
+        "displayNames": {
+          "en-us": "Emergency Repairs"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Pilgrim Flask",
+        "displayNames": {
+          "en-us": "Pilgrim Flask"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Convert to Lodya Fishing Boat",
+        "displayNames": {
+          "en-us": "Convert to Lodya Fishing Boat"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Convert to Lodya Transport Ship",
+        "displayNames": {
+          "en-us": "Convert to Lodya Transport Ship"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Convert to Lodya Trade Ship",
+        "displayNames": {
+          "en-us": "Convert to Lodya Trade Ship"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Convert to Lodya Galley",
+        "displayNames": {
+          "en-us": "Convert to Lodya Galley"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Convert to Lodya Attack Ship",
+        "displayNames": {
+          "en-us": "Convert to Lodya Attack Ship"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Convert to Lodya Demolition Ship",
+        "displayNames": {
+          "en-us": "Convert to Lodya Demolition Ship"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Trade for Food (On / Off)",
+        "displayNames": {
+          "en-us": "Trade for Food (On / Off)"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Trade for Wood (On / Off)",
+        "displayNames": {
+          "en-us": "Trade for Wood (On / Off)"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Toggle Speed",
+        "displayNames": {
+          "en-us": "Campaign: Toggle Speed"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Relentless Barrage",
+        "displayNames": {
+          "en-us": "Campaign: Relentless Barrage"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Qutuz: Armor",
+        "displayNames": {
+          "en-us": "Campaign: Qutuz: Armor"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Saladin: Armor",
+        "displayNames": {
+          "en-us": "Campaign: Saladin: Armor"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Swiftness",
+        "displayNames": {
+          "en-us": "Campaign: Swiftness"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Signal Rapid Fire",
+        "displayNames": {
+          "en-us": "Campaign: Signal Rapid Fire"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Dash",
+        "displayNames": {
+          "en-us": "Campaign: Dash"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Appoint Spy",
+        "displayNames": {
+          "en-us": "Campaign: Appoint Spy"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Toggle Shields",
+        "displayNames": {
+          "en-us": "Campaign: Toggle Shields"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Scouting Falcon",
+        "displayNames": {
+          "en-us": "Campaign: Scouting Falcon"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Inspire Villager",
+        "displayNames": {
+          "en-us": "Campaign: Inspire Villager"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Attack Speed",
+        "displayNames": {
+          "en-us": "Campaign: Attack Speed"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Armor",
+        "displayNames": {
+          "en-us": "Campaign: Armor"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Healing",
+        "displayNames": {
+          "en-us": "Campaign: Healing"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Damage",
+        "displayNames": {
+          "en-us": "Campaign: Damage"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Movement",
+        "displayNames": {
+          "en-us": "Campaign: Movement"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Production",
+        "displayNames": {
+          "en-us": "Campaign: Production"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Sunder",
+        "displayNames": {
+          "en-us": "Campaign: Sunder"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Divine Arrow / Blast",
+        "displayNames": {
+          "en-us": "Divine Arrow / Blast"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Holy Wrath",
+        "displayNames": {
+          "en-us": "Holy Wrath"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Jeanne d'Arc",
+    "shortcuts": [
+      {
+        "internalName": "Divine Restoration",
+        "displayNames": {
+          "en-us": "Divine Restoration"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Consecrate",
+        "displayNames": {
+          "en-us": "Consecrate"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Riders, Ready!",
+        "displayNames": {
+          "en-us": "Riders, Ready!"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "To Arms, Men!",
+        "displayNames": {
+          "en-us": "To Arms, Men!"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Valorous Inspiration",
+        "displayNames": {
+          "en-us": "Valorous Inspiration"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Strength of Heaven",
+        "displayNames": {
+          "en-us": "Strength of Heaven"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Construction menu I",
+    "shortcuts": [
+      {
+        "internalName": "House / Farmhouse",
+        "displayNames": {
+          "en-us": "House / Farmhouse"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Ovoo",
+        "displayNames": {
+          "en-us": "Ovoo"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mill",
+        "displayNames": {
+          "en-us": "Mill"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Hunting Cabin",
+        "displayNames": {
+          "en-us": "Hunting Cabin"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Ger",
+        "displayNames": {
+          "en-us": "Ger"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Lumber Camp",
+        "displayNames": {
+          "en-us": "Lumber Camp"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mining Camp / Forge",
+        "displayNames": {
+          "en-us": "Mining Camp / Forge"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cistern",
+        "displayNames": {
+          "en-us": "Cistern"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Aqueduct",
+        "displayNames": {
+          "en-us": "Aqueduct"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Olive Grove",
+        "displayNames": {
+          "en-us": "Olive Grove"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Farm",
+        "displayNames": {
+          "en-us": "Farm"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Pasture",
+        "displayNames": {
+          "en-us": "Pasture"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Barracks",
+        "displayNames": {
+          "en-us": "Barracks"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Dock",
+        "displayNames": {
+          "en-us": "Dock"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "House of Wisdom",
+        "displayNames": {
+          "en-us": "House of Wisdom"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mosque (Delhi Sultanate)",
+        "displayNames": {
+          "en-us": "Mosque (Delhi Sultanate)"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Stable (Mongols)",
+        "displayNames": {
+          "en-us": "Stable (Mongols)"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Military School",
+        "displayNames": {
+          "en-us": "Military School"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Pit Mine",
+        "displayNames": {
+          "en-us": "Pit Mine"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Village",
+        "displayNames": {
+          "en-us": "Village"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Outpost",
+        "displayNames": {
+          "en-us": "Outpost"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Wooden Fortress",
+        "displayNames": {
+          "en-us": "Wooden Fortress"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Palisade Wall",
+        "displayNames": {
+          "en-us": "Palisade Wall"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Palisade Gate",
+        "displayNames": {
+          "en-us": "Palisade Gate"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Chinese: Barbican of the Sun",
+        "displayNames": {
+          "en-us": "Chinese: Barbican of the Sun"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Chinese: Imperial Academy",
+        "displayNames": {
+          "en-us": "Chinese: Imperial Academy"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Chinese: Astronomical Clocktower",
+        "displayNames": {
+          "en-us": "Chinese: Astronomical Clocktower"
+        },
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Chinese: Imperial Palace",
+        "displayNames": {
+          "en-us": "Chinese: Imperial Palace"
+        },
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Chinese: Great Wall Gatehouse",
+        "displayNames": {
+          "en-us": "Chinese: Great Wall Gatehouse"
+        },
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Chinese: Spirit Way",
+        "displayNames": {
+          "en-us": "Chinese: Spirit Way"
+        },
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Zhu Xi's Legacy: Jiangnan Tower",
+        "displayNames": {
+          "en-us": "Zhu Xi's Legacy: Jiangnan Tower"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Zhu Xi's Legacy: Meditation Gardens",
+        "displayNames": {
+          "en-us": "Zhu Xi's Legacy: Meditation Gardens"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Zhu Xi's Legacy: Mount Lu Academy",
+        "displayNames": {
+          "en-us": "Zhu Xi's Legacy: Mount Lu Academy"
+        },
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Zhu Xi's Legacy: Shaolin Monastery",
+        "displayNames": {
+          "en-us": "Zhu Xi's Legacy: Shaolin Monastery"
+        },
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Zhu Xi's Legacy: Temple of the Sun",
+        "displayNames": {
+          "en-us": "Zhu Xi's Legacy: Temple of the Sun"
+        },
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Zhu Xi's Legacy: Zhu Xi's Library",
+        "displayNames": {
+          "en-us": "Zhu Xi's Legacy: Zhu Xi's Library"
+        },
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Construction menu II",
+    "shortcuts": [
+      {
+        "internalName": "Blacksmith",
+        "displayNames": {
+          "en-us": "Blacksmith"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mercenary House",
+        "displayNames": {
+          "en-us": "Mercenary House"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Market",
+        "displayNames": {
+          "en-us": "Market"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Town Center",
+        "displayNames": {
+          "en-us": "Town Center"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Archery Range",
+        "displayNames": {
+          "en-us": "Archery Range"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Stable",
+        "displayNames": {
+          "en-us": "Stable"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Granary",
+        "displayNames": {
+          "en-us": "Granary"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Stone Wall",
+        "displayNames": {
+          "en-us": "Stone Wall"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Stone Wall Tower",
+        "displayNames": {
+          "en-us": "Stone Wall Tower"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Stone Wall Gate",
+        "displayNames": {
+          "en-us": "Stone Wall Gate"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cattle Ranch",
+        "displayNames": {
+          "en-us": "Cattle Ranch"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Construction menu III",
+    "shortcuts": [
+      {
+        "internalName": "Monastery/ Mosque/ Prayer Tent",
+        "displayNames": {
+          "en-us": "Monastery/ Mosque/ Prayer Tent"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Siege Workshop",
+        "displayNames": {
+          "en-us": "Siege Workshop"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Pagoda",
+        "displayNames": {
+          "en-us": "Pagoda"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Keep",
+        "displayNames": {
+          "en-us": "Keep"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Construction menu IV",
+    "shortcuts": [
+      {
+        "internalName": "University / Madrasa",
+        "displayNames": {
+          "en-us": "University / Madrasa"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Wonder",
+        "displayNames": {
+          "en-us": "Wonder"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Keep (Japanese)",
+        "displayNames": {
+          "en-us": "Keep (Japanese)"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "House",
+    "shortcuts": [
+      {
+        "internalName": "Upgrade Border Settlements",
+        "displayNames": {
+          "en-us": "Upgrade Border Settlements"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Dock",
+    "shortcuts": [
+      {
+        "internalName": "Produce Fishing Boat",
+        "displayNames": {
+          "en-us": "Produce Fishing Boat"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Trade Ship",
+        "displayNames": {
+          "en-us": "Produce Trade Ship"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Transport Ship",
+        "displayNames": {
+          "en-us": "Produce Transport Ship"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Archer Ship",
+        "displayNames": {
+          "en-us": "Produce Archer Ship"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Springald Ship",
+        "displayNames": {
+          "en-us": "Produce Springald Ship"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Demolition / Explosive Ship",
+        "displayNames": {
+          "en-us": "Produce Demolition / Explosive Ship"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Warship",
+        "displayNames": {
+          "en-us": "Produce Warship"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Grand Galley",
+        "displayNames": {
+          "en-us": "Produce Grand Galley"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Galleass",
+        "displayNames": {
+          "en-us": "Produce Galleass"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Extended Lines / Drift Nets",
+        "displayNames": {
+          "en-us": "Upgrade Extended Lines / Drift Nets"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Heavy Dromon",
+        "displayNames": {
+          "en-us": "Upgrade Heavy Dromon"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Copper Plating",
+        "displayNames": {
+          "en-us": "Upgrade Copper Plating"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Imperial Fleet",
+        "displayNames": {
+          "en-us": "Upgrade Imperial Fleet"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Canoe Tactics",
+        "displayNames": {
+          "en-us": "Upgrade Canoe Tactics"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Manuscript Trade",
+        "displayNames": {
+          "en-us": "Upgrade Manuscript Trade"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Adaptable Hulls",
+        "displayNames": {
+          "en-us": "Upgrade Adaptable Hulls"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Thunderclap Bombs",
+        "displayNames": {
+          "en-us": "Upgrade Thunderclap Bombs"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Admiralty",
+        "displayNames": {
+          "en-us": "Upgrade Admiralty"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Liquid Explosives",
+        "displayNames": {
+          "en-us": "Upgrade Liquid Explosives"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Fire Stations",
+        "displayNames": {
+          "en-us": "Upgrade Fire Stations"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Piracy",
+        "displayNames": {
+          "en-us": "Upgrade Piracy"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Teak Masts",
+        "displayNames": {
+          "en-us": "Upgrade Teak Masts"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Upgrade Any Port in a Storm",
+        "displayNames": {
+          "en-us": "Campaign: Upgrade Any Port in a Storm"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Naval Arrowslits",
+        "displayNames": {
+          "en-us": "Upgrade Naval Arrowslits"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Extra Hammocks",
+        "displayNames": {
+          "en-us": "Upgrade Extra Hammocks"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Springald Crews",
+        "displayNames": {
+          "en-us": "Upgrade Springald Crews"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Incendiaries",
+        "displayNames": {
+          "en-us": "Upgrade Incendiaries"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Armored Hull / Shipwrights",
+        "displayNames": {
+          "en-us": "Upgrade Armored Hull / Shipwrights"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Long Guns",
+        "displayNames": {
+          "en-us": "Upgrade Long Guns"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Heated Shot",
+        "displayNames": {
+          "en-us": "Upgrade Heated Shot"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Swivel Cannon",
+        "displayNames": {
+          "en-us": "Upgrade Swivel Cannon"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Explosives",
+        "displayNames": {
+          "en-us": "Upgrade Explosives"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Mounted Guns",
+        "displayNames": {
+          "en-us": "Upgrade Mounted Guns"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Chain Shot",
+        "displayNames": {
+          "en-us": "Upgrade Chain Shot"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Ger",
+    "shortcuts": [
+      {
+        "internalName": "Upgrade Food Gathering",
+        "displayNames": {
+          "en-us": "Upgrade Food Gathering"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Wood Gathering",
+        "displayNames": {
+          "en-us": "Upgrade Wood Gathering"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Gold & Stone Gathering",
+        "displayNames": {
+          "en-us": "Upgrade Gold & Stone Gathering"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Forestry",
+        "displayNames": {
+          "en-us": "Upgrade Forestry"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Wheelbarrow",
+        "displayNames": {
+          "en-us": "Upgrade Wheelbarrow"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Survival Techniques",
+        "displayNames": {
+          "en-us": "Upgrade Survival Techniques"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Professional Scouts",
+        "displayNames": {
+          "en-us": "Upgrade Professional Scouts"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Lumber camp",
+    "shortcuts": [
+      {
+        "internalName": "Upgrade Forestry",
+        "displayNames": {
+          "en-us": "Upgrade Forestry"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Wood Gathering",
+        "displayNames": {
+          "en-us": "Upgrade Wood Gathering"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Mill / Hunting cabin / Farmhouse",
+    "shortcuts": [
+      {
+        "internalName": "Upgrade Food Gathering",
+        "displayNames": {
+          "en-us": "Upgrade Food Gathering"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Wheelbarrow / Tawara",
+        "displayNames": {
+          "en-us": "Upgrade Wheelbarrow / Tawara"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Survival Techniques",
+        "displayNames": {
+          "en-us": "Upgrade Survival Techniques"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Professional Scouts",
+        "displayNames": {
+          "en-us": "Upgrade Professional Scouts"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Enclosures",
+        "displayNames": {
+          "en-us": "Upgrade Enclosures"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Scout",
+        "displayNames": {
+          "en-us": "Produce Scout"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Cattle",
+        "displayNames": {
+          "en-us": "Produce Cattle"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Mining camp",
+    "shortcuts": [
+      {
+        "internalName": "Upgrade Gold & Stone Gathering",
+        "displayNames": {
+          "en-us": "Upgrade Gold & Stone Gathering"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Market",
+    "shortcuts": [
+      {
+        "internalName": "Produce Trader",
+        "displayNames": {
+          "en-us": "Produce Trader"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Buy Food",
+        "displayNames": {
+          "en-us": "Buy Food"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Buy Wood",
+        "displayNames": {
+          "en-us": "Buy Wood"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Buy Stone",
+        "displayNames": {
+          "en-us": "Buy Stone"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Sell Food",
+        "displayNames": {
+          "en-us": "Sell Food"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Sell Wood",
+        "displayNames": {
+          "en-us": "Sell Wood"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Sell Stone",
+        "displayNames": {
+          "en-us": "Sell Stone"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Buy Olive Oil",
+        "displayNames": {
+          "en-us": "Buy Olive Oil"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Sell Olive Oil",
+        "displayNames": {
+          "en-us": "Sell Olive Oil"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Merchant Guilds",
+        "displayNames": {
+          "en-us": "Upgrade Merchant Guilds"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Stone Commerce",
+        "displayNames": {
+          "en-us": "Upgrade Stone Commerce"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Trade Resource Type",
+        "displayNames": {
+          "en-us": "Toggle Trade Resource Type"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Town center",
+    "shortcuts": [
+      {
+        "internalName": "Produce Villager",
+        "displayNames": {
+          "en-us": "Produce Villager"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Scout",
+        "displayNames": {
+          "en-us": "Produce Scout"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Prelate",
+        "displayNames": {
+          "en-us": "Produce Prelate"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Imperial Official",
+        "displayNames": {
+          "en-us": "Produce Imperial Official"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Fresh Foodstuffs",
+        "displayNames": {
+          "en-us": "Upgrade Fresh Foodstuffs"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Textiles",
+        "displayNames": {
+          "en-us": "Upgrade Textiles"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Banco Repairs",
+        "displayNames": {
+          "en-us": "Upgrade Banco Repairs"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Daimyo Manor",
+        "displayNames": {
+          "en-us": "Upgrade Daimyo Manor"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Return of the Saint",
+        "displayNames": {
+          "en-us": "Return of the Saint"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Barracks",
+    "shortcuts": [
+      {
+        "internalName": "Produce Spearman / Donso / Limitanei",
+        "displayNames": {
+          "en-us": "Produce Spearman / Donso / Limitanei"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Musofadi Warrior",
+        "displayNames": {
+          "en-us": "Produce Musofadi Warrior"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Man-at-Arms / Heavy Melee Infantry",
+        "displayNames": {
+          "en-us": "Produce Man-at-Arms / Heavy Melee Infantry"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Landsknecht",
+        "displayNames": {
+          "en-us": "Produce Landsknecht"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Onna-Bugeisha",
+        "displayNames": {
+          "en-us": "Produce Onna-Bugeisha"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Katana Bannerman",
+        "displayNames": {
+          "en-us": "Produce Katana Bannerman"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Spearman / Donso / Limitanei",
+        "displayNames": {
+          "en-us": "Upgrade Spearman / Donso / Limitanei"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Man-at-Arms / Heavy Melee Infantry",
+        "displayNames": {
+          "en-us": "Upgrade Man-at-Arms / Heavy Melee Infantry"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Musofadi Warrior",
+        "displayNames": {
+          "en-us": "Upgrade Musofadi Warrior"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Landsknecht",
+        "displayNames": {
+          "en-us": "Upgrade Landsknecht"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Onna-Bugeisha",
+        "displayNames": {
+          "en-us": "Upgrade Onna-Bugeisha"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Phalanx",
+        "displayNames": {
+          "en-us": "Upgrade Phalanx"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Heavy Torches",
+        "displayNames": {
+          "en-us": "Upgrade Heavy Torches"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Nagae Yari",
+        "displayNames": {
+          "en-us": "Upgrade Nagae Yari"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Armor Clad",
+        "displayNames": {
+          "en-us": "Upgrade Armor Clad"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Ferocious Speed",
+        "displayNames": {
+          "en-us": "Upgrade Ferocious Speed"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Odachi",
+        "displayNames": {
+          "en-us": "Upgrade Odachi"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Local Knowledge",
+        "displayNames": {
+          "en-us": "Upgrade Local Knowledge"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Battle Hardened",
+        "displayNames": {
+          "en-us": "Upgrade Battle Hardened"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Heavy Maces",
+        "displayNames": {
+          "en-us": "Upgrade Heavy Maces"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Two-Handed Weapons",
+        "displayNames": {
+          "en-us": "Upgrade Two-Handed Weapons"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Archery range",
+    "shortcuts": [
+      {
+        "internalName": "Produce Archer / Longbowman / Yumi Ashigaru",
+        "displayNames": {
+          "en-us": "Produce Archer / Longbowman / Yumi Ashigaru"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Crossbowman / Arbalétrier",
+        "displayNames": {
+          "en-us": "Produce Crossbowman / Arbalétrier"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Javelin Thrower",
+        "displayNames": {
+          "en-us": "Produce Javelin Thrower"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Yumi Bannerman",
+        "displayNames": {
+          "en-us": "Produce Yumi Bannerman"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Handcannoneer / Streltsy / Musofadi Gunner",
+        "displayNames": {
+          "en-us": "Produce Handcannoneer / Streltsy / Musofadi Gunner"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Camel Archer",
+        "displayNames": {
+          "en-us": "Produce Camel Archer"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Desert Raider",
+        "displayNames": {
+          "en-us": "Produce Desert Raider"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Horse Archer / Mangudai / Onna-Musha",
+        "displayNames": {
+          "en-us": "Produce Horse Archer / Mangudai / Onna-Musha"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Tower Elephant",
+        "displayNames": {
+          "en-us": "Produce Tower Elephant"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Zhuge Nu",
+        "displayNames": {
+          "en-us": "Produce Zhuge Nu"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Pyrotechnics",
+        "displayNames": {
+          "en-us": "Upgrade Pyrotechnics"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Grenadier",
+        "displayNames": {
+          "en-us": "Produce Grenadier"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Archer / Longbowman / Yumi Ashigaru",
+        "displayNames": {
+          "en-us": "Upgrade Archer / Longbowman / Yumi Ashigaru"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Javelin Thrower",
+        "displayNames": {
+          "en-us": "Upgrade Javelin Thrower"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Crossbowman / Arbalétrier",
+        "displayNames": {
+          "en-us": "Upgrade Crossbowman / Arbalétrier"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Janissary",
+        "displayNames": {
+          "en-us": "Upgrade Janissary"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Camel Archer",
+        "displayNames": {
+          "en-us": "Upgrade Camel Archer"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Desert Raider",
+        "displayNames": {
+          "en-us": "Upgrade Desert Raider"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Horse Archer / Mangudai / Onna-Musha",
+        "displayNames": {
+          "en-us": "Upgrade Horse Archer / Mangudai / Onna-Musha"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Zhuge Nu",
+        "displayNames": {
+          "en-us": "Upgrade Zhuge Nu"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Poisoned Arrows",
+        "displayNames": {
+          "en-us": "Upgrade Poisoned Arrows"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Composite Bows",
+        "displayNames": {
+          "en-us": "Upgrade Composite Bows"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Arrow Volley",
+        "displayNames": {
+          "en-us": "Upgrade Arrow Volley"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Gambesons",
+        "displayNames": {
+          "en-us": "Upgrade Gambesons"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Scale Armor",
+        "displayNames": {
+          "en-us": "Upgrade Scale Armor"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Crossbow Stirrups",
+        "displayNames": {
+          "en-us": "Upgrade Crossbow Stirrups"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Kabura-ya Whistling Arrow",
+        "displayNames": {
+          "en-us": "Upgrade Kabura-ya Whistling Arrow"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Janissary Guns",
+        "displayNames": {
+          "en-us": "Upgrade Janissary Guns"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Mounted Training",
+        "displayNames": {
+          "en-us": "Upgrade Mounted Training"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Siege Elephant",
+        "displayNames": {
+          "en-us": "Upgrade Siege Elephant"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Siha Bow Limbs",
+        "displayNames": {
+          "en-us": "Upgrade Siha Bow Limbs"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Produce Turkic Horse Archer",
+        "displayNames": {
+          "en-us": "Campaign: Produce Turkic Horse Archer"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Upgrade Turkic Horse Archer",
+        "displayNames": {
+          "en-us": "Campaign: Upgrade Turkic Horse Archer"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Stable",
+    "shortcuts": [
+      {
+        "internalName": "Produce Horseman",
+        "displayNames": {
+          "en-us": "Produce Horseman"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Knight / Lancer / Mounted Samurai",
+        "displayNames": {
+          "en-us": "Produce Knight / Lancer / Mounted Samurai"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Cataphract",
+        "displayNames": {
+          "en-us": "Produce Cataphract"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Camel Rider",
+        "displayNames": {
+          "en-us": "Produce Camel Rider"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Fire Lancer",
+        "displayNames": {
+          "en-us": "Produce Fire Lancer"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Yuan Raider",
+        "displayNames": {
+          "en-us": "Produce Yuan Raider"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Imperial Guard",
+        "displayNames": {
+          "en-us": "Produce Imperial Guard"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Imperial Guard",
+        "displayNames": {
+          "en-us": "Produce Imperial Guard"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce War Elephant",
+        "displayNames": {
+          "en-us": "Produce War Elephant"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Desert Raider",
+        "displayNames": {
+          "en-us": "Produce Desert Raider"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Scout",
+        "displayNames": {
+          "en-us": "Produce Scout"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Scout (Abbasid)",
+        "displayNames": {
+          "en-us": "Produce Scout (Abbasid)"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Scout (Chinese)",
+        "displayNames": {
+          "en-us": "Produce Scout (Chinese)"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Scout (Delhi Sultanate)",
+        "displayNames": {
+          "en-us": "Produce Scout (Delhi Sultanate)"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Uma Bannerman",
+        "displayNames": {
+          "en-us": "Produce Uma Bannerman"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Horseman",
+        "displayNames": {
+          "en-us": "Upgrade Horseman"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Knight / Lancer / Mounted Samurai",
+        "displayNames": {
+          "en-us": "Upgrade Knight / Lancer / Mounted Samurai"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Camel Rider",
+        "displayNames": {
+          "en-us": "Upgrade Camel Rider"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Spyglass",
+        "displayNames": {
+          "en-us": "Upgrade Spyglass"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Spyglass (Abbasid)",
+        "displayNames": {
+          "en-us": "Upgrade Spyglass (Abbasid)"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Spyglass (Chinese)",
+        "displayNames": {
+          "en-us": "Upgrade Spyglass (Chinese)"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Spyglass (Malian)",
+        "displayNames": {
+          "en-us": "Upgrade Spyglass (Malian)"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Spyglass (Delhi Sultanate)",
+        "displayNames": {
+          "en-us": "Upgrade Spyglass (Delhi Sultanate)"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Warrior Scout",
+        "displayNames": {
+          "en-us": "Upgrade Warrior Scout"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Fire Lancer",
+        "displayNames": {
+          "en-us": "Upgrade Fire Lancer"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Chivalry",
+        "displayNames": {
+          "en-us": "Upgrade Chivalry"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Imported Armor",
+        "displayNames": {
+          "en-us": "Upgrade Imported Armor"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade War Horses",
+        "displayNames": {
+          "en-us": "Upgrade War Horses"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Knight Sabers",
+        "displayNames": {
+          "en-us": "Upgrade Knight Sabers"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Farima Leadership",
+        "displayNames": {
+          "en-us": "Upgrade Farima Leadership"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Do-maru Armor",
+        "displayNames": {
+          "en-us": "Upgrade Do-maru Armor"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Cantled Saddles",
+        "displayNames": {
+          "en-us": "Upgrade Cantled Saddles"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Desert Raider",
+        "displayNames": {
+          "en-us": "Upgrade Desert Raider"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Steppe Lancers",
+        "displayNames": {
+          "en-us": "Upgrade Steppe Lancers"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Expilatores",
+        "displayNames": {
+          "en-us": "Upgrade Expilatores"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Camel Rider Shields",
+        "displayNames": {
+          "en-us": "Upgrade Camel Rider Shields"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Camel Rider Barding",
+        "displayNames": {
+          "en-us": "Upgrade Camel Rider Barding"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Numeri",
+        "displayNames": {
+          "en-us": "Upgrade Numeri"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Armored Beasts",
+        "displayNames": {
+          "en-us": "Upgrade Armored Beasts"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Trapezites",
+        "displayNames": {
+          "en-us": "Upgrade Trapezites"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Religious building",
+    "shortcuts": [
+      {
+        "internalName": "Produce Religious Unit",
+        "displayNames": {
+          "en-us": "Produce Religious Unit"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Zeal",
+        "displayNames": {
+          "en-us": "Upgrade Zeal"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Shinto Rituals",
+        "displayNames": {
+          "en-us": "Upgrade Shinto Rituals"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Herbal Medicine",
+        "displayNames": {
+          "en-us": "Upgrade Herbal Medicine"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Zen",
+        "displayNames": {
+          "en-us": "Upgrade Zen"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Nehan",
+        "displayNames": {
+          "en-us": "Upgrade Nehan"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Gion Festival",
+        "displayNames": {
+          "en-us": "Upgrade Gion Festival"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Piety",
+        "displayNames": {
+          "en-us": "Upgrade Piety"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Bunrei",
+        "displayNames": {
+          "en-us": "Upgrade Bunrei"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Tithe Barns",
+        "displayNames": {
+          "en-us": "Upgrade Tithe Barns"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Five Mountain Ministries",
+        "displayNames": {
+          "en-us": "Upgrade Five Mountain Ministries"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Devoutness",
+        "displayNames": {
+          "en-us": "Upgrade Devoutness"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Divine Light",
+        "displayNames": {
+          "en-us": "Upgrade Divine Light"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Efficient Production",
+        "displayNames": {
+          "en-us": "Upgrade Efficient Production"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Monastic Shrines",
+        "displayNames": {
+          "en-us": "Upgrade Monastic Shrines"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Inspired Warriors",
+        "displayNames": {
+          "en-us": "Upgrade Inspired Warriors"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Sanctity",
+        "displayNames": {
+          "en-us": "Upgrade Sanctity"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Fervor",
+        "displayNames": {
+          "en-us": "Upgrade Fervor"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade All-Seeing Eye",
+        "displayNames": {
+          "en-us": "Upgrade All-Seeing Eye"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Saint's Veneration",
+        "displayNames": {
+          "en-us": "Upgrade Saint's Veneration"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Swiftness",
+        "displayNames": {
+          "en-us": "Upgrade Swiftness"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Assign Scholar Directly (On)",
+        "displayNames": {
+          "en-us": "Assign Scholar Directly (On)"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Siege workshop",
+    "shortcuts": [
+      {
+        "internalName": "Produce Springald",
+        "displayNames": {
+          "en-us": "Produce Springald"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Mangonel / Manjaniq / Nest of Bees",
+        "displayNames": {
+          "en-us": "Produce Mangonel / Manjaniq / Nest of Bees"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Counterweight / Traction Trebuchet",
+        "displayNames": {
+          "en-us": "Produce Counterweight / Traction Trebuchet"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Battering Ram / Cheirosiphon",
+        "displayNames": {
+          "en-us": "Produce Battering Ram / Cheirosiphon"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Bombard / Cannon",
+        "displayNames": {
+          "en-us": "Produce Bombard / Cannon"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Culverin",
+        "displayNames": {
+          "en-us": "Produce Culverin"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Ribauldequin",
+        "displayNames": {
+          "en-us": "Produce Ribauldequin"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Siege Carpentry",
+        "displayNames": {
+          "en-us": "Upgrade Siege Carpentry"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Roller Shutter Triggers",
+        "displayNames": {
+          "en-us": "Upgrade Roller Shutter Triggers"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Roller Shutter Triggers (Mongols)",
+        "displayNames": {
+          "en-us": "Upgrade Roller Shutter Triggers (Mongols)"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Roller Shutter Triggers (Improved)",
+        "displayNames": {
+          "en-us": "Upgrade Roller Shutter Triggers (Improved)"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Adjustable Crossbars",
+        "displayNames": {
+          "en-us": "Upgrade Adjustable Crossbars"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Adjustable Crossbars (Mongols)",
+        "displayNames": {
+          "en-us": "Upgrade Adjustable Crossbars (Mongols)"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Adjustable Crossbars (Improved)",
+        "displayNames": {
+          "en-us": "Upgrade Adjustable Crossbars (Improved)"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Greased Axles",
+        "displayNames": {
+          "en-us": "Upgrade Greased Axles"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Greased Axles (Mongols)",
+        "displayNames": {
+          "en-us": "Upgrade Greased Axles (Mongols)"
+        },
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Greased Axles (Improved)",
+        "displayNames": {
+          "en-us": "Upgrade Greased Axles (Improved)"
+        },
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Geometry",
+        "displayNames": {
+          "en-us": "Upgrade Geometry"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Geometry (Mongols)",
+        "displayNames": {
+          "en-us": "Upgrade Geometry (Mongols)"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Geometry (Improved)",
+        "displayNames": {
+          "en-us": "Upgrade Geometry (Improved)"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Lightweight Beams",
+        "displayNames": {
+          "en-us": "Upgrade Lightweight Beams"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Lightweight Beams (Mongols)",
+        "displayNames": {
+          "en-us": "Upgrade Lightweight Beams (Mongols)"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Lightweight Beams (Improved)",
+        "displayNames": {
+          "en-us": "Upgrade Lightweight Beams (Improved)"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Reusable Barrels",
+        "displayNames": {
+          "en-us": "Upgrade Reusable Barrels"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Greek Fire Projectiles",
+        "displayNames": {
+          "en-us": "Upgrade Greek Fire Projectiles"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Shattering Projectiles",
+        "displayNames": {
+          "en-us": "Upgrade Shattering Projectiles"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Reload Drills",
+        "displayNames": {
+          "en-us": "Upgrade Reload Drills"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Blacksmith / Meinwerk Palace",
+    "shortcuts": [
+      {
+        "internalName": "Upgrade Melee Damage",
+        "displayNames": {
+          "en-us": "Upgrade Melee Damage"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Ranged Damage",
+        "displayNames": {
+          "en-us": "Upgrade Ranged Damage"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Companion Equipment",
+        "displayNames": {
+          "en-us": "Upgrade Companion Equipment"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Siege Engineering",
+        "displayNames": {
+          "en-us": "Upgrade Siege Engineering"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Melee Armor",
+        "displayNames": {
+          "en-us": "Upgrade Melee Armor"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Ranged Armor",
+        "displayNames": {
+          "en-us": "Upgrade Ranged Armor"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Military Academy",
+        "displayNames": {
+          "en-us": "Upgrade Military Academy"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mongols : Upgrade Siege Works",
+        "displayNames": {
+          "en-us": "Mongols : Upgrade Siege Works"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Boyar's Fortitude",
+        "displayNames": {
+          "en-us": "Upgrade Boyar's Fortitude"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Camel Handling",
+        "displayNames": {
+          "en-us": "Upgrade Camel Handling"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Golden Cuirass",
+        "displayNames": {
+          "en-us": "Upgrade Golden Cuirass"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Forced March",
+        "displayNames": {
+          "en-us": "Upgrade Forced March"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Precision Training",
+        "displayNames": {
+          "en-us": "Upgrade Precision Training"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Marching Drills",
+        "displayNames": {
+          "en-us": "Upgrade Marching Drills"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Ordinance Company",
+        "displayNames": {
+          "en-us": "Upgrade Ordinance Company"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Sultan Is Mamluks",
+        "displayNames": {
+          "en-us": "Upgrade Sultan Is Mamluks"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mongols : Upgrade Biology",
+        "displayNames": {
+          "en-us": "Mongols : Upgrade Biology"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Infantry Support",
+        "displayNames": {
+          "en-us": "Upgrade Infantry Support"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Riveted Chain Mail",
+        "displayNames": {
+          "en-us": "Upgrade Riveted Chain Mail"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mongols : Upgrade Elite Army Tactics",
+        "displayNames": {
+          "en-us": "Mongols : Upgrade Elite Army Tactics"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Zornhau",
+        "displayNames": {
+          "en-us": "Upgrade Zornhau"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Teardrop Shields",
+        "displayNames": {
+          "en-us": "Upgrade Teardrop Shields"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Steel Barding",
+        "displayNames": {
+          "en-us": "Upgrade Steel Barding"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Bodkin Bolts",
+        "displayNames": {
+          "en-us": "Upgrade Bodkin Bolts"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mongols : Upgrade Chemistry",
+        "displayNames": {
+          "en-us": "Mongols : Upgrade Chemistry"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mongols : Upgrade Incendiary Arrows",
+        "displayNames": {
+          "en-us": "Mongols : Upgrade Incendiary Arrows"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "University / Madrasa",
+    "shortcuts": [
+      {
+        "internalName": "Upgrade Elite Army Tactics / Oda Tactics",
+        "displayNames": {
+          "en-us": "Upgrade Elite Army Tactics / Oda Tactics"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Incendiary Arrows",
+        "displayNames": {
+          "en-us": "Upgrade Incendiary Arrows"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Biology",
+        "displayNames": {
+          "en-us": "Upgrade Biology"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Siege Works",
+        "displayNames": {
+          "en-us": "Upgrade Siege Works"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Chemistry",
+        "displayNames": {
+          "en-us": "Upgrade Chemistry"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Court Architects",
+        "displayNames": {
+          "en-us": "Upgrade Court Architects"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Ancient Techniques",
+        "displayNames": {
+          "en-us": "Upgrade Ancient Techniques"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Royal Bloodlines",
+        "displayNames": {
+          "en-us": "Upgrade Royal Bloodlines"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Keep",
+    "shortcuts": [
+      {
+        "internalName": "Upgrade Springald Emplacement",
+        "displayNames": {
+          "en-us": "Upgrade Springald Emplacement"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Mangonel Emplacement",
+        "displayNames": {
+          "en-us": "Upgrade Mangonel Emplacement"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Great Bombard Emplacement",
+        "displayNames": {
+          "en-us": "Upgrade Great Bombard Emplacement"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Cannon Emplacement",
+        "displayNames": {
+          "en-us": "Upgrade Cannon Emplacement"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Companion Equipment",
+        "displayNames": {
+          "en-us": "Upgrade Companion Equipment"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Boiling Oil",
+        "displayNames": {
+          "en-us": "Upgrade Boiling Oil"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Enlistment Incentives",
+        "displayNames": {
+          "en-us": "Upgrade Enlistment Incentives"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Extra Materials",
+        "displayNames": {
+          "en-us": "Upgrade Extra Materials"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Network of Citadels",
+        "displayNames": {
+          "en-us": "Upgrade Network of Citadels"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Slate and Stone Construction",
+        "displayNames": {
+          "en-us": "Upgrade Slate and Stone Construction"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Village Fortresses",
+        "displayNames": {
+          "en-us": "Upgrade Village Fortresses"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Reinforced Defenses",
+        "displayNames": {
+          "en-us": "Upgrade Reinforced Defenses"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Slow-Burning Defenses",
+        "displayNames": {
+          "en-us": "Upgrade Slow-Burning Defenses"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Villager",
+        "displayNames": {
+          "en-us": "Produce Villager"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Spearman",
+        "displayNames": {
+          "en-us": "Produce Spearman"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Man-at-Arms",
+        "displayNames": {
+          "en-us": "Produce Man-at-Arms"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Scout",
+        "displayNames": {
+          "en-us": "Produce Scout"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Longbowman",
+        "displayNames": {
+          "en-us": "Produce Longbowman"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Crossbowman",
+        "displayNames": {
+          "en-us": "Produce Crossbowman"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Horseman",
+        "displayNames": {
+          "en-us": "Produce Horseman"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Knight",
+        "displayNames": {
+          "en-us": "Produce Knight"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Springald",
+        "displayNames": {
+          "en-us": "Produce Springald"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Mangonel",
+        "displayNames": {
+          "en-us": "Produce Mangonel"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Counterweight Trebuchet",
+        "displayNames": {
+          "en-us": "Produce Counterweight Trebuchet"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Handcannoneer",
+        "displayNames": {
+          "en-us": "Produce Handcannoneer"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Bombard",
+        "displayNames": {
+          "en-us": "Produce Bombard"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Battering Ram",
+        "displayNames": {
+          "en-us": "Produce Battering Ram"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Ribauldequin",
+        "displayNames": {
+          "en-us": "Produce Ribauldequin"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Jeanne's Rider / Champion",
+        "displayNames": {
+          "en-us": "Produce Jeanne's Rider / Champion"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Output / Wooden fortress / Kremlin",
+    "shortcuts": [
+      {
+        "internalName": "Upgrade Arrowslits / Handcannon Slits",
+        "displayNames": {
+          "en-us": "Upgrade Arrowslits / Handcannon Slits"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Springald Emplacement",
+        "displayNames": {
+          "en-us": "Upgrade Springald Emplacement"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Mangonel Emplacement",
+        "displayNames": {
+          "en-us": "Upgrade Mangonel Emplacement"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Cannon Emplacement",
+        "displayNames": {
+          "en-us": "Upgrade Cannon Emplacement"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Castle Turret",
+        "displayNames": {
+          "en-us": "Upgrade Castle Turret"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Castle Watch",
+        "displayNames": {
+          "en-us": "Upgrade Castle Watch"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Fortify Outpost",
+        "displayNames": {
+          "en-us": "Upgrade Fortify Outpost"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Yam Network",
+        "displayNames": {
+          "en-us": "Upgrade Yam Network"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Levy Militia",
+        "displayNames": {
+          "en-us": "Levy Militia"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Levy All Militia",
+        "displayNames": {
+          "en-us": "Levy All Militia"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Cistern",
+    "shortcuts": [
+      {
+        "internalName": "Toggle Conscriptio",
+        "displayNames": {
+          "en-us": "Toggle Conscriptio"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Dialecticus",
+        "displayNames": {
+          "en-us": "Toggle Dialecticus"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Praesidium",
+        "displayNames": {
+          "en-us": "Toggle Praesidium"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Automatic Pilgrim Flask (On)",
+        "displayNames": {
+          "en-us": "Toggle Automatic Pilgrim Flask (On)"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Akritoi Defense",
+        "displayNames": {
+          "en-us": "Akritoi Defense"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "College of artillery",
+    "shortcuts": [
+      {
+        "internalName": "Produce Royal Cannon",
+        "displayNames": {
+          "en-us": "Produce Royal Cannon"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Royal Ribauldequin",
+        "displayNames": {
+          "en-us": "Produce Royal Ribauldequin"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Royal Culverin",
+        "displayNames": {
+          "en-us": "Produce Royal Culverin"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Siege Works",
+        "displayNames": {
+          "en-us": "Upgrade Siege Works"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Chemistry",
+        "displayNames": {
+          "en-us": "Upgrade Chemistry"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Greased Axles",
+        "displayNames": {
+          "en-us": "Upgrade Greased Axles"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Imperial hippodrome",
+    "shortcuts": [
+      {
+        "internalName": "Triumph",
+        "displayNames": {
+          "en-us": "Triumph"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Farimba garrison",
+    "shortcuts": [
+      {
+        "internalName": "Produce Donso",
+        "displayNames": {
+          "en-us": "Produce Donso"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Musofadi Warrior",
+        "displayNames": {
+          "en-us": "Produce Musofadi Warrior"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Archer",
+        "displayNames": {
+          "en-us": "Produce Archer"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Javelin Thrower",
+        "displayNames": {
+          "en-us": "Produce Javelin Thrower"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Musofadi Gunner",
+        "displayNames": {
+          "en-us": "Produce Musofadi Gunner"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Donso",
+        "displayNames": {
+          "en-us": "Upgrade Donso"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Musofadi Warrior",
+        "displayNames": {
+          "en-us": "Upgrade Musofadi Warrior"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Palace of the sultan",
+    "shortcuts": [
+      {
+        "internalName": "Sultan's Tower Elephant Production (On / Off)",
+        "displayNames": {
+          "en-us": "Sultan's Tower Elephant Production (On / Off)"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Foreign engineering company",
+    "shortcuts": [
+      {
+        "internalName": "Produce Nest of Bees",
+        "displayNames": {
+          "en-us": "Produce Nest of Bees"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Huihui Pao",
+        "displayNames": {
+          "en-us": "Produce Huihui Pao"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Royal Cannon",
+        "displayNames": {
+          "en-us": "Produce Royal Cannon"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Griot bara",
+    "shortcuts": [
+      {
+        "internalName": "Food Festival",
+        "displayNames": {
+          "en-us": "Food Festival"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Military Festival",
+        "displayNames": {
+          "en-us": "Military Festival"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Siege Festival",
+        "displayNames": {
+          "en-us": "Siege Festival"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Guild hall",
+    "shortcuts": [
+      {
+        "internalName": "Collect Resources",
+        "displayNames": {
+          "en-us": "Collect Resources"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Generate Food",
+        "displayNames": {
+          "en-us": "Generate Food"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Generate Wood",
+        "displayNames": {
+          "en-us": "Generate Wood"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Generate Gold",
+        "displayNames": {
+          "en-us": "Generate Gold"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Generate Stone",
+        "displayNames": {
+          "en-us": "Generate Stone"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Banded Arms",
+        "displayNames": {
+          "en-us": "Upgrade Banded Arms"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Wandering Town",
+        "displayNames": {
+          "en-us": "Upgrade Wandering Town"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Siege Crew Training",
+        "displayNames": {
+          "en-us": "Upgrade Siege Crew Training"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Fine Tuned Guns",
+        "displayNames": {
+          "en-us": "Upgrade Fine Tuned Guns"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Reinforced Foundations",
+        "displayNames": {
+          "en-us": "Upgrade Reinforced Foundations"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Tranquil Venue",
+        "displayNames": {
+          "en-us": "Upgrade Tranquil Venue"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Lookout Towers",
+        "displayNames": {
+          "en-us": "Upgrade Lookout Towers"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Honed Blades",
+        "displayNames": {
+          "en-us": "Upgrade Honed Blades"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Hearty Rations",
+        "displayNames": {
+          "en-us": "Upgrade Hearty Rations"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "House of wisdom",
+    "shortcuts": [
+      {
+        "internalName": "Upgrade Economic Wing",
+        "displayNames": {
+          "en-us": "Upgrade Economic Wing"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Military Wing",
+        "displayNames": {
+          "en-us": "Upgrade Military Wing"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Culture Wing",
+        "displayNames": {
+          "en-us": "Upgrade Culture Wing"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Trade Wing",
+        "displayNames": {
+          "en-us": "Upgrade Trade Wing"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Boot Camp",
+        "displayNames": {
+          "en-us": "Upgrade Boot Camp"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Fertile Crescent",
+        "displayNames": {
+          "en-us": "Upgrade Fertile Crescent"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Preservation of Knowledge",
+        "displayNames": {
+          "en-us": "Upgrade Preservation of Knowledge"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Grand Bazaar",
+        "displayNames": {
+          "en-us": "Upgrade Grand Bazaar"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Agriculture",
+        "displayNames": {
+          "en-us": "Upgrade Agriculture"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Medical Centers",
+        "displayNames": {
+          "en-us": "Upgrade Medical Centers"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Armored Caravans",
+        "displayNames": {
+          "en-us": "Upgrade Armored Caravans"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Improved Processing",
+        "displayNames": {
+          "en-us": "Upgrade Improved Processing"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Camel Support",
+        "displayNames": {
+          "en-us": "Upgrade Camel Support"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Proselytization",
+        "displayNames": {
+          "en-us": "Upgrade Proselytization"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Spice Roads",
+        "displayNames": {
+          "en-us": "Upgrade Spice Roads"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "House of wisdom (Ayyubid)",
+    "shortcuts": [
+      {
+        "internalName": "Upgrade Economic Wing: Industry",
+        "displayNames": {
+          "en-us": "Upgrade Economic Wing: Industry"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Economic Wing: Growth",
+        "displayNames": {
+          "en-us": "Upgrade Economic Wing: Growth"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Military Wing: Master Smiths",
+        "displayNames": {
+          "en-us": "Upgrade Military Wing: Master Smiths"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Military Wing: Reinforcement",
+        "displayNames": {
+          "en-us": "Upgrade Military Wing: Reinforcement"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Culture Wing: Logistics",
+        "displayNames": {
+          "en-us": "Upgrade Culture Wing: Logistics"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Culture Wing: Advancement",
+        "displayNames": {
+          "en-us": "Upgrade Culture Wing: Advancement"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Trade Wing: Bazaar",
+        "displayNames": {
+          "en-us": "Upgrade Trade Wing: Bazaar"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Trade Wing: Advisors",
+        "displayNames": {
+          "en-us": "Upgrade Trade Wing: Advisors"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Atabeg",
+        "displayNames": {
+          "en-us": "Produce Atabeg"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Trade Wing: Bazaar - Buy Food",
+        "displayNames": {
+          "en-us": "Trade Wing: Bazaar - Buy Food"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Trade Wing: Bazaar - Buy Wood",
+        "displayNames": {
+          "en-us": "Trade Wing: Bazaar - Buy Wood"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Trade Wing: Bazaar - Buy Stone",
+        "displayNames": {
+          "en-us": "Trade Wing: Bazaar - Buy Stone"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Trade Wing: Bazaar - Hire Bedouin Skirmisher",
+        "displayNames": {
+          "en-us": "Trade Wing: Bazaar - Hire Bedouin Skirmisher"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Trade Wing: Bazaar - Hire Bedouin Swordsman",
+        "displayNames": {
+          "en-us": "Trade Wing: Bazaar - Hire Bedouin Swordsman"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Trade Wing: Bazaar - Hire Trader",
+        "displayNames": {
+          "en-us": "Trade Wing: Bazaar - Hire Trader"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Upgrade Ancient Relics",
+        "displayNames": {
+          "en-us": "Campaign: Upgrade Ancient Relics"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Upgrade Berry Cultivation",
+        "displayNames": {
+          "en-us": "Campaign: Upgrade Berry Cultivation"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Upgrade Construction Drills",
+        "displayNames": {
+          "en-us": "Campaign: Upgrade Construction Drills"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Upgrade Food Reserves",
+        "displayNames": {
+          "en-us": "Campaign: Upgrade Food Reserves"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Abbey of kings",
+    "shortcuts": [
+      {
+        "internalName": "Crown a King",
+        "displayNames": {
+          "en-us": "Crown a King"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Imperial palace",
+    "shortcuts": [
+      {
+        "internalName": "Imperial Spies",
+        "displayNames": {
+          "en-us": "Imperial Spies"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Imperial academy",
+    "shortcuts": [
+      {
+        "internalName": "Produce Imperial Official",
+        "displayNames": {
+          "en-us": "Produce Imperial Official"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Imperial Examinations",
+        "displayNames": {
+          "en-us": "Upgrade Imperial Examinations"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Koka township",
+    "shortcuts": [
+      {
+        "internalName": "Produce Shinobi",
+        "displayNames": {
+          "en-us": "Produce Shinobi"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Kura storehouse",
+    "shortcuts": [
+      {
+        "internalName": "Upgrade Gold & Stone Gathering",
+        "displayNames": {
+          "en-us": "Upgrade Gold & Stone Gathering"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Wheelbarrow / Tawara",
+        "displayNames": {
+          "en-us": "Upgrade Wheelbarrow / Tawara"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Forestry",
+        "displayNames": {
+          "en-us": "Upgrade Forestry"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Wood Gathering",
+        "displayNames": {
+          "en-us": "Upgrade Wood Gathering"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Grand winery",
+    "shortcuts": [
+      {
+        "internalName": "Produce Religious Unit",
+        "displayNames": {
+          "en-us": "Produce Religious Unit"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Piety",
+        "displayNames": {
+          "en-us": "Upgrade Piety"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Herbal Medicine",
+        "displayNames": {
+          "en-us": "Upgrade Herbal Medicine"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Tithe Barns",
+        "displayNames": {
+          "en-us": "Upgrade Tithe Barns"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Food Gathering",
+        "displayNames": {
+          "en-us": "Upgrade Food Gathering"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Wheelbarrow",
+        "displayNames": {
+          "en-us": "Upgrade Wheelbarrow"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Survival Techniques",
+        "displayNames": {
+          "en-us": "Upgrade Survival Techniques"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Professional Scouts",
+        "displayNames": {
+          "en-us": "Upgrade Professional Scouts"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Mansa quarry",
+    "shortcuts": [
+      {
+        "internalName": "Generate Gold",
+        "displayNames": {
+          "en-us": "Generate Gold"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Generate Stone",
+        "displayNames": {
+          "en-us": "Generate Stone"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Mehmed imparial armory",
+    "shortcuts": [
+      {
+        "internalName": "Springald Production",
+        "displayNames": {
+          "en-us": "Springald Production"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mangonel Production",
+        "displayNames": {
+          "en-us": "Mangonel Production"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Trebuchet Production",
+        "displayNames": {
+          "en-us": "Trebuchet Production"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Battering Ram Production",
+        "displayNames": {
+          "en-us": "Battering Ram Production"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Ribauldequin Production",
+        "displayNames": {
+          "en-us": "Ribauldequin Production"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Great Bombard Production",
+        "displayNames": {
+          "en-us": "Great Bombard Production"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Mercenary house / Golden horn tower",
+    "shortcuts": [
+      {
+        "internalName": "Toggle Mercenary Production (On)",
+        "displayNames": {
+          "en-us": "Toggle Mercenary Production (On)"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Contract Mercenary 1",
+        "displayNames": {
+          "en-us": "Produce Contract Mercenary 1"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Contract Mercenary 2",
+        "displayNames": {
+          "en-us": "Produce Contract Mercenary 2"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Contract Mercenary 3",
+        "displayNames": {
+          "en-us": "Produce Contract Mercenary 3"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Trade Post Mercenary 1",
+        "displayNames": {
+          "en-us": "Produce Trade Post Mercenary 1"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Trade Post Mercenary 2",
+        "displayNames": {
+          "en-us": "Produce Trade Post Mercenary 2"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Eastern Mercenary Contract",
+        "displayNames": {
+          "en-us": "Upgrade Eastern Mercenary Contract"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Western Mercenary Contract",
+        "displayNames": {
+          "en-us": "Upgrade Western Mercenary Contract"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Silk Road Mercenary Contract",
+        "displayNames": {
+          "en-us": "Upgrade Silk Road Mercenary Contract"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Veteran Contract",
+        "displayNames": {
+          "en-us": "Upgrade Veteran Contract"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Military school",
+    "shortcuts": [
+      {
+        "internalName": "Spearman Training",
+        "displayNames": {
+          "en-us": "Spearman Training"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Archer Training",
+        "displayNames": {
+          "en-us": "Archer Training"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Sipahi Training",
+        "displayNames": {
+          "en-us": "Sipahi Training"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Man-at-Arms Training",
+        "displayNames": {
+          "en-us": "Man-at-Arms Training"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Crossbow Training",
+        "displayNames": {
+          "en-us": "Crossbow Training"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mehter Training",
+        "displayNames": {
+          "en-us": "Mehter Training"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Lancer Training",
+        "displayNames": {
+          "en-us": "Lancer Training"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Janissary Training",
+        "displayNames": {
+          "en-us": "Janissary Training"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Mount Lu academy",
+    "shortcuts": [
+      {
+        "internalName": "Upgrade Single Whip Reform",
+        "displayNames": {
+          "en-us": "Upgrade Single Whip Reform"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Regional Inspection",
+        "displayNames": {
+          "en-us": "Upgrade Regional Inspection"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Military Affairs Bureau",
+        "displayNames": {
+          "en-us": "Upgrade Military Affairs Bureau"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Imperial Red Seals",
+        "displayNames": {
+          "en-us": "Upgrade Imperial Red Seals"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Ovoo",
+    "shortcuts": [
+      {
+        "internalName": "Upgrade Whistling Arrows",
+        "displayNames": {
+          "en-us": "Upgrade Whistling Arrows"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Raid Bounty",
+        "displayNames": {
+          "en-us": "Upgrade Raid Bounty"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Additional Torches",
+        "displayNames": {
+          "en-us": "Upgrade Additional Torches"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Stone Bounty",
+        "displayNames": {
+          "en-us": "Upgrade Stone Bounty"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Superior Mobility",
+        "displayNames": {
+          "en-us": "Upgrade Superior Mobility"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Pax Mongolica",
+        "displayNames": {
+          "en-us": "Upgrade Pax Mongolica"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Royal institute",
+    "shortcuts": [
+      {
+        "internalName": "Upgrade Chivalry",
+        "displayNames": {
+          "en-us": "Upgrade Chivalry"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Cantled Saddles",
+        "displayNames": {
+          "en-us": "Upgrade Cantled Saddles"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Gambesons",
+        "displayNames": {
+          "en-us": "Upgrade Gambesons"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Royal Bloodlines",
+        "displayNames": {
+          "en-us": "Upgrade Royal Bloodlines"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Crossbow Stirrups",
+        "displayNames": {
+          "en-us": "Upgrade Crossbow Stirrups"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Enlistment Incentives",
+        "displayNames": {
+          "en-us": "Upgrade Enlistment Incentives"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Ordinance Company",
+        "displayNames": {
+          "en-us": "Upgrade Ordinance Company"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Long Guns",
+        "displayNames": {
+          "en-us": "Upgrade Long Guns"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Companion Equipment",
+        "displayNames": {
+          "en-us": "Upgrade Companion Equipment"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Merchant Guilds",
+        "displayNames": {
+          "en-us": "Upgrade Merchant Guilds"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Tanegashima gunsmith",
+    "shortcuts": [
+      {
+        "internalName": "Produce Handcannoneer",
+        "displayNames": {
+          "en-us": "Produce Handcannoneer"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Ozutsu",
+        "displayNames": {
+          "en-us": "Produce Ozutsu"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Ribauldequin",
+        "displayNames": {
+          "en-us": "Produce Ribauldequin"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Bombard",
+        "displayNames": {
+          "en-us": "Produce Bombard"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Deployed Handcannon Ashigaru",
+        "displayNames": {
+          "en-us": "Produce Deployed Handcannon Ashigaru"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Deployed Ozutsu",
+        "displayNames": {
+          "en-us": "Produce Deployed Ozutsu"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Deployed Ribauldequin",
+        "displayNames": {
+          "en-us": "Produce Deployed Ribauldequin"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Deployed Bombard",
+        "displayNames": {
+          "en-us": "Produce Deployed Bombard"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Temple of the sun",
+    "shortcuts": [
+      {
+        "internalName": "Toggle Divine Haste",
+        "displayNames": {
+          "en-us": "Toggle Divine Haste"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Divine Defense",
+        "displayNames": {
+          "en-us": "Toggle Divine Defense"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Divine Charge",
+        "displayNames": {
+          "en-us": "Toggle Divine Charge"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Divine Vitality",
+        "displayNames": {
+          "en-us": "Toggle Divine Vitality"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Wynguard Army",
+        "displayNames": {
+          "en-us": "Produce Wynguard Army"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Wynguard Raiders",
+        "displayNames": {
+          "en-us": "Produce Wynguard Raiders"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Wynguard Rangers",
+        "displayNames": {
+          "en-us": "Produce Wynguard Rangers"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Produce Wynguard Footmen",
+        "displayNames": {
+          "en-us": "Produce Wynguard Footmen"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Zhu XI's library",
+    "shortcuts": [
+      {
+        "internalName": "Upgrade Roar of the Dragon",
+        "displayNames": {
+          "en-us": "Upgrade Roar of the Dragon"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade 10000 Bolts",
+        "displayNames": {
+          "en-us": "Upgrade 10000 Bolts"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Dynastic Protectors",
+        "displayNames": {
+          "en-us": "Upgrade Dynastic Protectors"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Advanced Administration",
+        "displayNames": {
+          "en-us": "Upgrade Advanced Administration"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Upgrade Cloud of Terror",
+        "displayNames": {
+          "en-us": "Upgrade Cloud of Terror"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Campaign: arsenal",
+    "shortcuts": [
+      {
+        "internalName": "Campaign: Upgrade Ranged Damage",
+        "displayNames": {
+          "en-us": "Campaign: Upgrade Ranged Damage"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Upgrade Ranged Armor",
+        "displayNames": {
+          "en-us": "Campaign: Upgrade Ranged Armor"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Upgrade Boiling Oil",
+        "displayNames": {
+          "en-us": "Campaign: Upgrade Boiling Oil"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Upgrade Silk Bowstrings",
+        "displayNames": {
+          "en-us": "Campaign: Upgrade Silk Bowstrings"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Upgrade Incendiary Arrows",
+        "displayNames": {
+          "en-us": "Campaign: Upgrade Incendiary Arrows"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Upgrade Greased Axles",
+        "displayNames": {
+          "en-us": "Campaign: Upgrade Greased Axles"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Upgrade Crannequins",
+        "displayNames": {
+          "en-us": "Campaign: Upgrade Crannequins"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Upgrade Siege Works",
+        "displayNames": {
+          "en-us": "Campaign: Upgrade Siege Works"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Upgrade Roller Shutter Triggers",
+        "displayNames": {
+          "en-us": "Campaign: Upgrade Roller Shutter Triggers"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Upgrade Adjustable Crossbars",
+        "displayNames": {
+          "en-us": "Campaign: Upgrade Adjustable Crossbars"
+        },
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Campaign: bureau brothers' workshop",
+    "shortcuts": [
+      {
+        "internalName": "Campaign: Produce Cannon",
+        "displayNames": {
+          "en-us": "Campaign: Produce Cannon"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Produce Ribauldequin",
+        "displayNames": {
+          "en-us": "Campaign: Produce Ribauldequin"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Produce Culverin",
+        "displayNames": {
+          "en-us": "Campaign: Produce Culverin"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Upgrade Upgrade to Royal Artillery College",
+        "displayNames": {
+          "en-us": "Campaign: Upgrade Upgrade to Royal Artillery College"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Campaign: siege workshop",
+    "shortcuts": [
+      {
+        "internalName": "Campaign: Thunderous Barrage",
+        "displayNames": {
+          "en-us": "Campaign: Thunderous Barrage"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Campaign: Precise Barrage",
+        "displayNames": {
+          "en-us": "Campaign: Precise Barrage"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
   }
 ]
