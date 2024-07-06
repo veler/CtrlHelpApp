@@ -5,73 +5,67 @@
       {
         "internalName": "Brave",
         "appDisplayName": "Brave",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/brave-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/brave-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Browsers & Internet/brave browser.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\brave\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\brave\\.exe$/"
         }
       },
       {
         "internalName": "Google Chrome",
         "appDisplayName": "Google Chrome",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/chrome-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/chrome-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Browsers & Internet/google chrome.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\chrome\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\chrome\\.exe$/"
         }
       },
       {
         "internalName": "Microsoft Edge",
         "appDisplayName": "Microsoft Edge",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/msedge-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/msedge-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Browsers & Internet/microsoft edge.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\msedge\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\msedge\\.exe$/"
         }
       },
       {
         "internalName": "Mozilla Firefox",
         "appDisplayName": "Mozilla Firefox",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/firefox-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/firefox-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Browsers & Internet/mozilla firefox.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\firefox\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\firefox\\.exe$/"
         }
       },
       {
         "internalName": "Opera",
         "appDisplayName": "Opera",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/opera-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/opera-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Browsers & Internet/opera internet browser.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\opera\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\opera\\.exe$/"
         }
       },
       {
         "internalName": "Vivaldi",
         "appDisplayName": "Vivaldi",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Vivaldi-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Vivaldi-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Browsers & Internet/vivaldi.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\vivaldi\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\vivaldi\\.exe$/"
         }
       }
     ]
@@ -82,61 +76,56 @@
       {
         "internalName": "Discord",
         "appDisplayName": "Discord",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Discord-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Discord-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Communication/discord.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Discord\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Discord\\.exe$/"
         }
       },
       {
         "internalName": "Microsoft Teams",
         "appDisplayName": "Microsoft Teams",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Teams-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Teams-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Communication/microsoft teams.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\(Teams|ms-teams)\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\(Teams|ms-teams)\\.exe$/"
         }
       },
       {
         "internalName": "Signal",
         "appDisplayName": "Signal",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Signal-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Signal-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Communication/signal.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Signal\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Signal\\.exe$/"
         }
       },
       {
         "internalName": "Slack",
         "appDisplayName": "Slack",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Slack-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Slack-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Communication/slack.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\slack\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\slack\\.exe$/"
         }
       },
       {
         "internalName": "Zoom",
         "appDisplayName": "Zoom",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Zoom-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Zoom-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Communication/zoom meetings.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Zoom\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Zoom\\.exe$/"
         }
       }
     ]
@@ -147,266 +136,245 @@
       {
         "internalName": "Android Studio",
         "appDisplayName": "Android Studio",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/androidstudio-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/androidstudio-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/android studio.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\bin\\\\studio64\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\bin\\\\studio64\\.exe$/"
         }
       },
       {
         "internalName": "Brackets",
         "appDisplayName": "Brackets",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Brackets-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Brackets-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/brackets.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Brackets\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Brackets\\.exe$/"
         }
       },
       {
         "internalName": "Google Chrome Devtools",
         "appDisplayName": "Google Chrome Devtools",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/chrome-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/chrome-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/chromium devtools.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/^$/",
-          "versionNumber": null
+          "applicationIdentifier": "/^$/"
         }
       },
       {
         "internalName": "Eclipse",
         "appDisplayName": "Eclipse",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/eclipse-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/eclipse-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/eclipse.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\eclipse\\\\eclipse\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\eclipse\\\\eclipse\\.exe$/"
         }
       },
       {
         "internalName": "FileZilla",
         "appDisplayName": "FileZilla",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/filezilla-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/filezilla-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/filezilla.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\filezilla\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\filezilla\\.exe$/"
         }
       },
       {
         "internalName": "Fork",
         "appDisplayName": "Fork",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Fork-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Fork-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/fork.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Fork\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Fork\\.exe$/"
         }
       },
       {
         "internalName": "GitHub Desktop",
         "appDisplayName": "GitHub Desktop",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/GitHubDesktop-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/GitHubDesktop-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/github desktop.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\GitHubDesktop\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\GitHubDesktop\\.exe$/"
         }
       },
       {
         "internalName": "GitKraken",
         "appDisplayName": "GitKraken",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/gitkraken-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/gitkraken-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/gitkraken.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\gitkraken\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\gitkraken\\.exe$/"
         }
       },
       {
         "internalName": "JetBrains GoLand",
         "appDisplayName": "JetBrains GoLand",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/goland-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/goland-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/jetbrains goland.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\goland64\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\goland64\\.exe$/"
         }
       },
       {
         "internalName": "JetBrains CiLion",
         "appDisplayName": "JetBrains CiLion",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/clion-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/clion-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/jetbrains cilion.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\clion64\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\clion64\\.exe$/"
         }
       },
       {
         "internalName": "JetBrains IntelliJ IDEA",
         "appDisplayName": "JetBrains IntelliJ IDEA",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/intellijiidea-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/intellijiidea-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/jetbrains intellij idea.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\bin\\\\idea64\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\bin\\\\idea64\\.exe$/"
         }
       },
       {
         "internalName": "JetBrains PhpStorm",
         "appDisplayName": "JetBrains PhpStorm",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/phpstorm-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/phpstorm-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/jetbrains phpstorm.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\phpstorm64\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\phpstorm64\\.exe$/"
         }
       },
       {
         "internalName": "JetBrains PyCharm",
         "appDisplayName": "JetBrains PyCharm",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/pycharm-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/pycharm-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/jetbrains pycharm.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\pycharm64\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\pycharm64\\.exe$/"
         }
       },
       {
         "internalName": "JetBrains Rider",
         "appDisplayName": "JetBrains Rider",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/rider-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/rider-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/jetbrains rider.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\rider64\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\rider64\\.exe$/"
         }
       },
       {
         "internalName": "JetBrains RubyMine",
         "appDisplayName": "JetBrains RubyMine",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/rubymine-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/rubymine-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/jetbrains rubymine.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\rubymine64\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\rubymine64\\.exe$/"
         }
       },
       {
         "internalName": "Microsoft Visual Studio Code",
         "appDisplayName": "Microsoft Visual Studio Code",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/vscode-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/vscode-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/microsoft visual studio code.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Code\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Code\\.exe$/"
         }
       },
       {
         "internalName": "Microsoft Visual Studio",
         "appDisplayName": "Microsoft Visual Studio",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/visualstudio-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/visualstudio-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/microsoft visual studio.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/(\\\\Common7\\\\IDE\\\\devenv.exe)$/",
-          "versionNumber": null
+          "versionNumber": "12.0.0.0",
+          "applicationIdentifier": "/(\\\\Common7\\\\IDE\\\\devenv.exe)$/"
         }
       },
       {
         "internalName": "Notepad++",
         "appDisplayName": "Notepad++",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/notepad++-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/notepad++-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/notepad++.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\notepad\\+\\+\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\notepad\\+\\+\\.exe$/"
         }
       },
       {
         "internalName": "RStudio",
         "appDisplayName": "RStudio",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/rstudio-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/rstudio-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/rstudio.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\rstudio\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\rstudio\\.exe$/"
         }
       },
       {
         "internalName": "Spyder",
         "appDisplayName": "Spyder",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/spyder-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/spyder-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/spyder.json",
         "appDetectionInfo": {
-          "titleContains": "/spyder/",
           "applicationIdentifier": "/\\\\pythonw\\.exe$/",
-          "versionNumber": null
+          "titleContains": "/spyder/"
         }
       },
       {
         "internalName": "Sublime Text",
         "appDisplayName": "Sublime Text",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/sublime_text-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/sublime_text-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/sublime text.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\sublime_text\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\sublime_text\\.exe$/"
         }
       },
       {
         "internalName": "Unity Hub",
         "appDisplayName": "Unity Hub",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Unity Hub-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Unity Hub-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Development & Coding/unity.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Unity Hub\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Unity Hub\\.exe$/"
         }
       }
     ]
@@ -417,37 +385,34 @@
       {
         "internalName": "Ableton Live",
         "appDisplayName": "Ableton Live",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Ableton Live-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Ableton Live-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Digital Audio Workstations (DAWs)/AbletonLive.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\((Ableton Live 12 Trial)|(Ableton Live 12)|(Ableton Live))\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\((Ableton Live 12 Trial)|(Ableton Live 12)|(Ableton Live))\\.exe$/"
         }
       },
       {
         "internalName": "Cubase",
         "appDisplayName": "Cubase",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Cubase13-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Cubase13-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Digital Audio Workstations (DAWs)/cubase.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Cubase13\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Cubase13\\.exe$/"
         }
       },
       {
         "internalName": "Reaper",
         "appDisplayName": "Reaper",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/reaper-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/reaper-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Digital Audio Workstations (DAWs)/reaper.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\reaper\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\reaper\\.exe$/"
         }
       }
     ]
@@ -458,145 +423,133 @@
       {
         "internalName": "Adobe After Effects",
         "appDisplayName": "Adobe After Effects",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/AfterFX-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/AfterFX-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/adobe after effects.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Support Files\\\\AfterFX\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Support Files\\\\AfterFX\\.exe$/"
         }
       },
       {
         "internalName": "Adobe Illustrator",
         "appDisplayName": "Adobe Illustrator",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Illustrator-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Illustrator-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/adobe illustrator.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Support Files\\\\Contents\\\\Windows\\\\Illustrator\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Support Files\\\\Contents\\\\Windows\\\\Illustrator\\.exe$/"
         }
       },
       {
         "internalName": "Adobe Photoshop",
         "appDisplayName": "Adobe Photoshop",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Photoshop-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Photoshop-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/adobe photoshop.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Photoshop\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Photoshop\\.exe$/"
         }
       },
       {
         "internalName": "Adobe Premier Pro",
         "appDisplayName": "Adobe Premier Pro",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Adobe Premiere Pro-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Adobe Premiere Pro-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/adobe premier.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Adobe Premiere Pro\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Adobe Premiere Pro\\.exe$/"
         }
       },
       {
         "internalName": "Affinity Photo",
         "appDisplayName": "Affinity Photo",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/AffinityPhoto-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/AffinityPhoto-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/affinity photo.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Affinity\\\\Photo 2\\\\Photo\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Affinity\\\\Photo 2\\\\Photo\\.exe$/"
         }
       },
       {
         "internalName": "Blender",
         "appDisplayName": "Blender",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/blender-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/blender-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/blender.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\blender\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\blender\\.exe$/"
         }
       },
       {
         "internalName": "Capture One",
         "appDisplayName": "Capture One",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/CaptureOne-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/CaptureOne-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/capture one.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\CaptureOne\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\CaptureOne\\.exe$/"
         }
       },
       {
         "internalName": "DaVinci Resolve",
         "appDisplayName": "DaVinci Resolve",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Resolve-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Resolve-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/davinci resolve.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Resolve\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Resolve\\.exe$/"
         }
       },
       {
         "internalName": "Figma",
         "appDisplayName": "Figma",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Figma-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Figma-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/figma.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Figma\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Figma\\.exe$/"
         }
       },
       {
         "internalName": "GIMP",
         "appDisplayName": "GIMP",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/gimp-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/gimp-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/gimp.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\bin\\\\gimp-(.*)\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\bin\\\\gimp-(.*)\\.exe$/"
         }
       },
       {
         "internalName": "Inkscape",
         "appDisplayName": "Inkscape",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/inkscape-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/inkscape-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/inkscape.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\bin\\\\inkscape\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\bin\\\\inkscape\\.exe$/"
         }
       },
       {
         "internalName": "Microsoft Photos",
         "appDisplayName": "Microsoft Photos",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/msphotos-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/msphotos-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/microsoft photo.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Microsoft\\.Photos\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Microsoft\\.Photos\\.exe$/"
         }
       }
     ]
@@ -607,61 +560,56 @@
       {
         "internalName": "AIMP",
         "appDisplayName": "AIMP",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/AIMP-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/AIMP-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Media Players/aimp.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\AIMP\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\AIMP\\.exe$/"
         }
       },
       {
         "internalName": "foobar2000",
         "appDisplayName": "foobar2000",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/foobar2000-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/foobar2000-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Media Players/foobar2000.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\foobar2000\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\foobar2000\\.exe$/"
         }
       },
       {
         "internalName": "Spotify",
         "appDisplayName": "Spotify",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Spotify-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Spotify-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Media Players/spotify.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Spotify\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Spotify\\.exe$/"
         }
       },
       {
         "internalName": "TIDAL",
         "appDisplayName": "TIDAL",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/TIDAL-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/TIDAL-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Media Players/tidal.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\TIDAL\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\TIDAL\\.exe$/"
         }
       },
       {
         "internalName": "VLC media player",
         "appDisplayName": "VLC media player",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/vlc_VLC-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/vlc_VLC-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Media Players/vlc media player.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\vlc\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\vlc\\.exe$/"
         }
       }
     ]
@@ -672,75 +620,69 @@
       {
         "internalName": "AkelPad",
         "appDisplayName": "AkelPad",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/AkelPad-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/AkelPad-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Miscellaneous/akelpad.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\AkelPad\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\AkelPad\\.exe$/"
         }
       },
       {
         "internalName": "Microsoft File Explorer",
         "appDisplayName": "Microsoft File Explorer",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/msexplorer-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/msexplorer-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Miscellaneous/microsoft file explorer.json",
         "appDetectionInfo": {
-          "titleContains": "/^(?!\\s*$).+/",
           "applicationIdentifier": "/\\\\explorer\\.exe$/",
-          "versionNumber": null
+          "titleContains": "/^(?!\\s*$).+/"
         }
       },
       {
         "internalName": "Microsoft Windows Terminal",
         "appDisplayName": "Microsoft Windows Terminal",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/WindowsTerminal-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/WindowsTerminal-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Miscellaneous/microsoft windows terminal.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\WindowsTerminal\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\WindowsTerminal\\.exe$/"
         }
       },
       {
         "internalName": "Microsoft Windows",
         "appDisplayName": "Microsoft Windows",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Windows-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Windows-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Miscellaneous/microsoft windows.json",
         "appDetectionInfo": {
-          "titleContains": "/^$/",
           "applicationIdentifier": "/\\\\explorer\\.exe$/",
-          "versionNumber": null
+          "titleContains": "/^$/"
         }
       },
       {
         "internalName": "OBS Studio",
         "appDisplayName": "OBS Studio",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/obs-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/obs-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Miscellaneous/obs studio.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\obs64\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\obs64\\.exe$/"
         }
       },
       {
         "internalName": "Wavebox",
         "appDisplayName": "Wavebox",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/wavebox-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/wavebox-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Miscellaneous/wavebox.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\wavebox\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\wavebox\\.exe$/"
         }
       }
     ]
@@ -751,169 +693,155 @@
       {
         "internalName": "Adobe Acrobat",
         "appDisplayName": "Adobe Acrobat",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Acrobat-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Acrobat-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/adobe acrobat.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Acrobat\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Acrobat\\.exe$/"
         }
       },
       {
         "internalName": "Evernote",
         "appDisplayName": "Evernote",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Evernote-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Evernote-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/evernote.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Evernote\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Evernote\\.exe$/"
         }
       },
       {
         "internalName": "Foxit PDF Reader",
         "appDisplayName": "Foxit PDF Reader",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/FoxitPDFReader-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/FoxitPDFReader-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/foxit reader.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\FoxitPDFReader\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\FoxitPDFReader\\.exe$/"
         }
       },
       {
         "internalName": "Mendeley Reference Manager",
         "appDisplayName": "Mendeley Reference Manager",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Mendeley Reference Manager-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Mendeley Reference Manager-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/mendeley desktop.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Mendeley Reference Manager\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Mendeley Reference Manager\\.exe$/"
         }
       },
       {
         "internalName": "Microsoft Excel",
         "appDisplayName": "Microsoft Excel",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/EXCEL-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/EXCEL-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/microsoft excel.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\EXCEL\\.EXE$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\EXCEL\\.EXE$/"
         }
       },
       {
         "internalName": "Microsoft OneNote",
         "appDisplayName": "Microsoft OneNote",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/ONENOTE-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/ONENOTE-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/microsoft onenote.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\ONENOTE\\.EXE$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\ONENOTE\\.EXE$/"
         }
       },
       {
         "internalName": "Microsoft Outlook",
         "appDisplayName": "Microsoft Outlook",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/OUTLOOK-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/OUTLOOK-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/microsoft outlook.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\((OUTLOOK\\.EXE)|(olk\\.exe))$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\((OUTLOOK\\.EXE)|(olk\\.exe))$/"
         }
       },
       {
         "internalName": "Microsoft PowerPoint",
         "appDisplayName": "Microsoft PowerPoint",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/POWERPNT-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/POWERPNT-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/microsoft powerpoint.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\POWERPNT\\.EXE$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\POWERPNT\\.EXE$/"
         }
       },
       {
         "internalName": "Microsoft Word",
         "appDisplayName": "Microsoft Word",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/WINWORD-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/WINWORD-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/microsoft word.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\WINWORD\\.EXE$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\WINWORD\\.EXE$/"
         }
       },
       {
         "internalName": "Mozilla Thunderbird",
         "appDisplayName": "Mozilla Thunderbird",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/thunderbird-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/thunderbird-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/mozilla thunderbird.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\thunderbird\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\thunderbird\\.exe$/"
         }
       },
       {
         "internalName": "Notion",
         "appDisplayName": "Notion",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Notion-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Notion-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/notion.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Notion\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Notion\\.exe$/"
         }
       },
       {
         "internalName": "Obsidian",
         "appDisplayName": "Obsidian",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Obsidian-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Obsidian-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/obsidian.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Obsidian\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Obsidian\\.exe$/"
         }
       },
       {
         "internalName": "Trello",
         "appDisplayName": "Trello",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Trello-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Trello-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/trello.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Trello\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Trello\\.exe$/"
         }
       },
       {
         "internalName": "Typora",
         "appDisplayName": "Typora",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Typora-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Typora-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/typora.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Typora\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Typora\\.exe$/"
         }
       }
     ]
@@ -924,157 +852,163 @@
       {
         "internalName": "1Password",
         "appDisplayName": "1Password",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/1Password-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/1Password-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/1password.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\1Password\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\1Password\\.exe$/"
         }
       },
       {
         "internalName": "Directory Opus",
         "appDisplayName": "Directory Opus",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/dopus-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/dopus-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/directory opus.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\dopus\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\dopus\\.exe$/"
         }
       },
       {
         "internalName": "Dynalist",
         "appDisplayName": "Dynalist",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Dynalist-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Dynalist-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/dynalist.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Dynalist\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Dynalist\\.exe$/"
         }
       },
       {
         "internalName": "FontCreator",
         "appDisplayName": "FontCreator",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/FontCreator-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/FontCreator-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/fontcreator.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\FontCreator\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\FontCreator\\.exe$/"
         }
       },
       {
         "internalName": "FreeCommander XE",
         "appDisplayName": "FreeCommander XE",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/FreeCommander-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/FreeCommander-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/freecommander xe.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\FreeCommander XE\\\\FreeCommander\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\FreeCommander XE\\\\FreeCommander\\.exe$/"
         }
       },
       {
         "internalName": "Microsoft Calculator",
         "appDisplayName": "Microsoft Calculator",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/mscalculator-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/mscalculator-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/microsoft calculator.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\CalculatorApp\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\CalculatorApp\\.exe$/"
         }
       },
       {
         "internalName": "Microsoft StickyNotes",
         "appDisplayName": "Microsoft StickyNotes",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/msstickynotes-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/msstickynotes-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/microsoft stickynotes.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Microsoft\\.Notes\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Microsoft\\.Notes\\.exe$/"
         }
       },
       {
         "internalName": "Microsoft To Do",
         "appDisplayName": "Microsoft To Do",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/mstodo-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/mstodo-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/microsoft to do.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/(\\\\Todo\\.exe$)|(^(Microsoft\\.Todos_8wekyb3d8bbwe)$)/",
-          "versionNumber": null
+          "applicationIdentifier": "/(\\\\Todo\\.exe$)|(^(Microsoft\\.Todos_8wekyb3d8bbwe)$)/"
         }
       },
       {
         "internalName": "mRemoteNG",
         "appDisplayName": "mRemoteNG",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/mRemoteNG-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/mRemoteNG-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/mremoteng.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\mRemoteNG\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\mRemoteNG\\.exe$/"
         }
       },
       {
         "internalName": "MusicBee",
         "appDisplayName": "MusicBee",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/MusicBee-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/MusicBee-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/musicbee.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\MusicBee\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\MusicBee\\.exe$/"
         }
       },
       {
         "internalName": "Snagit",
         "appDisplayName": "Snagit",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/SnagitCapture-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/SnagitCapture-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/snagit.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\SnagitCapture\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\SnagitCapture\\.exe$/"
         }
       },
       {
         "internalName": "TickTick",
         "appDisplayName": "TickTick",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/TickTick-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/TickTick-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/ticktick.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\TickTick\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\TickTick\\.exe$/"
         }
       },
       {
         "internalName": "Todoist",
         "appDisplayName": "Todoist",
-        "searchKeywords": [],
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/Todoist-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/Todoist-64.png",
+        "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/todoist for windows.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Todoist\\.exe$/",
-          "versionNumber": null
+          "applicationIdentifier": "/\\\\Todoist\\.exe$/"
+        }
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Video Games",
+    "apps": [
+      {
+        "internalName": "AoE4",
+        "appDisplayName": "Age of Empires IV",
+        "logo16": "ms-appx:///Assets/Shortcuts/Icons/AgeOfEmpiresIV-16.png",
+        "logo64": "ms-appx:///Assets/Shortcuts/Icons/AgeOfEmpiresIV-64.png",
+        "searchKeywords": [
+          "Microsoft"
+        ],
+        "shortcutsFile": "Video Games/AgeOfEmpiresIV.json",
+        "appDetectionInfo": {
+          "applicationIdentifier": "\\\\Content\\\\RelicCardinal\\.exe$",
+          "titleContains": "(IV)"
         }
       }
     ]

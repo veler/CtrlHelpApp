@@ -1,0 +1,1451 @@
+[
+  {
+    "groupInternalName": "Game",
+    "shortcuts": [
+      {
+        "internalName": "Access secondary UI panel",
+        "displayNames": {
+          "en-us": "Access secondary UI panel"
+        },
+        "keyCombination": [
+          [
+            "Y"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Return all Villagers to work (from Seek Shelter)",
+        "displayNames": {
+          "en-us": "Return all Villagers to work (from Seek Shelter)"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cancel last item in production queue",
+        "displayNames": {
+          "en-us": "Cancel last item in production queue"
+        },
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cancel all items in all production queues of selected buildings",
+        "displayNames": {
+          "en-us": "Cancel all items in all production queues of selected buildings"
+        },
+        "keyCombination": [
+          [
+            "N"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Focus on last attack notification",
+        "displayNames": {
+          "en-us": "Focus on last attack notification"
+        },
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Game Menu",
+        "displayNames": {
+          "en-us": "Game Menu"
+        },
+        "keyCombination": [
+          [
+            "F10"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Quick Save",
+        "displayNames": {
+          "en-us": "Quick Save"
+        },
+        "keyCombination": [
+          [
+            "F8"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Quick Load",
+        "displayNames": {
+          "en-us": "Quick Load"
+        },
+        "keyCombination": [
+          [
+            "F9"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toogle Players & Tribute panel",
+        "displayNames": {
+          "en-us": "Toogle Players & Tribute panel"
+        },
+        "keyCombination": [
+          [
+            "F6"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle game time display",
+        "displayNames": {
+          "en-us": "Toggle game time display"
+        },
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle team-based or unique player colors",
+        "displayNames": {
+          "en-us": "Toggle team-based or unique player colors"
+        },
+        "keyCombination": [
+          [
+            "Insert"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cycle Global Build Queue Setting (All, Updates, Off)",
+        "displayNames": {
+          "en-us": "Cycle Global Build Queue Setting (All, Updates, Off)"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Change Minimap Size",
+        "displayNames": {
+          "en-us": "Change Minimap Size"
+        },
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Unit selection",
+    "shortcuts": [
+      {
+        "internalName": "Select all units",
+        "displayNames": {
+          "en-us": "Select all units"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all units on screen",
+        "displayNames": {
+          "en-us": "Select all units on screen"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cycle through selected unit types (forward)",
+        "displayNames": {
+          "en-us": "Cycle through selected unit types (forward)"
+        },
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cycle through selected unit types (reverse)",
+        "displayNames": {
+          "en-us": "Cycle through selected unit types (reverse)"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Focus on Selected Unit(s)",
+        "displayNames": {
+          "en-us": "Focus on Selected Unit(s)"
+        },
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Follow selected unit",
+        "displayNames": {
+          "en-us": "Follow selected unit"
+        },
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cycle through idle economic units",
+        "displayNames": {
+          "en-us": "Cycle through idle economic units"
+        },
+        "keyCombination": [
+          [
+            "190"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all idle Villagers",
+        "displayNames": {
+          "en-us": "Select all idle Villagers"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "190"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Idle Villagers in radius",
+        "displayNames": {
+          "en-us": "Select Idle Villagers in radius"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Menu",
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cycle through idle military units",
+        "displayNames": {
+          "en-us": "Cycle through idle military units"
+        },
+        "keyCombination": [
+          [
+            "188"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all idle military units",
+        "displayNames": {
+          "en-us": "Select all idle military units"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "188"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all naval military units",
+        "displayNames": {
+          "en-us": "Select all naval military units"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cycle through individual Scout units",
+        "displayNames": {
+          "en-us": "Cycle through individual Scout units"
+        },
+        "keyCombination": [
+          [
+            "191"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cycle through individual religious units",
+        "displayNames": {
+          "en-us": "Cycle through individual religious units"
+        },
+        "keyCombination": [
+          [
+            "222"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cycle through Villagers gathering Food",
+        "displayNames": {
+          "en-us": "Cycle through Villagers gathering Food"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cycle through Villagers gathering Wood",
+        "displayNames": {
+          "en-us": "Cycle through Villagers gathering Wood"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cycle through Villagers gathering Gold",
+        "displayNames": {
+          "en-us": "Cycle through Villagers gathering Gold"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cycle through Villagers gathering Stone",
+        "displayNames": {
+          "en-us": "Cycle through Villagers gathering Stone"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Building selection",
+    "shortcuts": [
+      {
+        "internalName": "Select all military production buildings",
+        "displayNames": {
+          "en-us": "Select all military production buildings"
+        },
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all economy buildings",
+        "displayNames": {
+          "en-us": "Select all economy buildings"
+        },
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all technology buildings",
+        "displayNames": {
+          "en-us": "Select all technology buildings"
+        },
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Landmarks / Wonders / Capital Town Centers",
+        "displayNames": {
+          "en-us": "Select all Landmarks / Wonders / Capital Town Centers"
+        },
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cycle through Town Center",
+        "displayNames": {
+          "en-us": "Cycle through Town Center"
+        },
+        "keyCombination": [
+          [
+            "H"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Focus on Capital Town Center",
+        "displayNames": {
+          "en-us": "Focus on Capital Town Center"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Control groups",
+    "shortcuts": [
+      {
+        "internalName": "Select control group 1",
+        "displayNames": {
+          "en-us": "Select control group 1"
+        },
+        "keyCombination": [
+          [
+            "Number1"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select control group 2",
+        "displayNames": {
+          "en-us": "Select control group 2"
+        },
+        "keyCombination": [
+          [
+            "Number2"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select control group 3",
+        "displayNames": {
+          "en-us": "Select control group 3"
+        },
+        "keyCombination": [
+          [
+            "Number3"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select control group 4",
+        "displayNames": {
+          "en-us": "Select control group 4"
+        },
+        "keyCombination": [
+          [
+            "Number4"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select control group 5",
+        "displayNames": {
+          "en-us": "Select control group 5"
+        },
+        "keyCombination": [
+          [
+            "Number5"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select control group 6",
+        "displayNames": {
+          "en-us": "Select control group 6"
+        },
+        "keyCombination": [
+          [
+            "Number6"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select control group 7",
+        "displayNames": {
+          "en-us": "Select control group 7"
+        },
+        "keyCombination": [
+          [
+            "Number7"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select control group 8",
+        "displayNames": {
+          "en-us": "Select control group 8"
+        },
+        "keyCombination": [
+          [
+            "Number8"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select control group 9",
+        "displayNames": {
+          "en-us": "Select control group 9"
+        },
+        "keyCombination": [
+          [
+            "Number9"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select control group 0",
+        "displayNames": {
+          "en-us": "Select control group 0"
+        },
+        "keyCombination": [
+          [
+            "Number0"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Set control group 1 to selected unit(s)",
+        "displayNames": {
+          "en-us": "Set control group 1 to selected unit(s)"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Set control group 2 to selected unit(s)",
+        "displayNames": {
+          "en-us": "Set control group 2 to selected unit(s)"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Set control group 3 to selected unit(s)",
+        "displayNames": {
+          "en-us": "Set control group 3 to selected unit(s)"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number3"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Set control group 4 to selected unit(s)",
+        "displayNames": {
+          "en-us": "Set control group 4 to selected unit(s)"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number4"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Set control group 5 to selected unit(s)",
+        "displayNames": {
+          "en-us": "Set control group 5 to selected unit(s)"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number5"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Set control group 6 to selected unit(s)",
+        "displayNames": {
+          "en-us": "Set control group 6 to selected unit(s)"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number6"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Set control group 7 to selected unit(s)",
+        "displayNames": {
+          "en-us": "Set control group 7 to selected unit(s)"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number7"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Set control group 8 to selected unit(s)",
+        "displayNames": {
+          "en-us": "Set control group 8 to selected unit(s)"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number8"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Set control group 9 to selected unit(s)",
+        "displayNames": {
+          "en-us": "Set control group 9 to selected unit(s)"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number9"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Set control group 0 to selected unit(s)",
+        "displayNames": {
+          "en-us": "Set control group 0 to selected unit(s)"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Add selected units to control group 1",
+        "displayNames": {
+          "en-us": "Add selected units to control group 1"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number1"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Add selected units to control group 2",
+        "displayNames": {
+          "en-us": "Add selected units to control group 2"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number2"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Add selected units to control group 3",
+        "displayNames": {
+          "en-us": "Add selected units to control group 3"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number3"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Add selected units to control group 4",
+        "displayNames": {
+          "en-us": "Add selected units to control group 4"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number4"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Add selected units to control group 5",
+        "displayNames": {
+          "en-us": "Add selected units to control group 5"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number5"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Add selected units to control group 6",
+        "displayNames": {
+          "en-us": "Add selected units to control group 6"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number6"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Add selected units to control group 7",
+        "displayNames": {
+          "en-us": "Add selected units to control group 7"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number7"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Add selected units to control group 8",
+        "displayNames": {
+          "en-us": "Add selected units to control group 8"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number8"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Add selected units to control group 9",
+        "displayNames": {
+          "en-us": "Add selected units to control group 9"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number9"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Add selected units to control group 0",
+        "displayNames": {
+          "en-us": "Add selected units to control group 0"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number0"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Remove selected units from all control groups",
+        "displayNames": {
+          "en-us": "Remove selected units from all control groups"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Remove selected units from control group 1",
+        "displayNames": {
+          "en-us": "Remove selected units from control group 1"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number1"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Remove selected units from control group 2",
+        "displayNames": {
+          "en-us": "Remove selected units from control group 2"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number2"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Remove selected units from control group 3",
+        "displayNames": {
+          "en-us": "Remove selected units from control group 3"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number3"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Remove selected units from control group 4",
+        "displayNames": {
+          "en-us": "Remove selected units from control group 4"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number4"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Remove selected units from control group 5",
+        "displayNames": {
+          "en-us": "Remove selected units from control group 5"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number5"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Remove selected units from control group 6",
+        "displayNames": {
+          "en-us": "Remove selected units from control group 6"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number6"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Remove selected units from control group 7",
+        "displayNames": {
+          "en-us": "Remove selected units from control group 7"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number7"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Remove selected units from control group 8",
+        "displayNames": {
+          "en-us": "Remove selected units from control group 8"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number8"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Remove selected units from control group 9",
+        "displayNames": {
+          "en-us": "Remove selected units from control group 9"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number9"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Remove selected units from control group 0",
+        "displayNames": {
+          "en-us": "Remove selected units from control group 0"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number0"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Communication",
+    "shortcuts": [
+      {
+        "internalName": "[All] Global chat",
+        "displayNames": {
+          "en-us": "[All] Global chat"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Enter"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Input Text-To-Speech Message",
+        "displayNames": {
+          "en-us": "Input Text-To-Speech Message"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Enter"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Push to talk",
+        "displayNames": {
+          "en-us": "Push to talk"
+        },
+        "keyCombination": [
+          [
+            "192"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Self Mute/Unmute in Voice Chat",
+        "displayNames": {
+          "en-us": "Toggle Self Mute/Unmute in Voice Chat"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "192"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Scroll chat messages (older)",
+        "displayNames": {
+          "en-us": "Scroll chat messages (older)"
+        },
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Scroll chat messages (newer)",
+        "displayNames": {
+          "en-us": "Scroll chat messages (newer)"
+        },
+        "keyCombination": [
+          [
+            "PageDown"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Attack Ping",
+        "displayNames": {
+          "en-us": "Attack Ping"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Defend Ping",
+        "displayNames": {
+          "en-us": "Defend Ping"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Notify Ping",
+        "displayNames": {
+          "en-us": "Notify Ping"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Camera",
+    "shortcuts": [
+      {
+        "internalName": "Rotate camera (Hold)",
+        "displayNames": {
+          "en-us": "Rotate camera (Hold)"
+        },
+        "keyCombination": [
+          [
+            "Menu"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Rotate camera 45 degrees counter-clockwise",
+        "displayNames": {
+          "en-us": "Rotate camera 45 degrees counter-clockwise"
+        },
+        "keyCombination": [
+          [
+            "219"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Rotate camera 45 degrees clockwise",
+        "displayNames": {
+          "en-us": "Rotate camera 45 degrees clockwise"
+        },
+        "keyCombination": [
+          [
+            "221"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Reset camera",
+        "displayNames": {
+          "en-us": "Reset camera"
+        },
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Pan camera up",
+        "displayNames": {
+          "en-us": "Pan camera up"
+        },
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Pan camera down",
+        "displayNames": {
+          "en-us": "Pan camera down"
+        },
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Pan camera left",
+        "displayNames": {
+          "en-us": "Pan camera left"
+        },
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Pan camera right",
+        "displayNames": {
+          "en-us": "Pan camera right"
+        },
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Save camera location 1",
+        "displayNames": {
+          "en-us": "Save camera location 1"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "F1"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Save camera location 2",
+        "displayNames": {
+          "en-us": "Save camera location 2"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "F2"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Save camera location 3",
+        "displayNames": {
+          "en-us": "Save camera location 3"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "F3"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Save camera location 4",
+        "displayNames": {
+          "en-us": "Save camera location 4"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "F4"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Save camera location 5",
+        "displayNames": {
+          "en-us": "Save camera location 5"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "F5"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Save camera location 6",
+        "displayNames": {
+          "en-us": "Save camera location 6"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "F6"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Save camera location 7",
+        "displayNames": {
+          "en-us": "Save camera location 7"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "F7"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Save camera location 8",
+        "displayNames": {
+          "en-us": "Save camera location 8"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "F8"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to camera location 1",
+        "displayNames": {
+          "en-us": "Go to camera location 1"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "F1"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to camera location 2",
+        "displayNames": {
+          "en-us": "Go to camera location 2"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "F2"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to camera location 3",
+        "displayNames": {
+          "en-us": "Go to camera location 3"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "F3"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to camera location 4",
+        "displayNames": {
+          "en-us": "Go to camera location 4"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "F4"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to camera location 5",
+        "displayNames": {
+          "en-us": "Go to camera location 5"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "F5"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to camera location 6",
+        "displayNames": {
+          "en-us": "Go to camera location 6"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "F6"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to camera location 7",
+        "displayNames": {
+          "en-us": "Go to camera location 7"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "F7"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to camera location 8",
+        "displayNames": {
+          "en-us": "Go to camera location 8"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "F8"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  }
+]
