@@ -21,7 +21,7 @@ Are you tired of fumbling through menus and mouse clicks? Say hello to CtrlHelp,
 Access CtrlHelp's interactive practice mode right from your system tray. Dive into shortcuts for popular apps like Word, Excel, Photoshop, Visual Studio, and more. Become a keyboard wizard at your own pace!
 
 ### Instant Cheat Sheet
-Can't recall a shortcut? No worries! Hold the Ctrl key, and a list of shortcuts for your active app appears. Select a command, and voilà—you've harnessed the power of shortcuts without disrupting your workflow.
+Can't recall a shortcut? No worries! Hold the Ctrl key, and a list of shortcuts for your active app appears. Select a command, and voilï¿½ï¿½you've harnessed the power of shortcuts without disrupting your workflow.
 
 ### A Growing List of Supported Apps
 With over 80 apps and 8,000 shortcuts, CtrlHelp covers a wide range of software categories.
@@ -129,6 +129,9 @@ Utilities & Tools
 - Snagit
 - TickTick
 - Todoist
+
+Video Games
+- Age of Empires IV
 
 ## Getting Started
 

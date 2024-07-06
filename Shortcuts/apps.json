@@ -10,7 +10,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Browsers & Internet/brave browser.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\brave\\.exe$/"
+          "applicationIdentifier": "\\\\brave\\.exe$"
         }
       },
       {
@@ -21,7 +21,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Browsers & Internet/google chrome.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\chrome\\.exe$/"
+          "applicationIdentifier": "\\\\chrome\\.exe$"
         }
       },
       {
@@ -32,7 +32,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Browsers & Internet/microsoft edge.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\msedge\\.exe$/"
+          "applicationIdentifier": "\\\\msedge\\.exe$"
         }
       },
       {
@@ -43,7 +43,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Browsers & Internet/mozilla firefox.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\firefox\\.exe$/"
+          "applicationIdentifier": "\\\\firefox\\.exe$"
         }
       },
       {
@@ -54,7 +54,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Browsers & Internet/opera internet browser.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\opera\\.exe$/"
+          "applicationIdentifier": "\\\\opera\\.exe$"
         }
       },
       {
@@ -65,7 +65,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Browsers & Internet/vivaldi.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\vivaldi\\.exe$/"
+          "applicationIdentifier": "\\\\vivaldi\\.exe$"
         }
       }
     ]
@@ -81,7 +81,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Communication/discord.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Discord\\.exe$/"
+          "applicationIdentifier": "\\\\Discord\\.exe$"
         }
       },
       {
@@ -92,7 +92,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Communication/microsoft teams.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\(Teams|ms-teams)\\.exe$/"
+          "applicationIdentifier": "\\\\(Teams|ms-teams)\\.exe$"
         }
       },
       {
@@ -103,7 +103,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Communication/signal.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Signal\\.exe$/"
+          "applicationIdentifier": "\\\\Signal\\.exe$"
         }
       },
       {
@@ -114,7 +114,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Communication/slack.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\slack\\.exe$/"
+          "applicationIdentifier": "\\\\slack\\.exe$"
         }
       },
       {
@@ -125,7 +125,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Communication/zoom meetings.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Zoom\\.exe$/"
+          "applicationIdentifier": "\\\\Zoom\\.exe$"
         }
       }
     ]
@@ -141,7 +141,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/android studio.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\bin\\\\studio64\\.exe$/"
+          "applicationIdentifier": "\\\\bin\\\\studio64\\.exe$"
         }
       },
       {
@@ -152,7 +152,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/brackets.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Brackets\\.exe$/"
+          "applicationIdentifier": "\\\\Brackets\\.exe$"
         }
       },
       {
@@ -163,7 +163,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/chromium devtools.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/^$/"
+          "applicationIdentifier": "^$"
         }
       },
       {
@@ -174,7 +174,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/eclipse.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\eclipse\\\\eclipse\\.exe$/"
+          "applicationIdentifier": "\\\\eclipse\\\\eclipse\\.exe$"
         }
       },
       {
@@ -185,7 +185,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/filezilla.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\filezilla\\.exe$/"
+          "applicationIdentifier": "\\\\filezilla\\.exe$"
         }
       },
       {
@@ -196,7 +196,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/fork.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Fork\\.exe$/"
+          "applicationIdentifier": "\\\\Fork\\.exe$"
         }
       },
       {
@@ -207,7 +207,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/github desktop.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\GitHubDesktop\\.exe$/"
+          "applicationIdentifier": "\\\\GitHubDesktop\\.exe$"
         }
       },
       {
@@ -218,7 +218,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/gitkraken.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\gitkraken\\.exe$/"
+          "applicationIdentifier": "\\\\gitkraken\\.exe$"
         }
       },
       {
@@ -229,7 +229,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/jetbrains goland.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\goland64\\.exe$/"
+          "applicationIdentifier": "\\\\goland64\\.exe$"
         }
       },
       {
@@ -240,7 +240,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/jetbrains cilion.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\clion64\\.exe$/"
+          "applicationIdentifier": "\\\\clion64\\.exe$"
         }
       },
       {
@@ -251,7 +251,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/jetbrains intellij idea.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\bin\\\\idea64\\.exe$/"
+          "applicationIdentifier": "\\\\bin\\\\idea64\\.exe$"
         }
       },
       {
@@ -262,7 +262,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/jetbrains phpstorm.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\phpstorm64\\.exe$/"
+          "applicationIdentifier": "\\\\phpstorm64\\.exe$"
         }
       },
       {
@@ -273,7 +273,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/jetbrains pycharm.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\pycharm64\\.exe$/"
+          "applicationIdentifier": "\\\\pycharm64\\.exe$"
         }
       },
       {
@@ -284,7 +284,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/jetbrains rider.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\rider64\\.exe$/"
+          "applicationIdentifier": "\\\\rider64\\.exe$"
         }
       },
       {
@@ -295,7 +295,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/jetbrains rubymine.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\rubymine64\\.exe$/"
+          "applicationIdentifier": "\\\\rubymine64\\.exe$"
         }
       },
       {
@@ -306,7 +306,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/microsoft visual studio code.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Code\\.exe$/"
+          "applicationIdentifier": "\\\\Code\\.exe$"
         }
       },
       {
@@ -318,7 +318,7 @@
         "shortcutsFile": "Development & Coding/microsoft visual studio.json",
         "appDetectionInfo": {
           "versionNumber": "12.0.0.0",
-          "applicationIdentifier": "/(\\\\Common7\\\\IDE\\\\devenv.exe)$/"
+          "applicationIdentifier": "(\\\\Common7\\\\IDE\\\\devenv.exe)$"
         }
       },
       {
@@ -329,7 +329,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/notepad++.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\notepad\\+\\+\\.exe$/"
+          "applicationIdentifier": "\\\\notepad\\+\\+\\.exe$"
         }
       },
       {
@@ -340,7 +340,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/rstudio.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\rstudio\\.exe$/"
+          "applicationIdentifier": "\\\\rstudio\\.exe$"
         }
       },
       {
@@ -351,8 +351,8 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/spyder.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\pythonw\\.exe$/",
-          "titleContains": "/spyder/"
+          "applicationIdentifier": "\\\\pythonw\\.exe$",
+          "titleContains": "spyder"
         }
       },
       {
@@ -363,7 +363,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/sublime text.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\sublime_text\\.exe$/"
+          "applicationIdentifier": "\\\\sublime_text\\.exe$"
         }
       },
       {
@@ -374,7 +374,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/unity.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Unity Hub\\.exe$/"
+          "applicationIdentifier": "\\\\Unity Hub\\.exe$"
         }
       }
     ]
@@ -390,7 +390,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Digital Audio Workstations (DAWs)/AbletonLive.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\((Ableton Live 12 Trial)|(Ableton Live 12)|(Ableton Live))\\.exe$/"
+          "applicationIdentifier": "\\\\((Ableton Live 12 Trial)|(Ableton Live 12)|(Ableton Live))\\.exe$"
         }
       },
       {
@@ -401,7 +401,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Digital Audio Workstations (DAWs)/cubase.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Cubase13\\.exe$/"
+          "applicationIdentifier": "\\\\Cubase13\\.exe$"
         }
       },
       {
@@ -412,7 +412,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Digital Audio Workstations (DAWs)/reaper.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\reaper\\.exe$/"
+          "applicationIdentifier": "\\\\reaper\\.exe$"
         }
       }
     ]
@@ -428,7 +428,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/adobe after effects.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Support Files\\\\AfterFX\\.exe$/"
+          "applicationIdentifier": "\\\\Support Files\\\\AfterFX\\.exe$"
         }
       },
       {
@@ -439,7 +439,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/adobe illustrator.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Support Files\\\\Contents\\\\Windows\\\\Illustrator\\.exe$/"
+          "applicationIdentifier": "\\\\Support Files\\\\Contents\\\\Windows\\\\Illustrator\\.exe$"
         }
       },
       {
@@ -450,7 +450,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/adobe photoshop.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Photoshop\\.exe$/"
+          "applicationIdentifier": "\\\\Photoshop\\.exe$"
         }
       },
       {
@@ -461,7 +461,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/adobe premier.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Adobe Premiere Pro\\.exe$/"
+          "applicationIdentifier": "\\\\Adobe Premiere Pro\\.exe$"
         }
       },
       {
@@ -472,7 +472,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/affinity photo.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Affinity\\\\Photo 2\\\\Photo\\.exe$/"
+          "applicationIdentifier": "\\\\Affinity\\\\Photo 2\\\\Photo\\.exe$"
         }
       },
       {
@@ -483,7 +483,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/blender.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\blender\\.exe$/"
+          "applicationIdentifier": "\\\\blender\\.exe$"
         }
       },
       {
@@ -494,7 +494,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/capture one.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\CaptureOne\\.exe$/"
+          "applicationIdentifier": "\\\\CaptureOne\\.exe$"
         }
       },
       {
@@ -505,7 +505,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/davinci resolve.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Resolve\\.exe$/"
+          "applicationIdentifier": "\\\\Resolve\\.exe$"
         }
       },
       {
@@ -516,7 +516,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/figma.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Figma\\.exe$/"
+          "applicationIdentifier": "\\\\Figma\\.exe$"
         }
       },
       {
@@ -527,7 +527,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/gimp.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\bin\\\\gimp-(.*)\\.exe$/"
+          "applicationIdentifier": "\\\\bin\\\\gimp-(.*)\\.exe$"
         }
       },
       {
@@ -538,7 +538,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/inkscape.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\bin\\\\inkscape\\.exe$/"
+          "applicationIdentifier": "\\\\bin\\\\inkscape\\.exe$"
         }
       },
       {
@@ -549,7 +549,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Graphics & Design/microsoft photo.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Microsoft\\.Photos\\.exe$/"
+          "applicationIdentifier": "\\\\Microsoft\\.Photos\\.exe$"
         }
       }
     ]
@@ -565,7 +565,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Media Players/aimp.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\AIMP\\.exe$/"
+          "applicationIdentifier": "\\\\AIMP\\.exe$"
         }
       },
       {
@@ -576,7 +576,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Media Players/foobar2000.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\foobar2000\\.exe$/"
+          "applicationIdentifier": "\\\\foobar2000\\.exe$"
         }
       },
       {
@@ -587,7 +587,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Media Players/spotify.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Spotify\\.exe$/"
+          "applicationIdentifier": "\\\\Spotify\\.exe$"
         }
       },
       {
@@ -598,7 +598,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Media Players/tidal.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\TIDAL\\.exe$/"
+          "applicationIdentifier": "\\\\TIDAL\\.exe$"
         }
       },
       {
@@ -609,7 +609,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Media Players/vlc media player.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\vlc\\.exe$/"
+          "applicationIdentifier": "\\\\vlc\\.exe$"
         }
       }
     ]
@@ -625,7 +625,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Miscellaneous/akelpad.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\AkelPad\\.exe$/"
+          "applicationIdentifier": "\\\\AkelPad\\.exe$"
         }
       },
       {
@@ -636,8 +636,8 @@
         "searchKeywords": [],
         "shortcutsFile": "Miscellaneous/microsoft file explorer.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\explorer\\.exe$/",
-          "titleContains": "/^(?!\\s*$).+/"
+          "applicationIdentifier": "\\\\explorer\\.exe$",
+          "titleContains": "^(?!\\s*$).+"
         }
       },
       {
@@ -648,7 +648,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Miscellaneous/microsoft windows terminal.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\WindowsTerminal\\.exe$/"
+          "applicationIdentifier": "\\\\WindowsTerminal\\.exe$"
         }
       },
       {
@@ -659,8 +659,8 @@
         "searchKeywords": [],
         "shortcutsFile": "Miscellaneous/microsoft windows.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\explorer\\.exe$/",
-          "titleContains": "/^$/"
+          "applicationIdentifier": "\\\\explorer\\.exe$",
+          "titleContains": "^$"
         }
       },
       {
@@ -671,7 +671,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Miscellaneous/obs studio.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\obs64\\.exe$/"
+          "applicationIdentifier": "\\\\obs64\\.exe$"
         }
       },
       {
@@ -682,7 +682,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Miscellaneous/wavebox.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\wavebox\\.exe$/"
+          "applicationIdentifier": "\\\\wavebox\\.exe$"
         }
       }
     ]
@@ -698,7 +698,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/adobe acrobat.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Acrobat\\.exe$/"
+          "applicationIdentifier": "\\\\Acrobat\\.exe$"
         }
       },
       {
@@ -709,7 +709,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/evernote.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Evernote\\.exe$/"
+          "applicationIdentifier": "\\\\Evernote\\.exe$"
         }
       },
       {
@@ -720,7 +720,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/foxit reader.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\FoxitPDFReader\\.exe$/"
+          "applicationIdentifier": "\\\\FoxitPDFReader\\.exe$"
         }
       },
       {
@@ -731,7 +731,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/mendeley desktop.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Mendeley Reference Manager\\.exe$/"
+          "applicationIdentifier": "\\\\Mendeley Reference Manager\\.exe$"
         }
       },
       {
@@ -742,7 +742,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/microsoft excel.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\EXCEL\\.EXE$/"
+          "applicationIdentifier": "\\\\EXCEL\\.EXE$"
         }
       },
       {
@@ -753,7 +753,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/microsoft onenote.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\ONENOTE\\.EXE$/"
+          "applicationIdentifier": "\\\\ONENOTE\\.EXE$"
         }
       },
       {
@@ -764,7 +764,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/microsoft outlook.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\((OUTLOOK\\.EXE)|(olk\\.exe))$/"
+          "applicationIdentifier": "\\\\((OUTLOOK\\.EXE)|(olk\\.exe))$"
         }
       },
       {
@@ -775,7 +775,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/microsoft powerpoint.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\POWERPNT\\.EXE$/"
+          "applicationIdentifier": "\\\\POWERPNT\\.EXE$"
         }
       },
       {
@@ -786,7 +786,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/microsoft word.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\WINWORD\\.EXE$/"
+          "applicationIdentifier": "\\\\WINWORD\\.EXE$"
         }
       },
       {
@@ -797,7 +797,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/mozilla thunderbird.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\thunderbird\\.exe$/"
+          "applicationIdentifier": "\\\\thunderbird\\.exe$"
         }
       },
       {
@@ -808,7 +808,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/notion.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Notion\\.exe$/"
+          "applicationIdentifier": "\\\\Notion\\.exe$"
         }
       },
       {
@@ -819,7 +819,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/obsidian.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Obsidian\\.exe$/"
+          "applicationIdentifier": "\\\\Obsidian\\.exe$"
         }
       },
       {
@@ -830,7 +830,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/trello.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Trello\\.exe$/"
+          "applicationIdentifier": "\\\\Trello\\.exe$"
         }
       },
       {
@@ -841,7 +841,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Productivity & Office/typora.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Typora\\.exe$/"
+          "applicationIdentifier": "\\\\Typora\\.exe$"
         }
       }
     ]
@@ -857,7 +857,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/1password.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\1Password\\.exe$/"
+          "applicationIdentifier": "\\\\1Password\\.exe$"
         }
       },
       {
@@ -868,7 +868,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/directory opus.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\dopus\\.exe$/"
+          "applicationIdentifier": "\\\\dopus\\.exe$"
         }
       },
       {
@@ -879,7 +879,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/dynalist.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Dynalist\\.exe$/"
+          "applicationIdentifier": "\\\\Dynalist\\.exe$"
         }
       },
       {
@@ -890,7 +890,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/fontcreator.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\FontCreator\\.exe$/"
+          "applicationIdentifier": "\\\\FontCreator\\.exe$"
         }
       },
       {
@@ -901,7 +901,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/freecommander xe.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\FreeCommander XE\\\\FreeCommander\\.exe$/"
+          "applicationIdentifier": "\\\\FreeCommander XE\\\\FreeCommander\\.exe$"
         }
       },
       {
@@ -912,7 +912,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/microsoft calculator.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\CalculatorApp\\.exe$/"
+          "applicationIdentifier": "\\\\CalculatorApp\\.exe$"
         }
       },
       {
@@ -923,7 +923,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/microsoft stickynotes.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Microsoft\\.Notes\\.exe$/"
+          "applicationIdentifier": "\\\\Microsoft\\.Notes\\.exe$"
         }
       },
       {
@@ -934,7 +934,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/microsoft to do.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/(\\\\Todo\\.exe$)|(^(Microsoft\\.Todos_8wekyb3d8bbwe)$)/"
+          "applicationIdentifier": "(\\\\Todo\\.exe$)|(^(Microsoft\\.Todos_8wekyb3d8bbwe)$)"
         }
       },
       {
@@ -945,7 +945,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/mremoteng.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\mRemoteNG\\.exe$/"
+          "applicationIdentifier": "\\\\mRemoteNG\\.exe$"
         }
       },
       {
@@ -956,7 +956,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/musicbee.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\MusicBee\\.exe$/"
+          "applicationIdentifier": "\\\\MusicBee\\.exe$"
         }
       },
       {
@@ -967,7 +967,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/snagit.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\SnagitCapture\\.exe$/"
+          "applicationIdentifier": "\\\\SnagitCapture\\.exe$"
         }
       },
       {
@@ -978,7 +978,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/ticktick.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\TickTick\\.exe$/"
+          "applicationIdentifier": "\\\\TickTick\\.exe$"
         }
       },
       {
@@ -989,7 +989,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Utilities & Tools/todoist for windows.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "/\\\\Todoist\\.exe$/"
+          "applicationIdentifier": "\\\\Todoist\\.exe$"
         }
       }
     ]
