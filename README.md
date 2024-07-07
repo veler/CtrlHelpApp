@@ -21,7 +21,11 @@ Are you tired of fumbling through menus and mouse clicks? Say hello to CtrlHelp,
 Access CtrlHelp's interactive practice mode right from your system tray. Dive into shortcuts for popular apps like Word, Excel, Photoshop, Visual Studio, and more. Become a keyboard wizard at your own pace!
 
 ### Instant Cheat Sheet
-Can't recall a shortcut? No worries! Hold the Ctrl key, and a list of shortcuts for your active app appears. Select a command, and voil��you've harnessed the power of shortcuts without disrupting your workflow.
+Can't recall a shortcut? No worries! Hold the Ctrl key, and a list of shortcuts for your active app appears. Select a command, and voilà—you've harnessed the power of shortcuts without disrupting your workflow.
+
+### Accessibility for All
+
+CtrlHelp is not just a productivity tool, it's a powerful ally for those with vision and memory disorders. Its intuitive design and functionality can greatly enhance the computing experience for users who rely on screen readers or have difficulty memorizing commands.
 
 ### A Growing List of Supported Apps
 With over 80 apps and 8,000 shortcuts, CtrlHelp covers a wide range of software categories.
@@ -167,4 +171,6 @@ Thank you for using CtrlHelp!
 ![Explore CtrlHelp's practice mode directly from your system tray. Discover a curated collection of shortcuts and let yourself be guided.](Assets/3.png)
 ![CtrlHelp empowers you to practice the keyboard shortcuts associated with specific commands. Your challenge: recall and type them correctly within 2 seconds to achieve mastery.](Assets/4.png)
 ![Press and hold the Control key for a second, and a list of shortcuts for your active app will pop up. Choose a command to instantly trigger the corresponding shortcut within the app. You can configure the hotkey and duration in the app settings.](Assets/2.png)
+![Level up your gaming with CtrlHelp! Perfect for games like Age of Empires, practice your in-game keyboard commands, react faster, strategize better, and conquer your games with ease.](Assets/7.png)
+![Designed for everyone, including computer users with vision and memory impairments. Its intuitive functionalities can greatly enhance the experience for users who rely on assistive technology, such as screen readers.](Assets/8.png)
 ![CtrlHelp - Unleash Your Keyboard's Potential.](Assets/6.png)
