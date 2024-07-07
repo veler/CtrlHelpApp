@@ -151,6 +151,8 @@ We welcome contributions from the community! Whether you have a feature request,
 
 For general questions about CtrlHelp, please visit our [GitHub discussions](https://github.com/veler/CtrlHelp/discussions).
 
+If you wish to do the work of adding/editing a shortcut yourself, you can use the [CtrlHelp Editor](Tools/CtrlHelpEditor) tool.
+
 ## Documentation
 
 For more information about using CtrlHelp, please refer to the following documents:
