@@ -1,0 +1,828 @@
+[
+  {
+    "groupInternalName": "Global",
+    "shortcuts": [
+      {
+        "internalName": "Toggle FullScreen mode",
+        "displayNames": {
+          "en-us": "Toggle FullScreen mode"
+        },
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ],
+        "searchKeywords": [
+          "Fullscreen"
+        ]
+      },
+      {
+        "internalName": "Enter compact overlay\r\n",
+        "displayNames": {
+          "en-us": "Enter compact overlay\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Up"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Exit compact overlay\r\n",
+        "displayNames": {
+          "en-us": "Exit compact overlay\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Down"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle compact overlay\r\n",
+        "displayNames": {
+          "en-us": "Toggle compact overlay\r\n"
+        },
+        "keyCombination": [
+          [
+            "F12"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Focus the search box",
+        "displayNames": {
+          "en-us": "Focus the search box"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ],
+          [
+            "F3"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Redo the last file operation\r\n\r\n",
+        "displayNames": {
+          "en-us": "Redo the last file operation\r\n\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ],
+        "searchKeywords": [
+          "Redo"
+        ]
+      },
+      {
+        "internalName": "Undo the last file operation",
+        "displayNames": {
+          "en-us": "Undo the last file operation"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ],
+        "searchKeywords": [
+          "Undo"
+        ]
+      },
+      {
+        "internalName": "Focus the path bar\r\n\r\n",
+        "displayNames": {
+          "en-us": "Focus the path bar\r\n\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ],
+          [
+            "Menu",
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Show",
+    "shortcuts": [
+      {
+        "internalName": "Toggle hidden items\r\n",
+        "displayNames": {
+          "en-us": "Toggle hidden items\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "H"
+          ]
+        ],
+        "searchKeywords": [
+          "Hidden"
+        ]
+      },
+      {
+        "internalName": "Toggle Preview Pane\r\n",
+        "displayNames": {
+          "en-us": "Toggle Preview Pane\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "P"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Details Pane\r\n",
+        "displayNames": {
+          "en-us": "Toggle Details Pane\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Info Pane\r\n",
+        "displayNames": {
+          "en-us": "Toggle Info Pane\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "I"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "File System\r\n",
+    "shortcuts": [
+      {
+        "internalName": "Copy item\r\n",
+        "displayNames": {
+          "en-us": "Copy item\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Copy paths of selected items to the clipboard\r\n\r\n",
+        "displayNames": {
+          "en-us": "Copy paths of selected items to the clipboard\r\n\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cut item\r\n",
+        "displayNames": {
+          "en-us": "Cut item\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Pastes items from clipboard to current directory\r\n\r\n",
+        "displayNames": {
+          "en-us": "Pastes items from clipboard to current directory\r\n\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Pastes items from clipboard to the selected folder\r\n\r\n",
+        "displayNames": {
+          "en-us": "Pastes items from clipboard to the selected folder\r\n\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Delete item\r\n",
+        "displayNames": {
+          "en-us": "Delete item\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ],
+          [
+            "Delete"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Permanently delete selected items\r\n",
+        "displayNames": {
+          "en-us": "Permanently delete selected items\r\n"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Delete"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create new folder\r\n",
+        "displayNames": {
+          "en-us": "Create new folder\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create item\r\n",
+        "displayNames": {
+          "en-us": "Create item\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "I"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Open selected items\r\n\r\n",
+        "displayNames": {
+          "en-us": "Open selected items\r\n\r\n"
+        },
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Refresh the items of the current directory\r\n\r\n",
+        "displayNames": {
+          "en-us": "Refresh the items of the current directory\r\n\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ],
+          [
+            "F5"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Rename selected item\r\n\r\n",
+        "displayNames": {
+          "en-us": "Rename selected item\r\n\r\n"
+        },
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Selection",
+    "shortcuts": [
+      {
+        "internalName": "Select all\r\n",
+        "displayNames": {
+          "en-us": "Select all\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle selection\r\n",
+        "displayNames": {
+          "en-us": "Toggle selection\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Space"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Preview popups\r\n",
+    "shortcuts": [
+      {
+        "internalName": "Open preview popup when QuickLook or SeerPro is installed\r\n\r\n",
+        "displayNames": {
+          "en-us": "Open preview popup when QuickLook or SeerPro is installed\r\n\r\n"
+        },
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Archives",
+    "shortcuts": [
+      {
+        "internalName": "Extract archive\r\n",
+        "displayNames": {
+          "en-us": "Extract archive\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Smart extract\r\n",
+        "displayNames": {
+          "en-us": "Smart extract\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Open\r\n",
+    "shortcuts": [
+      {
+        "internalName": "Open properties\r\n",
+        "displayNames": {
+          "en-us": "Open properties\r\n"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Enter"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Open settings\r\n",
+        "displayNames": {
+          "en-us": "Open settings\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "188"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Open Terminal\r\n",
+        "displayNames": {
+          "en-us": "Open Terminal\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "192"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Open Terminal as admin\r\n",
+        "displayNames": {
+          "en-us": "Open Terminal as admin\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "192"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Open Command Palette\r\n",
+        "displayNames": {
+          "en-us": "Open Command Palette\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "P"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Layouts\r\n",
+    "shortcuts": [
+      {
+        "internalName": "Details View\r\n",
+        "displayNames": {
+          "en-us": "Details View\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number1"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "List View\r\n",
+        "displayNames": {
+          "en-us": "List View\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number2"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tiles View\r\n",
+        "displayNames": {
+          "en-us": "Tiles View\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number3"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Grid View\r\n",
+        "displayNames": {
+          "en-us": "Grid View\r\n"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "Number4"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Columns View\r\n",
+        "displayNames": {
+          "en-us": "Columns View\r\n"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "Number5"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Adaptive Layout\r\n",
+        "displayNames": {
+          "en-us": "Adaptive Layout\r\n"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Control",
+            "Number6"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Increase icon size\r\n",
+        "displayNames": {
+          "en-us": "Increase icon size\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "187"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Decrease icon size\r\n",
+        "displayNames": {
+          "en-us": "Decrease icon size\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "189"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Navigation",
+    "shortcuts": [
+      {
+        "internalName": "New tab\r\n",
+        "displayNames": {
+          "en-us": "New tab\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "New Window\r\n",
+        "displayNames": {
+          "en-us": "New Window\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Navigate back\r\n",
+        "displayNames": {
+          "en-us": "Navigate back\r\n"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Left"
+          ],
+          [
+            "Back"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Navigate forward\r\n",
+        "displayNames": {
+          "en-us": "Navigate forward\r\n"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Right"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Navigate up\r\n",
+        "displayNames": {
+          "en-us": "Navigate up\r\n"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Other",
+    "shortcuts": [
+      {
+        "internalName": "Duplicate tab\r\n",
+        "displayNames": {
+          "en-us": "Duplicate tab\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "K"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Reopen closed tab\r\n",
+        "displayNames": {
+          "en-us": "Reopen closed tab\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Move to the previous tab\r\n",
+        "displayNames": {
+          "en-us": "Move to the previous tab\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Tab"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Move to the next tab\r\n",
+        "displayNames": {
+          "en-us": "Move to the next tab\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Tab"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Close tab\r\n",
+        "displayNames": {
+          "en-us": "Close tab\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "W"
+          ],
+          [
+            "Control",
+            "F4"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Add horizontal pane\r\n",
+        "displayNames": {
+          "en-us": "Add horizontal pane\r\n"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "H"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Add vertical pane\r\n",
+        "displayNames": {
+          "en-us": "Add vertical pane\r\n"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Close active pane\r\n",
+        "displayNames": {
+          "en-us": "Close active pane\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Focus other pane\r\n",
+        "displayNames": {
+          "en-us": "Focus other pane\r\n"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Right"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  }
+]
