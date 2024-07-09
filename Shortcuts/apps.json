@@ -1003,7 +1003,9 @@
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/AgeOfEmpiresIV-16.png",
         "logo64": "ms-appx:///Assets/Shortcuts/Icons/AgeOfEmpiresIV-64.png",
         "searchKeywords": [
-          "Microsoft"
+          "Microsoft",
+          "Aoe",
+          "Aoe4"
         ],
         "shortcutsFile": "Video Games/AgeOfEmpiresIV.json",
         "appDetectionInfo": {
