@@ -991,6 +991,24 @@
         "appDetectionInfo": {
           "applicationIdentifier": "\\\\Todoist\\.exe$"
         }
+      },
+      {
+        "internalName": "Files",
+        "appDisplayName": "Files",
+        "logo16": "ms-appx:///Assets/Shortcuts/Icons/Files-16.png",
+        "logo64": "ms-appx:///Assets/Shortcuts/Icons/Files-64.png",
+        "searchKeywords": [
+          "File",
+          "Manager",
+          "Tabs",
+          "Columns",
+          "Preview"
+        ],
+        "shortcutsFile": "Utilities & Tools/files.json",
+        "appDetectionInfo": {
+          "applicationIdentifier": "\\\\files\\.exe$",
+          "titleContains": "- Files"
+        }
       }
     ]
   },
