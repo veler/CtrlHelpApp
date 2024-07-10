@@ -15,7 +15,7 @@
 
 ## Introduction
 
-Are you tired of fumbling through menus and mouse clicks? Say hello to CtrlHelp, your ultimate shortcut companion! Whether you're a productivity guru, a computer novice, or someone with vision impairment, CtrlHelp empowers you to master over 80 application shortcuts effortlessly.
+Are you tired of fumbling through menus and mouse clicks? Say hello to CtrlHelp, your ultimate shortcut companion! Whether you're a productivity guru, a computer novice, or someone with vision impairment, CtrlHelp empowers you to master over 80 application shortcuts effortlessly. Inspired by the gamified approach of language learning apps, CtrlHelp offers a unique experience tailored to keyboard shortcuts. Here's why you'll love it:
 
 ### Learn and Practice Shortcuts
 Access CtrlHelp's interactive practice mode right from your system tray. Dive into shortcuts for popular apps like Word, Excel, Photoshop, Visual Studio, and more. Become a keyboard wizard at your own pace!
