@@ -1,0 +1,5011 @@
+[
+  {
+    "groupInternalName": "Unit commands",
+    "shortcuts": [
+      {
+        "internalName": "Attack Ground",
+        "displayNames": {
+          "en-us": "Attack Ground"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Change Weapon",
+        "displayNames": {
+          "en-us": "Change Weapon"
+        },
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Convert",
+        "displayNames": {
+          "en-us": "Convert"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Delete All Selected Units",
+        "displayNames": {
+          "en-us": "Delete All Selected Units"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Delete"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Delete Unit",
+        "displayNames": {
+          "en-us": "Delete Unit"
+        },
+        "keyCombination": [
+          [
+            "Delete"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Drop Off Resources",
+        "displayNames": {
+          "en-us": "Drop Off Resources"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Drop Relic",
+        "displayNames": {
+          "en-us": "Drop Relic"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Economic Buildings",
+        "displayNames": {
+          "en-us": "Economic Buildings"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Garrison",
+        "displayNames": {
+          "en-us": "Garrison"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Heal",
+        "displayNames": {
+          "en-us": "Heal"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Military Buildings",
+        "displayNames": {
+          "en-us": "Military Buildings"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "More Items",
+        "displayNames": {
+          "en-us": "More Items"
+        },
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Pack",
+        "displayNames": {
+          "en-us": "Pack"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Remove Gather Point",
+        "displayNames": {
+          "en-us": "Remove Gather Point"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Repair",
+        "displayNames": {
+          "en-us": "Repair"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Seek Shelter",
+        "displayNames": {
+          "en-us": "Seek Shelter"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Set Gather Point",
+        "displayNames": {
+          "en-us": "Set Gather Point"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Stop",
+        "displayNames": {
+          "en-us": "Stop"
+        },
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Ungarrison",
+        "displayNames": {
+          "en-us": "Ungarrison"
+        },
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Unload",
+        "displayNames": {
+          "en-us": "Unload"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Unload (2)",
+        "displayNames": {
+          "en-us": "Unload (2)"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Unpack",
+        "displayNames": {
+          "en-us": "Unpack"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Game commands",
+    "shortcuts": [
+      {
+        "internalName": "Chat Dialog",
+        "displayNames": {
+          "en-us": "Chat Dialog"
+        },
+        "keyCombination": [
+          [
+            "F7"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Diplomacy",
+        "displayNames": {
+          "en-us": "Diplomacy"
+        },
+        "keyCombination": [
+          [
+            "F8"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Display Game Time",
+        "displayNames": {
+          "en-us": "Display Game Time"
+        },
+        "keyCombination": [
+          [
+            "F11"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Display Options Screen",
+        "displayNames": {
+          "en-us": "Display Options Screen"
+        },
+        "keyCombination": [
+          [
+            "F9"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Display Statistics",
+        "displayNames": {
+          "en-us": "Display Statistics"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Display Technology Tree",
+        "displayNames": {
+          "en-us": "Display Technology Tree"
+        },
+        "keyCombination": [
+          [
+            "F5"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Flare",
+        "displayNames": {
+          "en-us": "Flare"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Menu",
+        "displayNames": {
+          "en-us": "Menu"
+        },
+        "keyCombination": [
+          [
+            "F10"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mini-map Combat Mode",
+        "displayNames": {
+          "en-us": "Mini-map Combat Mode"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mini-map Economic Mode",
+        "displayNames": {
+          "en-us": "Mini-map Economic Mode"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mini-map Normal Mode",
+        "displayNames": {
+          "en-us": "Mini-map Normal Mode"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "N"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Objectives",
+        "displayNames": {
+          "en-us": "Objectives"
+        },
+        "keyCombination": [
+          [
+            "F6"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Pause Game",
+        "displayNames": {
+          "en-us": "Pause Game"
+        },
+        "keyCombination": [
+          [
+            "F3"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Return to Previous View",
+        "displayNames": {
+          "en-us": "Return to Previous View"
+        },
+        "keyCombination": [
+          [
+            "Back"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Review Chat Messages Backward",
+        "displayNames": {
+          "en-us": "Review Chat Messages Backward"
+        },
+        "keyCombination": [
+          [
+            "PageUp"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Review Chat Messages Forward",
+        "displayNames": {
+          "en-us": "Review Chat Messages Forward"
+        },
+        "keyCombination": [
+          [
+            "PageDown"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Review Event Messages Backward",
+        "displayNames": {
+          "en-us": "Review Event Messages Backward"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "PageUp"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Review Event Messages Forward",
+        "displayNames": {
+          "en-us": "Review Event Messages Forward"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "PageDown"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Save Chapter",
+        "displayNames": {
+          "en-us": "Save Chapter"
+        },
+        "keyCombination": [
+          [
+            "F4"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Save Game",
+        "displayNames": {
+          "en-us": "Save Game"
+        },
+        "keyCombination": [
+          [
+            "F2"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Archery Ranges",
+        "displayNames": {
+          "en-us": "Select all Archery Ranges"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Barracks",
+        "displayNames": {
+          "en-us": "Select all Barracks"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "B"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Blacksmiths",
+        "displayNames": {
+          "en-us": "Select all Blacksmiths"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Castles",
+        "displayNames": {
+          "en-us": "Select all Castles"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Docks",
+        "displayNames": {
+          "en-us": "Select all Docks"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Donjons",
+        "displayNames": {
+          "en-us": "Select all Donjons"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "N"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Idle Land/Naval Military Units",
+        "displayNames": {
+          "en-us": "Select all Idle Land/Naval Military Units"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "188"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Idle Trade Carts/Cogs",
+        "displayNames": {
+          "en-us": "Select all Idle Trade Carts/Cogs"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "190"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Idle Villagers",
+        "displayNames": {
+          "en-us": "Select all Idle Villagers"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "190"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Kreposts",
+        "displayNames": {
+          "en-us": "Select all Kreposts"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Land/Naval Military Units",
+        "displayNames": {
+          "en-us": "Select all Land/Naval Military Units"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "188"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Lumber Camps",
+        "displayNames": {
+          "en-us": "Select all Lumber Camps"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Markets",
+        "displayNames": {
+          "en-us": "Select all Markets"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "M"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Military Buildings",
+        "displayNames": {
+          "en-us": "Select all Military Buildings"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Space"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Mills",
+        "displayNames": {
+          "en-us": "Select all Mills"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "I"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Mining Camps",
+        "displayNames": {
+          "en-us": "Select all Mining Camps"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Monasteries",
+        "displayNames": {
+          "en-us": "Select all Monasteries"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Y"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Mule Carts",
+        "displayNames": {
+          "en-us": "Select all Mule Carts"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Siege Workshops",
+        "displayNames": {
+          "en-us": "Select all Siege Workshops"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "K"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Stables",
+        "displayNames": {
+          "en-us": "Select all Stables"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Tomi Centers",
+        "displayNames": {
+          "en-us": "Select all Tomi Centers"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "H"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Trade Carts/Cogs",
+        "displayNames": {
+          "en-us": "Select all Trade Carts/Cogs"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "190"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Universities",
+        "displayNames": {
+          "en-us": "Select all Universities"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "U"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select all Visible Land/Naval Military Units",
+        "displayNames": {
+          "en-us": "Select all Visible Land/Naval Military Units"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "188"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Send Chat Message",
+        "displayNames": {
+          "en-us": "Send Chat Message"
+        },
+        "keyCombination": [
+          [
+            "Enter"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Slow Down Game",
+        "displayNames": {
+          "en-us": "Slow Down Game"
+        },
+        "keyCombination": [
+          [
+            "Subtract"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "speed Up Game",
+        "displayNames": {
+          "en-us": "speed Up Game"
+        },
+        "keyCombination": [
+          [
+            "Add"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Extended Tooltips",
+        "displayNames": {
+          "en-us": "Toggle Extended Tooltips"
+        },
+        "keyCombination": [
+          [
+            "F1"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Friend or Foe Colors",
+        "displayNames": {
+          "en-us": "Toggle Friend or Foe Colors"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Health Bar",
+        "displayNames": {
+          "en-us": "Toggle Health Bar"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "H"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Idle Pointers",
+        "displayNames": {
+          "en-us": "Toggle Idle Pointers"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "P"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Visual Grid",
+        "displayNames": {
+          "en-us": "Toggle Visual Grid"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Cycle commands",
+    "shortcuts": [
+      {
+        "internalName": "Go to Archery Range",
+        "displayNames": {
+          "en-us": "Go to Archery Range"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to Barracks",
+        "displayNames": {
+          "en-us": "Go to Barracks"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "B"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to Blacksmith",
+        "displayNames": {
+          "en-us": "Go to Blacksmith"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to Castle",
+        "displayNames": {
+          "en-us": "Go to Castle"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to Dock",
+        "displayNames": {
+          "en-us": "Go to Dock"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to Donjon",
+        "displayNames": {
+          "en-us": "Go to Donjon"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to King",
+        "displayNames": {
+          "en-us": "Go to King"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "188"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to Krepost",
+        "displayNames": {
+          "en-us": "Go to Krepost"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to Last Notification",
+        "displayNames": {
+          "en-us": "Go to Last Notification"
+        },
+        "keyCombination": [
+          [
+            "Home"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to Lumber Camp",
+        "displayNames": {
+          "en-us": "Go to Lumber Camp"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to Market",
+        "displayNames": {
+          "en-us": "Go to Market"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "M"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to Mill",
+        "displayNames": {
+          "en-us": "Go to Mill"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to Mining Camp",
+        "displayNames": {
+          "en-us": "Go to Mining Camp"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to Monastery",
+        "displayNames": {
+          "en-us": "Go to Monastery"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Y"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to Mule Cart",
+        "displayNames": {
+          "en-us": "Go to Mule Cart"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to Next Idle Military Unit",
+        "displayNames": {
+          "en-us": "Go to Next Idle Military Unit"
+        },
+        "keyCombination": [
+          [
+            "188"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to Next Idle Villager",
+        "displayNames": {
+          "en-us": "Go to Next Idle Villager"
+        },
+        "keyCombination": [
+          [
+            "190"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to Selected Object",
+        "displayNames": {
+          "en-us": "Go to Selected Object"
+        },
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to Siege Workshop",
+        "displayNames": {
+          "en-us": "Go to Siege Workshop"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "K"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to Stable",
+        "displayNames": {
+          "en-us": "Go to Stable"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to Town Center",
+        "displayNames": {
+          "en-us": "Go to Town Center"
+        },
+        "keyCombination": [
+          [
+            "H"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go to University",
+        "displayNames": {
+          "en-us": "Go to University"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "U"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Group commands",
+    "shortcuts": [
+      {
+        "internalName": "Create Group #1",
+        "displayNames": {
+          "en-us": "Create Group #1"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number1"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create Group #2",
+        "displayNames": {
+          "en-us": "Create Group #2"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number2"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create Group #3",
+        "displayNames": {
+          "en-us": "Create Group #3"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number3"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create Group #4",
+        "displayNames": {
+          "en-us": "Create Group #4"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number4"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create Group #5",
+        "displayNames": {
+          "en-us": "Create Group #5"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number5"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create Group #6",
+        "displayNames": {
+          "en-us": "Create Group #6"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number6"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create Group #7",
+        "displayNames": {
+          "en-us": "Create Group #7"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number7"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create Group #8",
+        "displayNames": {
+          "en-us": "Create Group #8"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number8"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create Group #9",
+        "displayNames": {
+          "en-us": "Create Group #9"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number9"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create Group #10",
+        "displayNames": {
+          "en-us": "Create Group #10"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Number0"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create Group #11",
+        "displayNames": {
+          "en-us": "Create Group #11"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number1"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create Group #12",
+        "displayNames": {
+          "en-us": "Create Group #12"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number2"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create Group #13",
+        "displayNames": {
+          "en-us": "Create Group #13"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number3"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create Group #14",
+        "displayNames": {
+          "en-us": "Create Group #14"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number4"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create Group #15",
+        "displayNames": {
+          "en-us": "Create Group #15"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number5"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create Group #16",
+        "displayNames": {
+          "en-us": "Create Group #16"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number6"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create Group #17",
+        "displayNames": {
+          "en-us": "Create Group #17"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number7"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create Group #18",
+        "displayNames": {
+          "en-us": "Create Group #18"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number8"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create Group #19",
+        "displayNames": {
+          "en-us": "Create Group #19"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number9"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Create Group #20",
+        "displayNames": {
+          "en-us": "Create Group #20"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Number0"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #1",
+        "displayNames": {
+          "en-us": "Select Group #1"
+        },
+        "keyCombination": [
+          [
+            "Number1"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #2",
+        "displayNames": {
+          "en-us": "Select Group #2"
+        },
+        "keyCombination": [
+          [
+            "Number2"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #3",
+        "displayNames": {
+          "en-us": "Select Group #3"
+        },
+        "keyCombination": [
+          [
+            "Number3"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #4",
+        "displayNames": {
+          "en-us": "Select Group #4"
+        },
+        "keyCombination": [
+          [
+            "Number4"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #5",
+        "displayNames": {
+          "en-us": "Select Group #5"
+        },
+        "keyCombination": [
+          [
+            "Number5"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #6",
+        "displayNames": {
+          "en-us": "Select Group #6"
+        },
+        "keyCombination": [
+          [
+            "Number6"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #7",
+        "displayNames": {
+          "en-us": "Select Group #7"
+        },
+        "keyCombination": [
+          [
+            "Number7"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #8",
+        "displayNames": {
+          "en-us": "Select Group #8"
+        },
+        "keyCombination": [
+          [
+            "Number8"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #9",
+        "displayNames": {
+          "en-us": "Select Group #9"
+        },
+        "keyCombination": [
+          [
+            "Number9"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #10",
+        "displayNames": {
+          "en-us": "Select Group #10"
+        },
+        "keyCombination": [
+          [
+            "Number0"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #11",
+        "displayNames": {
+          "en-us": "Select Group #11"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Number1"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #12",
+        "displayNames": {
+          "en-us": "Select Group #12"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Number2"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #13",
+        "displayNames": {
+          "en-us": "Select Group #13"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Number3"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #14",
+        "displayNames": {
+          "en-us": "Select Group #14"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Number4"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #15",
+        "displayNames": {
+          "en-us": "Select Group #15"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Number5"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #16",
+        "displayNames": {
+          "en-us": "Select Group #16"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Number6"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #17",
+        "displayNames": {
+          "en-us": "Select Group #17"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Number7"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #18",
+        "displayNames": {
+          "en-us": "Select Group #18"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Number8"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #19",
+        "displayNames": {
+          "en-us": "Select Group #19"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Number9"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select Group #20",
+        "displayNames": {
+          "en-us": "Select Group #20"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Number0"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #1",
+        "displayNames": {
+          "en-us": "Select & Center Group #1"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number1"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #2",
+        "displayNames": {
+          "en-us": "Select & Center Group #2"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number2"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #3",
+        "displayNames": {
+          "en-us": "Select & Center Group #3"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number3"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #4",
+        "displayNames": {
+          "en-us": "Select & Center Group #4"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number4"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #5",
+        "displayNames": {
+          "en-us": "Select & Center Group #5"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number5"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #6",
+        "displayNames": {
+          "en-us": "Select & Center Group #6"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number6"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #7",
+        "displayNames": {
+          "en-us": "Select & Center Group #7"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number7"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #8",
+        "displayNames": {
+          "en-us": "Select & Center Group #8"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number8"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #8",
+        "displayNames": {
+          "en-us": "Select & Center Group #8"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number8"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #9",
+        "displayNames": {
+          "en-us": "Select & Center Group #9"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Number9"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #10",
+        "displayNames": {
+          "en-us": "Select & Center Group #10"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F10"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #11",
+        "displayNames": {
+          "en-us": "Select & Center Group #11"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Number1"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #12",
+        "displayNames": {
+          "en-us": "Select & Center Group #12"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Number2"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #13",
+        "displayNames": {
+          "en-us": "Select & Center Group #13"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Number3"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #14",
+        "displayNames": {
+          "en-us": "Select & Center Group #14"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Number4"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #15",
+        "displayNames": {
+          "en-us": "Select & Center Group #15"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Number5"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #16",
+        "displayNames": {
+          "en-us": "Select & Center Group #16"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Number6"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #17",
+        "displayNames": {
+          "en-us": "Select & Center Group #17"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Number7"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #18",
+        "displayNames": {
+          "en-us": "Select & Center Group #18"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Number8"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #19",
+        "displayNames": {
+          "en-us": "Select & Center Group #19"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "Number9"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Select & Center Group #20",
+        "displayNames": {
+          "en-us": "Select & Center Group #20"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "Shift",
+            "F10"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #1",
+        "displayNames": {
+          "en-us": "Append Group #1"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number1"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #2",
+        "displayNames": {
+          "en-us": "Append Group #2"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number2"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #3",
+        "displayNames": {
+          "en-us": "Append Group #3"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number3"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #4",
+        "displayNames": {
+          "en-us": "Append Group #4"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number4"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #5",
+        "displayNames": {
+          "en-us": "Append Group #5"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number5"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #6",
+        "displayNames": {
+          "en-us": "Append Group #6"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number6"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #7",
+        "displayNames": {
+          "en-us": "Append Group #7"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number7"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #8",
+        "displayNames": {
+          "en-us": "Append Group #8"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number8"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #9",
+        "displayNames": {
+          "en-us": "Append Group #9"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number9"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #10",
+        "displayNames": {
+          "en-us": "Append Group #10"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "Number0"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #11",
+        "displayNames": {
+          "en-us": "Append Group #11"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number1"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #12",
+        "displayNames": {
+          "en-us": "Append Group #12"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number2"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #13",
+        "displayNames": {
+          "en-us": "Append Group #13"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number3"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #14",
+        "displayNames": {
+          "en-us": "Append Group #14"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number4"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #15",
+        "displayNames": {
+          "en-us": "Append Group #15"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number5"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #16",
+        "displayNames": {
+          "en-us": "Append Group #16"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number6"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #17",
+        "displayNames": {
+          "en-us": "Append Group #17"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number7"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #18",
+        "displayNames": {
+          "en-us": "Append Group #18"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number8"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #19",
+        "displayNames": {
+          "en-us": "Append Group #19"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number9"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Append Group #20",
+        "displayNames": {
+          "en-us": "Append Group #20"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Shift",
+            "Number0"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Ungroup Control Group",
+        "displayNames": {
+          "en-us": "Ungroup Control Group"
+        },
+        "keyCombination": [
+          [
+            "U"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Scrolls commands",
+    "shortcuts": [
+      {
+        "internalName": "Click-Drag Scroll",
+        "displayNames": {
+          "en-us": "Click-Drag Scroll"
+        },
+        "keyCombination": [
+          [
+            "191"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Scroll Down",
+        "displayNames": {
+          "en-us": "Scroll Down"
+        },
+        "keyCombination": [
+          [
+            "Down"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Scroll Left",
+        "displayNames": {
+          "en-us": "Scroll Left"
+        },
+        "keyCombination": [
+          [
+            "Left"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Scroll Right",
+        "displayNames": {
+          "en-us": "Scroll Right"
+        },
+        "keyCombination": [
+          [
+            "Right"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Scroll Up",
+        "displayNames": {
+          "en-us": "Scroll Up"
+        },
+        "keyCombination": [
+          [
+            "Up"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Spectactor/Replay commands",
+    "shortcuts": [
+      {
+        "internalName": "Replay Speed Down",
+        "displayNames": {
+          "en-us": "Replay Speed Down"
+        },
+        "keyCombination": [
+          [
+            "Subtract"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Replay Speed Up",
+        "displayNames": {
+          "en-us": "Replay Speed Up"
+        },
+        "keyCombination": [
+          [
+            "Add"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Set Speed to Default",
+        "displayNames": {
+          "en-us": "Set Speed to Default"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Set Speed to Extra Fast",
+        "displayNames": {
+          "en-us": "Set Speed to Extra Fast"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Set Speed to Fast",
+        "displayNames": {
+          "en-us": "Set Speed to Fast"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Down"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Set Speed to Slow",
+        "displayNames": {
+          "en-us": "Set Speed to Slow"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Watch Player One",
+        "displayNames": {
+          "en-us": "Watch Player One"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F1"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Watch Player Two",
+        "displayNames": {
+          "en-us": "Watch Player Two"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F2"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Watch Player Three",
+        "displayNames": {
+          "en-us": "Watch Player Three"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F3"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Watch Player Four",
+        "displayNames": {
+          "en-us": "Watch Player Four"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F4"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Watch Player Five",
+        "displayNames": {
+          "en-us": "Watch Player Five"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F5"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Watch Player Six",
+        "displayNames": {
+          "en-us": "Watch Player Six"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F6"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Watch Player Seven",
+        "displayNames": {
+          "en-us": "Watch Player Seven"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F7"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Watch Player Eight",
+        "displayNames": {
+          "en-us": "Watch Player Eight"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F8"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Watch Gaia",
+        "displayNames": {
+          "en-us": "Watch Gaia"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F9"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Military units",
+    "shortcuts": [
+      {
+        "internalName": "Aggressive",
+        "displayNames": {
+          "en-us": "Aggressive"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Attack Move",
+        "displayNames": {
+          "en-us": "Attack Move"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Auto Scout",
+        "displayNames": {
+          "en-us": "Auto Scout"
+        },
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Box",
+        "displayNames": {
+          "en-us": "Box"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Build",
+        "displayNames": {
+          "en-us": "Build"
+        },
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Convert",
+        "displayNames": {
+          "en-us": "Convert"
+        },
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Defensive",
+        "displayNames": {
+          "en-us": "Defensive"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Flank",
+        "displayNames": {
+          "en-us": "Flank"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Follow",
+        "displayNames": {
+          "en-us": "Follow"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Guard",
+        "displayNames": {
+          "en-us": "Guard"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Line",
+        "displayNames": {
+          "en-us": "Line"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "No Attack",
+        "displayNames": {
+          "en-us": "No Attack"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Patrol",
+        "displayNames": {
+          "en-us": "Patrol"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Staggered",
+        "displayNames": {
+          "en-us": "Staggered"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Stand Ground",
+        "displayNames": {
+          "en-us": "Stand Ground"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Zoom commands",
+    "shortcuts": [
+      {
+        "internalName": "Reset Zoom",
+        "displayNames": {
+          "en-us": "Reset Zoom"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Back"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Zoom In",
+        "displayNames": {
+          "en-us": "Zoom In"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "187"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Zoom Out",
+        "displayNames": {
+          "en-us": "Zoom Out"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "189"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Gate commands",
+    "shortcuts": [
+      {
+        "internalName": "Lock/Unlock Gate",
+        "displayNames": {
+          "en-us": "Lock/Unlock Gate"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Villager buid",
+    "shortcuts": [
+      {
+        "internalName": "Archery Range",
+        "displayNames": {
+          "en-us": "Archery Range"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Barracks",
+        "displayNames": {
+          "en-us": "Barracks"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Blacksmith",
+        "displayNames": {
+          "en-us": "Blacksmith"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Bombard Tower",
+        "displayNames": {
+          "en-us": "Bombard Tower"
+        },
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cancel",
+        "displayNames": {
+          "en-us": "Cancel"
+        },
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Caravanserai",
+        "displayNames": {
+          "en-us": "Caravanserai"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Castle",
+        "displayNames": {
+          "en-us": "Castle"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Dock",
+        "displayNames": {
+          "en-us": "Dock"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Donjon",
+        "displayNames": {
+          "en-us": "Donjon"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Farm",
+        "displayNames": {
+          "en-us": "Farm"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Feitoria",
+        "displayNames": {
+          "en-us": "Feitoria"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Fish Trap",
+        "displayNames": {
+          "en-us": "Fish Trap"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Gate",
+        "displayNames": {
+          "en-us": "Gate"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "House",
+        "displayNames": {
+          "en-us": "House"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Krepost",
+        "displayNames": {
+          "en-us": "Krepost"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Lumber Camp",
+        "displayNames": {
+          "en-us": "Lumber Camp"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Market",
+        "displayNames": {
+          "en-us": "Market"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mill",
+        "displayNames": {
+          "en-us": "Mill"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mining Camp",
+        "displayNames": {
+          "en-us": "Mining Camp"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Monastery",
+        "displayNames": {
+          "en-us": "Monastery"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "More Buildings",
+        "displayNames": {
+          "en-us": "More Buildings"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mule Cart",
+        "displayNames": {
+          "en-us": "Mule Cart"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Outpost",
+        "displayNames": {
+          "en-us": "Outpost"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Palisade Gate",
+        "displayNames": {
+          "en-us": "Palisade Gate"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Palisade Wall",
+        "displayNames": {
+          "en-us": "Palisade Wall"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Siege Workshop",
+        "displayNames": {
+          "en-us": "Siege Workshop"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Stable",
+        "displayNames": {
+          "en-us": "Stable"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Stone Wall",
+        "displayNames": {
+          "en-us": "Stone Wall"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tower",
+        "displayNames": {
+          "en-us": "Tower"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Town Center",
+        "displayNames": {
+          "en-us": "Town Center"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "University",
+        "displayNames": {
+          "en-us": "University"
+        },
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Wonder",
+        "displayNames": {
+          "en-us": "Wonder"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Town center",
+    "shortcuts": [
+      {
+        "internalName": "All Back to Work",
+        "displayNames": {
+          "en-us": "All Back to Work"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go Back to Work",
+        "displayNames": {
+          "en-us": "Go Back to Work"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Ring Town Bell",
+        "displayNames": {
+          "en-us": "Ring Town Bell"
+        },
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Age Up",
+        "displayNames": {
+          "en-us": "Tech: Age Up"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Loom",
+        "displayNames": {
+          "en-us": "Tech: Loom"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Town Watch, Town Patrol",
+        "displayNames": {
+          "en-us": "Tech: Town Watch, Town Patrol"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Wheelbarrow, Hand Cart",
+        "displayNames": {
+          "en-us": "Tech: Wheelbarrow, Hand Cart"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Villager",
+        "displayNames": {
+          "en-us": "Villager"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Dock",
+    "shortcuts": [
+      {
+        "internalName": "Cannon Galleon",
+        "displayNames": {
+          "en-us": "Cannon Galleon"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Demolition Ship",
+        "displayNames": {
+          "en-us": "Demolition Ship"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Dromon",
+        "displayNames": {
+          "en-us": "Dromon"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Fire Ship",
+        "displayNames": {
+          "en-us": "Fire Ship"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Fishing Ship",
+        "displayNames": {
+          "en-us": "Fishing Ship"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Galley, Galleon",
+        "displayNames": {
+          "en-us": "Galley, Galleon"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Rebuild Fish Trap",
+        "displayNames": {
+          "en-us": "Rebuild Fish Trap"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Careening, Dry Dock",
+        "displayNames": {
+          "en-us": "Tech: Careening, Dry Dock"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Elite Cannon Galleon",
+        "displayNames": {
+          "en-us": "Tech: Elite Cannon Galleon"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Elite Unique Ship",
+        "displayNames": {
+          "en-us": "Tech: Elite Unique Ship"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Fast Fire Ship",
+        "displayNames": {
+          "en-us": "Tech: Fast Fire Ship"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Gillnets",
+        "displayNames": {
+          "en-us": "Tech: Gillnets"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Heavy Demolition Ship",
+        "displayNames": {
+          "en-us": "Tech: Heavy Demolition Ship"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Shipwright",
+        "displayNames": {
+          "en-us": "Tech: Shipwright"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: War Galley, Galleon",
+        "displayNames": {
+          "en-us": "Tech: War Galley, Galleon"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Automatic Fish Trap Rebuilding",
+        "displayNames": {
+          "en-us": "Toggle Automatic Fish Trap Rebuilding"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Trade Cog",
+        "displayNames": {
+          "en-us": "Trade Cog"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Transport Ship",
+        "displayNames": {
+          "en-us": "Transport Ship"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Unique Warships",
+        "displayNames": {
+          "en-us": "Unique Warships"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Barracks",
+    "shortcuts": [
+      {
+        "internalName": "Condottiero",
+        "displayNames": {
+          "en-us": "Condottiero"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Eagle Warrior",
+        "displayNames": {
+          "en-us": "Eagle Warrior"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Flemish Militia",
+        "displayNames": {
+          "en-us": "Flemish Militia"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Iluskarl",
+        "displayNames": {
+          "en-us": "Iluskarl"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Militia, Man-at-Arms, Swordsmen",
+        "displayNames": {
+          "en-us": "Militia, Man-at-Arms, Swordsmen"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Spearman, Pikeman, Halberdier",
+        "displayNames": {
+          "en-us": "Spearman, Pikeman, Halberdier"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: (Elite) Eagle Warrior",
+        "displayNames": {
+          "en-us": "Tech: (Elite) Eagle Warrior"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Arson",
+        "displayNames": {
+          "en-us": "Tech: Arson"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Pikeman, Halberdier",
+        "displayNames": {
+          "en-us": "Tech: Pikeman, Halberdier"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Squires",
+        "displayNames": {
+          "en-us": "Tech: Squires"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Supplies, Gambesons",
+        "displayNames": {
+          "en-us": "Tech: Supplies, Gambesons"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Swordsmen Upgrades",
+        "displayNames": {
+          "en-us": "Tech: Swordsmen Upgrades"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Archery range",
+    "shortcuts": [
+      {
+        "internalName": "Archer, Crossbowman, Arbalester",
+        "displayNames": {
+          "en-us": "Archer, Crossbowman, Arbalester"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Cavalry Archer",
+        "displayNames": {
+          "en-us": "Cavalry Archer"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Elephant Archer",
+        "displayNames": {
+          "en-us": "Elephant Archer"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Genitour",
+        "displayNames": {
+          "en-us": "Genitour"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Hand Cannoneer",
+        "displayNames": {
+          "en-us": "Hand Cannoneer"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Skirmisher",
+        "displayNames": {
+          "en-us": "Skirmisher"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Slinger",
+        "displayNames": {
+          "en-us": "Slinger"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Crossbowman, Arbalester",
+        "displayNames": {
+          "en-us": "Tech: Crossbowman, Arbalester"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Elite Elephant Archer",
+        "displayNames": {
+          "en-us": "Tech: Elite Elephant Archer"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Elite Genitour",
+        "displayNames": {
+          "en-us": "Tech: Elite Genitour"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Elite, Imperial Skirmisher",
+        "displayNames": {
+          "en-us": "Tech: Elite, Imperial Skirmisher"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Heavy Cavalry Archer",
+        "displayNames": {
+          "en-us": "Tech: Heavy Cavalry Archer"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Parthian Tactics",
+        "displayNames": {
+          "en-us": "Tech: Parthian Tactics"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Thumb Ring",
+        "displayNames": {
+          "en-us": "Tech: Thumb Ring"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Battle Elephant",
+        "displayNames": {
+          "en-us": "Battle Elephant"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Camel Rider",
+        "displayNames": {
+          "en-us": "Camel Rider"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Knight, Cavalier, Paladin, Savar",
+        "displayNames": {
+          "en-us": "Knight, Cavalier, Paladin, Savar"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Scout Cavalry, Ilussar",
+        "displayNames": {
+          "en-us": "Scout Cavalry, Ilussar"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Shrivamsha Rider",
+        "displayNames": {
+          "en-us": "Shrivamsha Rider"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Steppe Lancer",
+        "displayNames": {
+          "en-us": "Steppe Lancer"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tarkan",
+        "displayNames": {
+          "en-us": "Tarkan"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Bloodlines",
+        "displayNames": {
+          "en-us": "Tech: Bloodlines"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Cavalier, Paladin, Savar",
+        "displayNames": {
+          "en-us": "Tech: Cavalier, Paladin, Savar"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Elite Battle Elephant",
+        "displayNames": {
+          "en-us": "Tech: Elite Battle Elephant"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Elite Shrivamsha Rider",
+        "displayNames": {
+          "en-us": "Tech: Elite Shrivamsha Rider"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Heavy, Imperial Camel Rider",
+        "displayNames": {
+          "en-us": "Tech: Heavy, Imperial Camel Rider"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Husbandry",
+        "displayNames": {
+          "en-us": "Tech: Husbandry"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Light Cavalry, Hussar",
+        "displayNames": {
+          "en-us": "Tech: Light Cavalry, Hussar"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Xolotl Warrior",
+        "displayNames": {
+          "en-us": "Xolotl Warrior"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Siege workshop",
+    "shortcuts": [
+      {
+        "internalName": "Armored Elephant",
+        "displayNames": {
+          "en-us": "Armored Elephant"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Battering Ram",
+        "displayNames": {
+          "en-us": "Battering Ram"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Bombard Cannon, Iloufnice",
+        "displayNames": {
+          "en-us": "Bombard Cannon, Iloufnice"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Flaming Camel",
+        "displayNames": {
+          "en-us": "Flaming Camel"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mangonel, Onager",
+        "displayNames": {
+          "en-us": "Mangonel, Onager"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Scorpion",
+        "displayNames": {
+          "en-us": "Scorpion"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Siege Tower",
+        "displayNames": {
+          "en-us": "Siege Tower"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: (Siege) Onager",
+        "displayNames": {
+          "en-us": "Tech: (Siege) Onager"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Capped, Siege Ram",
+        "displayNames": {
+          "en-us": "Tech: Capped, Siege Ram"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Heavy Scorpion",
+        "displayNames": {
+          "en-us": "Tech: Heavy Scorpion"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Houfnice",
+        "displayNames": {
+          "en-us": "Tech: Houfnice"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Siege Elephant",
+        "displayNames": {
+          "en-us": "Tech: Siege Elephant"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Monastery",
+    "shortcuts": [
+      {
+        "internalName": "Fortified Church: Go Back to Work",
+        "displayNames": {
+          "en-us": "Fortified Church: Go Back to Work"
+        },
+        "keyCombination": [
+          [
+            "B"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Missionary, Warrior Priest",
+        "displayNames": {
+          "en-us": "Missionary, Warrior Priest"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Monk",
+        "displayNames": {
+          "en-us": "Monk"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Atonement",
+        "displayNames": {
+          "en-us": "Tech: Atonement"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Block Printing",
+        "displayNames": {
+          "en-us": "Tech: Block Printing"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Devotion, Faith",
+        "displayNames": {
+          "en-us": "Tech: Devotion, Faith"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Fervor",
+        "displayNames": {
+          "en-us": "Tech: Fervor"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Herbal Medicine",
+        "displayNames": {
+          "en-us": "Tech: Herbal Medicine"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Heresy",
+        "displayNames": {
+          "en-us": "Tech: Heresy"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Illumination",
+        "displayNames": {
+          "en-us": "Tech: Illumination"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Redemption",
+        "displayNames": {
+          "en-us": "Tech: Redemption"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Sanctity",
+        "displayNames": {
+          "en-us": "Tech: Sanctity"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Theocracy",
+        "displayNames": {
+          "en-us": "Tech: Theocracy"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Market",
+    "shortcuts": [
+      {
+        "internalName": "Buy 100 Food",
+        "displayNames": {
+          "en-us": "Buy 100 Food"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Buy 100 Stone",
+        "displayNames": {
+          "en-us": "Buy 100 Stone"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Buy 100 Wood",
+        "displayNames": {
+          "en-us": "Buy 100 Wood"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Sell 100 Food",
+        "displayNames": {
+          "en-us": "Sell 100 Food"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Sell 100 Stone",
+        "displayNames": {
+          "en-us": "Sell 100 Stone"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Sell 100 Wood",
+        "displayNames": {
+          "en-us": "Sell 100 Wood"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Caravan",
+        "displayNames": {
+          "en-us": "Tech: Caravan"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Coinage, Banking",
+        "displayNames": {
+          "en-us": "Tech: Coinage, Banking"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Guilds",
+        "displayNames": {
+          "en-us": "Tech: Guilds"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Trade Cart",
+        "displayNames": {
+          "en-us": "Trade Cart"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Castle",
+    "shortcuts": [
+      {
+        "internalName": "Elite Kipchak (Mercenary)",
+        "displayNames": {
+          "en-us": "Elite Kipchak (Mercenary)"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Petard",
+        "displayNames": {
+          "en-us": "Petard"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Conscription",
+        "displayNames": {
+          "en-us": "Tech: Conscription"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Elite Unique Unit",
+        "displayNames": {
+          "en-us": "Tech: Elite Unique Unit"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Hoardings",
+        "displayNames": {
+          "en-us": "Tech: Hoardings"
+        },
+        "keyCombination": [
+          [
+            "Z"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Sappers",
+        "displayNames": {
+          "en-us": "Tech: Sappers"
+        },
+        "keyCombination": [
+          [
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Spies/Treason",
+        "displayNames": {
+          "en-us": "Tech: Spies/Treason"
+        },
+        "keyCombination": [
+          [
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Unique Castle Technology",
+        "displayNames": {
+          "en-us": "Tech: Unique Castle Technology"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Unique Imperial Technology",
+        "displayNames": {
+          "en-us": "Tech: Unique Imperial Technology"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Trebuchet",
+        "displayNames": {
+          "en-us": "Trebuchet"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Unique Unit",
+        "displayNames": {
+          "en-us": "Unique Unit"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Mill",
+    "shortcuts": [
+      {
+        "internalName": "Reseed Farm",
+        "displayNames": {
+          "en-us": "Reseed Farm"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Farm Upgrades",
+        "displayNames": {
+          "en-us": "Tech: Farm Upgrades"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toggle Automatic Farm Reseeding",
+        "displayNames": {
+          "en-us": "Toggle Automatic Farm Reseeding"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Mining camp",
+    "shortcuts": [
+      {
+        "internalName": "Tech: Gold Upgrades",
+        "displayNames": {
+          "en-us": "Tech: Gold Upgrades"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Stone Upgrades",
+        "displayNames": {
+          "en-us": "Tech: Stone Upgrades"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Lumber camp",
+    "shortcuts": [
+      {
+        "internalName": "Tech: Wood Upgrades",
+        "displayNames": {
+          "en-us": "Tech: Wood Upgrades"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Blacksmith",
+    "shortcuts": [
+      {
+        "internalName": "Tech: Archer Armor Upgrades",
+        "displayNames": {
+          "en-us": "Tech: Archer Armor Upgrades"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Arrow Attack Upgrades",
+        "displayNames": {
+          "en-us": "Tech: Arrow Attack Upgrades"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Cavalry Armor Upgrades",
+        "displayNames": {
+          "en-us": "Tech: Cavalry Armor Upgrades"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Infantry Armor Upgrades",
+        "displayNames": {
+          "en-us": "Tech: Infantry Armor Upgrades"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Melee Attack Upgrades",
+        "displayNames": {
+          "en-us": "Tech: Melee Attack Upgrades"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "University",
+    "shortcuts": [
+      {
+        "internalName": "Tech: Arrowslits",
+        "displayNames": {
+          "en-us": "Tech: Arrowslits"
+        },
+        "keyCombination": [
+          [
+            "G"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Ballistics",
+        "displayNames": {
+          "en-us": "Tech: Ballistics"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Chemistry, Bombard Tower",
+        "displayNames": {
+          "en-us": "Tech: Chemistry, Bombard Tower"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Fortified Wall",
+        "displayNames": {
+          "en-us": "Tech: Fortified Wall"
+        },
+        "keyCombination": [
+          [
+            "D"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Ileated Shot",
+        "displayNames": {
+          "en-us": "Tech: Ileated Shot"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Masonry, Architecture",
+        "displayNames": {
+          "en-us": "Tech: Masonry, Architecture"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Murder Holes",
+        "displayNames": {
+          "en-us": "Tech: Murder Holes"
+        },
+        "keyCombination": [
+          [
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Siege Engineers",
+        "displayNames": {
+          "en-us": "Tech: Siege Engineers"
+        },
+        "keyCombination": [
+          [
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Tower Upgrades",
+        "displayNames": {
+          "en-us": "Tech: Tower Upgrades"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Treadmill Crane",
+        "displayNames": {
+          "en-us": "Tech: Treadmill Crane"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Mule cart",
+    "shortcuts": [
+      {
+        "internalName": "Tech: Gold Upgrades",
+        "displayNames": {
+          "en-us": "Tech: Gold Upgrades"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Stone Upgrades",
+        "displayNames": {
+          "en-us": "Tech: Stone Upgrades"
+        },
+        "keyCombination": [
+          [
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Tech: Wood Upgrades",
+        "displayNames": {
+          "en-us": "Tech: Wood Upgrades"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Spearman, Pikeman, Halberdier",
+        "displayNames": {
+          "en-us": "Spearman, Pikeman, Halberdier"
+        },
+        "keyCombination": [
+          [
+            "W"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Unique Unit",
+        "displayNames": {
+          "en-us": "Unique Unit"
+        },
+        "keyCombination": [
+          [
+            "Q"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  }
+]

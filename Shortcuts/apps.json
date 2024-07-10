@@ -1012,6 +1012,22 @@
           "applicationIdentifier": "\\\\Content\\\\RelicCardinal\\.exe$",
           "titleContains": "(IV)"
         }
+      },
+      {
+        "internalName": "Aoe2DE",
+        "appDisplayName": "Age of Empires II Definitive Edition",
+        "logo16": "ms-appx:///Assets/Shortcuts/Icons/aoe2de-16.png",
+        "logo64": "ms-appx:///Assets/Shortcuts/Icons/aoe2de-64.png",
+        "searchKeywords": [
+          "Microsoft",
+          "Aoe",
+          "Aoe4"
+        ],
+        "shortcutsFile": "Video Games/AgeOfEmpiresIIDE.json",
+        "appDetectionInfo": {
+          "applicationIdentifier": "\\\\AoE2DE\\.exe$",
+          "titleContains": ""
+        }
       }
     ]
   }
