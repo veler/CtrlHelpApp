@@ -995,8 +995,8 @@
       {
         "internalName": "Files",
         "appDisplayName": "Files",
-        "logo16": "ms-appx:///Assets/Shortcuts/Icons/Square44x44Logo.targetsize-16.png",
-        "logo64": "ms-appx:///Assets/Shortcuts/Icons/Square44x44Logo.targetsize-64.png",
+        "logo16": "ms-appx:///Assets/Shortcuts/Icons/Files-16.png",
+        "logo64": "ms-appx:///Assets/Shortcuts/Icons/Files-64.png",
         "searchKeywords": [
           "File",
           "Manager",
@@ -1006,7 +1006,7 @@
         ],
         "shortcutsFile": "Utilities & Tools/files.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "files.exe",
+          "applicationIdentifier": "\\\\files\\.exe$",
           "titleContains": "- Files"
         }
       }
