@@ -15,20 +15,22 @@
 
 ## Introduction
 
-Are you tired of fumbling through menus and mouse clicks? Say hello to CtrlHelp, your ultimate shortcut companion! Whether you're a productivity guru, a computer novice, or someone with vision impairment, CtrlHelp empowers you to master over 80 application shortcuts effortlessly. Inspired by the gamified approach of language learning apps, CtrlHelp offers a unique experience tailored to keyboard shortcuts. Here's why you'll love it:
+Are you tired of navigating through menus and making countless mouse clicks? Say hello to CtrlHelp, your ultimate shortcut companion! Whether you're a productivity guru, a gamer, a computer novice, or someone with vision impairment, CtrlHelp empowers you to master over 80 application shortcuts effortlessly. Inspired by the gamified approach of language learning apps, CtrlHelp offers a unique experience tailored to keyboard shortcuts. Here's why you'll love it:
 
 ### Learn and Practice Shortcuts
-Access CtrlHelp's interactive practice mode right from your system tray. Dive into shortcuts for popular apps like Word, Excel, Photoshop, Visual Studio, and more. Become a keyboard wizard at your own pace!
+
+With CtrlHelp's interactive practice mode, you can explore shortcuts for popular apps like Word, Excel, Photoshop, JetBrains, Visual Studio, Age of Empires, and more, right from your system tray. Become a keyboard wizard at your own pace!
 
 ### Instant Cheat Sheet
-Can't recall a shortcut? No worries! Hold the Ctrl key, and a list of shortcuts for your active app appears. Select a command, and voilà—you've harnessed the power of shortcuts without disrupting your workflow.
+
+Forgot a shortcut? No problem! Simply hold the Ctrl key, and a list of shortcuts for your active app appears. Select a command, and voilà—you've harnessed the power of shortcuts without disrupting your workflow.
 
 ### Accessibility for All
 
-CtrlHelp is not just a productivity tool, it's a powerful ally for those with vision and memory disorders. Its intuitive design and functionality can greatly enhance the computing experience for users who rely on screen readers or have difficulty memorizing commands.
+CtrlHelp is more than just a productivity tool. It’s a powerful ally for those with vision and memory disorders. Its intuitive design and functionality can significantly enhance the computing experience for users who rely on screen readers or have difficulty memorizing commands.
 
 ### A Growing List of Supported Apps
-With over 80 apps and 8,000 shortcuts, CtrlHelp covers a wide range of software categories.
+With over 80 apps, video games, and 8,000 shortcuts, CtrlHelp covers a wide range of software categories.
 
 Browsers & Internet
 - Brave
