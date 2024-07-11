@@ -629,6 +629,24 @@
         }
       },
       {
+        "internalName": "Files",
+        "appDisplayName": "Files",
+        "logo16": "ms-appx:///Assets/Shortcuts/Icons/Files-16.png",
+        "logo64": "ms-appx:///Assets/Shortcuts/Icons/Files-64.png",
+        "searchKeywords": [
+          "File",
+          "Manager",
+          "Tabs",
+          "Columns",
+          "Preview"
+        ],
+        "shortcutsFile": "Miscellaneous/files.json",
+        "appDetectionInfo": {
+          "applicationIdentifier": "\\\\files\\.exe$",
+          "titleContains": "- Files"
+        }
+      },
+      {
         "internalName": "Microsoft File Explorer",
         "appDisplayName": "Microsoft File Explorer",
         "logo16": "ms-appx:///Assets/Shortcuts/Icons/msexplorer-16.png",
@@ -990,24 +1008,6 @@
         "shortcutsFile": "Utilities & Tools/todoist for windows.json",
         "appDetectionInfo": {
           "applicationIdentifier": "\\\\Todoist\\.exe$"
-        }
-      },
-      {
-        "internalName": "Files",
-        "appDisplayName": "Files",
-        "logo16": "ms-appx:///Assets/Shortcuts/Icons/Files-16.png",
-        "logo64": "ms-appx:///Assets/Shortcuts/Icons/Files-64.png",
-        "searchKeywords": [
-          "File",
-          "Manager",
-          "Tabs",
-          "Columns",
-          "Preview"
-        ],
-        "shortcutsFile": "Utilities & Tools/files.json",
-        "appDetectionInfo": {
-          "applicationIdentifier": "\\\\files\\.exe$",
-          "titleContains": "- Files"
         }
       }
     ]
