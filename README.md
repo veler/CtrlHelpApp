@@ -97,6 +97,7 @@ Media Players
 
 Miscellaneous
 - AkelPad
+- Files
 - Microsoft File Explorer
 - Microsoft Windows
 - Microsoft Windows Terminal
@@ -123,7 +124,6 @@ Utilities & Tools
 - 1Password
 - Directory Opus
 - Dynalist
-- Files
 - FontCreator
 - FreeCommander XE
 - Microsoft Calculator
