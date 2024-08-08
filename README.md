@@ -69,12 +69,13 @@ Development & Coding
 - RStudio
 - Spyder
 - Sublime Text
-- Unity Hub
+- Unity
 
 Digital Audio Workstations (DAWs)
 - Ableton Line
 - Cubase
 - Reaper
+- Soundly
 
 Graphics & Design
 - Adobe After Effects
