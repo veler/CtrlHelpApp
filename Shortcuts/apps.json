@@ -642,7 +642,7 @@
         ],
         "shortcutsFile": "Miscellaneous/files.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "\\\\files\\.exe$",
+          "applicationIdentifier": "\\\\Files\\.exe$",
           "titleContains": "- Files"
         }
       },
