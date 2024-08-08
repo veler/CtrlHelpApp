@@ -1,0 +1,542 @@
+[
+  {
+    "groupInternalName": "General",
+    "shortcuts": [
+      {
+        "internalName": "Play/Pause",
+        "displayNames": {
+          "en-us": "Play/Pause"
+        },
+        "keyCombination": [
+          [
+            "Space"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Open In External Editor",
+        "displayNames": {
+          "en-us": "Open In External Editor"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go To Search Bar & Clear Text",
+        "displayNames": {
+          "en-us": "Go To Search Bar & Clear Text"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go To Search Bar & Keep Text",
+        "displayNames": {
+          "en-us": "Go To Search Bar & Keep Text"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Flag File",
+        "displayNames": {
+          "en-us": "Flag File"
+        },
+        "keyCombination": [
+          [
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Send Flagged Files To DAW",
+        "displayNames": {
+          "en-us": "Send Flagged Files To DAW"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Add File To Recent Collection",
+        "displayNames": {
+          "en-us": "Add File To Recent Collection"
+        },
+        "keyCombination": [
+          [
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toogle Play Loop",
+        "displayNames": {
+          "en-us": "Toogle Play Loop"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "L"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Shuffle Search Results",
+        "displayNames": {
+          "en-us": "Shuffle Search Results"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "L"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Volume Nudge Up",
+        "displayNames": {
+          "en-us": "Volume Nudge Up"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Up"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Volume Nudge Down",
+        "displayNames": {
+          "en-us": "Volume Nudge Down"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Down"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Pitch Nudge Up",
+        "displayNames": {
+          "en-us": "Pitch Nudge Up"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Up"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Pitch Nudge Down",
+        "displayNames": {
+          "en-us": "Pitch Nudge Down"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "Down"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Normalize",
+        "displayNames": {
+          "en-us": "Normalize"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toogle Thesaurus",
+        "displayNames": {
+          "en-us": "Toogle Thesaurus"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Menu",
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Toogle Window On Top",
+        "displayNames": {
+          "en-us": "Toogle Window On Top"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Collapse Folder",
+        "displayNames": {
+          "en-us": "Collapse Folder"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "X"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Show File In Explorer",
+        "displayNames": {
+          "en-us": "Show File In Explorer"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Browse Folder Of Selected File",
+        "displayNames": {
+          "en-us": "Browse Folder Of Selected File"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "F"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Rename File",
+        "displayNames": {
+          "en-us": "Rename File"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "E"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Edit Metadata",
+        "displayNames": {
+          "en-us": "Edit Metadata"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Pay Yourself A Compliment",
+        "displayNames": {
+          "en-us": "Pay Yourself A Compliment"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Menu",
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Open Cheatsheet",
+        "displayNames": {
+          "en-us": "Open Cheatsheet"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Menu",
+            "O"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Add Santa Hat To Icon",
+        "displayNames": {
+          "en-us": "Add Santa Hat To Icon"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Menu",
+            "I"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Open Spookly",
+        "displayNames": {
+          "en-us": "Open Spookly"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Shift",
+            "Menu",
+            "S"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Waveform",
+    "shortcuts": [
+      {
+        "internalName": "Select Whole Waveform",
+        "displayNames": {
+          "en-us": "Select Whole Waveform"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "A"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Reverse",
+        "displayNames": {
+          "en-us": "Reverse"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Normalize",
+        "displayNames": {
+          "en-us": "Normalize"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "N"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Zoom In Horizontal",
+        "displayNames": {
+          "en-us": "Zoom In Horizontal"
+        },
+        "keyCombination": [
+          [
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Zoom Out Horizontal",
+        "displayNames": {
+          "en-us": "Zoom Out Horizontal"
+        },
+        "keyCombination": [
+          [
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Zoom In Vertical",
+        "displayNames": {
+          "en-us": "Zoom In Vertical"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "T"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Zoom Out Vertical",
+        "displayNames": {
+          "en-us": "Zoom Out Vertical"
+        },
+        "keyCombination": [
+          [
+            "Shift",
+            "R"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Copy In and Out Markers",
+        "displayNames": {
+          "en-us": "Copy In and Out Markers"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "C"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Paste In and Out Markers",
+        "displayNames": {
+          "en-us": "Paste In and Out Markers"
+        },
+        "keyCombination": [
+          [
+            "Menu",
+            "V"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Go To Next Transient",
+        "displayNames": {
+          "en-us": "Go To Next Transient"
+        },
+        "keyCombination": [
+          [
+            "Tab"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Invert Stereo",
+        "displayNames": {
+          "en-us": "Invert Stereo"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "I"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  },
+  {
+    "groupInternalName": "Channel",
+    "shortcuts": [
+      {
+        "internalName": "Sum To Mono",
+        "displayNames": {
+          "en-us": "Sum To Mono"
+        },
+        "keyCombination": [
+          [
+            "M"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Left to Mono",
+        "displayNames": {
+          "en-us": "Left to Mono"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Left"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Right to Mono",
+        "displayNames": {
+          "en-us": "Right to Mono"
+        },
+        "keyCombination": [
+          [
+            "Control",
+            "Right"
+          ]
+        ],
+        "searchKeywords": []
+      },
+      {
+        "internalName": "Mono to Stereo",
+        "displayNames": {
+          "en-us": "Mono to Stereo"
+        },
+        "keyCombination": [
+          [
+            "J"
+          ]
+        ],
+        "searchKeywords": []
+      }
+    ]
+  }
+]

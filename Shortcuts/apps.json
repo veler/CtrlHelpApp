@@ -414,6 +414,17 @@
         "appDetectionInfo": {
           "applicationIdentifier": "\\\\reaper\\.exe$"
         }
+      },
+      {
+        "internalName": "Soundly",
+        "appDisplayName": "Soundly",
+        "logo16": "ms-appx:///Assets/Shortcuts/Icons/soundly-16.png",
+        "logo64": "ms-appx:///Assets/Shortcuts/Icons/soundly-64.png",
+        "searchKeywords": [],
+        "shortcutsFile": "Digital Audio Workstations (DAWs)/soundly.json",
+        "appDetectionInfo": {
+          "applicationIdentifier": "\\\\Soundly\\.exe$"
+        }
       }
     ]
   },
