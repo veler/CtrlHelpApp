@@ -7,108 +7,108 @@
         "displayNames": {
           "en-us": "Pan"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Q"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Move",
         "displayNames": {
           "en-us": "Move"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "W"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Rotate",
         "displayNames": {
           "en-us": "Rotate"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "E"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Scale",
         "displayNames": {
           "en-us": "Scale"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "R"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Rect",
         "displayNames": {
           "en-us": "Rect"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "T"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Unified",
         "displayNames": {
           "en-us": "Unified"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Y"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Pivot Mode Toggle",
         "displayNames": {
           "en-us": "Pivot Mode Toggle"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Z"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Pivot Rotation Toggle",
         "displayNames": {
           "en-us": "Pivot Rotation Toggle"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "X"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Vertex Snap (move/­rot­ate­/scale)",
         "displayNames": {
           "en-us": "Vertex Snap (move/­rot­ate­/scale)"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "V"
           ]
-        ]
+        ],
+        "searchKeywords": []
       }
     ]
   },
@@ -120,105 +120,105 @@
         "displayNames": {
           "en-us": "Zoom to Mouse Cursor"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Menu",
             "Scroll"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Frame Selected",
         "displayNames": {
           "en-us": "Frame Selected"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "F"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Follow Frame",
         "displayNames": {
           "en-us": "Follow Frame"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "F",
             "F"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Lock View to Selected",
         "displayNames": {
           "en-us": "Lock View to Selected"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Shift",
             "F"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Duplicate",
         "displayNames": {
           "en-us": "Duplicate"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "D"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Refresh Scene",
         "displayNames": {
           "en-us": "Refresh Scene"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "R"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Save Selection Set",
         "displayNames": {
           "en-us": "Save Selection Set"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Menu",
             "Number3"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Load Selection Set",
         "displayNames": {
           "en-us": "Load Selection Set"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Shift",
             "Number3"
           ]
-        ]
+        ],
+        "searchKeywords": []
       }
     ]
   },
@@ -230,80 +230,80 @@
         "displayNames": {
           "en-us": "New Scene"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "N"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Open Scene",
         "displayNames": {
           "en-us": "Open Scene"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "O"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Save Scene",
         "displayNames": {
           "en-us": "Save Scene"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "S"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Save Scene As",
         "displayNames": {
           "en-us": "Save Scene As"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Shift",
             "S"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Build Settin­gs",
         "displayNames": {
           "en-us": "Build Settin­gs"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Shift",
             "B"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Build & Run",
         "displayNames": {
           "en-us": "Build & Run"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "B"
           ]
-        ]
+        ],
+        "searchKeywords": []
       }
     ]
   },
@@ -315,41 +315,41 @@
         "displayNames": {
           "en-us": "Play Toggle"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "P"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Pause",
         "displayNames": {
           "en-us": "Pause"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Shift",
             "P"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Step",
         "displayNames": {
           "en-us": "Step"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Menu",
             "P"
           ]
-        ]
+        ],
+        "searchKeywords": []
       }
     ]
   },
@@ -361,69 +361,69 @@
         "displayNames": {
           "en-us": "New Emtpy GO"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Shift",
             "N"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Add Component",
         "displayNames": {
           "en-us": "Add Component"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Shift",
             "A"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Move to View",
         "displayNames": {
           "en-us": "Move to View"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Menu",
             "F"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Align with View",
         "displayNames": {
           "en-us": "Align with View"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Shift",
             "F"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Lock View to Selected",
         "displayNames": {
           "en-us": "Lock View to Selected"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Shift",
             "F"
           ]
-        ]
+        ],
+        "searchKeywords": []
       }
     ]
   },
@@ -435,74 +435,74 @@
         "displayNames": {
           "en-us": "Next Frame"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Decimal"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Next Keyframe",
         "displayNames": {
           "en-us": "Next Keyframe"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Menu",
             "Decimal"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Previous Frame",
         "displayNames": {
           "en-us": "Previous Frame"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "188"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Previous Keyframe",
         "displayNames": {
           "en-us": "Previous Keyframe"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Menu",
             "188"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Record Keyframe",
         "displayNames": {
           "en-us": "Record Keyframe"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "K"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Play Animation",
         "displayNames": {
           "en-us": "Play Animation"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Space"
           ]
-        ]
+        ],
+        "searchKeywords": []
       }
     ]
   },
@@ -514,144 +514,144 @@
         "displayNames": {
           "en-us": "Next Window"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Tab"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Scene",
         "displayNames": {
           "en-us": "Scene"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Number1"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Game",
         "displayNames": {
           "en-us": "Game"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Number2"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Inspector",
         "displayNames": {
           "en-us": "Inspector"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Cancel"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Hierarchy",
         "displayNames": {
           "en-us": "Hierarchy"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Number4"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Project",
         "displayNames": {
           "en-us": "Project"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Number5"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Animation",
         "displayNames": {
           "en-us": "Animation"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Number6"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Profiler",
         "displayNames": {
           "en-us": "Profiler"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Number7"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Audio Mixer",
         "displayNames": {
           "en-us": "Audio Mixer"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Back"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Asset Store",
         "displayNames": {
           "en-us": "Asset Store"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Tab"
           ]
-        ]
+        ],
+        "searchKeywords": []
       },
       {
         "internalName": "Console",
         "displayNames": {
           "en-us": "Console"
         },
-        "searchKeywords": [],
         "keyCombination": [
           [
             "Control",
             "Shift",
             "C"
           ]
-        ]
+        ],
+        "searchKeywords": []
       }
     ]
   }

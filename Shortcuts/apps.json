@@ -368,13 +368,13 @@
       },
       {
         "internalName": "Unity Hub",
-        "appDisplayName": "Unity Hub",
-        "logo16": "ms-appx:///Assets/Shortcuts/Icons/Unity Hub-16.png",
-        "logo64": "ms-appx:///Assets/Shortcuts/Icons/Unity Hub-64.png",
+        "appDisplayName": "Unity",
+        "logo16": "ms-appx:///Assets/Shortcuts/Icons/Unity-16.png",
+        "logo64": "ms-appx:///Assets/Shortcuts/Icons/Unity-64.png",
         "searchKeywords": [],
         "shortcutsFile": "Development & Coding/unity.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "\\\\Unity Hub\\.exe$"
+          "applicationIdentifier": "\\\\Unity( Hub)?\\.exe$"
         }
       }
     ]
