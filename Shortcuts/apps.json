@@ -114,7 +114,7 @@
         "searchKeywords": [],
         "shortcutsFile": "Communication/slack.json",
         "appDetectionInfo": {
-          "applicationIdentifier": "\\\\slack\\.exe$"
+          "applicationIdentifier": "\\\\(slack|Slack)\\.exe$"
         }
       },
       {
