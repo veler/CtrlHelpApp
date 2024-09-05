@@ -32,116 +32,16 @@ CtrlHelp is more than just a productivity tool. It’s a powerful ally for those
 ### A Growing List of Supported Apps
 With over 80 apps, video games, and 8,000 shortcuts, CtrlHelp covers a wide range of software categories.
 
-Browsers & Internet
-- Brave
-- Google Chrome
-- Microsoft Edge
-- Mozilla Firefox
-- Opera
-- Vivaldi
-
-Communication
-- Discord
-- Microsoft Teams
-- Signal
-- Slack
-- Zoom
-
-Development & Coding
-- Android Studio
-- Brackets
-- Eclipse
-- FileZilla
-- Fork
-- GitHub Desktop
-- GitKraken
-- Google Chrome Devtools
-- JetBrains Cilion
-- JetBrains GoLand
-- JetBrains IntelliJ IDEA
-- JetBrains PhpStorm
-- JetBrains PyCharm
-- JetBrains Rider
-- JetBrains RubyMine
-- Microsoft Visual Studio
-- Microsoft Visual Studio Code
-- Notepad++
-- RStudio
-- Spyder
-- Sublime Text
-- Unity
-
-Digital Audio Workstations (DAWs)
-- Ableton Line
-- Cubase
-- Reaper
-- Soundly
-
-Graphics & Design
-- Adobe After Effects
-- Adobe Illustrator
-- Adobe Photoshop
-- Adobe Premier Pro
-- Affinity Photo
-- Blender
-- Capture One
-- DaVinci Resolve
-- Figma
-- GIMP
-- Inkscape
-- Microsoft Photos
-
-Media Players
-- AIMP
-- foobar2000
-- Spotify
-- TIDAL
-- VLC Media Player
-
-Miscellaneous
-- AkelPad
-- Files
-- Microsoft File Explorer
-- Microsoft Windows
-- Microsoft Windows Terminal
-- OBS Studio
-- Wavebox
-
-Productivity & Office
-- Adobe Acrobat
-- Evernote
-- Foxit PDF Reader
-- Mendeley Reference Manager
-- Microsoft Excel
-- Microsoft OneNote
-- Microsoft Outlook
-- Microsoft PowerPoint
-- Microsoft Word
-- Mozilla Thunderbird
-- Notion
-- Obsidian
-- Trello
-- Typora
-
-Utilities & Tools
-- 1Password
-- Directory Opus
-- Dynalist
-- FontCreator
-- FreeCommander XE
-- Microsoft Calculator
-- Microsoft StickyNotes
-- Microsoft To Do
-- mRemoteNG
-- MusicBee
-- Snagit
-- TickTick
-- Todoist
-
-Video Games
-- Age of Empires II Definitive Edition
-- Age of Empires IV
-- Age of Mythology: Retold
+- **Browsers & Internet**: Brave, Google Chrome, Microsoft Edge, Mozilla Firefox, Opera, Vivaldi
+- **Communication**: Discord, Microsoft Teams, Signal, Slack, Zoom
+- **Development & Coding**: JetBrains products, Microsoft Visual Studio and Visual Studio Code, Android Studio, Brackets, Eclipse, FileZilla, Fork, GitKraken, Notepad++, Unity and more...
+- **Digital Audio Workstations (DAWs)**: Ableton Line, Cubase, Reaper, Soundly
+- **Graphics & Design**: Adobe After Effects, Illustrator, Photoshop, Premiere Pro, Affinity Photo, Blender, DaVinci Resolve, Figma, Gimp and more...
+- **Media Players**: Spotify, TIDAL, VLC Media Player, foobar2000, AIMP
+- **Miscellaneous**: Microsoft Windows, Windows Terminal and File Explorer, AklePad, OBS Studio, Files, Wavebox
+- **Productivity & Office**: Microsoft Excel, PowerPoint, Word, OneNote and Outlook, Adobe Acrobat, Mozilla Thunderbird, Notion, Obsidian, Evernote, Trello and more...
+- **Utilities & Tools**: 1Password, Todoist, Microsoft To Do, StickyNotes and Calculator, MusicBee, Snagit, TickTick and more...
+- **Video Games**: Age of Empires II Definitive Edition, Age of Empires IV, Age of Mythology: Retold
 
 ## Getting Started
 
