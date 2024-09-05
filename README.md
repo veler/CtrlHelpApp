@@ -141,6 +141,7 @@ Utilities & Tools
 Video Games
 - Age of Empires II Definitive Edition
 - Age of Empires IV
+- Age of Mythology: Retold
 
 ## Getting Started
 

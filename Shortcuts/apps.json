@@ -1057,6 +1057,21 @@
           "applicationIdentifier": "\\\\AoE2DE\\.exe$",
           "titleContains": ""
         }
+      },
+      {
+        "internalName": "AoMRT",
+        "appDisplayName": "Age of Mythology: Retold",
+        "logo16": "ms-appx:///Assets/Shortcuts/Icons/aomrt-16.png",
+        "logo64": "ms-appx:///Assets/Shortcuts/Icons/aomrt-64.png",
+        "searchKeywords": [
+          "Microsoft",
+          "Aom"
+        ],
+        "shortcutsFile": "Video Games/AgeOfMythologyRetold.json",
+        "appDetectionInfo": {
+          "applicationIdentifier": "\\\\AoMRT\\.exe$",
+          "titleContains": ""
+        }
       }
     ]
   }
